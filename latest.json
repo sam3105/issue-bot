@@ -1,34 +1,59 @@
 {
-  "updatedAt": "2026-08-26 00:00",
+  "updatedAt": "2026-08-26 00:56",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "임단협",
-          "headline": "하이닉스 임단협 부결…‘초과이익 배분’ 갈등 고조",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244472?sid=101"
+          "keyword": "8월",
+          "headline": "[지표로 보는 경제]8월 26일",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743296?sid=101"
+        },
+        {
+          "keyword": "쿠팡",
+          "headline": "쿠팡 반발로 공정위 '빈손' 철수…역대 처음",
+          "url": "https://n.news.naver.com/mnews/article/055/0001383393?sid=101"
+        },
+        {
+          "keyword": "역대",
+          "headline": "배달앱 4사 7월 결제액… 역대 최대 3조2700억",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743289?sid=101"
+        },
+        {
+          "keyword": "반발",
+          "headline": "국책은행·금감원·예보까지… 공공기관 지방 이전설에 반발 확산",
+          "url": "https://n.news.naver.com/mnews/article/005/0001868961?sid=101"
+        },
+        {
+          "keyword": "내달",
+          "headline": "용산공원, 내달 공개할 7만3000가구 택지서 빠져",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994930?sid=101"
         },
         {
           "keyword": "AI",
-          "headline": "\"냉면이 징그럽긴 처음\" AI로 만든 한식당 메뉴판 시끌",
-          "url": "https://n.news.naver.com/mnews/article/018/0006357941?sid=101"
+          "headline": "설비 고장, 미세 신호 잡는 AI로 원인까지 찾는다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743315?sid=101"
         },
         {
-          "keyword": "출시",
-          "headline": "일화, ‘천연사이다 제로 망고’ 250ml 캔 출시",
-          "url": "https://n.news.naver.com/mnews/article/144/0001133953?sid=101"
+          "keyword": "무인",
+          "headline": "화물운송용 대형 무인 헬리콥터",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994881?sid=101"
         },
         {
-          "keyword": "MBK",
-          "headline": "고려아연, ‘원아시아 펀드 의혹’ 제기한 MBK·영풍에 민·형사 법적 대응 경고",
-          "url": "https://n.news.naver.com/mnews/article/666/0000120599?sid=101"
+          "keyword": "투자",
+          "headline": "\"시티 프로토콜, 1100만불 투자 유치\"",
+          "url": "https://n.news.naver.com/mnews/article/015/0005324706?sid=101"
         },
         {
-          "keyword": "사상",
-          "headline": "쿠팡 거부에 공정위 현장조사 무산…사상 첫 빈손 철수",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244471?sid=101"
+          "keyword": "우려",
+          "headline": "美 부채 우려에 재부상한 '디베이스먼트 트레이드'…금·비트코인 강세",
+          "url": "https://n.news.naver.com/mnews/article/293/0000089539?sid=101"
+        },
+        {
+          "keyword": "비트코인",
+          "headline": "비트코인 반등, 2개월만에 1억원 넘어",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743308?sid=101"
         }
       ]
     },
@@ -38,28 +63,33 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "극한 호우, AI와 디지털 트윈 미리 예측",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244443?sid=105"
+          "headline": "가볍고 AI 비서 기능까지… 떠오르는 AR 글라스",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994879?sid=105"
         },
         {
-          "keyword": "vs",
-          "headline": "사용후핵연료 “저장 시설 불가피” vs “영구 저장 우려”",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244385?sid=105"
+          "keyword": "공개",
+          "headline": "엔비디아 성능 2배 높인 로봇 ‘두뇌’ 젯슨 오린 나노 2 공개",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994861?sid=105"
         },
         {
-          "keyword": "원장",
-          "headline": "KISA 이사회, 이상중 현 원장 해임 건의",
-          "url": "https://n.news.naver.com/mnews/article/092/0002435034?sid=105"
+          "keyword": "게임",
+          "headline": "게임 투자 반토막… AI 기반 게임 개발에 돈 몰려",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994877?sid=105"
         },
         {
-          "keyword": "확충",
-          "headline": "31개 중앙부처 개인정보 전담인력 54명 확충",
-          "url": "https://n.news.naver.com/mnews/article/092/0002435041?sid=105"
+          "keyword": "투자",
+          "headline": "뮤직테크 스타트업 ‘사운독’, 프라이머로부터 시드 투자 유치",
+          "url": "https://n.news.naver.com/mnews/article/144/0001133952?sid=105"
         },
         {
-          "keyword": "반도체",
-          "headline": "일본·대만, '실리콘 아일랜드' 규슈서 반도체 협력 확대",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270464?sid=105"
+          "keyword": "개발",
+          "headline": "천리안 6호, 2033년 발사 목표로 개발한다",
+          "url": "https://n.news.naver.com/mnews/article/052/0002397838?sid=105"
+        },
+        {
+          "keyword": "로봇",
+          "headline": "경남 제조업에 로봇·AI 결합…제조AX 확산 나선다",
+          "url": "https://n.news.naver.com/mnews/article/018/0006357939?sid=105"
         }
       ]
     },
@@ -68,41 +98,97 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "미스어스코리아",
-          "headline": "2026 미스어스코리아는 박수인",
-          "url": "https://n.news.naver.com/mnews/article/119/0003125333?sid=103"
+          "keyword": "운세",
+          "headline": "[오늘의 운세] 8월 26일",
+          "url": "https://n.news.naver.com/mnews/article/025/0003546755?sid=103"
         },
         {
-          "keyword": "박수인",
-          "headline": "박수인, 한국을 대표하는 아름다움",
-          "url": "https://n.news.naver.com/mnews/article/119/0003125334?sid=103"
+          "keyword": "강원",
+          "headline": "시민기자의 눈으로 본 강원",
+          "url": "https://n.news.naver.com/mnews/article/087/0001213510?sid=103"
         },
         {
-          "keyword": "26일",
-          "headline": "[오늘의 별자리 운세] 8월 26일 수요일",
-          "url": "https://n.news.naver.com/mnews/article/366/0001188282?sid=103"
-        },
-        {
-          "keyword": "찜통더위",
+          "keyword": "최고",
           "headline": "수도권·강원 비…'낮 최고 36도' 찜통더위[오늘날씨]",
           "url": "https://n.news.naver.com/mnews/article/003/0014147917?sid=103"
         },
         {
-          "keyword": "음식",
-          "headline": "[유재덕의 공유주방] [33] 아빠의 ‘요리’, 엄마의 ‘음식’",
-          "url": "https://n.news.naver.com/mnews/article/023/0003994852?sid=103"
+          "keyword": "날씨",
+          "headline": "[오늘의 날씨] 대구 낮 최고 36도…수도권·강원 곳곳 비",
+          "url": "https://n.news.naver.com/mnews/article/629/0000527544?sid=103"
         },
         {
-          "keyword": "날씨",
-          "headline": "[날씨] 수요일 수도권 등 중부 흐리고 비…남부 맑고 찜통더위",
-          "url": "https://n.news.naver.com/mnews/article/422/0000899359?sid=103"
+          "keyword": "위험",
+          "headline": "[하루건강] 당뇨병 걸리면 뇌졸중 위험도 올라간다, 왜?",
+          "url": "https://n.news.naver.com/mnews/article/469/0000950068?sid=103"
+        },
+        {
+          "keyword": "시대",
+          "headline": "대안 공간·신생 공간 넘어 ‘예술학교의 시대’",
+          "url": "https://n.news.naver.com/mnews/article/005/0001868957?sid=103"
+        },
+        {
+          "keyword": "강릉",
+          "headline": "강릉 한송정서 펼쳐진 유쾌한 소동극 '화랑을 기다리며'",
+          "url": "https://n.news.naver.com/mnews/article/654/0000196947?sid=103"
+        },
+        {
+          "keyword": "뇌졸중",
+          "headline": "당뇨병·뇌졸중, ‘눈’ 보면 알 수 있다는데… 어떻게?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000114951?sid=103"
         }
       ]
     },
     {
       "name": "세계",
       "cls": "world",
-      "items": []
+      "items": [
+        {
+          "keyword": "이란",
+          "headline": "“제재 성공은 이란 원유 90% 사는 중국에 달렸다”",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994922?sid=104"
+        },
+        {
+          "keyword": "캐나다",
+          "headline": "캐나다 프랑스어 보호, 美엔 무역장벽이라는데…",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994902?sid=104"
+        },
+        {
+          "keyword": "호르무즈",
+          "headline": "트럼프 \"호르무즈 기뢰 모두 제거...또 설치하는 선박 파괴\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002398172?sid=104"
+        },
+        {
+          "keyword": "US",
+          "headline": "Canda US Trade",
+          "url": "https://n.news.naver.com/mnews/article/077/0007135320?sid=104"
+        },
+        {
+          "keyword": "드론",
+          "headline": "우크라에 혼쭐난 미군… 해사 생도들도 ‘드론 열공’",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994920?sid=104"
+        },
+        {
+          "keyword": "트럼프",
+          "headline": "美 '이란 왕따' 작전에 관건은 中…트럼프-시진핑 회담 변수될까",
+          "url": "https://n.news.naver.com/mnews/article/001/0016269113?sid=104"
+        },
+        {
+          "keyword": "BRITAIN",
+          "headline": "BRITAIN GOLD",
+          "url": "https://n.news.naver.com/mnews/article/091/0010291396?sid=104"
+        },
+        {
+          "keyword": "SOCCER",
+          "headline": "BRITAIN SOCCER",
+          "url": "https://n.news.naver.com/mnews/article/091/0010291392?sid=104"
+        },
+        {
+          "keyword": "연속",
+          "headline": "미국 소비자 신뢰 지수, 고유가 속 두 달 연속 하락",
+          "url": "https://n.news.naver.com/mnews/article/052/0002398173?sid=104"
+        }
+      ]
     },
     {
       "name": "게임",
@@ -119,7 +205,7 @@
           "url": "https://n.news.naver.com/mnews/article/001/0016270201"
         },
         {
-          "keyword": "상반기",
+          "keyword": "6조",
           "headline": "게임 빅 5, 상반기 매출만 6조…해외매출 비중 70% 돌파",
           "url": "https://n.news.naver.com/mnews/article/011/0004655049"
         }
