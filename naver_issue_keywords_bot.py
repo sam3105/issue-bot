@@ -22,6 +22,7 @@ Claude API나 별도 형태소 분석기 없이 순수 파이썬만으로 동작
 - TELEGRAM_CHAT_ID   : 메시지를 보낼 채팅방 ID
 """
 
+import json
 import os
 import re
 import sys
@@ -64,6 +65,15 @@ TRAILING_SUFFIXES = sorted([
 DUPLICATE_SIMILARITY_THRESHOLD = 0.5  # 이 비율 이상 단어가 겹치면 "같은 기사"로 간주
 MIN_COUNT = 2  # 이 횟수 미만은 노이즈일 확률이 높아 top 10 후보에서 제외
 CLUSTER_OVERLAP_THRESHOLD = 0.7  # 이 비율 이상 같은 헤드라인 묶음에서 나오면 한 이슈로 합침
+
+# 텔레그램을 보낼 시각(KST, 24시간제) - 새벽엔 안 보냄
+SEND_HOURS = {6, 8, 10, 12, 14, 16, 18, 20, 22}
+# 이 시각에는 직전 기록을 무시하고 무조건 전체를 다시 보여줌 (4시간마다 리셋)
+RESET_HOURS = {6, 10, 14, 18, 22}
+# 직전 실행과 비교할 때, 이 비율 이상 단어가 겹치면 "같은 뉴스"로 보고 숨김
+CROSS_RUN_OVERLAP_THRESHOLD = 0.5
+
+STATE_FILE = "state.json"
 
 # 기사로 연결되는 링크인지 판별할 때 쓰는 href 패턴
 ARTICLE_HREF_PATTERNS = ("/article/", "article_id=", "aid=")
@@ -230,15 +240,19 @@ def extract_issue_keywords(headlines: list[str]) -> list[dict]:
 # ------------------------------------------------------------------
 # 3. 텔레그램 메시지 포맷 & 전송
 # ------------------------------------------------------------------
-def format_message(results: dict[str, list[dict]]) -> str:
+def format_message(results: dict[str, list[dict]], is_reset: bool) -> str:
     now = datetime.now(KST).strftime("%Y-%m-%d %H:%M")
-    lines = [f"📊 분야별 이슈 키워드 순위 ({now} 기준)"]
+    mode_label = "전체" if is_reset else "새 소식만"
+    lines = [f"📊 분야별 이슈 키워드 순위 ({now} 기준 · {mode_label})"]
 
     for category, keywords in results.items():
         lines.append("")
         lines.append(f"■ {category}")
         if not keywords:
-            lines.append("(헤드라인을 가져오지 못했습니다 - 페이지 구조 확인 필요)")
+            if is_reset:
+                lines.append("(헤드라인을 가져오지 못했습니다 - 페이지 구조 확인 필요)")
+            else:
+                lines.append("(지난 2시간과 겹치는 뉴스뿐이라 새 소식 없음)")
             continue
         for rank, item in enumerate(keywords, start=1):
             lines.append(f"{rank}. {item['word']}")
@@ -258,6 +272,43 @@ def send_telegram_message(text: str) -> None:
 
 
 # ------------------------------------------------------------------
+# 4. 직전 실행 기록(state.json) 관리
+# ------------------------------------------------------------------
+def load_state() -> dict:
+    """직전 실행 때 저장해둔 기록을 읽어온다. 없으면 빈 기록으로 시작."""
+    if not os.path.exists(STATE_FILE):
+        return {}
+    try:
+        with open(STATE_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
+def save_state(state: dict) -> None:
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump(state, f, ensure_ascii=False, indent=2)
+
+
+def is_similar_to_any(headline: str, previous_headlines: list[str]) -> bool:
+    """헤드라인이 이전 기록의 헤드라인들과 많이 겹치면 True (=이미 보여준 뉴스)."""
+    tokens = set(tokenize(headline))
+    if not tokens:
+        return False
+    for prev in previous_headlines:
+        prev_tokens = set(tokenize(prev))
+        if not prev_tokens:
+            continue
+        union = len(tokens | prev_tokens)
+        if union == 0:
+            continue
+        similarity = len(tokens & prev_tokens) / union
+        if similarity >= CROSS_RUN_OVERLAP_THRESHOLD:
+            return True
+    return False
+
+
+# ------------------------------------------------------------------
 # main
 # ------------------------------------------------------------------
 def main():
@@ -273,7 +324,17 @@ def main():
         print(f"환경변수가 설정되지 않았습니다: {', '.join(missing)}", file=sys.stderr)
         sys.exit(1)
 
-    results = {}
+    now = datetime.now(KST)
+    hour = now.hour
+
+    # 안전장치: 예정된 발송 시각이 아니면(예: 수동 실행 등) 조용히 종료
+    if hour not in SEND_HOURS:
+        print(f"현재 KST {hour}시는 발송 시각이 아니라서 건너뜁니다. (발송 시각: {sorted(SEND_HOURS)})")
+        return
+
+    is_reset = hour in RESET_HOURS
+    print(f"KST {hour}시 실행 - {'전체 리셋' if is_reset else '새 소식만 필터링'} 모드")
+
     raw_headlines = {}
     for category, url in CATEGORIES.items():
         try:
@@ -291,12 +352,32 @@ def main():
             headline_appearance[h] += 1
     shared_headlines = {h for h, count in headline_appearance.items() if count > 1}
 
+    state = {} if is_reset else load_state()
+    results = {}
+
     for category, headlines in raw_headlines.items():
         unique_headlines = [h for h in headlines if h not in shared_headlines]
         print(f"[{category}] 공통 위젯 제거 후 {len(unique_headlines)}개 남음")
-        results[category] = extract_issue_keywords(unique_headlines)
+        keywords = extract_issue_keywords(unique_headlines)
 
-    message = format_message(results)
+        if not is_reset:
+            previous = state.get(category, [])
+            before = len(keywords)
+            keywords = [
+                item for item in keywords
+                if not is_similar_to_any(item["headline"], previous)
+            ]
+            print(f"[{category}] 직전 기록과 비교: {before}개 중 {len(keywords)}개가 새 소식")
+
+        results[category] = keywords
+
+        # 이번에 보여준 헤드라인을 기록에 추가(리셋 모드면 새로 시작)
+        shown_headlines = [item["headline"] for item in keywords]
+        state[category] = (state.get(category, []) if not is_reset else []) + shown_headlines
+
+    save_state(state)
+
+    message = format_message(results, is_reset)
     send_telegram_message(message)
     print("텔레그램 전송 완료")
     print(message)
