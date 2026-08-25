@@ -265,8 +265,7 @@ def format_message(results: dict[str, list[dict]], is_reset: bool) -> str:
                 lines.append("(지난 2시간과 겹치는 뉴스뿐이라 새 소식 없음)")
             continue
         for rank, item in enumerate(keywords, start=1):
-            lines.append(f"{rank}. {item['word']}")
-            lines.append(f"   → {item['headline']}")
+            lines.append(f"{rank}. {item['headline']}")
             if item.get("url"):
                 lines.append(f"   {item['url']}")
 
