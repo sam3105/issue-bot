@@ -1,39 +1,14 @@
 {
-  "updatedAt": "2026-08-26 03:02",
+  "updatedAt": "2026-08-26 03:54",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "최대",
-          "headline": "캐나다, 美에 보복관세…700개 품목에 최대 50%",
-          "url": "https://n.news.naver.com/mnews/article/018/0006357946?sid=101"
-        },
-        {
-          "keyword": "보복관세",
-          "headline": "加, 美 제품 200억달러어치에 보복관세 맞불",
-          "url": "https://n.news.naver.com/mnews/article/014/0005566377?sid=101"
-        },
-        {
-          "keyword": "쿠팡",
+          "keyword": "공정위",
           "headline": "쿠팡 반발로 공정위 '빈손' 철수…역대 처음",
           "url": "https://n.news.naver.com/mnews/article/055/0001383393?sid=101"
-        },
-        {
-          "keyword": "8월",
-          "headline": "[지표로 보는 경제]8월 26일",
-          "url": "https://n.news.naver.com/mnews/article/020/0003743296?sid=101"
-        },
-        {
-          "keyword": "역대",
-          "headline": "배달앱 4사 7월 결제액… 역대 최대 3조2700억",
-          "url": "https://n.news.naver.com/mnews/article/020/0003743289?sid=101"
-        },
-        {
-          "keyword": "내달",
-          "headline": "용산공원, 내달 공개할 7만3000가구 택지서 빠져",
-          "url": "https://n.news.naver.com/mnews/article/023/0003994930?sid=101"
         },
         {
           "keyword": "AI",
@@ -41,19 +16,44 @@
           "url": "https://n.news.naver.com/mnews/article/020/0003743315?sid=101"
         },
         {
-          "keyword": "무인",
-          "headline": "화물운송용 대형 무인 헬리콥터",
-          "url": "https://n.news.naver.com/mnews/article/023/0003994881?sid=101"
+          "keyword": "캐나다",
+          "headline": "캐나다, 美에 보복관세…700개 품목에 최대 50%",
+          "url": "https://n.news.naver.com/mnews/article/018/0006357946?sid=101"
         },
         {
-          "keyword": "투자",
-          "headline": "\"시티 프로토콜, 1100만불 투자 유치\"",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324706?sid=101"
+          "keyword": "제품",
+          "headline": "加, 美 제품 200억달러어치에 보복관세 맞불",
+          "url": "https://n.news.naver.com/mnews/article/014/0005566377?sid=101"
         },
         {
-          "keyword": "달러",
-          "headline": "‘스마트 링’ 오우라, 내달 美 상장… “30억 달러 조달”",
-          "url": "https://n.news.naver.com/mnews/article/020/0003743305?sid=101"
+          "keyword": "우려",
+          "headline": "美 부채 우려에 재부상한 '디베이스먼트 트레이드'…금·비트코인 강세",
+          "url": "https://n.news.naver.com/mnews/article/293/0000089539?sid=101"
+        },
+        {
+          "keyword": "보복관세",
+          "headline": "캐나다, 200억 달러 규모 미국산 제품에 최대 50% 보복관세",
+          "url": "https://n.news.naver.com/mnews/article/422/0000899366?sid=101"
+        },
+        {
+          "keyword": "최대",
+          "headline": "배달앱 4사, 7월 결제액 3조2787억 ‘역대 최대’…주문 한 번당 2.3만 원 썼다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743148?sid=101"
+        },
+        {
+          "keyword": "다시",
+          "headline": "‘다시 만난 과거’에 환호… ‘복각 마케팅’ 열풍",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743311?sid=101"
+        },
+        {
+          "keyword": "20대",
+          "headline": "주담대 감소속 20대 역주행, 40대 넘어섰다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743309?sid=101"
+        },
+        {
+          "keyword": "주가",
+          "headline": "주가 하락 등에 소비자심리지수, 넉 달 만에 하락",
+          "url": "https://n.news.naver.com/mnews/article/052/0002397693?sid=101"
         }
       ]
     },
@@ -83,19 +83,29 @@
       "cls": "life",
       "items": [
         {
+          "keyword": "날씨",
+          "headline": "[날씨] 오늘 중북부 비…무더위 계속",
+          "url": "https://n.news.naver.com/mnews/article/055/0001383396?sid=103"
+        },
+        {
           "keyword": "강원",
           "headline": "시민기자의 눈으로 본 강원",
           "url": "https://n.news.naver.com/mnews/article/087/0001213510?sid=103"
         },
         {
-          "keyword": "운세",
-          "headline": "[오늘의 운세] 8월 26일",
-          "url": "https://n.news.naver.com/mnews/article/025/0003546755?sid=103"
+          "keyword": "8월",
+          "headline": "[김동완의 오늘의 운세] 2026년 8월 26일",
+          "url": "https://n.news.naver.com/mnews/article/081/0003673462?sid=103"
         },
         {
-          "keyword": "날씨",
-          "headline": "[날씨] 오늘 중북부 비…무더위 계속",
-          "url": "https://n.news.naver.com/mnews/article/055/0001383396?sid=103"
+          "keyword": "시대",
+          "headline": "[오늘의 설교] 위기의 시대를 사는 자세",
+          "url": "https://n.news.naver.com/mnews/article/005/0001869008?sid=103"
+        },
+        {
+          "keyword": "운세",
+          "headline": "[오늘의 운세]2026년 8월26일",
+          "url": "https://n.news.naver.com/mnews/article/087/0001213516?sid=103"
         },
         {
           "keyword": "계속",
@@ -103,34 +113,24 @@
           "url": "https://n.news.naver.com/mnews/article/214/0001520072?sid=103"
         },
         {
-          "keyword": "감량",
-          "headline": "“피자 한 판 먹어도 살 빠진다” 5일간 실험… 체중 2kg 감량, 이유는?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000114953?sid=103"
-        },
-        {
-          "keyword": "아침",
-          "headline": "“48세 맞아?” 채정안, 아침 ‘이렇게’ 먹는다…48kg 유지 비결?",
-          "url": "https://n.news.naver.com/mnews/article/296/0000104058?sid=103"
-        },
-        {
-          "keyword": "어떻게",
-          "headline": "당뇨병·뇌졸중, ‘눈’ 보면 알 수 있다는데… 어떻게?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000114951?sid=103"
-        },
-        {
-          "keyword": "몸에",
-          "headline": "“몸에 콜레스테롤 많다는 신호”… ‘아킬레스건’을 보라던데, 왜?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000114954?sid=103"
-        },
-        {
-          "keyword": "감각",
-          "headline": "머물수록 깊어지는 시선, 감각의 자리서 바라본 예술세계",
-          "url": "https://n.news.naver.com/mnews/article/654/0000196946?sid=103"
-        },
-        {
-          "keyword": "대구",
+          "keyword": "최고",
           "headline": "[오늘의 날씨] 대구 낮 최고 36도…수도권·강원 곳곳 비",
           "url": "https://n.news.naver.com/mnews/article/629/0000527544?sid=103"
+        },
+        {
+          "keyword": "은혜",
+          "headline": "[겨자씨] 홀로 마주함의 은혜",
+          "url": "https://n.news.naver.com/mnews/article/005/0001869004?sid=103"
+        },
+        {
+          "keyword": "열매",
+          "headline": "역사의 비극 그리던 화가, 무청과 열매 한 알을 응시하다",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994888?sid=103"
+        },
+        {
+          "keyword": "교회",
+          "headline": "“교회로 물·돌 몰려 주민 피해 줄어 감사”",
+          "url": "https://n.news.naver.com/mnews/article/005/0001868997?sid=103"
         }
       ]
     },
@@ -140,23 +140,38 @@
       "items": [
         {
           "keyword": "트럼프",
-          "headline": "트럼프, 망명 신청자 최대 20만명 비자 취소",
-          "url": "https://n.news.naver.com/mnews/article/277/0005807244?sid=104"
+          "headline": "트럼프 “연내 김정은 만날 것”…예측시장 성사 확률은 35%",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994931?sid=104"
         },
         {
           "keyword": "이란",
-          "headline": "이란, 트럼프 막내아들 암살위협 방송…美경호국 \"알고 있다\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270549?sid=104"
-        },
-        {
-          "keyword": "남성",
-          "headline": "여성 유료, 남성은 무료…오스트리아 화장실 차별금지 소송",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244506?sid=104"
+          "headline": "이란 \"미 경제전쟁은 전 세계 주권에 대한 공격\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002398175?sid=104"
         },
         {
           "keyword": "US",
-          "headline": "US Open Tennis",
-          "url": "https://n.news.naver.com/mnews/article/077/0007135416?sid=104"
+          "headline": "France Iran US",
+          "url": "https://n.news.naver.com/mnews/article/077/0007135478?sid=104"
+        },
+        {
+          "keyword": "국방",
+          "headline": "이스라엘 국방 \"시리아 남부 완충지대서 철군 안해\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014147947?sid=104"
+        },
+        {
+          "keyword": "러시아",
+          "headline": "\"미 CIA 국장, 우크라전 교착 속 러시아 방문\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002398176?sid=104"
+        },
+        {
+          "keyword": "해제",
+          "headline": "시리아, 미 테러지원국 지정 해제에 \"오명 벗어\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002397995?sid=104"
+        },
+        {
+          "keyword": "Syria",
+          "headline": "Syria Moulid",
+          "url": "https://n.news.naver.com/mnews/article/077/0007135471?sid=104"
         }
       ]
     },
@@ -165,7 +180,7 @@
       "cls": "game",
       "items": [
         {
-          "keyword": "게임스컴",
+          "keyword": "붉은사막",
           "headline": "K-게임, 게임스컴 출격…'붉은사막' 수상 후보",
           "url": "https://n.news.naver.com/mnews/article/009/0005725711"
         },
@@ -175,7 +190,7 @@
           "url": "https://n.news.naver.com/mnews/article/001/0016270201"
         },
         {
-          "keyword": "해외매출",
+          "keyword": "6조",
           "headline": "게임 빅 5, 상반기 매출만 6조…해외매출 비중 70% 돌파",
           "url": "https://n.news.naver.com/mnews/article/011/0004655049"
         }
