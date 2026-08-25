@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-08-25 18:57",
+  "updatedAt": "2026-08-25 19:24",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "정부",
-          "headline": "정부 지원에도 '자금난'…홈플러스 소상공인 \"핀셋지원\" 호소",
-          "url": "https://n.news.naver.com/mnews/article/374/0000529322?sid=101"
-        },
-        {
-          "keyword": "이전",
-          "headline": "350개 공공기관 이전, 10월로 연기",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324655?sid=101"
-        },
-        {
-          "keyword": "현장조사",
-          "headline": "쿠팡 반발에 공정위 현장조사 무산…법정다툼 수순",
+          "keyword": "쿠팡",
+          "headline": "쿠팡 반발에 공정위 현장조사 무산… 법정다툼 수순",
           "url": "https://n.news.naver.com/mnews/article/469/0000950050?sid=101"
         },
         {
-          "keyword": "반발",
-          "headline": "농협 노조 \"공공기관 아니다\"… 2차 이전 앞두고 반발 격화",
-          "url": "https://n.news.naver.com/mnews/article/014/0005566330?sid=101"
+          "keyword": "합의",
+          "headline": "현대차, '성과급 400%+1270만원' 합의",
+          "url": "https://n.news.naver.com/mnews/article/015/0005324666?sid=101"
         },
         {
-          "keyword": "노조",
+          "keyword": "반발",
           "headline": "농협·서금원·신복위 노조, 이전에 반발…“피해는 취약계층 몫”",
           "url": "https://n.news.naver.com/mnews/article/056/0012244160?sid=101"
         },
         {
+          "keyword": "정부",
+          "headline": "정부 “홈플러스 어떻게 되든 지원”…융자 조건 ‘파격 완화’ 검토",
+          "url": "https://n.news.naver.com/mnews/article/119/0003125311?sid=101"
+        },
+        {
+          "keyword": "이전",
+          "headline": "무안 국가산단 조성 ‘확정’…군 공항 이전 속도 내나?",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244172?sid=101"
+        },
+        {
           "keyword": "지원",
-          "headline": "SH 상생협력기금 투입… 협력사 10곳 ESG 지원",
-          "url": "https://n.news.naver.com/mnews/article/014/0005566329?sid=101"
+          "headline": "반도체 산단 속도…기반 시설·재정 지원 11조 예타 면제",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244168?sid=101"
         },
         {
-          "keyword": "현장",
-          "headline": "MZ직원 현장 의견 듣는다…한수원 '주니어보드' 신설",
-          "url": "https://n.news.naver.com/mnews/article/014/0005566333?sid=101"
+          "keyword": "규제",
+          "headline": "“수백억 대 주택 회삿돈으로”…다주택 규제까지 피했다",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244185?sid=101"
         },
         {
-          "keyword": "AI",
-          "headline": "야간·주말에도 문 여는 학교 체육관, AI·IoT로 안전 챙긴다",
-          "url": "https://n.news.naver.com/mnews/article/011/0004655108?sid=101"
+          "keyword": "지방이전",
+          "headline": "[기자수첩] 금융 공백 낳는 지방이전",
+          "url": "https://n.news.naver.com/mnews/article/014/0005566348?sid=101"
         },
         {
-          "keyword": "뉴홈",
-          "headline": "뉴홈 청약자 요구 수용...연 고정금리 1.9∼3.0%",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398075?sid=101"
+          "keyword": "공공기관",
+          "headline": "2차 공공기관 이전 10~11월 윤곽…“공론화 거칠 것”",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244184?sid=101"
         },
         {
-          "keyword": "SK이노베이션",
-          "headline": "SK이노베이션, SKIET 흡수합병 결정…재무 리스크 해소",
-          "url": "https://n.news.naver.com/mnews/article/029/0003044270?sid=101"
+          "keyword": "조건",
+          "headline": "엔비디아, 실적 기대 높은데 주가 기대 낮아…저평가 탈출 조건은?[오미주]",
+          "url": "https://n.news.naver.com/mnews/article/008/0005404616?sid=101"
         }
       ]
     },
@@ -63,28 +63,18 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "KAIST \"내년부터 전과목 AI 중심 재설계\"",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324597?sid=105"
+          "headline": "AI가 부모님 말벗 된다...청연케어 안부콜 출시",
+          "url": "https://n.news.naver.com/mnews/article/092/0002435026?sid=105"
         },
         {
-          "keyword": "KT",
-          "headline": "KT, 대졸 신입사원 채용 실시…\"AI 활용 역량 살핀다\"",
-          "url": "https://n.news.naver.com/mnews/article/421/0009130623?sid=105"
-        },
-        {
-          "keyword": "합류",
-          "headline": "카카오AI 이사회에 前 과기장관 등 합류",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324591?sid=105"
-        },
-        {
-          "keyword": "승인",
+          "keyword": "발사",
           "headline": "우주청, 한국형발사체 누리호 5차 발사 '승인'",
           "url": "https://n.news.naver.com/mnews/article/658/0000153407?sid=105"
         },
         {
-          "keyword": "SK하이닉스",
-          "headline": "SK하이닉스 노사 임단협, 다음 수순은…\"후속 일정부터 노사 협의\"",
-          "url": "https://n.news.naver.com/mnews/article/031/0001052329?sid=105"
+          "keyword": "KT",
+          "headline": "KT, 대졸 신입사원 채용…AI 활용 역량도 검증",
+          "url": "https://n.news.naver.com/mnews/article/029/0003044283?sid=105"
         },
         {
           "keyword": "반도체",
@@ -92,24 +82,34 @@
           "url": "https://n.news.naver.com/mnews/article/001/0016270301?sid=105"
         },
         {
-          "keyword": "갤럭시",
-          "headline": "오우라 링 국내 상륙…삼성 갤럭시 링과 맞대결",
-          "url": "https://n.news.naver.com/mnews/article/422/0000899254?sid=105"
+          "keyword": "장관",
+          "headline": "전 과기 장관에 국세청장까지…카카오AI 이사회 합류",
+          "url": "https://n.news.naver.com/mnews/article/008/0005404607?sid=105"
         },
         {
-          "keyword": "무죄",
-          "headline": "구현모 전 KT 대표, 하청업체 계열사 부당지시 1심 무죄",
-          "url": "https://n.news.naver.com/mnews/article/030/0003460322?sid=105"
+          "keyword": "공급",
+          "headline": "디에스앤지, 네이버클라우드에 엔비디아 B300 GPU서버 389대 공급 계약",
+          "url": "https://n.news.naver.com/mnews/article/092/0002435030?sid=105"
         },
         {
-          "keyword": "뽑는다",
-          "headline": "KT, 신입 채용 두 배 확대…문과생 포함 140명 뽑는다",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324594?sid=105"
+          "keyword": "정부",
+          "headline": "누리호 5차 발사 정부 승인…역대 최다 위성 15기 싣는다",
+          "url": "https://n.news.naver.com/mnews/article/119/0003125315?sid=105"
         },
         {
-          "keyword": "후속",
-          "headline": "전남광주시 \"호남 반도체 예타 면제 환영…후속 절차 신속 추진\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270323?sid=105"
+          "keyword": "풀스택",
+          "headline": "KT, '모두의 AI' 출사표…국산 AI 풀스택으로 승부",
+          "url": "https://n.news.naver.com/mnews/article/648/0000050145?sid=105"
+        },
+        {
+          "keyword": "피지컬AI",
+          "headline": "피지컬AI 1강 위해 \"앞으로 5년이 중요…풀스택 갖춰야\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009132203?sid=105"
+        },
+        {
+          "keyword": "된다",
+          "headline": "[기획] 일론 머스크 우주 AI데이터센터 구상, 내년 현실이 된다",
+          "url": "https://n.news.naver.com/mnews/article/029/0003044277?sid=105"
         }
       ]
     },
@@ -118,9 +118,34 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "아름다운",
-          "headline": "박정은 '아름다운 런웨이'",
-          "url": "https://n.news.naver.com/mnews/article/119/0003125292?sid=103"
+          "keyword": "하정우",
+          "headline": "하정우 전 수석 \"AI 시대 출판산업, '지식 플랫폼'돼야\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270396?sid=103"
+        },
+        {
+          "keyword": "여행",
+          "headline": "\"즉흥 맞아?\"…전현무 여행 '조작' 논란에 입 연 제작진",
+          "url": "https://n.news.naver.com/mnews/article/215/0001263593?sid=103"
+        },
+        {
+          "keyword": "개최",
+          "headline": "사비나 미술관, 강운 개인전 ‘색으로 태어나다’ 개최",
+          "url": "https://n.news.naver.com/mnews/article/138/0002238948?sid=103"
+        },
+        {
+          "keyword": "개인전",
+          "headline": "서교동 '윤형근의 집' 개관 기념 개인전…주요 작품 30점·아카이브 한자리",
+          "url": "https://n.news.naver.com/mnews/article/421/0009132142?sid=103"
+        },
+        {
+          "keyword": "수도권",
+          "headline": "수요일 수도권·강원 낮까지 비…최고 36도 무더위 계속",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270221?sid=103"
+        },
+        {
+          "keyword": "사비",
+          "headline": "사비 턴 지드래곤, 국가유공자 후손 콘서트 초청",
+          "url": "https://n.news.naver.com/mnews/article/215/0001263591?sid=103"
         },
         {
           "keyword": "미모",
@@ -128,44 +153,19 @@
           "url": "https://n.news.naver.com/mnews/article/119/0003125302?sid=103"
         },
         {
-          "keyword": "하정우",
-          "headline": "하정우 \"AI 시대, 출판사는 지식 플랫폼…IP 확장 역할도 해야\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014147700?sid=103"
+          "keyword": "아름다운",
+          "headline": "정은빈, 아름다운 미소 지으며",
+          "url": "https://n.news.naver.com/mnews/article/119/0003125297?sid=103"
         },
         {
-          "keyword": "AI",
-          "headline": "하정우 전 수석 \"AI 시대…출판, 대체불가능한 지식 생태계 주도해야 생존\"",
-          "url": "https://n.news.naver.com/mnews/article/421/0009132164?sid=103"
-        },
-        {
-          "keyword": "날씨",
-          "headline": "[26일의 날씨] 늦더위 기세등등… 중부 소나기",
-          "url": "https://n.news.naver.com/mnews/article/022/0004153601?sid=103"
-        },
-        {
-          "keyword": "손수빈",
-          "headline": "손수빈 '세계로 나아갑니다'",
-          "url": "https://n.news.naver.com/mnews/article/119/0003125284?sid=103"
+          "keyword": "계속",
+          "headline": "대구 달성 옥포 36.4도 찜통더위…폭염·열대야 계속",
+          "url": "https://n.news.naver.com/mnews/article/003/0014147679?sid=103"
         },
         {
           "keyword": "10월",
           "headline": "'이상한 변호사 우영우' 일본서 리메이크...10월 방송",
           "url": "https://n.news.naver.com/mnews/article/052/0002398069?sid=103"
-        },
-        {
-          "keyword": "즉흥",
-          "headline": "\"즉흥 맞아?\"…전현무 여행 '조작' 논란에 입 연 제작진",
-          "url": "https://n.news.naver.com/mnews/article/215/0001263593?sid=103"
-        },
-        {
-          "keyword": "찜통더위",
-          "headline": "[날씨] 8월 하순에도 찜통더위…내일 중부 곳곳 비",
-          "url": "https://n.news.naver.com/mnews/article/422/0000899286?sid=103"
-        },
-        {
-          "keyword": "폭염",
-          "headline": "대구 달성 옥포 36.4도 찜통더위…폭염·열대야 계속",
-          "url": "https://n.news.naver.com/mnews/article/003/0014147679?sid=103"
         }
       ]
     },
@@ -174,54 +174,14 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "트럼프",
-          "headline": "캐나다 또 때린 트럼프 \"車·철강에 50% 관세\"",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324661?sid=104"
-        },
-        {
-          "keyword": "젤렌스키",
-          "headline": "젤렌스키, 日 다카이치 총리에 \"우크라 지원 메시지 감사\"",
-          "url": "https://n.news.naver.com/mnews/article/018/0006357893?sid=104"
-        },
-        {
-          "keyword": "이란",
-          "headline": "美 '이란 경제적 왕따 작전' 돌입…돈줄 쥔 中이 복병",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324640?sid=104"
-        },
-        {
-          "keyword": "기업",
-          "headline": "中 AI 기업, 동남아 데이터센터 장악",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324659?sid=104"
+          "keyword": "제재",
+          "headline": "[포토] 美 제재 비웃는 테헤란 광고판",
+          "url": "https://n.news.naver.com/mnews/article/005/0001868939?sid=104"
         },
         {
           "keyword": "우크라",
-          "headline": "[포토] 우크라이나 파격 열병식…병사는 없고 드론·로봇만",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324631?sid=104"
-        },
-        {
-          "keyword": "이슈클릭",
-          "headline": "[이슈클릭] 그네형 놀이기구 타다 응급실…무슨 일?",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244152?sid=104"
-        },
-        {
-          "keyword": "SPAIN",
-          "headline": "SPAIN SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010291067?sid=104"
-        },
-        {
-          "keyword": "나선",
-          "headline": "조선산업 부활 나선 美…英과 핵추진 상선 개발",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324664?sid=104"
-        },
-        {
-          "keyword": "중국",
-          "headline": "중국, '발해 소재' 숏폼드라마 제작…\"중화민족의 중요 부분\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270332?sid=104"
-        },
-        {
-          "keyword": "데이터센터",
-          "headline": "\"학교·주택·농장 근처 안돼\"…데이터센터 호주도 '뜨거운 감자'",
-          "url": "https://n.news.naver.com/mnews/article/008/0005404608?sid=104"
+          "headline": "병사 대신 드론 등판…우크라이나 군사 퍼레이드",
+          "url": "https://n.news.naver.com/mnews/article/449/0000358148?sid=104"
         }
       ]
     },
@@ -230,7 +190,7 @@
       "cls": "game",
       "items": [
         {
-          "keyword": "국가대표",
+          "keyword": "e스포츠",
           "headline": "e스포츠 국가대표 국민의례",
           "url": "https://n.news.naver.com/mnews/article/001/0016270201"
         },
@@ -240,7 +200,7 @@
           "url": "https://n.news.naver.com/mnews/article/011/0004655049"
         },
         {
-          "keyword": "게임스컴",
+          "keyword": "붉은사막",
           "headline": "K-게임, 게임스컴 출격…'붉은사막' 수상 후보",
           "url": "https://n.news.naver.com/mnews/article/009/0005725711"
         }
