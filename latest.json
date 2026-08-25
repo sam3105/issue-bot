@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26 02:42",
+  "updatedAt": "2026-08-26 03:02",
   "categories": [
     {
       "name": "경제",
@@ -16,14 +16,9 @@
           "url": "https://n.news.naver.com/mnews/article/014/0005566377?sid=101"
         },
         {
-          "keyword": "공정위",
+          "keyword": "쿠팡",
           "headline": "쿠팡 반발로 공정위 '빈손' 철수…역대 처음",
           "url": "https://n.news.naver.com/mnews/article/055/0001383393?sid=101"
-        },
-        {
-          "keyword": "달러",
-          "headline": "‘스마트 링’ 오우라, 내달 美 상장… “30억 달러 조달”",
-          "url": "https://n.news.naver.com/mnews/article/020/0003743305?sid=101"
         },
         {
           "keyword": "8월",
@@ -32,8 +27,8 @@
         },
         {
           "keyword": "역대",
-          "headline": "\"7월 배달 플랫폼 4사 결제액 3조2천800억원…역대 최대\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016268561?sid=101"
+          "headline": "배달앱 4사 7월 결제액… 역대 최대 3조2700억",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743289?sid=101"
         },
         {
           "keyword": "내달",
@@ -54,6 +49,11 @@
           "keyword": "투자",
           "headline": "\"시티 프로토콜, 1100만불 투자 유치\"",
           "url": "https://n.news.naver.com/mnews/article/015/0005324706?sid=101"
+        },
+        {
+          "keyword": "달러",
+          "headline": "‘스마트 링’ 오우라, 내달 美 상장… “30억 달러 조달”",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743305?sid=101"
         }
       ]
     },
@@ -67,7 +67,7 @@
           "url": "https://n.news.naver.com/mnews/article/023/0003994879?sid=105"
         },
         {
-          "keyword": "공개",
+          "keyword": "엔비디아",
           "headline": "엔비디아 성능 2배 높인 로봇 ‘두뇌’ 젯슨 오린 나노 2 공개",
           "url": "https://n.news.naver.com/mnews/article/023/0003994861?sid=105"
         },
@@ -103,6 +103,16 @@
           "url": "https://n.news.naver.com/mnews/article/214/0001520072?sid=103"
         },
         {
+          "keyword": "감량",
+          "headline": "“피자 한 판 먹어도 살 빠진다” 5일간 실험… 체중 2kg 감량, 이유는?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000114953?sid=103"
+        },
+        {
+          "keyword": "아침",
+          "headline": "“48세 맞아?” 채정안, 아침 ‘이렇게’ 먹는다…48kg 유지 비결?",
+          "url": "https://n.news.naver.com/mnews/article/296/0000104058?sid=103"
+        },
+        {
           "keyword": "어떻게",
           "headline": "당뇨병·뇌졸중, ‘눈’ 보면 알 수 있다는데… 어떻게?",
           "url": "https://n.news.naver.com/mnews/article/346/0000114951?sid=103"
@@ -118,19 +128,9 @@
           "url": "https://n.news.naver.com/mnews/article/654/0000196946?sid=103"
         },
         {
-          "keyword": "위험",
-          "headline": "[하루건강] 당뇨병 걸리면 뇌졸중 위험도 올라간다, 왜?",
-          "url": "https://n.news.naver.com/mnews/article/469/0000950068?sid=103"
-        },
-        {
-          "keyword": "돌아온",
-          "headline": "돌아온 이창동 “노동 소멸의 시대, 삶 지탱하는 건 사랑”",
-          "url": "https://n.news.naver.com/mnews/article/025/0003546727?sid=103"
-        },
-        {
-          "keyword": "시대",
-          "headline": "대안 공간·신생 공간 넘어 ‘예술학교의 시대’",
-          "url": "https://n.news.naver.com/mnews/article/005/0001868957?sid=103"
+          "keyword": "대구",
+          "headline": "[오늘의 날씨] 대구 낮 최고 36도…수도권·강원 곳곳 비",
+          "url": "https://n.news.naver.com/mnews/article/629/0000527544?sid=103"
         }
       ]
     },
@@ -139,19 +139,24 @@
       "cls": "world",
       "items": [
         {
+          "keyword": "트럼프",
+          "headline": "트럼프, 망명 신청자 최대 20만명 비자 취소",
+          "url": "https://n.news.naver.com/mnews/article/277/0005807244?sid=104"
+        },
+        {
           "keyword": "이란",
-          "headline": "이란 대통령 “미국, 이란 대할 때 어조·접근법 바꿔야”",
-          "url": "https://n.news.naver.com/mnews/article/056/0012243731?sid=104"
+          "headline": "이란, 트럼프 막내아들 암살위협 방송…美경호국 \"알고 있다\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270549?sid=104"
+        },
+        {
+          "keyword": "남성",
+          "headline": "여성 유료, 남성은 무료…오스트리아 화장실 차별금지 소송",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244506?sid=104"
         },
         {
           "keyword": "US",
           "headline": "US Open Tennis",
           "url": "https://n.news.naver.com/mnews/article/077/0007135416?sid=104"
-        },
-        {
-          "keyword": "대통령",
-          "headline": "‘대통령과 갈등설’ 탄자니아 부통령 사임",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244504?sid=104"
         }
       ]
     },
@@ -160,7 +165,7 @@
       "cls": "game",
       "items": [
         {
-          "keyword": "붉은사막",
+          "keyword": "게임스컴",
           "headline": "K-게임, 게임스컴 출격…'붉은사막' 수상 후보",
           "url": "https://n.news.naver.com/mnews/article/009/0005725711"
         },
@@ -170,7 +175,7 @@
           "url": "https://n.news.naver.com/mnews/article/001/0016270201"
         },
         {
-          "keyword": "6조",
+          "keyword": "해외매출",
           "headline": "게임 빅 5, 상반기 매출만 6조…해외매출 비중 70% 돌파",
           "url": "https://n.news.naver.com/mnews/article/011/0004655049"
         }
