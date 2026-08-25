@@ -31,10 +31,10 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python naver_issue_keywords_bot.py
 
-      - name: Save state.json back to repo
+      - name: Save state.json & latest.json back to repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add state.json
-          git diff --staged --quiet || git commit -m "update state.json"
+          git add state.json latest.json
+          git diff --staged --quiet || git commit -m "update latest results"
           git push
