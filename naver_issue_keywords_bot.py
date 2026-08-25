@@ -241,7 +241,7 @@ def format_message(results: dict[str, list[dict]]) -> str:
             lines.append("(헤드라인을 가져오지 못했습니다 - 페이지 구조 확인 필요)")
             continue
         for rank, item in enumerate(keywords, start=1):
-            lines.append(f"{rank}. {item['word']} ({item['count']}회 언급)")
+            lines.append(f"{rank}. {item['word']}")
             lines.append(f"   → {item['headline']}")
 
     return "\n".join(lines)
