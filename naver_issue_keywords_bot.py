@@ -43,7 +43,6 @@ HEADERS = {
 }
 KST = timezone(timedelta(hours=9))
 TOP_N = 10
-CONTEXT_WORDS = 2  # 키워드마다 연관어를 몇 개까지 붙일지
 
 # 분야별 뉴스 목록 페이지 (실제로 sid1 값에 따라 분야가 필터링됨)
 CATEGORIES = {
@@ -64,6 +63,7 @@ TRAILING_SUFFIXES = sorted([
 
 DUPLICATE_SIMILARITY_THRESHOLD = 0.5  # 이 비율 이상 단어가 겹치면 "같은 기사"로 간주
 MIN_COUNT = 2  # 이 횟수 미만은 노이즈일 확률이 높아 top 10 후보에서 제외
+CLUSTER_OVERLAP_THRESHOLD = 0.7  # 이 비율 이상 같은 헤드라인 묶음에서 나오면 한 이슈로 합침
 
 # 기사로 연결되는 링크인지 판별할 때 쓰는 href 패턴
 ARTICLE_HREF_PATTERNS = ("/article/", "article_id=", "aid=")
@@ -173,37 +173,49 @@ def dedupe_similar_headlines(headline_tokens: list[list[str]]) -> list[list[str]
 
 def extract_issue_keywords(headlines: list[str]) -> list[dict]:
     """
-    헤드라인들을 분석해 top N 키워드를 뽑고, 각 키워드마다
-    같이 자주 등장한 연관어를 붙여서 반환한다.
+    헤드라인들을 분석해 이슈 top N을 뽑는다. 같은 기사/같은 이슈에서 나온
+    단어들(예: KT, 채용, 대졸, 신입)은 따로 세지 않고 한 이슈로 묶어서
+    "KT 채용 대졸 (7회 언급)" 처럼 한 줄로 보여준다.
     """
     all_tokens = [tokenize(h) for h in headlines]
     headline_tokens = dedupe_similar_headlines(all_tokens)
 
-    total_counter = Counter()
-    for tokens in headline_tokens:
-        total_counter.update(tokens)
+    # 단어 -> 그 단어가 등장한 헤드라인 인덱스 집합
+    word_headline_idx: dict[str, set[int]] = {}
+    for idx, tokens in enumerate(headline_tokens):
+        for t in set(tokens):
+            word_headline_idx.setdefault(t, set()).add(idx)
 
-    top_keywords = [
-        (word, count)
-        for word, count in total_counter.most_common(TOP_N * 3)
-        if count >= MIN_COUNT
-    ][:TOP_N]
+    word_counts = Counter({w: len(idxs) for w, idxs in word_headline_idx.items()})
+    candidates = [w for w, c in word_counts.most_common(TOP_N * 5) if c >= MIN_COUNT]
+
+    clusters: list[dict] = []  # [{"words": [...], "idxs": set(...)}]
+    for word in candidates:
+        idxs = word_headline_idx[word]
+        target_cluster = None
+        for cluster in clusters:
+            smaller = min(len(idxs), len(cluster["idxs"]))
+            if smaller == 0:
+                continue
+            overlap = len(idxs & cluster["idxs"]) / smaller
+            if overlap >= CLUSTER_OVERLAP_THRESHOLD:
+                target_cluster = cluster
+                break
+        if target_cluster is not None:
+            target_cluster["words"].append(word)
+            target_cluster["idxs"] |= idxs
+        else:
+            clusters.append({"words": [word], "idxs": set(idxs)})
+
+    clusters.sort(key=lambda c: len(c["idxs"]), reverse=True)
 
     results = []
-    for word, count in top_keywords:
-        context_counter = Counter()
-        for tokens in headline_tokens:
-            if word not in tokens:
-                continue
-            for t in tokens:
-                if t != word:
-                    context_counter[t] += 1
-
-        context_words = [w for w, _ in context_counter.most_common(CONTEXT_WORDS)]
+    for cluster in clusters[:TOP_N]:
+        # 대표 단어는 최대 4개까지만 (너무 길어지지 않게)
+        display_words = cluster["words"][:4]
         results.append({
-            "word": word,
-            "count": count,
-            "context": context_words,
+            "word": " ".join(display_words),
+            "count": len(cluster["idxs"]),
         })
 
     return results
@@ -223,10 +235,7 @@ def format_message(results: dict[str, list[dict]]) -> str:
             lines.append("(헤드라인을 가져오지 못했습니다 - 페이지 구조 확인 필요)")
             continue
         for rank, item in enumerate(keywords, start=1):
-            line = f"{rank}. {item['word']} ({item['count']}회 언급)"
-            if item["context"]:
-                line += f" — {', '.join(item['context'])}"
-            lines.append(line)
+            lines.append(f"{rank}. {item['word']} ({item['count']}회 언급)")
 
     return "\n".join(lines)
 
