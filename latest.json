@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-08-25 22:24",
+  "updatedAt": "2026-08-25 23:10",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
+          "keyword": "6년",
+          "headline": "기아, 6년 연속 임단협 잠정합의..28일 조합원 찬반투표",
+          "url": "https://n.news.naver.com/mnews/article/014/0005566371?sid=101"
+        },
+        {
+          "keyword": "타결",
+          "headline": "부산 시내버스 임금 협상 타결…시급 5% 인상",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244455?sid=101"
+        },
+        {
+          "keyword": "세무조사",
+          "headline": "250억 한남동 주택 사주일가 사적 사용…소노그룹 세무조사",
+          "url": "https://n.news.naver.com/mnews/article/018/0006357929?sid=101"
+        },
+        {
           "keyword": "지원",
           "headline": "지역필수의료 회계 신설·지방국립대 등록금 지원",
           "url": "https://n.news.naver.com/mnews/article/056/0012244402?sid=101"
         },
         {
-          "keyword": "미친",
-          "headline": "‘한국 증시, 세계에서 가장 미친 주식시장’…외신에 또 반박한 금융위",
-          "url": "https://n.news.naver.com/mnews/article/022/0004153663?sid=101"
+          "keyword": "앞두고",
+          "headline": "기아 노사, 파업 하루 앞두고 잠정 합의…6년 연속 무분규 타결",
+          "url": "https://n.news.naver.com/mnews/article/422/0000899346?sid=101"
         },
         {
-          "keyword": "기아",
-          "headline": "기아, 6년 연속 임단협 잠정합의..28일 조합원 찬반투표",
-          "url": "https://n.news.naver.com/mnews/article/014/0005566371?sid=101"
+          "keyword": "이런",
+          "headline": "\"이런 적, 4년래 처음인데\"…'24조 뭉칫돈' 넣은 개미들 초조한 대기",
+          "url": "https://n.news.naver.com/mnews/article/215/0001263605?sid=101"
         },
         {
-          "keyword": "주식",
-          "headline": "주식 떨어지고 물가는 비싸고…얄팍해진 지갑, 저축도 '뚝'",
-          "url": "https://n.news.naver.com/mnews/article/008/0005404088?sid=101"
+          "keyword": "합의",
+          "headline": "하이닉스 '성과급 60% 주식 지급안' 부결...현대차 노사는 합의",
+          "url": "https://n.news.naver.com/mnews/article/052/0002398130?sid=101"
         },
         {
-          "keyword": "이전",
-          "headline": "무안 국가산단 조성 ‘확정’…군 공항 이전 속도 내나?",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244379?sid=101"
+          "keyword": "하루",
+          "headline": "석포제련소 놓고 하루 새 맞불…“생존권 사수” 총궐기 이어 “장형진 재수사” 촉구",
+          "url": "https://n.news.naver.com/mnews/article/138/0002238959?sid=101"
         },
         {
-          "keyword": "판다",
-          "headline": "\"없어서 못 판다\"…다이소 '완판템' 뭐 있나",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324695?sid=101"
+          "keyword": "부결",
+          "headline": "SK하이닉스 잠정합의안 25표차 부결…재협상 불가피",
+          "url": "https://n.news.naver.com/mnews/article/422/0000899345?sid=101"
         },
         {
-          "keyword": "경남",
-          "headline": "‘고수온 경보’ 경남 전역 확대…어류 폐사 급증",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244408?sid=101"
-        },
-        {
-          "keyword": "구축",
-          "headline": "한화에어로, 경남 ‘재난 안전망 구축’ 2억 기탁",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244433?sid=101"
-        },
-        {
-          "keyword": "피해",
-          "headline": "태왕 법정 관리…협력업체 피해 우려",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244380?sid=101"
-        },
-        {
-          "keyword": "강원",
-          "headline": "강원 동해안 6개 시군 공동 관광 마케팅 인기",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244360?sid=101"
+          "keyword": "쿠팡",
+          "headline": "쿠팡 거부에 공정위 현장조사 철수...초유의 사태",
+          "url": "https://n.news.naver.com/mnews/article/052/0002398131?sid=101"
         }
       ]
     },
@@ -67,7 +67,7 @@
           "url": "https://n.news.naver.com/mnews/article/056/0012244308?sid=105"
         },
         {
-          "keyword": "누리호",
+          "keyword": "발사",
           "headline": "우주청, 한국형발사체 누리호 5차 발사 '승인'",
           "url": "https://n.news.naver.com/mnews/article/658/0000153407?sid=105"
         },
@@ -82,19 +82,14 @@
           "url": "https://n.news.naver.com/mnews/article/031/0001052329?sid=105"
         },
         {
-          "keyword": "보안",
-          "headline": "보안 상장사들 직원 평균 급여는?...S2W가 최고",
-          "url": "https://n.news.naver.com/mnews/article/092/0002435036?sid=105"
-        },
-        {
-          "keyword": "정부",
-          "headline": "누리호 5차 발사 정부 승인…역대 최다 위성 15기 싣는다",
-          "url": "https://n.news.naver.com/mnews/article/119/0003125315?sid=105"
-        },
-        {
           "keyword": "KT",
           "headline": "KT, 대졸 신입사원 채용…AI 활용 역량도 검증",
           "url": "https://n.news.naver.com/mnews/article/029/0003044283?sid=105"
+        },
+        {
+          "keyword": "보안",
+          "headline": "보안 상장사들 직원 평균 급여는?...S2W가 최고",
+          "url": "https://n.news.naver.com/mnews/article/092/0002435036?sid=105"
         },
         {
           "keyword": "탑재",
@@ -110,6 +105,11 @@
           "keyword": "전망",
           "headline": "우주청, 누리호 5차발사 승인…10월 중 발사 전망",
           "url": "https://n.news.naver.com/mnews/article/001/0016270335?sid=105"
+        },
+        {
+          "keyword": "우주",
+          "headline": "[뉴스되감기] 우주 강국을 향한 도전 ‘나로호’",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244300?sid=105"
         }
       ]
     },
@@ -119,8 +119,8 @@
       "items": [
         {
           "keyword": "기아",
-          "headline": "\"파업 하루 앞두고\"…기아, 6년 연속 무분규 잠정합의",
-          "url": "https://n.news.naver.com/mnews/article/031/0001052362?sid=103"
+          "headline": "기아도 임금협상 마무리…6년 연속 무분규 타결",
+          "url": "https://n.news.naver.com/mnews/article/011/0004655126?sid=103"
         },
         {
           "keyword": "날씨",
@@ -133,9 +133,24 @@
           "url": "https://n.news.naver.com/mnews/article/422/0000899327?sid=103"
         },
         {
-          "keyword": "태풍",
+          "keyword": "내일",
           "headline": "내일도 폭염·열대야‥또다시 열돔에 막힌 태풍[날씨]",
           "url": "https://n.news.naver.com/mnews/article/214/0001520056?sid=103"
+        },
+        {
+          "keyword": "건강",
+          "headline": "짜게 먹으면 뼈 약해진다? 중년 뼈 건강 해치는 생활 습관 6가지",
+          "url": "https://n.news.naver.com/mnews/article/296/0000104055?sid=103"
+        },
+        {
+          "keyword": "8월",
+          "headline": "[오늘의 별자리 운세] 8월 26일 수요일",
+          "url": "https://n.news.naver.com/mnews/article/366/0001188282?sid=103"
+        },
+        {
+          "keyword": "태풍",
+          "headline": "올해 태풍 유독 많아...한반도 비껴갔지만 가을이 변수",
+          "url": "https://n.news.naver.com/mnews/article/052/0002398121?sid=103"
         },
         {
           "keyword": "열대야",
@@ -143,29 +158,14 @@
           "url": "https://n.news.naver.com/mnews/article/422/0000899324?sid=103"
         },
         {
-          "keyword": "소나기",
-          "headline": "[제주날씨] 처서 지나도 '폭염'...내일 산지  소나기",
-          "url": "https://n.news.naver.com/mnews/article/661/0000082170?sid=103"
+          "keyword": "음식",
+          "headline": "“전자레인지에 음식 데워 먹고 사망”…‘이 균’ 때문이라는데?",
+          "url": "https://n.news.naver.com/mnews/article/296/0000104053?sid=103"
         },
         {
-          "keyword": "변수",
-          "headline": "올해 태풍 유독 많아...한반도 비껴갔지만 가을이 변수",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398121?sid=103"
-        },
-        {
-          "keyword": "출근길",
-          "headline": "[날씨] 출근길 수도권·강원 비…당분간 무더위 지속",
-          "url": "https://n.news.naver.com/mnews/article/448/0000635641?sid=103"
-        },
-        {
-          "keyword": "최고",
-          "headline": "[날씨] 수요일, 수도권·강원 등 소나기…낮 최고 36도 무더위",
-          "url": "https://n.news.naver.com/mnews/article/029/0003044296?sid=103"
-        },
-        {
-          "keyword": "건강",
-          "headline": "짜게 먹으면 뼈 약해진다? 중년 뼈 건강 해치는 생활 습관 6가지",
-          "url": "https://n.news.naver.com/mnews/article/296/0000104055?sid=103"
+          "keyword": "좋은",
+          "headline": "“너무 먹어도 신장에 돌 생긴다?”… 혈관에 좋은 ‘이 채소’의 반전",
+          "url": "https://n.news.naver.com/mnews/article/296/0000104054?sid=103"
         }
       ]
     },
@@ -174,49 +174,39 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "SPAIN",
-          "headline": "SPAIN FILM",
-          "url": "https://n.news.naver.com/mnews/article/091/0010291269?sid=104"
-        },
-        {
-          "keyword": "드론",
-          "headline": "中과 남중국해 갈등 속 필리핀 \"드론 전력 확대\"",
-          "url": "https://n.news.naver.com/mnews/article/421/0009132333?sid=104"
-        },
-        {
-          "keyword": "GAMES",
-          "headline": "CHINA ROBOT GAMES",
-          "url": "https://n.news.naver.com/mnews/article/091/0010291282?sid=104"
-        },
-        {
           "keyword": "트럼프",
-          "headline": "김정은 사진 올린 트럼프…'하노이 노딜' 사진은 빼",
-          "url": "https://n.news.naver.com/mnews/article/018/0006357551?sid=104"
+          "headline": "트럼프 \"김정은과 관계 매우 좋아…한미훈련 대폭 축소 지시\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009132359?sid=104"
         },
         {
-          "keyword": "리포트",
-          "headline": "[김종석의 리포트]인간 기록 줄줄이 깬 중국 세계 로봇 올림픽",
-          "url": "https://n.news.naver.com/mnews/article/449/0000358190?sid=104"
+          "keyword": "France",
+          "headline": "France Tornade",
+          "url": "https://n.news.naver.com/mnews/article/077/0007135242?sid=104"
+        },
+        {
+          "keyword": "APTOPIX",
+          "headline": "APTOPIX China Humanoid Robot Games",
+          "url": "https://n.news.naver.com/mnews/article/077/0007135241?sid=104"
+        },
+        {
+          "keyword": "China",
+          "headline": "China Asia Storms",
+          "url": "https://n.news.naver.com/mnews/article/077/0007135236?sid=104"
+        },
+        {
+          "keyword": "러시아",
+          "headline": "체면 구긴 산유국 러시아…카자흐서 자국 원유 정제해 역수입",
+          "url": "https://n.news.naver.com/mnews/article/421/0009132367?sid=104"
         },
         {
           "keyword": "우크라",
-          "headline": "[김종석의 리포트]우크라 ‘미래 군대’ 소름 돋는 무인 열병식",
-          "url": "https://n.news.naver.com/mnews/article/449/0000358189?sid=104"
+          "headline": "영국, 우크라에 AI 기술 주고 전장 빅데이터 받는다",
+          "url": "https://n.news.naver.com/mnews/article/001/0016268171?sid=104"
         },
         {
-          "keyword": "DIPLOMACY",
-          "headline": "SLOVAKIA EU DIPLOMACY",
-          "url": "https://n.news.naver.com/mnews/article/091/0010291278?sid=104"
-        },
-        {
-          "keyword": "부상",
-          "headline": "'토네이도 강타' 프랑스 남부, 39명 부상·주택 300채 파손",
-          "url": "https://n.news.naver.com/mnews/article/055/0001383373?sid=104"
-        },
-        {
-          "keyword": "이스라엘",
-          "headline": "이스라엘 극우 의원, 군 호위 받으며 팔 기념물 '쾅쾅'…네타냐후도 비판",
-          "url": "https://n.news.naver.com/mnews/article/421/0009132318?sid=104"
+          "keyword": "이란",
+          "headline": "이란 전면전 가능성 낮게 봤나…美, 중동 외교관 복귀 추진",
+          "url": "https://n.news.naver.com/mnews/article/025/0003546725?sid=104"
         }
       ]
     },
@@ -230,7 +220,7 @@
           "url": "https://n.news.naver.com/mnews/article/009/0005725711"
         },
         {
-          "keyword": "국가대표",
+          "keyword": "e스포츠",
           "headline": "e스포츠 국가대표 국민의례",
           "url": "https://n.news.naver.com/mnews/article/001/0016270201"
         },
