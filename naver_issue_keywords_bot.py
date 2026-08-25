@@ -146,14 +146,16 @@ def tokenize(headline: str) -> list[str]:
     return tokens
 
 
-def dedupe_similar_headlines(headline_tokens: list[list[str]]) -> list[list[str]]:
+def dedupe_similar_headlines(headlines: list[str], tokens_list: list[list[str]]) -> list[tuple[str, list[str]]]:
     """
     단어 구성이 많이 겹치는 헤드라인들은 '사실상 같은 기사(보도자료 반복 게재 등)'로
     보고 하나만 남긴다. Jaccard 유사도(겹치는 단어 비율) 기준.
+    (원본 헤드라인 텍스트, 토큰 목록) 쌍으로 반환한다 - 나중에 실제 헤드라인을
+    그대로 보여줄 때 쓰기 위함.
     """
-    kept = []
+    kept: list[tuple[str, list[str]]] = []
     kept_sets = []
-    for tokens in headline_tokens:
+    for headline, tokens in zip(headlines, tokens_list):
         token_set = set(tokens)
         if not token_set:
             continue
@@ -166,7 +168,7 @@ def dedupe_similar_headlines(headline_tokens: list[list[str]]) -> list[list[str]
                 is_duplicate = True
                 break
         if not is_duplicate:
-            kept.append(tokens)
+            kept.append((headline, tokens))
             kept_sets.append(token_set)
     return kept
 
@@ -174,15 +176,15 @@ def dedupe_similar_headlines(headline_tokens: list[list[str]]) -> list[list[str]
 def extract_issue_keywords(headlines: list[str]) -> list[dict]:
     """
     헤드라인들을 분석해 이슈 top N을 뽑는다. 같은 기사/같은 이슈에서 나온
-    단어들(예: KT, 채용, 대졸, 신입)은 따로 세지 않고 한 이슈로 묶어서
-    "KT 채용 대졸 (7회 언급)" 처럼 한 줄로 보여준다.
+    단어들(예: KT, 채용, 대졸, 신입)은 따로 세지 않고 한 이슈로 묶고,
+    그 이슈를 대표하는 실제 헤드라인 원문을 설명으로 붙여서 보여준다.
     """
     all_tokens = [tokenize(h) for h in headlines]
-    headline_tokens = dedupe_similar_headlines(all_tokens)
+    deduped = dedupe_similar_headlines(headlines, all_tokens)  # [(headline, tokens), ...]
 
     # 단어 -> 그 단어가 등장한 헤드라인 인덱스 집합
     word_headline_idx: dict[str, set[int]] = {}
-    for idx, tokens in enumerate(headline_tokens):
+    for idx, (_, tokens) in enumerate(deduped):
         for t in set(tokens):
             word_headline_idx.setdefault(t, set()).add(idx)
 
@@ -211,11 +213,15 @@ def extract_issue_keywords(headlines: list[str]) -> list[dict]:
 
     results = []
     for cluster in clusters[:TOP_N]:
-        # 대표 단어는 최대 4개까지만 (너무 길어지지 않게)
-        display_words = cluster["words"][:4]
+        keyword = cluster["words"][0]  # 가장 많이 등장한 대표 단어
+        # 이 이슈에 속한 헤드라인들 중 가장 짧은 걸 대표 설명으로 사용
+        # (짧을수록 핵심만 담겨있어 읽기 편한 경향이 있음)
+        cluster_headlines = [deduped[i][0] for i in cluster["idxs"]]
+        representative_headline = min(cluster_headlines, key=len)
         results.append({
-            "word": " ".join(display_words),
+            "word": keyword,
             "count": len(cluster["idxs"]),
+            "headline": representative_headline,
         })
 
     return results
@@ -236,6 +242,7 @@ def format_message(results: dict[str, list[dict]]) -> str:
             continue
         for rank, item in enumerate(keywords, start=1):
             lines.append(f"{rank}. {item['word']} ({item['count']}회 언급)")
+            lines.append(f"   → {item['headline']}")
 
     return "\n".join(lines)
 
