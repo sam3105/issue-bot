@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26 02:01",
+  "updatedAt": "2026-08-26 02:42",
   "categories": [
     {
       "name": "경제",
@@ -11,19 +11,19 @@
           "url": "https://n.news.naver.com/mnews/article/018/0006357946?sid=101"
         },
         {
+          "keyword": "보복관세",
+          "headline": "加, 美 제품 200억달러어치에 보복관세 맞불",
+          "url": "https://n.news.naver.com/mnews/article/014/0005566377?sid=101"
+        },
+        {
           "keyword": "공정위",
           "headline": "쿠팡 반발로 공정위 '빈손' 철수…역대 처음",
           "url": "https://n.news.naver.com/mnews/article/055/0001383393?sid=101"
         },
         {
           "keyword": "달러",
-          "headline": "비트코인, 8만 달러 코앞…돌파 후가 관건[코인뉴스]",
-          "url": "https://n.news.naver.com/mnews/article/119/0003124920?sid=101"
-        },
-        {
-          "keyword": "비트코인",
-          "headline": "비트코인 반등, 2개월만에 1억원 넘어",
-          "url": "https://n.news.naver.com/mnews/article/020/0003743308?sid=101"
+          "headline": "‘스마트 링’ 오우라, 내달 美 상장… “30억 달러 조달”",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743305?sid=101"
         },
         {
           "keyword": "8월",
@@ -31,29 +31,29 @@
           "url": "https://n.news.naver.com/mnews/article/020/0003743296?sid=101"
         },
         {
-          "keyword": "현대차",
-          "headline": "현대차 이어 기아도 임단협 잠정합의… 올해 ‘하투’ 종료",
-          "url": "https://n.news.naver.com/mnews/article/005/0001868963?sid=101"
-        },
-        {
-          "keyword": "한강뷰",
-          "headline": "\"회삿돈으로 200억 한강뷰\"…'황제사택' 세무조사",
-          "url": "https://n.news.naver.com/mnews/article/422/0000899125?sid=101"
-        },
-        {
-          "keyword": "반발",
-          "headline": "국책은행·금감원·예보까지… 공공기관 지방 이전설에 반발 확산",
-          "url": "https://n.news.naver.com/mnews/article/005/0001868961?sid=101"
-        },
-        {
           "keyword": "역대",
-          "headline": "배달앱 4사 7월 결제액… 역대 최대 3조2700억",
-          "url": "https://n.news.naver.com/mnews/article/020/0003743289?sid=101"
+          "headline": "\"7월 배달 플랫폼 4사 결제액 3조2천800억원…역대 최대\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016268561?sid=101"
         },
         {
           "keyword": "내달",
           "headline": "용산공원, 내달 공개할 7만3000가구 택지서 빠져",
           "url": "https://n.news.naver.com/mnews/article/023/0003994930?sid=101"
+        },
+        {
+          "keyword": "AI",
+          "headline": "설비 고장, 미세 신호 잡는 AI로 원인까지 찾는다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743315?sid=101"
+        },
+        {
+          "keyword": "무인",
+          "headline": "화물운송용 대형 무인 헬리콥터",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994881?sid=101"
+        },
+        {
+          "keyword": "투자",
+          "headline": "\"시티 프로토콜, 1100만불 투자 유치\"",
+          "url": "https://n.news.naver.com/mnews/article/015/0005324706?sid=101"
         }
       ]
     },
@@ -67,7 +67,7 @@
           "url": "https://n.news.naver.com/mnews/article/023/0003994879?sid=105"
         },
         {
-          "keyword": "엔비디아",
+          "keyword": "공개",
           "headline": "엔비디아 성능 2배 높인 로봇 ‘두뇌’ 젯슨 오린 나노 2 공개",
           "url": "https://n.news.naver.com/mnews/article/023/0003994861?sid=105"
         },
@@ -75,11 +75,6 @@
           "keyword": "투자",
           "headline": "게임 투자 반토막… AI 기반 게임 개발에 돈 몰려",
           "url": "https://n.news.naver.com/mnews/article/023/0003994877?sid=105"
-        },
-        {
-          "keyword": "로봇",
-          "headline": "경남 제조업에 로봇·AI 결합…제조AX 확산 나선다",
-          "url": "https://n.news.naver.com/mnews/article/018/0006357939?sid=105"
         }
       ]
     },
@@ -93,14 +88,14 @@
           "url": "https://n.news.naver.com/mnews/article/087/0001213510?sid=103"
         },
         {
-          "keyword": "날씨",
-          "headline": "[날씨] 오늘 중북부 비…무더위 계속",
-          "url": "https://n.news.naver.com/mnews/article/055/0001383396?sid=103"
-        },
-        {
           "keyword": "운세",
           "headline": "[오늘의 운세] 8월 26일",
           "url": "https://n.news.naver.com/mnews/article/025/0003546755?sid=103"
+        },
+        {
+          "keyword": "날씨",
+          "headline": "[날씨] 오늘 중북부 비…무더위 계속",
+          "url": "https://n.news.naver.com/mnews/article/055/0001383396?sid=103"
         },
         {
           "keyword": "계속",
@@ -128,14 +123,14 @@
           "url": "https://n.news.naver.com/mnews/article/469/0000950068?sid=103"
         },
         {
+          "keyword": "돌아온",
+          "headline": "돌아온 이창동 “노동 소멸의 시대, 삶 지탱하는 건 사랑”",
+          "url": "https://n.news.naver.com/mnews/article/025/0003546727?sid=103"
+        },
+        {
           "keyword": "시대",
           "headline": "대안 공간·신생 공간 넘어 ‘예술학교의 시대’",
           "url": "https://n.news.naver.com/mnews/article/005/0001868957?sid=103"
-        },
-        {
-          "keyword": "강릉",
-          "headline": "강릉 한송정서 펼쳐진 유쾌한 소동극 '화랑을 기다리며'",
-          "url": "https://n.news.naver.com/mnews/article/654/0000196947?sid=103"
         }
       ]
     },
@@ -144,19 +139,19 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "CIA",
-          "headline": "\"美 CIA 국장, 비밀리에 러시아 방문\" CBS",
-          "url": "https://n.news.naver.com/mnews/article/003/0014147943?sid=104"
+          "keyword": "이란",
+          "headline": "이란 대통령 “미국, 이란 대할 때 어조·접근법 바꿔야”",
+          "url": "https://n.news.naver.com/mnews/article/056/0012243731?sid=104"
         },
         {
-          "keyword": "미국",
-          "headline": "이란 \"미국의 대이란 경제전쟁은 전세계 주권에 대한 공격\"",
-          "url": "https://n.news.naver.com/mnews/article/214/0001520076?sid=104"
+          "keyword": "US",
+          "headline": "US Open Tennis",
+          "url": "https://n.news.naver.com/mnews/article/077/0007135416?sid=104"
         },
         {
-          "keyword": "캐나다",
-          "headline": "'관세' 넘어 '주권'으로 번진 쟁점…미·캐나다 협상 결렬 내막",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270546?sid=104"
+          "keyword": "대통령",
+          "headline": "‘대통령과 갈등설’ 탄자니아 부통령 사임",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244504?sid=104"
         }
       ]
     },
@@ -165,19 +160,19 @@
       "cls": "game",
       "items": [
         {
-          "keyword": "후보",
+          "keyword": "붉은사막",
           "headline": "K-게임, 게임스컴 출격…'붉은사막' 수상 후보",
           "url": "https://n.news.naver.com/mnews/article/009/0005725711"
         },
         {
-          "keyword": "국가대표",
+          "keyword": "e스포츠",
           "headline": "e스포츠 국가대표 국민의례",
           "url": "https://n.news.naver.com/mnews/article/001/0016270201"
         },
         {
-          "keyword": "상반기",
-          "headline": "K게임 상반기 해외매출 6조…반년 만에 작년의 80% 채웠다",
-          "url": "https://n.news.naver.com/mnews/article/011/0004655114"
+          "keyword": "6조",
+          "headline": "게임 빅 5, 상반기 매출만 6조…해외매출 비중 70% 돌파",
+          "url": "https://n.news.naver.com/mnews/article/011/0004655049"
         }
       ]
     }
