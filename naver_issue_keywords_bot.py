@@ -52,8 +52,23 @@ CATEGORIES = {
     "생활·문화": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=103",
 }
 
+# 조사/어미로 흔히 붙는 꼬리들 - 길이가 긴 것부터 시도해서 먼저 잘라낸다
+# (완벽한 형태소 분석은 아니지만 "정부는"/"정부가"를 "정부"로 합쳐주는 수준의 효과)
+TRAILING_SUFFIXES = sorted([
+    "이라며", "라면서", "이라고", "라고는", "했다는", "된다는", "한다는",
+    "에서는", "에서도", "부터는", "까지도", "이라는", "라는",
+    "에서", "부터", "까지", "이며", "으로", "에는", "에도", "했다", "된다",
+    "한다", "는다", "이다", "이고", "하고", "라며", "이나",
+    "와", "과", "의", "은", "는", "이", "가", "을", "를", "에", "로", "도", "만",
+], key=len, reverse=True)
+
+MIN_COUNT = 2  # 이 횟수 미만은 노이즈일 확률이 높아 top 10 후보에서 제외
+
 # 기사로 연결되는 링크인지 판별할 때 쓰는 href 패턴
 ARTICLE_HREF_PATTERNS = ("/article/", "article_id=", "aid=")
+
+# 분야별로 몇 페이지까지 더 가져와서 표본을 늘릴지
+PAGES_PER_CATEGORY = 3
 
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
@@ -74,27 +89,31 @@ STOPWORDS = {
 # ------------------------------------------------------------------
 def fetch_headlines(url: str) -> list[str]:
     """
-    분야별 뉴스 목록 페이지에서, 기사로 연결되는 링크(href 패턴 기준)의
-    텍스트를 헤드라인으로 모은다. class 이름이 아니라 링크 패턴 기준이라
-    페이지 디자인이 바뀌어도 비교적 안정적으로 동작한다.
+    분야별 뉴스 목록 페이지에서 여러 페이지(PAGES_PER_CATEGORY장)를 가져와,
+    기사로 연결되는 링크(href 패턴 기준)의 텍스트를 헤드라인으로 모은다.
+    class 이름이 아니라 링크 패턴 기준이라 페이지 디자인이 바뀌어도
+    비교적 안정적으로 동작하고, 여러 페이지를 모아서 표본을 늘린다.
     """
-    resp = requests.get(url, headers=HEADERS, timeout=15)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
-
     titles = []
     seen = set()
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if not any(pattern in href for pattern in ARTICLE_HREF_PATTERNS):
-            continue
-        text = a.get_text(strip=True)
-        if not (8 <= len(text) <= 60):
-            continue
-        if text in seen:
-            continue
-        seen.add(text)
-        titles.append(text)
+
+    for page in range(1, PAGES_PER_CATEGORY + 1):
+        page_url = f"{url}&page={page}"
+        resp = requests.get(page_url, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if not any(pattern in href for pattern in ARTICLE_HREF_PATTERNS):
+                continue
+            text = a.get_text(strip=True)
+            if not (8 <= len(text) <= 60):
+                continue
+            if text in seen:
+                continue
+            seen.add(text)
+            titles.append(text)
 
     return titles
 
@@ -102,11 +121,20 @@ def fetch_headlines(url: str) -> list[str]:
 # ------------------------------------------------------------------
 # 2. 단순 빈도 + 연관어 기반 키워드 추출
 # ------------------------------------------------------------------
+def strip_trailing_suffix(token: str) -> str:
+    """흔한 조사/어미 꼬리를 잘라낸다. 자른 결과가 2글자 미만이면 원본 유지."""
+    for suffix in TRAILING_SUFFIXES:
+        if token.endswith(suffix) and len(token) - len(suffix) >= 2:
+            return token[: -len(suffix)]
+    return token
+
+
 def tokenize(headline: str) -> list[str]:
-    """헤드라인을 의미 있는 단어 단위로 쪼갠다 (조사/특수문자 제거 수준)."""
+    """헤드라인을 의미 있는 단어 단위로 쪼갠다 (조사/어미/특수문자 제거 수준)."""
     cleaned = re.sub(r"[^가-힣a-zA-Z0-9\s]", " ", headline)
     tokens = []
-    for token in cleaned.split():
+    for raw_token in cleaned.split():
+        token = strip_trailing_suffix(raw_token)
         if len(token) < 2:
             continue
         if token in STOPWORDS:
@@ -128,7 +156,11 @@ def extract_issue_keywords(headlines: list[str]) -> list[dict]:
     for tokens in headline_tokens:
         total_counter.update(tokens)
 
-    top_keywords = total_counter.most_common(TOP_N)
+    top_keywords = [
+        (word, count)
+        for word, count in total_counter.most_common(TOP_N * 3)
+        if count >= MIN_COUNT
+    ][:TOP_N]
 
     results = []
     for word, count in top_keywords:
