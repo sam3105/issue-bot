@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25 16:36",
+  "updatedAt": "2026-08-25 16:45",
   "mode": "새 소식만",
   "categories": [
     {
@@ -7,16 +7,54 @@
       "cls": "eco",
       "items": [
         {
-          "keyword": "확대",
-          "headline": "베선트의 멘토 \"국채 바이백 확대는 큰 실수\""
+          "keyword": "투자",
+          "headline": "\"피트니스센터 웰니스 구독 키운다\"…씨엔티테크, '브링크' 투자",
+          "url": "https://n.news.naver.com/mnews/article/421/0009131963?sid=101"
         },
         {
-          "keyword": "주택",
-          "headline": "고가 주택 시장, ‘보유비용 경쟁력’ 갖춘 주거형 오피스텔 주목"
+          "keyword": "삼전닉스",
+          "headline": "[애프터마켓 브리핑] '삼전닉스' 낙폭 축소…코스피 6700 회복",
+          "url": "https://n.news.naver.com/mnews/article/374/0000529281?sid=101"
         },
         {
-          "keyword": "시장",
-          "headline": "고가 주택 시장, ‘보유비용 경쟁력’ 갖춘 주거형 오피스텔 주목"
+          "keyword": "코스피",
+          "headline": "코스피 '깜짝 반등'…6,700선 회복",
+          "url": "https://n.news.naver.com/mnews/article/215/0001263571?sid=101"
+        },
+        {
+          "keyword": "증시",
+          "headline": "[올댓차이나] 중국 증시 혼조 마감…상하이지수 0.19%↑",
+          "url": "https://n.news.naver.com/mnews/article/003/0014147464?sid=101"
+        },
+        {
+          "keyword": "우려",
+          "headline": "李대통령, KTX 요금 인하에 “교통 양극화 심화 우려”",
+          "url": "https://n.news.naver.com/mnews/article/666/0000120542?sid=101"
+        },
+        {
+          "keyword": "달러",
+          "headline": "\"휘청이는 증시에 안전자산 찾는다…예금 이어 달러·금까지 늘어\"",
+          "url": "https://n.news.naver.com/mnews/article/008/0005404516?sid=101"
+        },
+        {
+          "keyword": "AI",
+          "headline": "\"의지의 문제\"…운용사 의결권 행사도 AI 도움 받는다",
+          "url": "https://n.news.naver.com/mnews/article/119/0003125215?sid=101"
+        },
+        {
+          "keyword": "대기업",
+          "headline": "한화·현대차 등 대기업 금융권 차입 1년 새 13% 증가",
+          "url": "https://n.news.naver.com/mnews/article/011/0004655003?sid=101"
+        },
+        {
+          "keyword": "지속",
+          "headline": "美 \"메모리칩 현지 생산 해달라\" 압박 지속…난감한 K반도체",
+          "url": "https://n.news.naver.com/mnews/article/003/0014147480?sid=101"
+        },
+        {
+          "keyword": "이것",
+          "headline": "두쫀쿠 다음은 '이것'...인기 '폭발'",
+          "url": "https://n.news.naver.com/mnews/article/050/0000110103?sid=101"
         }
       ]
     },
@@ -25,8 +63,24 @@
       "cls": "tech",
       "items": [
         {
-          "keyword": "현장",
-          "headline": "[현장] 델 \"AI는 비즈니스 혁신 기반⋯업무·조직 변화 일궈야\""
+          "keyword": "경쟁",
+          "headline": "근손실 잡아라…비만약 치료제 개발 경쟁 중심축 이동",
+          "url": "https://n.news.naver.com/mnews/article/029/0003044237?sid=105"
+        },
+        {
+          "keyword": "합류",
+          "headline": "카카오AI 첫 이사진에 전직 과기정통부 장관·국세청장 합류",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270157?sid=105"
+        },
+        {
+          "keyword": "모인",
+          "headline": "한 자리에 모인 e스포츠 국가대표",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270135?sid=105"
+        },
+        {
+          "keyword": "답하",
+          "headline": "답하는 '페이커' 이상혁",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270149?sid=105"
         }
       ]
     },
@@ -35,12 +89,24 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "지원",
-          "headline": "[익산소식] 임신부·아동 구강관리…스케일링·불소도포 지원"
+          "keyword": "공개",
+          "headline": "핍스모터사이클, 26FW 시즌 캠페인 '세컨드 라이프' 공개",
+          "url": "https://n.news.naver.com/mnews/article/117/0004098035?sid=103"
         },
         {
-          "keyword": "자율주행",
-          "headline": "[현장] 車만 보던 전시회는 옛말…충전·자율주행까지 한자리에"
+          "keyword": "27일",
+          "headline": "온열질환에 하루 70여명 응급실행…27일까지 '현저한 피해' 주의",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270116?sid=103"
+        },
+        {
+          "keyword": "한국",
+          "headline": "한국 진출한 오우라, 미국서 ‘수면 측정 정확도’ 집단소송",
+          "url": "https://n.news.naver.com/mnews/article/346/0000114935?sid=103"
+        },
+        {
+          "keyword": "협주곡",
+          "headline": "대구시립국악단, 국악 유망주 한자리에…'청소년 협주곡의 밤'",
+          "url": "https://n.news.naver.com/mnews/article/088/0001025174?sid=103"
         }
       ]
     }
