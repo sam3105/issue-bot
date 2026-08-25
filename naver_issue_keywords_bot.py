@@ -62,6 +62,7 @@ TRAILING_SUFFIXES = sorted([
     "와", "과", "의", "은", "는", "이", "가", "을", "를", "에", "로", "도", "만",
 ], key=len, reverse=True)
 
+DUPLICATE_SIMILARITY_THRESHOLD = 0.5  # 이 비율 이상 단어가 겹치면 "같은 기사"로 간주
 MIN_COUNT = 2  # 이 횟수 미만은 노이즈일 확률이 높아 top 10 후보에서 제외
 
 # 기사로 연결되는 링크인지 판별할 때 쓰는 href 패턴
@@ -145,12 +146,38 @@ def tokenize(headline: str) -> list[str]:
     return tokens
 
 
+def dedupe_similar_headlines(headline_tokens: list[list[str]]) -> list[list[str]]:
+    """
+    단어 구성이 많이 겹치는 헤드라인들은 '사실상 같은 기사(보도자료 반복 게재 등)'로
+    보고 하나만 남긴다. Jaccard 유사도(겹치는 단어 비율) 기준.
+    """
+    kept = []
+    kept_sets = []
+    for tokens in headline_tokens:
+        token_set = set(tokens)
+        if not token_set:
+            continue
+        is_duplicate = False
+        for existing_set in kept_sets:
+            intersection = len(token_set & existing_set)
+            union = len(token_set | existing_set)
+            similarity = intersection / union if union else 0
+            if similarity >= DUPLICATE_SIMILARITY_THRESHOLD:
+                is_duplicate = True
+                break
+        if not is_duplicate:
+            kept.append(tokens)
+            kept_sets.append(token_set)
+    return kept
+
+
 def extract_issue_keywords(headlines: list[str]) -> list[dict]:
     """
     헤드라인들을 분석해 top N 키워드를 뽑고, 각 키워드마다
     같이 자주 등장한 연관어를 붙여서 반환한다.
     """
-    headline_tokens = [tokenize(h) for h in headlines]
+    all_tokens = [tokenize(h) for h in headlines]
+    headline_tokens = dedupe_similar_headlines(all_tokens)
 
     total_counter = Counter()
     for tokens in headline_tokens:
