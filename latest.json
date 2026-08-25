@@ -1,59 +1,34 @@
 {
-  "updatedAt": "2026-08-25 23:10",
+  "updatedAt": "2026-08-26 00:00",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "6년",
-          "headline": "기아, 6년 연속 임단협 잠정합의..28일 조합원 찬반투표",
-          "url": "https://n.news.naver.com/mnews/article/014/0005566371?sid=101"
+          "keyword": "임단협",
+          "headline": "하이닉스 임단협 부결…‘초과이익 배분’ 갈등 고조",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244472?sid=101"
         },
         {
-          "keyword": "타결",
-          "headline": "부산 시내버스 임금 협상 타결…시급 5% 인상",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244455?sid=101"
+          "keyword": "AI",
+          "headline": "\"냉면이 징그럽긴 처음\" AI로 만든 한식당 메뉴판 시끌",
+          "url": "https://n.news.naver.com/mnews/article/018/0006357941?sid=101"
         },
         {
-          "keyword": "세무조사",
-          "headline": "250억 한남동 주택 사주일가 사적 사용…소노그룹 세무조사",
-          "url": "https://n.news.naver.com/mnews/article/018/0006357929?sid=101"
+          "keyword": "출시",
+          "headline": "일화, ‘천연사이다 제로 망고’ 250ml 캔 출시",
+          "url": "https://n.news.naver.com/mnews/article/144/0001133953?sid=101"
         },
         {
-          "keyword": "지원",
-          "headline": "지역필수의료 회계 신설·지방국립대 등록금 지원",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244402?sid=101"
+          "keyword": "MBK",
+          "headline": "고려아연, ‘원아시아 펀드 의혹’ 제기한 MBK·영풍에 민·형사 법적 대응 경고",
+          "url": "https://n.news.naver.com/mnews/article/666/0000120599?sid=101"
         },
         {
-          "keyword": "앞두고",
-          "headline": "기아 노사, 파업 하루 앞두고 잠정 합의…6년 연속 무분규 타결",
-          "url": "https://n.news.naver.com/mnews/article/422/0000899346?sid=101"
-        },
-        {
-          "keyword": "이런",
-          "headline": "\"이런 적, 4년래 처음인데\"…'24조 뭉칫돈' 넣은 개미들 초조한 대기",
-          "url": "https://n.news.naver.com/mnews/article/215/0001263605?sid=101"
-        },
-        {
-          "keyword": "합의",
-          "headline": "하이닉스 '성과급 60% 주식 지급안' 부결...현대차 노사는 합의",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398130?sid=101"
-        },
-        {
-          "keyword": "하루",
-          "headline": "석포제련소 놓고 하루 새 맞불…“생존권 사수” 총궐기 이어 “장형진 재수사” 촉구",
-          "url": "https://n.news.naver.com/mnews/article/138/0002238959?sid=101"
-        },
-        {
-          "keyword": "부결",
-          "headline": "SK하이닉스 잠정합의안 25표차 부결…재협상 불가피",
-          "url": "https://n.news.naver.com/mnews/article/422/0000899345?sid=101"
-        },
-        {
-          "keyword": "쿠팡",
-          "headline": "쿠팡 거부에 공정위 현장조사 철수...초유의 사태",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398131?sid=101"
+          "keyword": "사상",
+          "headline": "쿠팡 거부에 공정위 현장조사 무산…사상 첫 빈손 철수",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244471?sid=101"
         }
       ]
     },
@@ -63,53 +38,28 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "[지금 AI] AI와 블루이코노미",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244308?sid=105"
+          "headline": "극한 호우, AI와 디지털 트윈 미리 예측",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244443?sid=105"
         },
         {
-          "keyword": "발사",
-          "headline": "우주청, 한국형발사체 누리호 5차 발사 '승인'",
-          "url": "https://n.news.naver.com/mnews/article/658/0000153407?sid=105"
+          "keyword": "vs",
+          "headline": "사용후핵연료 “저장 시설 불가피” vs “영구 저장 우려”",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244385?sid=105"
+        },
+        {
+          "keyword": "원장",
+          "headline": "KISA 이사회, 이상중 현 원장 해임 건의",
+          "url": "https://n.news.naver.com/mnews/article/092/0002435034?sid=105"
+        },
+        {
+          "keyword": "확충",
+          "headline": "31개 중앙부처 개인정보 전담인력 54명 확충",
+          "url": "https://n.news.naver.com/mnews/article/092/0002435041?sid=105"
         },
         {
           "keyword": "반도체",
           "headline": "일본·대만, '실리콘 아일랜드' 규슈서 반도체 협력 확대",
           "url": "https://n.news.naver.com/mnews/article/001/0016270464?sid=105"
-        },
-        {
-          "keyword": "SK하이닉스",
-          "headline": "SK하이닉스 노사 임단협, 다음 수순은…\"후속 일정부터 노사 협의\"",
-          "url": "https://n.news.naver.com/mnews/article/031/0001052329?sid=105"
-        },
-        {
-          "keyword": "KT",
-          "headline": "KT, 대졸 신입사원 채용…AI 활용 역량도 검증",
-          "url": "https://n.news.naver.com/mnews/article/029/0003044283?sid=105"
-        },
-        {
-          "keyword": "보안",
-          "headline": "보안 상장사들 직원 평균 급여는?...S2W가 최고",
-          "url": "https://n.news.naver.com/mnews/article/092/0002435036?sid=105"
-        },
-        {
-          "keyword": "탑재",
-          "headline": "누리호 5차 발사 허가…초소형군집위성 등 15기 탑재",
-          "url": "https://n.news.naver.com/mnews/article/018/0006357916?sid=105"
-        },
-        {
-          "keyword": "이사회",
-          "headline": "KISA 이사회, 이상중 현 원장 해임 건의",
-          "url": "https://n.news.naver.com/mnews/article/092/0002435034?sid=105"
-        },
-        {
-          "keyword": "전망",
-          "headline": "우주청, 누리호 5차발사 승인…10월 중 발사 전망",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270335?sid=105"
-        },
-        {
-          "keyword": "우주",
-          "headline": "[뉴스되감기] 우주 강국을 향한 도전 ‘나로호’",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244300?sid=105"
         }
       ]
     },
@@ -118,114 +68,58 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "기아",
-          "headline": "기아도 임금협상 마무리…6년 연속 무분규 타결",
-          "url": "https://n.news.naver.com/mnews/article/011/0004655126?sid=103"
+          "keyword": "미스어스코리아",
+          "headline": "2026 미스어스코리아는 박수인",
+          "url": "https://n.news.naver.com/mnews/article/119/0003125333?sid=103"
         },
         {
-          "keyword": "날씨",
-          "headline": "[날씨/XR] 남부 폭염, 무더위 기승…북부 비",
-          "url": "https://n.news.naver.com/mnews/article/055/0001383366?sid=103"
+          "keyword": "박수인",
+          "headline": "박수인, 한국을 대표하는 아름다움",
+          "url": "https://n.news.naver.com/mnews/article/119/0003125334?sid=103"
         },
         {
-          "keyword": "폭염",
-          "headline": "태풍도 못 뚫은 폭염…더위 속 내일 중부 비",
-          "url": "https://n.news.naver.com/mnews/article/422/0000899327?sid=103"
-        },
-        {
-          "keyword": "내일",
-          "headline": "내일도 폭염·열대야‥또다시 열돔에 막힌 태풍[날씨]",
-          "url": "https://n.news.naver.com/mnews/article/214/0001520056?sid=103"
-        },
-        {
-          "keyword": "건강",
-          "headline": "짜게 먹으면 뼈 약해진다? 중년 뼈 건강 해치는 생활 습관 6가지",
-          "url": "https://n.news.naver.com/mnews/article/296/0000104055?sid=103"
-        },
-        {
-          "keyword": "8월",
+          "keyword": "26일",
           "headline": "[오늘의 별자리 운세] 8월 26일 수요일",
           "url": "https://n.news.naver.com/mnews/article/366/0001188282?sid=103"
         },
         {
-          "keyword": "태풍",
-          "headline": "올해 태풍 유독 많아...한반도 비껴갔지만 가을이 변수",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398121?sid=103"
-        },
-        {
-          "keyword": "열대야",
-          "headline": "올해 폭염 일수 평년 2배…열대야는 역대 2위",
-          "url": "https://n.news.naver.com/mnews/article/422/0000899324?sid=103"
+          "keyword": "찜통더위",
+          "headline": "수도권·강원 비…'낮 최고 36도' 찜통더위[오늘날씨]",
+          "url": "https://n.news.naver.com/mnews/article/003/0014147917?sid=103"
         },
         {
           "keyword": "음식",
-          "headline": "“전자레인지에 음식 데워 먹고 사망”…‘이 균’ 때문이라는데?",
-          "url": "https://n.news.naver.com/mnews/article/296/0000104053?sid=103"
+          "headline": "[유재덕의 공유주방] [33] 아빠의 ‘요리’, 엄마의 ‘음식’",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994852?sid=103"
         },
         {
-          "keyword": "좋은",
-          "headline": "“너무 먹어도 신장에 돌 생긴다?”… 혈관에 좋은 ‘이 채소’의 반전",
-          "url": "https://n.news.naver.com/mnews/article/296/0000104054?sid=103"
+          "keyword": "날씨",
+          "headline": "[날씨] 수요일 수도권 등 중부 흐리고 비…남부 맑고 찜통더위",
+          "url": "https://n.news.naver.com/mnews/article/422/0000899359?sid=103"
         }
       ]
     },
     {
       "name": "세계",
       "cls": "world",
-      "items": [
-        {
-          "keyword": "트럼프",
-          "headline": "트럼프 \"김정은과 관계 매우 좋아…한미훈련 대폭 축소 지시\"",
-          "url": "https://n.news.naver.com/mnews/article/421/0009132359?sid=104"
-        },
-        {
-          "keyword": "France",
-          "headline": "France Tornade",
-          "url": "https://n.news.naver.com/mnews/article/077/0007135242?sid=104"
-        },
-        {
-          "keyword": "APTOPIX",
-          "headline": "APTOPIX China Humanoid Robot Games",
-          "url": "https://n.news.naver.com/mnews/article/077/0007135241?sid=104"
-        },
-        {
-          "keyword": "China",
-          "headline": "China Asia Storms",
-          "url": "https://n.news.naver.com/mnews/article/077/0007135236?sid=104"
-        },
-        {
-          "keyword": "러시아",
-          "headline": "체면 구긴 산유국 러시아…카자흐서 자국 원유 정제해 역수입",
-          "url": "https://n.news.naver.com/mnews/article/421/0009132367?sid=104"
-        },
-        {
-          "keyword": "우크라",
-          "headline": "영국, 우크라에 AI 기술 주고 전장 빅데이터 받는다",
-          "url": "https://n.news.naver.com/mnews/article/001/0016268171?sid=104"
-        },
-        {
-          "keyword": "이란",
-          "headline": "이란 전면전 가능성 낮게 봤나…美, 중동 외교관 복귀 추진",
-          "url": "https://n.news.naver.com/mnews/article/025/0003546725?sid=104"
-        }
-      ]
+      "items": []
     },
     {
       "name": "게임",
       "cls": "game",
       "items": [
         {
-          "keyword": "게임스컴",
+          "keyword": "후보",
           "headline": "K-게임, 게임스컴 출격…'붉은사막' 수상 후보",
           "url": "https://n.news.naver.com/mnews/article/009/0005725711"
         },
         {
-          "keyword": "e스포츠",
+          "keyword": "국가대표",
           "headline": "e스포츠 국가대표 국민의례",
           "url": "https://n.news.naver.com/mnews/article/001/0016270201"
         },
         {
-          "keyword": "게임",
+          "keyword": "상반기",
           "headline": "게임 빅 5, 상반기 매출만 6조…해외매출 비중 70% 돌파",
           "url": "https://n.news.naver.com/mnews/article/011/0004655049"
         }
