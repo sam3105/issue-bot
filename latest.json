@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25 16:45",
+  "updatedAt": "2026-08-25 16:57",
   "mode": "새 소식만",
   "categories": [
     {
@@ -7,54 +7,49 @@
       "cls": "eco",
       "items": [
         {
-          "keyword": "투자",
-          "headline": "\"피트니스센터 웰니스 구독 키운다\"…씨엔티테크, '브링크' 투자",
-          "url": "https://n.news.naver.com/mnews/article/421/0009131963?sid=101"
+          "keyword": "AI",
+          "headline": "EY한영, 업스테이지와 소버린 AI 확산 협업",
+          "url": "https://n.news.naver.com/mnews/article/003/0014147502?sid=101"
         },
         {
-          "keyword": "삼전닉스",
-          "headline": "[애프터마켓 브리핑] '삼전닉스' 낙폭 축소…코스피 6700 회복",
-          "url": "https://n.news.naver.com/mnews/article/374/0000529281?sid=101"
+          "keyword": "뉴홈",
+          "headline": "김윤덕 \"청약 때 약속대로\"…뉴홈 전용 모기지 2022년 그대로",
+          "url": "https://n.news.naver.com/mnews/article/629/0000527471?sid=101"
         },
         {
           "keyword": "코스피",
-          "headline": "코스피 '깜짝 반등'…6,700선 회복",
-          "url": "https://n.news.naver.com/mnews/article/215/0001263571?sid=101"
+          "headline": "코스피, 상승 전환해 0.68%↑…코스닥도 1%대 상승",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244094?sid=101"
         },
         {
-          "keyword": "증시",
-          "headline": "[올댓차이나] 중국 증시 혼조 마감…상하이지수 0.19%↑",
-          "url": "https://n.news.naver.com/mnews/article/003/0014147464?sid=101"
+          "keyword": "부사장",
+          "headline": "대한상의 상근부회장에 김정일 前산업부 실장·SK하이닉스 부사장 내정",
+          "url": "https://n.news.naver.com/mnews/article/003/0014147513?sid=101"
         },
         {
-          "keyword": "우려",
-          "headline": "李대통령, KTX 요금 인하에 “교통 양극화 심화 우려”",
-          "url": "https://n.news.naver.com/mnews/article/666/0000120542?sid=101"
+          "keyword": "추진",
+          "headline": "[단독]정부, 조류인플루엔자 대비 해외 신선란 상시 공급망 추진",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743219?sid=101"
         },
         {
-          "keyword": "달러",
-          "headline": "\"휘청이는 증시에 안전자산 찾는다…예금 이어 달러·금까지 늘어\"",
-          "url": "https://n.news.naver.com/mnews/article/008/0005404516?sid=101"
+          "keyword": "삼전닉스",
+          "headline": "[투자전략 따라잡기] 삼전닉스 \"안 살 이유 없다\" 빠질 때마다 저가 매수",
+          "url": "https://n.news.naver.com/mnews/article/374/0000529285?sid=101"
         },
         {
-          "keyword": "AI",
-          "headline": "\"의지의 문제\"…운용사 의결권 행사도 AI 도움 받는다",
-          "url": "https://n.news.naver.com/mnews/article/119/0003125215?sid=101"
+          "keyword": "JP모건",
+          "headline": "\"신흥 AI 부자 잡자…JP모건, 주식담보대출 규정 완화\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014147522?sid=101"
         },
         {
-          "keyword": "대기업",
-          "headline": "한화·현대차 등 대기업 금융권 차입 1년 새 13% 증가",
-          "url": "https://n.news.naver.com/mnews/article/011/0004655003?sid=101"
+          "keyword": "경고",
+          "headline": "\"아이 혼자 타고 있어요\"…차량이 스스로 경고 알림",
+          "url": "https://n.news.naver.com/mnews/article/015/0005324528?sid=101"
         },
         {
-          "keyword": "지속",
-          "headline": "美 \"메모리칩 현지 생산 해달라\" 압박 지속…난감한 K반도체",
-          "url": "https://n.news.naver.com/mnews/article/003/0014147480?sid=101"
-        },
-        {
-          "keyword": "이것",
-          "headline": "두쫀쿠 다음은 '이것'...인기 '폭발'",
-          "url": "https://n.news.naver.com/mnews/article/050/0000110103?sid=101"
+          "keyword": "LH",
+          "headline": "LH 신축매입임대 사업 속도전…패스트트랙 도입",
+          "url": "https://n.news.naver.com/mnews/article/028/0002820077?sid=101"
         }
       ]
     },
@@ -63,24 +58,14 @@
       "cls": "tech",
       "items": [
         {
-          "keyword": "경쟁",
-          "headline": "근손실 잡아라…비만약 치료제 개발 경쟁 중심축 이동",
-          "url": "https://n.news.naver.com/mnews/article/029/0003044237?sid=105"
+          "keyword": "출시",
+          "headline": "SKT, 더 얇고 가벼워진 ‘갤럭시 퀀텀7’ 출시",
+          "url": "https://n.news.naver.com/mnews/article/029/0003044232?sid=105"
         },
         {
-          "keyword": "합류",
-          "headline": "카카오AI 첫 이사진에 전직 과기정통부 장관·국세청장 합류",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270157?sid=105"
-        },
-        {
-          "keyword": "모인",
-          "headline": "한 자리에 모인 e스포츠 국가대표",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270135?sid=105"
-        },
-        {
-          "keyword": "답하",
-          "headline": "답하는 '페이커' 이상혁",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270149?sid=105"
+          "keyword": "페이커",
+          "headline": "태극마크 단 페이커",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270202?sid=105"
         }
       ]
     },
@@ -89,24 +74,39 @@
       "cls": "life",
       "items": [
         {
+          "keyword": "도전",
+          "headline": "드랙퀸부터 DJ까지…킹키·한민우, 파격 1인극 ‘크루즈’ 도전",
+          "url": "https://n.news.naver.com/mnews/article/468/0001261930?sid=103"
+        },
+        {
+          "keyword": "자율주행",
+          "headline": "엔비디아 \"자율주행 다음 개척지는 추론…차량용 GPT만으론 부족\"",
+          "url": "https://n.news.naver.com/mnews/article/092/0002435010?sid=103"
+        },
+        {
+          "keyword": "출시",
+          "headline": "7세 이상 반려도 부드럽게…풀무원, 소프트 현미간식 출시",
+          "url": "https://n.news.naver.com/mnews/article/421/0009131943?sid=103"
+        },
+        {
+          "keyword": "폭염",
+          "headline": "전주 35.4도…전북 당분간 폭염 이어져",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270178?sid=103"
+        },
+        {
           "keyword": "공개",
-          "headline": "핍스모터사이클, 26FW 시즌 캠페인 '세컨드 라이프' 공개",
-          "url": "https://n.news.naver.com/mnews/article/117/0004098035?sid=103"
+          "headline": "고위험 펀드 ‘손실 전력’ 공개…20% 넘으면 투자자에 알린다",
+          "url": "https://n.news.naver.com/mnews/article/117/0004098046?sid=103"
         },
         {
-          "keyword": "27일",
-          "headline": "온열질환에 하루 70여명 응급실행…27일까지 '현저한 피해' 주의",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270116?sid=103"
+          "keyword": "위험",
+          "headline": "강남베드로병원, 건강검진 결과로 뇌동맥류 위험도 선별",
+          "url": "https://n.news.naver.com/mnews/article/346/0000114937?sid=103"
         },
         {
-          "keyword": "한국",
-          "headline": "한국 진출한 오우라, 미국서 ‘수면 측정 정확도’ 집단소송",
-          "url": "https://n.news.naver.com/mnews/article/346/0000114935?sid=103"
-        },
-        {
-          "keyword": "협주곡",
-          "headline": "대구시립국악단, 국악 유망주 한자리에…'청소년 협주곡의 밤'",
-          "url": "https://n.news.naver.com/mnews/article/088/0001025174?sid=103"
+          "keyword": "웰니스",
+          "headline": "웰니스까지 품은 '레인지로버 SV 블랙'…영국 럭셔리카의 정점",
+          "url": "https://n.news.naver.com/mnews/article/015/0005324511?sid=103"
         }
       ]
     }
