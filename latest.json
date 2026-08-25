@@ -1,29 +1,14 @@
 {
-  "updatedAt": "2026-08-25 20:50",
+  "updatedAt": "2026-08-25 21:20",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "지원",
-          "headline": "지역필수의료 회계 신설·지방국립대 등록금 지원",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244280?sid=101"
-        },
-        {
-          "keyword": "고려아연",
-          "headline": "고려아연 \"MBK·영풍, 원아시아 관련 주장 일방적…법적 대응\"",
-          "url": "https://n.news.naver.com/mnews/article/648/0000050147?sid=101"
-        },
-        {
-          "keyword": "미래",
-          "headline": "'800조' 슈퍼예산…\"미래·청년·지방에 집중\"",
-          "url": "https://n.news.naver.com/mnews/article/055/0001383344?sid=101"
-        },
-        {
-          "keyword": "슈퍼예산",
-          "headline": "당정 내년 800조 넘는 '슈퍼예산' 합의…\"지방국립대 등록금 전액 지원\"",
-          "url": "https://n.news.naver.com/mnews/article/057/0001965529?sid=101"
+          "keyword": "반도체",
+          "headline": "당정, 반도체 특별회계 신설…AI·3대 메가 총력전 지원",
+          "url": "https://n.news.naver.com/mnews/article/032/0003466426?sid=101"
         },
         {
           "keyword": "AI",
@@ -31,29 +16,44 @@
           "url": "https://n.news.naver.com/mnews/article/032/0003466393?sid=101"
         },
         {
-          "keyword": "쿠팡",
+          "keyword": "공공기관",
+          "headline": "미뤄지는 ‘공공기관 지방 이전’",
+          "url": "https://n.news.naver.com/mnews/article/032/0003466392?sid=101"
+        },
+        {
+          "keyword": "공정위",
           "headline": "쿠팡 반발로 공정위 '빈손' 철수…역대 처음",
           "url": "https://n.news.naver.com/mnews/article/055/0001383347?sid=101"
         },
         {
-          "keyword": "전기차",
-          "headline": "[포토] “어떤 전기차가 좋을까”",
-          "url": "https://n.news.naver.com/mnews/article/005/0001868945?sid=101"
+          "keyword": "슈퍼예산",
+          "headline": "'800조' 슈퍼예산…\"미래·청년·지방에 집중\"",
+          "url": "https://n.news.naver.com/mnews/article/055/0001383344?sid=101"
         },
         {
-          "keyword": "포토",
-          "headline": "[포토] 농협맛선, 추석맞이 기획전",
-          "url": "https://n.news.naver.com/mnews/article/018/0006357912?sid=101"
+          "keyword": "재계톡톡",
+          "headline": "역성장 빠진 케이뱅크…주가 부양책은 ‘감감무소식’ [재계톡톡]",
+          "url": "https://n.news.naver.com/mnews/article/024/0000107794?sid=101"
         },
         {
-          "keyword": "드론",
-          "headline": "드론 등 첨단기술 한 자리에",
-          "url": "https://n.news.naver.com/mnews/article/022/0004153641?sid=101"
+          "keyword": "MBK",
+          "headline": "고려아연 \"MBK·영풍, 원아시아 관련 주장 일방적…법적 대응\"",
+          "url": "https://n.news.naver.com/mnews/article/648/0000050147?sid=101"
         },
         {
-          "keyword": "지방",
-          "headline": "미뤄지는 ‘공공기관 지방 이전’",
-          "url": "https://n.news.naver.com/mnews/article/032/0003466392?sid=101"
+          "keyword": "반발",
+          "headline": "2차 공공기관 이전 계획 10~11월 확정...노조 반발 '관건'",
+          "url": "https://n.news.naver.com/mnews/article/660/0000115868?sid=101"
+        },
+        {
+          "keyword": "최대",
+          "headline": "고의로 양육비 안 주면 최대 ‘징역 3년’",
+          "url": "https://n.news.naver.com/mnews/article/032/0003466417?sid=101"
+        },
+        {
+          "keyword": "신규",
+          "headline": "20대 평균 주담대, 사상 첫 ‘2억’ 돌파…2분기 신규 대출도 ‘나 홀로’ 증가",
+          "url": "https://n.news.naver.com/mnews/article/032/0003466434?sid=101"
         }
       ]
     },
@@ -72,19 +72,19 @@
           "url": "https://n.news.naver.com/mnews/article/658/0000153407?sid=105"
         },
         {
+          "keyword": "반도체",
+          "headline": "호남 반도체 팹 도화선 됐나…美 \"현지 공장 지어라\" 압박",
+          "url": "https://n.news.naver.com/mnews/article/088/0001025201?sid=105"
+        },
+        {
           "keyword": "SK하이닉스",
           "headline": "SK하이닉스 노사 임단협, 다음 수순은…\"후속 일정부터 노사 협의\"",
           "url": "https://n.news.naver.com/mnews/article/031/0001052329?sid=105"
         },
         {
           "keyword": "이사회",
-          "headline": "KISA 이사회, 이상중 현 원장 해임 결정",
+          "headline": "KISA 이사회, 이상중 현 원장 해임 건의",
           "url": "https://n.news.naver.com/mnews/article/092/0002435034?sid=105"
-        },
-        {
-          "keyword": "지원",
-          "headline": "솔트룩스 '구버', 맞춤형 AI 에이전트 생성·공유 지원",
-          "url": "https://n.news.naver.com/mnews/article/030/0003460325?sid=105"
         },
         {
           "keyword": "후속",
@@ -102,14 +102,14 @@
           "url": "https://n.news.naver.com/mnews/article/029/0003044283?sid=105"
         },
         {
-          "keyword": "반도체",
-          "headline": "호남 반도체 팹 도화선 됐나…美 \"현지 공장 지어라\" 압박",
-          "url": "https://n.news.naver.com/mnews/article/088/0001025201?sid=105"
+          "keyword": "보안",
+          "headline": "보안 상장사들 직원 평균 급여는?...S2W가 최고",
+          "url": "https://n.news.naver.com/mnews/article/092/0002435036?sid=105"
         },
         {
-          "keyword": "전망",
-          "headline": "우주청, 누리호 5차발사 승인…10월 중 발사 전망",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270335?sid=105"
+          "keyword": "탑재",
+          "headline": "누리호 5차 발사 허가…초소형군집위성 등 15기 탑재",
+          "url": "https://n.news.naver.com/mnews/article/018/0006357916?sid=105"
         }
       ]
     },
@@ -123,14 +123,14 @@
           "url": "https://n.news.naver.com/mnews/article/449/0000358182?sid=103"
         },
         {
+          "keyword": "대구",
+          "headline": "대구의 10월은 오페라의 향연…‘도시 확장형’ 오페라 축제",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244276?sid=103"
+        },
+        {
           "keyword": "수도권",
           "headline": "[내일날씨]퇴근길 수도권에 비… 당분간 무더위 이어져",
           "url": "https://n.news.naver.com/mnews/article/277/0005807229?sid=103"
-        },
-        {
-          "keyword": "강원",
-          "headline": "[날씨] 강원 8월 하순 늦더위…내일 내륙·산지 비 소식",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244259?sid=103"
         },
         {
           "keyword": "1975년",
@@ -138,34 +138,34 @@
           "url": "https://n.news.naver.com/mnews/article/001/0016270439?sid=103"
         },
         {
-          "keyword": "10월",
-          "headline": "장동윤, 다섯 살 연하 배우 김승윤과 10월 결혼",
-          "url": "https://n.news.naver.com/mnews/article/032/0003466378?sid=103"
+          "keyword": "사망",
+          "headline": "“전자레인지에 음식 데워 먹고 사망”…‘이 균’ 때문이라는데?",
+          "url": "https://n.news.naver.com/mnews/article/296/0000104053?sid=103"
+        },
+        {
+          "keyword": "영결식",
+          "headline": "명진스님 영결식, 종교시민사회장으로 엄수",
+          "url": "https://n.news.naver.com/mnews/article/055/0001383360?sid=103"
+        },
+        {
+          "keyword": "몸매",
+          "headline": "설현, 무결점 비키니 몸매 공개…빙수에 라면 먹어도 슬림한 비결은?",
+          "url": "https://n.news.naver.com/mnews/article/296/0000104052?sid=103"
+        },
+        {
+          "keyword": "지나",
+          "headline": "[제주날씨] 처서 지나도 '폭염'...내일 산지  소나기",
+          "url": "https://n.news.naver.com/mnews/article/661/0000082170?sid=103"
+        },
+        {
+          "keyword": "요란한",
+          "headline": "[내일날씨] \"우산 챙기세요\"…수도권 강원에 '요란한 비'",
+          "url": "https://n.news.naver.com/mnews/article/031/0001052347?sid=103"
         },
         {
           "keyword": "다시",
           "headline": "“요요 왔나 했는데”…방시혁, 2달 만 다시 날렵해진 근황",
           "url": "https://n.news.naver.com/mnews/article/009/0005725785?sid=103"
-        },
-        {
-          "keyword": "서울25",
-          "headline": "서초구, 고속터미널 광장에서 뮤직앤아트페스티벌[서울25]",
-          "url": "https://n.news.naver.com/mnews/article/032/0003466408?sid=103"
-        },
-        {
-          "keyword": "가족",
-          "headline": "혼자 살면 외롭다?…\"가족 있어도 '이것' 없으면\" 깜짝 결과",
-          "url": "https://n.news.naver.com/mnews/article/215/0001263598?sid=103"
-        },
-        {
-          "keyword": "세계",
-          "headline": "AI로 생성한 ‘진짜 같은’ 세계 속에서…내가 본 것은 정말 ‘진짜’였을까",
-          "url": "https://n.news.naver.com/mnews/article/032/0003466404?sid=103"
-        },
-        {
-          "keyword": "같은",
-          "headline": "이자람 \"아비뇽은 꿈나라 같은 곳\"...[눈,눈,눈] 10월 국내 공연",
-          "url": "https://n.news.naver.com/mnews/article/052/0002397936?sid=103"
         }
       ]
     },
@@ -174,54 +174,39 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "트럼프",
-          "headline": "트럼프, 전문직 비자 1.4억원 수수료 강행",
-          "url": "https://n.news.naver.com/mnews/article/016/0002688060?sid=104"
-        },
-        {
           "keyword": "이란",
-          "headline": "이란 전면타격 접었나…美, 중동 대사관에 외교관 복귀 준비",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270456?sid=104"
+          "headline": "이란 고립 겨눈 미 “경제 왕따 작전”",
+          "url": "https://n.news.naver.com/mnews/article/032/0003466435?sid=104"
         },
         {
-          "keyword": "원유",
-          "headline": "\"일본 정부, 호르무즈 해협 우회 원유 수송로 건설 지원\"",
-          "url": "https://n.news.naver.com/mnews/article/214/0001520041?sid=104"
+          "keyword": "트럼프",
+          "headline": "트럼프 ‘우편투표 제한’ 길 터준 美대법",
+          "url": "https://n.news.naver.com/mnews/article/022/0004153655?sid=104"
+        },
+        {
+          "keyword": "자유경제구역",
+          "headline": "우크라, 돈바스 자유경제구역 휴전안 제시...러 거부",
+          "url": "https://n.news.naver.com/mnews/article/052/0002398100?sid=104"
+        },
+        {
+          "keyword": "젤렌스키",
+          "headline": "젤렌스키 \"돈바스에 자유경제구역\"…러 \"제3자 통제 없다\"",
+          "url": "https://n.news.naver.com/mnews/article/079/0004182319?sid=104"
+        },
+        {
+          "keyword": "사망",
+          "headline": "러시아 편에서 우크라이나전 참전한 영국인 첫 사망",
+          "url": "https://n.news.naver.com/mnews/article/052/0002398098?sid=104"
+        },
+        {
+          "keyword": "Russia",
+          "headline": "Russia Vatican",
+          "url": "https://n.news.naver.com/mnews/article/077/0007135189?sid=104"
         },
         {
           "keyword": "우크라",
-          "headline": "우크라, '돈바스 자유경제구역' 휴전안 제시…러 거부",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270459?sid=104"
-        },
-        {
-          "keyword": "경제적",
-          "headline": "\"경제적 왕따 작전\"…\"아무도 안 믿는 허풍\"",
-          "url": "https://n.news.naver.com/mnews/article/055/0001383353?sid=104"
-        },
-        {
-          "keyword": "캐나다",
-          "headline": "\"캐나다 자동차 50% 관세\"…최우방국도 안 가린다",
-          "url": "https://n.news.naver.com/mnews/article/055/0001383352?sid=104"
-        },
-        {
-          "keyword": "독립기념일",
-          "headline": "우크라이나 독립기념일 ‘드론·로봇 부대’ 열병식[포토뉴스]",
-          "url": "https://n.news.naver.com/mnews/article/032/0003466410?sid=104"
-        },
-        {
-          "keyword": "수수료",
-          "headline": "미 정부 ‘전문직 비자’에 수수료 1억4000만원 부과 결정",
-          "url": "https://n.news.naver.com/mnews/article/032/0003466400?sid=104"
-        },
-        {
-          "keyword": "추가",
-          "headline": "美재무 \"정례 국채 입찰 지속\"…추가 국채시장 조치엔 말아껴",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324251?sid=104"
-        },
-        {
-          "keyword": "호르무즈",
-          "headline": "요르단 국왕 “중동 문제 중국 입장 중요” 시진핑 “호르무즈 정상 항행 복원돼야”",
-          "url": "https://n.news.naver.com/mnews/article/032/0003466401?sid=104"
+          "headline": "‘자율 살상 AI 드론’ 띄운 러시아… 우크라 방공지원 똘똘 뭉친 유럽",
+          "url": "https://n.news.naver.com/mnews/article/022/0004153656?sid=104"
         }
       ]
     },
@@ -230,19 +215,19 @@
       "cls": "game",
       "items": [
         {
-          "keyword": "e스포츠",
+          "keyword": "게임스컴",
+          "headline": "K-게임, 게임스컴 출격…'붉은사막' 수상 후보",
+          "url": "https://n.news.naver.com/mnews/article/009/0005725711"
+        },
+        {
+          "keyword": "국가대표",
           "headline": "e스포츠 국가대표 국민의례",
           "url": "https://n.news.naver.com/mnews/article/001/0016270201"
         },
         {
           "keyword": "게임",
-          "headline": "게임 빅 5, 해외매출 비중 70% 돌파",
+          "headline": "게임 빅 5, 상반기 매출만 6조…해외매출 비중 70% 돌파",
           "url": "https://n.news.naver.com/mnews/article/011/0004655049"
-        },
-        {
-          "keyword": "붉은사막",
-          "headline": "K-게임, 게임스컴 출격…'붉은사막' 수상 후보",
-          "url": "https://n.news.naver.com/mnews/article/009/0005725711"
         }
       ]
     }
