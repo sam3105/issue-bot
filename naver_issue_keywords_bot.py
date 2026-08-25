@@ -74,6 +74,14 @@ RESET_HOURS = {6, 10, 14, 18, 22}
 CROSS_RUN_OVERLAP_THRESHOLD = 0.5
 
 STATE_FILE = "state.json"
+LATEST_JSON_FILE = "latest.json"  # 웹페이지가 읽어갈 최신 결과 파일
+
+# 웹 대시보드에서 분야별 색상을 구분하기 위한 클래스 이름
+CATEGORY_CSS_CLASS = {
+    "경제": "eco",
+    "IT·과학": "tech",
+    "생활·문화": "life",
+}
 
 # 기사로 연결되는 링크인지 판별할 때 쓰는 href 패턴
 ARTICLE_HREF_PATTERNS = ("/article/", "article_id=", "aid=")
@@ -261,6 +269,28 @@ def format_message(results: dict[str, list[dict]], is_reset: bool) -> str:
     return "\n".join(lines)
 
 
+def save_latest_json(results: dict[str, list[dict]], is_reset: bool) -> None:
+    """웹 대시보드(index.html)가 fetch()로 읽어갈 최신 결과 파일을 저장한다."""
+    now = datetime.now(KST).strftime("%Y-%m-%d %H:%M")
+    payload = {
+        "updatedAt": now,
+        "mode": "전체 갱신" if is_reset else "새 소식만",
+        "categories": [
+            {
+                "name": category,
+                "cls": CATEGORY_CSS_CLASS.get(category, "eco"),
+                "items": [
+                    {"keyword": item["word"], "headline": item["headline"]}
+                    for item in keywords
+                ],
+            }
+            for category, keywords in results.items()
+        ],
+    }
+    with open(LATEST_JSON_FILE, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+
 def send_telegram_message(text: str) -> None:
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     resp = requests.post(
@@ -376,6 +406,7 @@ def main():
         state[category] = (state.get(category, []) if not is_reset else []) + shown_headlines
 
     save_state(state)
+    save_latest_json(results, is_reset)
 
     message = format_message(results, is_reset)
     send_telegram_message(message)
