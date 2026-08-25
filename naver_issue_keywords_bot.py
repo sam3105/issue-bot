@@ -46,11 +46,13 @@ HEADERS = {
 KST = timezone(timedelta(hours=9))
 TOP_N = 10
 
-# 분야별 뉴스 목록 페이지 (실제로 sid1 값에 따라 분야가 필터링됨)
+# 분야별 뉴스 목록 페이지 (실제로 sid1/sid2 값에 따라 분야가 필터링됨)
 CATEGORIES = {
     "경제": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=101",
     "IT·과학": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=105",
     "생활·문화": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=103",
+    "세계": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=104",
+    "게임": "https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid1=105&sid2=229",
 }
 
 # 조사/어미로 흔히 붙는 꼬리들 - 길이가 긴 것부터 시도해서 먼저 잘라낸다
@@ -67,14 +69,9 @@ DUPLICATE_SIMILARITY_THRESHOLD = 0.5  # 이 비율 이상 단어가 겹치면 "�
 MIN_COUNT = 2  # 이 횟수 미만은 노이즈일 확률이 높아 top 10 후보에서 제외
 CLUSTER_OVERLAP_THRESHOLD = 0.7  # 이 비율 이상 같은 헤드라인 묶음에서 나오면 한 이슈로 합침
 
-# 텔레그램을 보낼 시각(KST, 24시간제) - 새벽엔 안 보냄
-SEND_HOURS = {6, 8, 10, 12, 14, 16, 18, 20, 22}
-# 이 시각에는 직전 기록을 무시하고 무조건 전체를 다시 보여줌 (4시간마다 리셋)
-RESET_HOURS = {6, 10, 14, 18, 22}
-# 직전 실행과 비교할 때, 이 비율 이상 단어가 겹치면 "같은 뉴스"로 보고 숨김
-CROSS_RUN_OVERLAP_THRESHOLD = 0.5
+# 실행 시각(KST, 24시간제) - 24시간 내내 실행
+RUN_HOURS = set(range(0, 24))
 
-STATE_FILE = "state.json"
 LATEST_JSON_FILE = "latest.json"  # 웹페이지가 읽어갈 최신 결과 파일
 
 # 웹 대시보드에서 분야별 색상을 구분하기 위한 클래스 이름
@@ -82,6 +79,8 @@ CATEGORY_CSS_CLASS = {
     "경제": "eco",
     "IT·과학": "tech",
     "생활·문화": "life",
+    "세계": "world",
+    "게임": "game",
 }
 
 # 기사로 연결되는 링크인지 판별할 때 쓰는 href 패턴
@@ -89,9 +88,6 @@ ARTICLE_HREF_PATTERNS = ("/article/", "article_id=", "aid=")
 
 # 분야별로 몇 페이지까지 더 가져와서 표본을 늘릴지
 PAGES_PER_CATEGORY = 3
-
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 # 빈도 계산에서 제외할 흔한 단어 / 조사·어미가 붙기 쉬운 일반 단어들
 # 실행해보면서 여기에 계속 단어를 추가해 정확도를 다듬으면 됩니다.
@@ -247,37 +243,15 @@ def extract_issue_keywords(headlines: list[str]) -> list[dict]:
     return results
 
 
+
 # ------------------------------------------------------------------
-# 3. 텔레그램 메시지 포맷 & 전송
+# 3. 웹 대시보드용 결과 저장 (latest.json)
 # ------------------------------------------------------------------
-def format_message(results: dict[str, list[dict]], is_reset: bool) -> str:
-    now = datetime.now(KST).strftime("%Y-%m-%d %H:%M")
-    mode_label = "전체" if is_reset else "새 소식만"
-    lines = [f"📊 분야별 이슈 키워드 순위 ({now} 기준 · {mode_label})"]
-
-    for category, keywords in results.items():
-        lines.append("")
-        lines.append(f"■ {category}")
-        if not keywords:
-            if is_reset:
-                lines.append("(헤드라인을 가져오지 못했습니다 - 페이지 구조 확인 필요)")
-            else:
-                lines.append("(지난 2시간과 겹치는 뉴스뿐이라 새 소식 없음)")
-            continue
-        for rank, item in enumerate(keywords, start=1):
-            lines.append(f"{rank}. {item['headline']}")
-            if item.get("url"):
-                lines.append(f"   {item['url']}")
-
-    return "\n".join(lines)
-
-
-def save_latest_json(results: dict[str, list[dict]], is_reset: bool) -> None:
+def save_latest_json(results: dict[str, list[dict]]) -> None:
     """웹 대시보드(index.html)가 fetch()로 읽어갈 최신 결과 파일을 저장한다."""
     now = datetime.now(KST).strftime("%Y-%m-%d %H:%M")
     payload = {
         "updatedAt": now,
-        "mode": "전체 갱신" if is_reset else "새 소식만",
         "categories": [
             {
                 "name": category,
@@ -294,79 +268,19 @@ def save_latest_json(results: dict[str, list[dict]], is_reset: bool) -> None:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
 
-def send_telegram_message(text: str) -> None:
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    resp = requests.post(
-        url,
-        json={"chat_id": TELEGRAM_CHAT_ID, "text": text},
-        timeout=15,
-    )
-    resp.raise_for_status()
-
-
-# ------------------------------------------------------------------
-# 4. 직전 실행 기록(state.json) 관리
-# ------------------------------------------------------------------
-def load_state() -> dict:
-    """직전 실행 때 저장해둔 기록을 읽어온다. 없으면 빈 기록으로 시작."""
-    if not os.path.exists(STATE_FILE):
-        return {}
-    try:
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except (json.JSONDecodeError, OSError):
-        return {}
-
-
-def save_state(state: dict) -> None:
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
-
-
-def is_similar_to_any(headline: str, previous_headlines: list[str]) -> bool:
-    """헤드라인이 이전 기록의 헤드라인들과 많이 겹치면 True (=이미 보여준 뉴스)."""
-    tokens = set(tokenize(headline))
-    if not tokens:
-        return False
-    for prev in previous_headlines:
-        prev_tokens = set(tokenize(prev))
-        if not prev_tokens:
-            continue
-        union = len(tokens | prev_tokens)
-        if union == 0:
-            continue
-        similarity = len(tokens & prev_tokens) / union
-        if similarity >= CROSS_RUN_OVERLAP_THRESHOLD:
-            return True
-    return False
-
-
 # ------------------------------------------------------------------
 # main
 # ------------------------------------------------------------------
 def main():
-    missing = [
-        name
-        for name, val in [
-            ("TELEGRAM_BOT_TOKEN", TELEGRAM_BOT_TOKEN),
-            ("TELEGRAM_CHAT_ID", TELEGRAM_CHAT_ID),
-        ]
-        if not val
-    ]
-    if missing:
-        print(f"환경변수가 설정되지 않았습니다: {', '.join(missing)}", file=sys.stderr)
-        sys.exit(1)
-
     now = datetime.now(KST)
     hour = now.hour
 
-    # 안전장치: 예정된 발송 시각이 아니면(예: 수동 실행 등) 조용히 종료
-    if hour not in SEND_HOURS:
-        print(f"현재 KST {hour}시는 발송 시각이 아니라서 건너뜁니다. (발송 시각: {sorted(SEND_HOURS)})")
+    # 안전장치: RUN_HOURS에 없는 시각이면 건너뜀 (현재는 24시간 전부 포함)
+    if hour not in RUN_HOURS:
+        print(f"현재 KST {hour}시는 실행 시각이 아니라서 건너뜁니다.")
         return
 
-    is_reset = hour in RESET_HOURS
-    print(f"KST {hour}시 실행 - {'전체 리셋' if is_reset else '새 소식만 필터링'} 모드")
+    print(f"KST {now.strftime('%H:%M')} 실행 - 전체 top 10 갱신")
 
     raw_headlines = {}
     headline_url_map: dict[str, str] = {}  # 헤드라인 텍스트 -> 실제 기사 주소
@@ -389,7 +303,6 @@ def main():
             headline_appearance[h] += 1
     shared_headlines = {h for h, count in headline_appearance.items() if count > 1}
 
-    state = {} if is_reset else load_state()
     results = {}
 
     for category, headlines in raw_headlines.items():
@@ -397,32 +310,14 @@ def main():
         print(f"[{category}] 공통 위젯 제거 후 {len(unique_headlines)}개 남음")
         keywords = extract_issue_keywords(unique_headlines)
 
-        if not is_reset:
-            previous = state.get(category, [])
-            before = len(keywords)
-            keywords = [
-                item for item in keywords
-                if not is_similar_to_any(item["headline"], previous)
-            ]
-            print(f"[{category}] 직전 기록과 비교: {before}개 중 {len(keywords)}개가 새 소식")
-
-        results[category] = keywords
-
         # 대표 헤드라인에 해당하는 실제 기사 주소를 붙여준다
         for item in keywords:
             item["url"] = headline_url_map.get(item["headline"], "")
 
-        # 이번에 보여준 헤드라인을 기록에 추가(리셋 모드면 새로 시작)
-        shown_headlines = [item["headline"] for item in keywords]
-        state[category] = (state.get(category, []) if not is_reset else []) + shown_headlines
+        results[category] = keywords
 
-    save_state(state)
-    save_latest_json(results, is_reset)
-
-    message = format_message(results, is_reset)
-    send_telegram_message(message)
-    print("텔레그램 전송 완료")
-    print(message)
+    save_latest_json(results)
+    print("latest.json 저장 완료")
 
 
 if __name__ == "__main__":
