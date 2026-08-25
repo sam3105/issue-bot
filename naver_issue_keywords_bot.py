@@ -28,6 +28,7 @@ import re
 import sys
 from collections import Counter
 from datetime import datetime, timezone, timedelta
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -106,14 +107,14 @@ STOPWORDS = {
 # ------------------------------------------------------------------
 # 1. 분야별 헤드라인 수집
 # ------------------------------------------------------------------
-def fetch_headlines(url: str) -> list[str]:
+def fetch_headlines(url: str) -> list[tuple[str, str]]:
     """
     분야별 뉴스 목록 페이지에서 여러 페이지(PAGES_PER_CATEGORY장)를 가져와,
-    기사로 연결되는 링크(href 패턴 기준)의 텍스트를 헤드라인으로 모은다.
+    기사로 연결되는 링크(href 패턴 기준)의 (텍스트, 기사 주소)를 모은다.
     class 이름이 아니라 링크 패턴 기준이라 페이지 디자인이 바뀌어도
     비교적 안정적으로 동작하고, 여러 페이지를 모아서 표본을 늘린다.
     """
-    titles = []
+    titles: list[tuple[str, str]] = []
     seen = set()
 
     for page in range(1, PAGES_PER_CATEGORY + 1):
@@ -132,7 +133,8 @@ def fetch_headlines(url: str) -> list[str]:
             if text in seen:
                 continue
             seen.add(text)
-            titles.append(text)
+            absolute_url = urljoin(page_url, href)  # 상대주소(/mnews/... 등)를 절대주소로 변환
+            titles.append((text, absolute_url))
 
     return titles
 
@@ -265,6 +267,8 @@ def format_message(results: dict[str, list[dict]], is_reset: bool) -> str:
         for rank, item in enumerate(keywords, start=1):
             lines.append(f"{rank}. {item['word']}")
             lines.append(f"   → {item['headline']}")
+            if item.get("url"):
+                lines.append(f"   {item['url']}")
 
     return "\n".join(lines)
 
@@ -280,7 +284,7 @@ def save_latest_json(results: dict[str, list[dict]], is_reset: bool) -> None:
                 "name": category,
                 "cls": CATEGORY_CSS_CLASS.get(category, "eco"),
                 "items": [
-                    {"keyword": item["word"], "headline": item["headline"]}
+                    {"keyword": item["word"], "headline": item["headline"], "url": item.get("url", "")}
                     for item in keywords
                 ],
             }
@@ -366,9 +370,13 @@ def main():
     print(f"KST {hour}시 실행 - {'전체 리셋' if is_reset else '새 소식만 필터링'} 모드")
 
     raw_headlines = {}
+    headline_url_map: dict[str, str] = {}  # 헤드라인 텍스트 -> 실제 기사 주소
     for category, url in CATEGORIES.items():
         try:
-            raw_headlines[category] = fetch_headlines(url)
+            fetched = fetch_headlines(url)  # [(headline, article_url), ...]
+            raw_headlines[category] = [h for h, _ in fetched]
+            for h, article_url in fetched:
+                headline_url_map.setdefault(h, article_url)
             print(f"[{category}] 헤드라인 {len(raw_headlines[category])}개 수집 완료")
         except Exception as e:
             print(f"[{category}] 수집 실패: {e}", file=sys.stderr)
@@ -400,6 +408,10 @@ def main():
             print(f"[{category}] 직전 기록과 비교: {before}개 중 {len(keywords)}개가 새 소식")
 
         results[category] = keywords
+
+        # 대표 헤드라인에 해당하는 실제 기사 주소를 붙여준다
+        for item in keywords:
+            item["url"] = headline_url_map.get(item["headline"], "")
 
         # 이번에 보여준 헤드라인을 기록에 추가(리셋 모드면 새로 시작)
         shown_headlines = [item["headline"] for item in keywords]
