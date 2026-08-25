@@ -1,14 +1,19 @@
 """
 네이버 뉴스 기반 '분야별 이슈 키워드 순위' 텔레그램 봇 (단순 빈도 + 연관어 방식)
 --------------------------------------------------------------------------
-경제 / IT·과학 / 생활·문화 3개 분야에서 각각 헤드라인을 모은 뒤,
+경제 / IT·과학 / 생활·문화 3개 분야 뉴스 목록 페이지에서 각각 헤드라인을 모은 뒤,
 분야별로 등장 빈도가 높은 단어 top 10을 뽑아 텔레그램으로 보냅니다.
 
+[주의] 이전 버전은 news.naver.com/main/ranking/popularDay.naver 페이지를 썼는데,
+이 페이지는 2020년 개편 이후 분야별 필터링을 지원하지 않아 모든 분야에 같은
+(뒤섞인) 뉴스가 나오는 문제가 있었습니다. 이번 버전은 실제로 분야별 필터링이
+되는 뉴스 목록 페이지(news.naver.com/main/list.naver)로 바꿨습니다.
+
 각 키워드 옆에는 "왜 많이 나왔는지" 짐작할 수 있도록, 그 키워드가 들어간
-헤드라인들 안에서 가장 자주 같이 등장한 다른 단어(연관어)를 괄호로 붙여줍니다.
-예: "경찰 (23회 언급) — 제주, 실종"
-※ 이건 AI가 뜻을 이해해서 요약한 게 아니라 '같이 자주 나온 단어'를 붙인
-것뿐이라 완벽한 설명은 아닙니다. 대략적인 힌트로 봐주세요.
+헤드라인들 안에서 가장 자주 같이 등장한 다른 단어(연관어)를 붙여줍니다.
+예: "현대차 (12회 언급) — 노조, 파업"
+※ AI가 뜻을 이해해서 요약한 게 아니라 '같이 자주 나온 단어'를 붙인 것뿐이라
+완벽한 설명은 아닙니다. 대략적인 힌트로 봐주세요.
 
 Claude API나 별도 형태소 분석기 없이 순수 파이썬만으로 동작합니다.
 
@@ -40,15 +45,15 @@ KST = timezone(timedelta(hours=9))
 TOP_N = 10
 CONTEXT_WORDS = 2  # 키워드마다 연관어를 몇 개까지 붙일지
 
+# 분야별 뉴스 목록 페이지 (실제로 sid1 값에 따라 분야가 필터링됨)
 CATEGORIES = {
-    "경제": "https://news.naver.com/main/ranking/popularDay.naver?sid1=101",
-    "IT·과학": "https://news.naver.com/main/ranking/popularDay.naver?sid1=105",
-    "생활·문화": "https://news.naver.com/main/ranking/popularDay.naver?sid1=103",
+    "경제": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=101",
+    "IT·과학": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=105",
+    "생활·문화": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=103",
 }
-SELECTORS = [
-    ".rankingnews_list .list_title",
-    "a.list_title",
-]
+
+# 기사로 연결되는 링크인지 판별할 때 쓰는 href 패턴
+ARTICLE_HREF_PATTERNS = ("/article/", "article_id=", "aid=")
 
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
@@ -68,21 +73,30 @@ STOPWORDS = {
 # 1. 분야별 헤드라인 수집
 # ------------------------------------------------------------------
 def fetch_headlines(url: str) -> list[str]:
-    """언론사별 많이 본 뉴스 랭킹 페이지에서 헤드라인 목록을 모은다."""
+    """
+    분야별 뉴스 목록 페이지에서, 기사로 연결되는 링크(href 패턴 기준)의
+    텍스트를 헤드라인으로 모은다. class 이름이 아니라 링크 패턴 기준이라
+    페이지 디자인이 바뀌어도 비교적 안정적으로 동작한다.
+    """
     resp = requests.get(url, headers=HEADERS, timeout=15)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    for selector in SELECTORS:
-        titles = [
-            el.get_text(strip=True)
-            for el in soup.select(selector)
-            if el.get_text(strip=True)
-        ]
-        if titles:
-            return titles
+    titles = []
+    seen = set()
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if not any(pattern in href for pattern in ARTICLE_HREF_PATTERNS):
+            continue
+        text = a.get_text(strip=True)
+        if not (8 <= len(text) <= 60):
+            continue
+        if text in seen:
+            continue
+        seen.add(text)
+        titles.append(text)
 
-    return []
+    return titles
 
 
 # ------------------------------------------------------------------
@@ -147,7 +161,7 @@ def format_message(results: dict[str, list[dict]]) -> str:
         lines.append("")
         lines.append(f"■ {category}")
         if not keywords:
-            lines.append("(헤드라인을 가져오지 못했습니다 - 셀렉터 확인 필요)")
+            lines.append("(헤드라인을 가져오지 못했습니다 - 페이지 구조 확인 필요)")
             continue
         for rank, item in enumerate(keywords, start=1):
             line = f"{rank}. {item['word']} ({item['count']}회 언급)"
