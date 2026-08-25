@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-08-26 06:57",
+  "updatedAt": "2026-08-26 07:19",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "증시",
-          "headline": "[속보]美증시 반도체 반등…마이크론·하닉 2%대 상승",
-          "url": "https://n.news.naver.com/mnews/article/021/0002813894?sid=101"
+          "keyword": "글로벌",
+          "headline": "엔비디아 실적 D-1 관전 포인트 4가지-[굿모닝 글로벌 이슈]",
+          "url": "https://n.news.naver.com/mnews/article/215/0001263617?sid=101"
         },
         {
-          "keyword": "반도체",
-          "headline": "전산업 체감경기 3년 11개월 만에 최고…반도체 중심으로 회복세",
-          "url": "https://n.news.naver.com/mnews/article/374/0000529351?sid=101"
-        },
-        {
-          "keyword": "상승",
-          "headline": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감",
-          "url": "https://n.news.naver.com/mnews/article/081/0003673575?sid=101"
-        },
-        {
-          "keyword": "최고",
-          "headline": "기업 체감경기 크게 개선...4년 만에 최고 수준",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398207?sid=101"
+          "keyword": "하락",
+          "headline": "뉴욕증시, 반도체주 반등·국채금리 하락에 상승…나스닥 0.66%↑",
+          "url": "https://n.news.naver.com/mnews/article/023/0003994943?sid=101"
         },
         {
           "keyword": "AI",
-          "headline": "'AI 전력 수요'에 납품해도 일감 더 쌓인다…전선업계 수주잔고 '쑥'",
-          "url": "https://n.news.naver.com/mnews/article/008/0005404717?sid=101"
+          "headline": "\"LG, 계열사 AI 성장 두드러져…투자 적합성 겸비\"[클릭 e종목]",
+          "url": "https://n.news.naver.com/mnews/article/277/0005807263?sid=101"
         },
         {
-          "keyword": "삼성",
-          "headline": "TV 판도 흔든 중국식 굴기, 메모리서 삼성·SK 겨눈다",
-          "url": "https://n.news.naver.com/mnews/article/417/0001156369?sid=101"
+          "keyword": "중국산",
+          "headline": "중국산 전기차, 가격 경쟁력 앞세워 세계 시장점유율 확대",
+          "url": "https://n.news.naver.com/mnews/article/037/0000038731?sid=101"
         },
         {
-          "keyword": "임단협",
-          "headline": "하이닉스 임단협 부결…‘초과이익 배분’ 갈등 고조",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244541?sid=101"
+          "keyword": "이상",
+          "headline": "개미 순매수 2배 이상 '껑충'…'빚투' 다시 늘었다",
+          "url": "https://n.news.naver.com/mnews/article/119/0003125367?sid=101"
         },
         {
-          "keyword": "부동산",
-          "headline": "3월엔 중동전쟁, 그 뒤엔 증시·부동산…디지털자산기본법 '표류'",
-          "url": "https://n.news.naver.com/mnews/article/421/0009132504?sid=101"
+          "keyword": "세계",
+          "headline": "금융도시 세계 8위 ‘서울’…‘지방이전’에 경쟁력 꺾이나",
+          "url": "https://n.news.naver.com/mnews/article/119/0003125369?sid=101"
         },
         {
-          "keyword": "경제",
-          "headline": "네 번의 전세난, 하나의 교훈[박선영의 경제 인사이트]",
-          "url": "https://n.news.naver.com/mnews/article/421/0009132496?sid=101"
+          "keyword": "주식",
+          "headline": "지난달 주식 발행액 373% 증가…대규모 유상증자 영향",
+          "url": "https://n.news.naver.com/mnews/article/003/0014148017?sid=101"
         },
         {
-          "keyword": "반발",
-          "headline": "쿠팡 반발로 공정위 '빈손' 철수…역대 처음",
-          "url": "https://n.news.naver.com/mnews/article/055/0001383425?sid=101"
+          "keyword": "삼전닉스",
+          "headline": "삼전닉스가 주도하던 코스피?...\"삼전닉스가 발목 잡는다\"",
+          "url": "https://n.news.naver.com/mnews/article/014/0005566409?sid=101"
+        },
+        {
+          "keyword": "반등",
+          "headline": "美 증시 일제히 상승…유가·국채금리 하락에 기술주 반등-[글로벌 마감 시황]",
+          "url": "https://n.news.naver.com/mnews/article/215/0001263619?sid=101"
+        },
+        {
+          "keyword": "강세",
+          "headline": "유가·금리 하락에 3대지수 상승마감…반도체주 강세 [뉴욕증시 브리핑]",
+          "url": "https://n.news.naver.com/mnews/article/015/0005324742?sid=101"
         }
       ]
     },
@@ -77,6 +77,11 @@
           "url": "https://n.news.naver.com/mnews/article/029/0003044312?sid=105"
         },
         {
+          "keyword": "공개",
+          "headline": "\"우리 아이 잘 가고 있나\"…우버, 부모에 차량 내부 실시간 공개",
+          "url": "https://n.news.naver.com/mnews/article/092/0002435042?sid=105"
+        },
+        {
           "keyword": "발사",
           "headline": "한국형발사체 '누리호' 5차 발사 심사 통과",
           "url": "https://n.news.naver.com/mnews/article/422/0000899376?sid=105"
@@ -87,29 +92,24 @@
           "url": "https://n.news.naver.com/mnews/article/079/0004182339?sid=105"
         },
         {
+          "keyword": "메모리",
+          "headline": "삼성 “AI 시대엔 메모리도 계산한다”…‘생각하는 메모리’ 성능 첫 공개",
+          "url": "https://n.news.naver.com/mnews/article/009/0005725823?sid=105"
+        },
+        {
           "keyword": "D램",
           "headline": "삼성, PC·스마트폰 D램에도 AI 연산 심는다…LPDDR5X-PIM 공개",
           "url": "https://n.news.naver.com/mnews/article/015/0005324731?sid=105"
         },
         {
-          "keyword": "공개",
-          "headline": "\"우리 아이 잘 가고 있나\"…우버, 부모에 차량 내부 실시간 공개",
-          "url": "https://n.news.naver.com/mnews/article/092/0002435042?sid=105"
+          "keyword": "데이터센터",
+          "headline": "\"화재 이후 데이터센터 소중함 깨달아\"…암스테르담의 반전[AIDC 시대의 공존법]⑮",
+          "url": "https://n.news.naver.com/mnews/article/277/0005807256?sid=105"
         },
         {
-          "keyword": "스페이스X",
-          "headline": "스페이스X, 하루 30회 발사 가능한 우주 기지 건설",
-          "url": "https://n.news.naver.com/mnews/article/029/0003044317?sid=105"
-        },
-        {
-          "keyword": "우주",
-          "headline": "더 정밀한 국산 탑재체 싣고… 천리안 6호, 2033년 우주로",
-          "url": "https://n.news.naver.com/mnews/article/081/0003673560?sid=105"
-        },
-        {
-          "keyword": "개인정보",
-          "headline": "해킹 잇따르자…정부부처 개인정보 전담인력 1.1명→2.1명",
-          "url": "https://n.news.naver.com/mnews/article/008/0005404325?sid=105"
+          "keyword": "시대",
+          "headline": "美 매체 \"갤S27 울트라 가격 인상\"…200만원 시대 열리나 [1일IT템]",
+          "url": "https://n.news.naver.com/mnews/article/014/0005566400?sid=105"
         }
       ]
     },
@@ -118,14 +118,14 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "소나기",
-          "headline": "[날씨] 곳곳 비·소나기…남부는 폭염 계속",
-          "url": "https://n.news.naver.com/mnews/article/055/0001383428?sid=103"
-        },
-        {
           "keyword": "무더위",
           "headline": "제주, 무더위 계속돼…오후 산지·중산간 소나기",
           "url": "https://n.news.naver.com/mnews/article/001/0016270615?sid=103"
+        },
+        {
+          "keyword": "소나기",
+          "headline": "[날씨] 곳곳 비·소나기…남부는 폭염 계속",
+          "url": "https://n.news.naver.com/mnews/article/055/0001383428?sid=103"
         },
         {
           "keyword": "최고",
@@ -133,9 +133,29 @@
           "url": "https://n.news.naver.com/mnews/article/001/0016270623?sid=103"
         },
         {
+          "keyword": "곳곳",
+          "headline": "전국 곳곳에 비…낮 ‘최고 36도’ 무더위 지속",
+          "url": "https://n.news.naver.com/mnews/article/032/0003466453?sid=103"
+        },
+        {
           "keyword": "날씨",
-          "headline": "[오늘 날씨] 강원·수도권에 비…높은 습도에 찜통더위",
-          "url": "https://n.news.naver.com/mnews/article/374/0000529338?sid=103"
+          "headline": "[날씨] 오늘 수도권·강원 비…전국 대부분 폭염특보",
+          "url": "https://n.news.naver.com/mnews/article/422/0000899419?sid=103"
+        },
+        {
+          "keyword": "전국",
+          "headline": "낮 최고 36도 '펄펄'…전국 곳곳 소나기 속 무더위 계속 [날씨]",
+          "url": "https://n.news.naver.com/mnews/article/015/0005324729?sid=103"
+        },
+        {
+          "keyword": "무대",
+          "headline": "아비뇽 뒤덮은 이자람 눈보라…한국 돌아와 대규모 컴백 무대",
+          "url": "https://n.news.naver.com/mnews/article/015/0005324611?sid=103"
+        },
+        {
+          "keyword": "강원",
+          "headline": "강원 대체로 흐리고 최대 30㎜ 비…낮 최고 32도",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270620?sid=103"
         },
         {
           "keyword": "컬처",
@@ -146,26 +166,6 @@
           "keyword": "폭염",
           "headline": "대전·세종·충남 '폭염'…낮 최고 31∼34도 예상",
           "url": "https://n.news.naver.com/mnews/article/001/0016270614?sid=103"
-        },
-        {
-          "keyword": "최대",
-          "headline": "강원 대체로 흐리고 최대 30㎜ 비…낮 최고 32도",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270620?sid=103"
-        },
-        {
-          "keyword": "강원",
-          "headline": "수도권·강원 최대 60㎜ 비…전남광주는 35도 무더위",
-          "url": "https://n.news.naver.com/mnews/article/660/0000115880?sid=103"
-        },
-        {
-          "keyword": "부산",
-          "headline": "부산·울산·경남, 무더위 속 경남 서부 내륙 오후 소나기",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270618?sid=103"
-        },
-        {
-          "keyword": "섬박람회",
-          "headline": "[섬박람회 D-10] ③ 우려를 기대로 바꿔야…성공 개최 과제는",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270606?sid=103"
         }
       ]
     },
@@ -175,48 +175,53 @@
       "items": [
         {
           "keyword": "이란",
-          "headline": "이란 \"호르무즈 재개방 위해선 美가 의무 이행해야\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014148039?sid=104"
+          "headline": "이란 \"韓 장금상선 등 45척, 호르무즈 제재 대상\"",
+          "url": "https://n.news.naver.com/mnews/article/448/0000635535?sid=104"
         },
         {
           "keyword": "트럼프",
-          "headline": "\"미 중간선거, 트럼프 지지율 낮지만 자금·시스템 유리\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398215?sid=104"
+          "headline": "\"트럼프 아들, 어디서 죽일까\"...이란 국영방송 '위협'",
+          "url": "https://n.news.naver.com/mnews/article/215/0001263620?sid=104"
         },
         {
-          "keyword": "호르무즈",
-          "headline": "이란 “호르무즈 해협 다시 열려면 미국이 위반한 의무 전면 이행해야”",
-          "url": "https://n.news.naver.com/mnews/article/016/0002688373?sid=104"
+          "keyword": "엔비디아",
+          "headline": "‘엔비디아 반등’에 뉴욕증시 웃었다…나스닥 0.66%↑",
+          "url": "https://n.news.naver.com/mnews/article/029/0003044326?sid=104"
         },
         {
-          "keyword": "와글와글",
-          "headline": "[와글와글] 배낭 메고 '아장아장'‥'꼬마 로봇' 눈길",
-          "url": "https://n.news.naver.com/mnews/article/214/0001520104?sid=104"
-        },
-        {
-          "keyword": "선박",
-          "headline": "\"이란 전쟁 등 여파로 파나마 운하 일부 선박 통행권 100만 달러 돌파\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398217?sid=104"
-        },
-        {
-          "keyword": "돌파",
-          "headline": "한국인 반미 정서 첫 50% 돌파...미국 퓨 리서치 조사",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398211?sid=104"
+          "keyword": "증시",
+          "headline": "美 증시, 유가·국채금리 하락에 동반 상승",
+          "url": "https://n.news.naver.com/mnews/article/119/0003125371?sid=104"
         },
         {
           "keyword": "US",
-          "headline": "US Canada Tariffs",
-          "url": "https://n.news.naver.com/mnews/article/077/0007135740?sid=104"
+          "headline": "US Open Tennis",
+          "url": "https://n.news.naver.com/mnews/article/077/0007135762?sid=104"
         },
         {
-          "keyword": "말라",
-          "headline": "가자 평화위원회, 하마스에 '연날리기 하지 말라' 경고",
-          "url": "https://n.news.naver.com/mnews/article/421/0009132503?sid=104"
+          "keyword": "다시",
+          "headline": "[마켓 브리핑] 엔비디아 실적 발표 D-1…반도체주들 다시 강세",
+          "url": "https://n.news.naver.com/mnews/article/374/0000529360?sid=104"
         },
         {
-          "keyword": "프랑스",
-          "headline": "프랑스 남부 토네이도에 초토화...긴박했던 그 순간",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398212?sid=104"
+          "keyword": "캐나다",
+          "headline": "미·캐나다 관세전쟁, 화장품에도 파장…K뷰티에 변수?",
+          "url": "https://n.news.naver.com/mnews/article/056/0012244552?sid=104"
+        },
+        {
+          "keyword": "관세",
+          "headline": "캐나다도 맞불 관세...\"미국산 7백개 제품에 최고 50% 부과\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002398219?sid=104"
+        },
+        {
+          "keyword": "불가피",
+          "headline": "\"성과급 60%는 주식\" 합의안 부결…재협상 불가피",
+          "url": "https://n.news.naver.com/mnews/article/055/0001383437?sid=104"
+        },
+        {
+          "keyword": "매출",
+          "headline": "美 투자자문사 \"AI 매출 둔화 여부, 증시에 가장 큰 시험대\"",
+          "url": "https://n.news.naver.com/mnews/article/374/0000529355?sid=104"
         }
       ]
     },
@@ -225,19 +230,19 @@
       "cls": "game",
       "items": [
         {
-          "keyword": "붉은사막",
+          "keyword": "게임스컴",
           "headline": "K-게임, 게임스컴 출격…'붉은사막' 수상 후보",
           "url": "https://n.news.naver.com/mnews/article/009/0005725711"
         },
         {
-          "keyword": "게임스컴",
-          "headline": "크래프톤 5종·엔씨 3종… 신작 보따리 들고 '게임스컴' 출격",
-          "url": "https://n.news.naver.com/mnews/article/014/0005566283"
+          "keyword": "후보",
+          "headline": "\"에픽·PC 게임 2개 부문 후보\"…'붉은사막' 인기 여전",
+          "url": "https://n.news.naver.com/mnews/article/008/0005404610"
         },
         {
           "keyword": "게임",
-          "headline": "\"에픽·PC 게임 2개 부문 후보\"…'붉은사막' 인기 여전",
-          "url": "https://n.news.naver.com/mnews/article/008/0005404610"
+          "headline": "게임 빅 5, 상반기 매출만 6조…해외매출 비중 70% 돌파",
+          "url": "https://n.news.naver.com/mnews/article/011/0004655049"
         },
         {
           "keyword": "e스포츠",
@@ -245,9 +250,9 @@
           "url": "https://n.news.naver.com/mnews/article/001/0016270201"
         },
         {
-          "keyword": "6조",
-          "headline": "게임 빅 5, 상반기 매출만 6조…해외매출 비중 70% 돌파",
-          "url": "https://n.news.naver.com/mnews/article/011/0004655049"
+          "keyword": "상반기",
+          "headline": "K게임 상반기 해외매출 6조…반년 만에 작년의 80% 채웠다",
+          "url": "https://n.news.naver.com/mnews/article/011/0004655114"
         }
       ]
     }
