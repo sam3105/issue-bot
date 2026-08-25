@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26 01:23",
+  "updatedAt": "2026-08-26 02:01",
   "categories": [
     {
       "name": "경제",
@@ -7,8 +7,8 @@
       "items": [
         {
           "keyword": "최대",
-          "headline": "배달앱 4사 7월 결제액… 역대 최대 3조2700억",
-          "url": "https://n.news.naver.com/mnews/article/020/0003743289?sid=101"
+          "headline": "캐나다, 美에 보복관세…700개 품목에 최대 50%",
+          "url": "https://n.news.naver.com/mnews/article/018/0006357946?sid=101"
         },
         {
           "keyword": "공정위",
@@ -17,8 +17,8 @@
         },
         {
           "keyword": "달러",
-          "headline": "‘스마트 링’ 오우라, 내달 美 상장… “30억 달러 조달”",
-          "url": "https://n.news.naver.com/mnews/article/020/0003743305?sid=101"
+          "headline": "비트코인, 8만 달러 코앞…돌파 후가 관건[코인뉴스]",
+          "url": "https://n.news.naver.com/mnews/article/119/0003124920?sid=101"
         },
         {
           "keyword": "비트코인",
@@ -31,29 +31,29 @@
           "url": "https://n.news.naver.com/mnews/article/020/0003743296?sid=101"
         },
         {
+          "keyword": "현대차",
+          "headline": "현대차 이어 기아도 임단협 잠정합의… 올해 ‘하투’ 종료",
+          "url": "https://n.news.naver.com/mnews/article/005/0001868963?sid=101"
+        },
+        {
+          "keyword": "한강뷰",
+          "headline": "\"회삿돈으로 200억 한강뷰\"…'황제사택' 세무조사",
+          "url": "https://n.news.naver.com/mnews/article/422/0000899125?sid=101"
+        },
+        {
           "keyword": "반발",
           "headline": "국책은행·금감원·예보까지… 공공기관 지방 이전설에 반발 확산",
           "url": "https://n.news.naver.com/mnews/article/005/0001868961?sid=101"
         },
         {
+          "keyword": "역대",
+          "headline": "배달앱 4사 7월 결제액… 역대 최대 3조2700억",
+          "url": "https://n.news.naver.com/mnews/article/020/0003743289?sid=101"
+        },
+        {
           "keyword": "내달",
           "headline": "용산공원, 내달 공개할 7만3000가구 택지서 빠져",
           "url": "https://n.news.naver.com/mnews/article/023/0003994930?sid=101"
-        },
-        {
-          "keyword": "AI",
-          "headline": "설비 고장, 미세 신호 잡는 AI로 원인까지 찾는다",
-          "url": "https://n.news.naver.com/mnews/article/020/0003743315?sid=101"
-        },
-        {
-          "keyword": "무인",
-          "headline": "화물운송용 대형 무인 헬리콥터",
-          "url": "https://n.news.naver.com/mnews/article/023/0003994881?sid=101"
-        },
-        {
-          "keyword": "투자",
-          "headline": "\"시티 프로토콜, 1100만불 투자 유치\"",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324706?sid=101"
         }
       ]
     },
@@ -88,14 +88,14 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "날씨",
-          "headline": "[날씨] 오늘 중북부 비…무더위 계속",
-          "url": "https://n.news.naver.com/mnews/article/055/0001383396?sid=103"
-        },
-        {
           "keyword": "강원",
           "headline": "시민기자의 눈으로 본 강원",
           "url": "https://n.news.naver.com/mnews/article/087/0001213510?sid=103"
+        },
+        {
+          "keyword": "날씨",
+          "headline": "[날씨] 오늘 중북부 비…무더위 계속",
+          "url": "https://n.news.naver.com/mnews/article/055/0001383396?sid=103"
         },
         {
           "keyword": "운세",
@@ -103,9 +103,24 @@
           "url": "https://n.news.naver.com/mnews/article/025/0003546755?sid=103"
         },
         {
-          "keyword": "최고",
-          "headline": "수도권·강원 비…'낮 최고 36도' 찜통더위[오늘날씨]",
-          "url": "https://n.news.naver.com/mnews/article/003/0014147917?sid=103"
+          "keyword": "계속",
+          "headline": "수도권·강원 소나기‥낮 최고 36도 무더위 계속",
+          "url": "https://n.news.naver.com/mnews/article/214/0001520072?sid=103"
+        },
+        {
+          "keyword": "어떻게",
+          "headline": "당뇨병·뇌졸중, ‘눈’ 보면 알 수 있다는데… 어떻게?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000114951?sid=103"
+        },
+        {
+          "keyword": "몸에",
+          "headline": "“몸에 콜레스테롤 많다는 신호”… ‘아킬레스건’을 보라던데, 왜?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000114954?sid=103"
+        },
+        {
+          "keyword": "감각",
+          "headline": "머물수록 깊어지는 시선, 감각의 자리서 바라본 예술세계",
+          "url": "https://n.news.naver.com/mnews/article/654/0000196946?sid=103"
         },
         {
           "keyword": "위험",
@@ -121,11 +136,6 @@
           "keyword": "강릉",
           "headline": "강릉 한송정서 펼쳐진 유쾌한 소동극 '화랑을 기다리며'",
           "url": "https://n.news.naver.com/mnews/article/654/0000196947?sid=103"
-        },
-        {
-          "keyword": "뇌졸중",
-          "headline": "당뇨병·뇌졸중, ‘눈’ 보면 알 수 있다는데… 어떻게?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000114951?sid=103"
         }
       ]
     },
@@ -134,54 +144,19 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "이란",
-          "headline": "美제재에 이란 “공격 기다려라”…물밑에선 협상 타진",
-          "url": "https://n.news.naver.com/mnews/article/018/0006357947?sid=104"
+          "keyword": "CIA",
+          "headline": "\"美 CIA 국장, 비밀리에 러시아 방문\" CBS",
+          "url": "https://n.news.naver.com/mnews/article/003/0014147943?sid=104"
+        },
+        {
+          "keyword": "미국",
+          "headline": "이란 \"미국의 대이란 경제전쟁은 전세계 주권에 대한 공격\"",
+          "url": "https://n.news.naver.com/mnews/article/214/0001520076?sid=104"
         },
         {
           "keyword": "캐나다",
-          "headline": "캐나다 또 때린 트럼프 \"車·철강에 50% 관세\"",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324661?sid=104"
-        },
-        {
-          "keyword": "호르무즈",
-          "headline": "트럼프 \"호르무즈 기뢰 모두 제거...추가 설치도 무관용\"",
-          "url": "https://n.news.naver.com/mnews/article/469/0000950074?sid=104"
-        },
-        {
-          "keyword": "트럼프",
-          "headline": "트럼프 “온타리오호, 아메리카호로 변경 검토” 캐나다에 도발",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244494?sid=104"
-        },
-        {
-          "keyword": "epaselect",
-          "headline": "epaselect BRITAIN GOLD",
-          "url": "https://n.news.naver.com/mnews/article/091/0010291398?sid=104"
-        },
-        {
-          "keyword": "SOCCER",
-          "headline": "BRITAIN SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010291403?sid=104"
-        },
-        {
-          "keyword": "방문",
-          "headline": "이스라엘 국방, 시리아 완충지대 방문…\"군대 철수 안 해\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270541?sid=104"
-        },
-        {
-          "keyword": "이스라엘",
-          "headline": "이스라엘, 동예루살렘 팔레스타인 난민기구 시설 철거 개시",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244497?sid=104"
-        },
-        {
-          "keyword": "AI",
-          "headline": "러는 우크라 전쟁에 ‘자율 살상 AI 드론’ 첫 투입",
-          "url": "https://n.news.naver.com/mnews/article/023/0003994921?sid=104"
-        },
-        {
-          "keyword": "제동",
-          "headline": "폭스바겐 10만명 구조조정 제동…노조 ‘강력 반대’",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244492?sid=104"
+          "headline": "'관세' 넘어 '주권'으로 번진 쟁점…미·캐나다 협상 결렬 내막",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270546?sid=104"
         }
       ]
     },
@@ -200,7 +175,7 @@
           "url": "https://n.news.naver.com/mnews/article/001/0016270201"
         },
         {
-          "keyword": "해외매출",
+          "keyword": "상반기",
           "headline": "K게임 상반기 해외매출 6조…반년 만에 작년의 80% 채웠다",
           "url": "https://n.news.naver.com/mnews/article/011/0004655114"
         }
