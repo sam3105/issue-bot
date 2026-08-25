@@ -268,12 +268,22 @@ def extract_issue_keywords(headlines: list[str]) -> list[dict]:
     clusters.sort(key=lambda c: len(c["idxs"]), reverse=True)
 
     results = []
-    for cluster in clusters[:TOP_N]:
+    used_headlines: set[str] = set()  # 이미 대표로 뽑힌 헤드라인은 다른 이슈에서 재사용 안 함
+    for cluster in clusters:
+        if len(results) >= TOP_N:
+            break
+
         keyword = cluster["words"][0]  # 가장 많이 등장한 대표 단어
-        # 이 이슈에 속한 헤드라인들 중 가장 짧은 걸 대표 설명으로 사용
-        # (짧을수록 핵심만 담겨있어 읽기 편한 경향이 있음)
-        cluster_headlines = [deduped[i][0] for i in cluster["idxs"]]
-        representative_headline = min(cluster_headlines, key=len)
+        # 이 이슈에 속한 헤드라인들 중 짧은 순서로 훑으면서, 아직 안 쓰인
+        # 헤드라인을 대표 설명으로 채택한다 (짧을수록 핵심만 담겨 읽기 편함)
+        cluster_headlines = sorted({deduped[i][0] for i in cluster["idxs"]}, key=len)
+        representative_headline = next(
+            (h for h in cluster_headlines if h not in used_headlines), None
+        )
+        if representative_headline is None:
+            continue  # 이 이슈를 대표할 새 헤드라인이 없으면 건너뛴다
+
+        used_headlines.add(representative_headline)
         results.append({
             "word": keyword,
             "count": len(cluster["idxs"]),
