@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-08-26 07:19",
+  "updatedAt": "2026-08-26 07:50",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "글로벌",
-          "headline": "엔비디아 실적 D-1 관전 포인트 4가지-[굿모닝 글로벌 이슈]",
-          "url": "https://n.news.naver.com/mnews/article/215/0001263617?sid=101"
+          "keyword": "코스피",
+          "headline": "한국 1년 예산 이제 800조?‥\"반도체 특별 지원\"",
+          "url": "https://n.news.naver.com/mnews/article/214/0001520113?sid=101"
         },
         {
-          "keyword": "하락",
-          "headline": "뉴욕증시, 반도체주 반등·국채금리 하락에 상승…나스닥 0.66%↑",
-          "url": "https://n.news.naver.com/mnews/article/023/0003994943?sid=101"
-        },
-        {
-          "keyword": "AI",
-          "headline": "\"LG, 계열사 AI 성장 두드러져…투자 적합성 겸비\"[클릭 e종목]",
-          "url": "https://n.news.naver.com/mnews/article/277/0005807263?sid=101"
-        },
-        {
-          "keyword": "중국산",
-          "headline": "중국산 전기차, 가격 경쟁력 앞세워 세계 시장점유율 확대",
-          "url": "https://n.news.naver.com/mnews/article/037/0000038731?sid=101"
-        },
-        {
-          "keyword": "이상",
-          "headline": "개미 순매수 2배 이상 '껑충'…'빚투' 다시 늘었다",
-          "url": "https://n.news.naver.com/mnews/article/119/0003125367?sid=101"
-        },
-        {
-          "keyword": "세계",
-          "headline": "금융도시 세계 8위 ‘서울’…‘지방이전’에 경쟁력 꺾이나",
-          "url": "https://n.news.naver.com/mnews/article/119/0003125369?sid=101"
-        },
-        {
-          "keyword": "주식",
-          "headline": "지난달 주식 발행액 373% 증가…대규모 유상증자 영향",
-          "url": "https://n.news.naver.com/mnews/article/003/0014148017?sid=101"
-        },
-        {
-          "keyword": "삼전닉스",
-          "headline": "삼전닉스가 주도하던 코스피?...\"삼전닉스가 발목 잡는다\"",
-          "url": "https://n.news.naver.com/mnews/article/014/0005566409?sid=101"
-        },
-        {
-          "keyword": "반등",
-          "headline": "美 증시 일제히 상승…유가·국채금리 하락에 기술주 반등-[글로벌 마감 시황]",
-          "url": "https://n.news.naver.com/mnews/article/215/0001263619?sid=101"
+          "keyword": "엔비디아",
+          "headline": "엔비디아 실적 발표, 어닝 서프라이즈보다 주목할 점은",
+          "url": "https://n.news.naver.com/mnews/article/277/0005807264?sid=101"
         },
         {
           "keyword": "강세",
-          "headline": "유가·금리 하락에 3대지수 상승마감…반도체주 강세 [뉴욕증시 브리핑]",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324742?sid=101"
+          "headline": "반도체주 강세에 상승…국제유가 90달러 밑으로[뉴욕마감]",
+          "url": "https://n.news.naver.com/mnews/article/008/0005404722?sid=101"
+        },
+        {
+          "keyword": "하향",
+          "headline": "국내서 두번째로 높은 타워 불발…송도 랜드마크 높이 하향",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270655?sid=101"
+        },
+        {
+          "keyword": "목표",
+          "headline": "삼성전자, 매크로 불확실성에 과민반응…목표가 37만원 유지-미래에셋",
+          "url": "https://n.news.naver.com/mnews/article/018/0006358015?sid=101"
+        },
+        {
+          "keyword": "지원",
+          "headline": "소진공, 스마트 상점 추가 모집…최대 70% 비용 지원",
+          "url": "https://n.news.naver.com/mnews/article/016/0002688391?sid=101"
+        },
+        {
+          "keyword": "주택공급",
+          "headline": "김윤덕·오세훈 오늘 재회동…서울 주택공급 '이견 조율'",
+          "url": "https://n.news.naver.com/mnews/article/421/0009132428?sid=101"
+        },
+        {
+          "keyword": "주식",
+          "headline": "주식 줄일 때 아니다…탄력 잃은 코스피 ‘매도’보다 ‘선별’",
+          "url": "https://n.news.naver.com/mnews/article/119/0003125368?sid=101"
+        },
+        {
+          "keyword": "적발",
+          "headline": "40억 법인 아파트에 사주 자녀…\"1조 9천억 탈루\" 적발",
+          "url": "https://n.news.naver.com/mnews/article/055/0001383449?sid=101"
+        },
+        {
+          "keyword": "국내",
+          "headline": "수호아이오, '예금토큰 네트워크' 파티오르와 국내 금융사 글로벌결제 지원",
+          "url": "https://n.news.naver.com/mnews/article/018/0006358013?sid=101"
         }
       ]
     },
@@ -67,16 +67,6 @@
           "url": "https://n.news.naver.com/mnews/article/003/0014148004?sid=105"
         },
         {
-          "keyword": "엔비디아",
-          "headline": "‘삼성 생산’ 엔비디아 ‘그록3’ 상용화",
-          "url": "https://n.news.naver.com/mnews/article/081/0003673551?sid=105"
-        },
-        {
-          "keyword": "삼성",
-          "headline": "‘땡큐 엔비디아’…삼성 파운드리, 그록3 확대에 4나노 물량↑",
-          "url": "https://n.news.naver.com/mnews/article/029/0003044312?sid=105"
-        },
-        {
           "keyword": "공개",
           "headline": "\"우리 아이 잘 가고 있나\"…우버, 부모에 차량 내부 실시간 공개",
           "url": "https://n.news.naver.com/mnews/article/092/0002435042?sid=105"
@@ -87,27 +77,37 @@
           "url": "https://n.news.naver.com/mnews/article/422/0000899376?sid=105"
         },
         {
-          "keyword": "기업",
-          "headline": "LG U+, AI 인프라 기업으로 재도약…주주가치 제고는 '덤'",
-          "url": "https://n.news.naver.com/mnews/article/079/0004182339?sid=105"
+          "keyword": "엔비디아",
+          "headline": "‘땡큐 엔비디아’…삼성 파운드리, 그록3 확대에 4나노 물량↑",
+          "url": "https://n.news.naver.com/mnews/article/029/0003044312?sid=105"
         },
         {
-          "keyword": "메모리",
+          "keyword": "데이터센터",
+          "headline": "IPO 앞둔 오픈AI, 데이터센터 총괄도 퇴사…임원 이탈 이어져",
+          "url": "https://n.news.naver.com/mnews/article/030/0003460346?sid=105"
+        },
+        {
+          "keyword": "스페이스X",
+          "headline": "스페이스X, 하루 30회 발사 가능한 우주 기지 건설",
+          "url": "https://n.news.naver.com/mnews/article/029/0003044317?sid=105"
+        },
+        {
+          "keyword": "삼성",
           "headline": "삼성 “AI 시대엔 메모리도 계산한다”…‘생각하는 메모리’ 성능 첫 공개",
           "url": "https://n.news.naver.com/mnews/article/009/0005725823?sid=105"
         },
         {
-          "keyword": "D램",
-          "headline": "삼성, PC·스마트폰 D램에도 AI 연산 심는다…LPDDR5X-PIM 공개",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324731?sid=105"
+          "keyword": "오픈AI",
+          "headline": "오픈AI, \"자체 개발 칩 '할라피뇨' 엔비디아 GB300 앞질렀다\"",
+          "url": "https://n.news.naver.com/mnews/article/138/0002238966?sid=105"
         },
         {
-          "keyword": "데이터센터",
-          "headline": "\"화재 이후 데이터센터 소중함 깨달아\"…암스테르담의 반전[AIDC 시대의 공존법]⑮",
-          "url": "https://n.news.naver.com/mnews/article/277/0005807256?sid=105"
+          "keyword": "IPO",
+          "headline": "앤트로픽, IPO 앞두고 30조달러 잠재 시장규모 제시…스페이스X 앞질러",
+          "url": "https://n.news.naver.com/mnews/article/138/0002238965?sid=105"
         },
         {
-          "keyword": "시대",
+          "keyword": "울트라",
           "headline": "美 매체 \"갤S27 울트라 가격 인상\"…200만원 시대 열리나 [1일IT템]",
           "url": "https://n.news.naver.com/mnews/article/014/0005566400?sid=105"
         }
@@ -118,24 +118,19 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "무더위",
-          "headline": "제주, 무더위 계속돼…오후 산지·중산간 소나기",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270615?sid=103"
-        },
-        {
           "keyword": "소나기",
-          "headline": "[날씨] 곳곳 비·소나기…남부는 폭염 계속",
-          "url": "https://n.news.naver.com/mnews/article/055/0001383428?sid=103"
+          "headline": "전국 곳곳에 비…낮 ‘최고 36도’ 무더위 지속",
+          "url": "https://n.news.naver.com/mnews/article/032/0003466453?sid=103"
         },
         {
           "keyword": "최고",
-          "headline": "충북 구름 많음…낮 최고 33도",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270623?sid=103"
+          "headline": "26일 전남광주 낮 최고 35도…소나기 그친 뒤 무더위",
+          "url": "https://n.news.naver.com/mnews/article/003/0014148071?sid=103"
         },
         {
-          "keyword": "곳곳",
-          "headline": "전국 곳곳에 비…낮 ‘최고 36도’ 무더위 지속",
-          "url": "https://n.news.naver.com/mnews/article/032/0003466453?sid=103"
+          "keyword": "무더위",
+          "headline": "낮 최고 36도 무더위 당분간 계속…수도권·강원에 소나기",
+          "url": "https://n.news.naver.com/mnews/article/654/0000197053?sid=103"
         },
         {
           "keyword": "날씨",
@@ -143,29 +138,34 @@
           "url": "https://n.news.naver.com/mnews/article/422/0000899419?sid=103"
         },
         {
-          "keyword": "전국",
+          "keyword": "강원",
+          "headline": "서울 대중교통 이용률, 강원의 7배…시군구 절반은 10%도 안돼",
+          "url": "https://n.news.naver.com/mnews/article/421/0009132532?sid=103"
+        },
+        {
+          "keyword": "수도권",
+          "headline": "수도권 낮 한때 비…체감 35도 폭염 계속[내일날씨]",
+          "url": "https://n.news.naver.com/mnews/article/018/0006357837?sid=103"
+        },
+        {
+          "keyword": "계속",
           "headline": "낮 최고 36도 '펄펄'…전국 곳곳 소나기 속 무더위 계속 [날씨]",
           "url": "https://n.news.naver.com/mnews/article/015/0005324729?sid=103"
         },
         {
-          "keyword": "무대",
-          "headline": "아비뇽 뒤덮은 이자람 눈보라…한국 돌아와 대규모 컴백 무대",
-          "url": "https://n.news.naver.com/mnews/article/015/0005324611?sid=103"
-        },
-        {
-          "keyword": "강원",
-          "headline": "강원 대체로 흐리고 최대 30㎜ 비…낮 최고 32도",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270620?sid=103"
-        },
-        {
-          "keyword": "컬처",
+          "keyword": "잇슈",
           "headline": "[잇슈 컬처] 전원주 유튜브 제작진 전원 하차…추측 무성",
           "url": "https://n.news.naver.com/mnews/article/056/0012244546?sid=103"
         },
         {
-          "keyword": "폭염",
-          "headline": "대전·세종·충남 '폭염'…낮 최고 31∼34도 예상",
-          "url": "https://n.news.naver.com/mnews/article/001/0016270614?sid=103"
+          "keyword": "중독",
+          "headline": "캠핑 일산화탄소 중독 가장 위험한 연료는? [척척박산]",
+          "url": "https://n.news.naver.com/mnews/article/094/0000013760?sid=103"
+        },
+        {
+          "keyword": "응급실",
+          "headline": "\"응급실 손상환자 5명 중 2명 추락·낙상\"",
+          "url": "https://n.news.naver.com/mnews/article/277/0005807259?sid=103"
         }
       ]
     },
@@ -175,53 +175,53 @@
       "items": [
         {
           "keyword": "이란",
-          "headline": "이란 \"韓 장금상선 등 45척, 호르무즈 제재 대상\"",
-          "url": "https://n.news.naver.com/mnews/article/448/0000635535?sid=104"
+          "headline": "[뉴스초점] 러 언론 \"미국·이란 휴전 합의\" 돌연 보도",
+          "url": "https://n.news.naver.com/mnews/article/422/0000899425?sid=104"
         },
         {
           "keyword": "트럼프",
-          "headline": "\"트럼프 아들, 어디서 죽일까\"...이란 국영방송 '위협'",
-          "url": "https://n.news.naver.com/mnews/article/215/0001263620?sid=104"
-        },
-        {
-          "keyword": "엔비디아",
-          "headline": "‘엔비디아 반등’에 뉴욕증시 웃었다…나스닥 0.66%↑",
-          "url": "https://n.news.naver.com/mnews/article/029/0003044326?sid=104"
-        },
-        {
-          "keyword": "증시",
-          "headline": "美 증시, 유가·국채금리 하락에 동반 상승",
-          "url": "https://n.news.naver.com/mnews/article/119/0003125371?sid=104"
-        },
-        {
-          "keyword": "US",
-          "headline": "US Open Tennis",
-          "url": "https://n.news.naver.com/mnews/article/077/0007135762?sid=104"
-        },
-        {
-          "keyword": "다시",
-          "headline": "[마켓 브리핑] 엔비디아 실적 발표 D-1…반도체주들 다시 강세",
-          "url": "https://n.news.naver.com/mnews/article/374/0000529360?sid=104"
+          "headline": "트럼프 행정부, 이민비자 신청 돌연 중단",
+          "url": "https://n.news.naver.com/mnews/article/018/0006358017?sid=104"
         },
         {
           "keyword": "캐나다",
-          "headline": "미·캐나다 관세전쟁, 화장품에도 파장…K뷰티에 변수?",
-          "url": "https://n.news.naver.com/mnews/article/056/0012244552?sid=104"
+          "headline": "미, 캐나다 관세 부과 근거는 1930년 제정 관세법 338조",
+          "url": "https://n.news.naver.com/mnews/article/003/0014148064?sid=104"
         },
         {
-          "keyword": "관세",
-          "headline": "캐나다도 맞불 관세...\"미국산 7백개 제품에 최고 50% 부과\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398219?sid=104"
+          "keyword": "미국",
+          "headline": "한국인, 미국 비호감 절반 넘었다…55%로 최고치",
+          "url": "https://n.news.naver.com/mnews/article/374/0000529363?sid=104"
         },
         {
-          "keyword": "불가피",
-          "headline": "\"성과급 60%는 주식\" 합의안 부결…재협상 불가피",
-          "url": "https://n.news.naver.com/mnews/article/055/0001383437?sid=104"
+          "keyword": "극비",
+          "headline": "CIA 국장 극비 모스크바행…푸틴에 '레드라인' 경고했나",
+          "url": "https://n.news.naver.com/mnews/article/014/0005566414?sid=104"
         },
         {
-          "keyword": "매출",
-          "headline": "美 투자자문사 \"AI 매출 둔화 여부, 증시에 가장 큰 시험대\"",
-          "url": "https://n.news.naver.com/mnews/article/374/0000529355?sid=104"
+          "keyword": "가능성",
+          "headline": "CIA 국장 '극비 방러' 왜?…\"우크라·이란문제 논의 가능성\"",
+          "url": "https://n.news.naver.com/mnews/article/422/0000899424?sid=104"
+        },
+        {
+          "keyword": "조사",
+          "headline": "경찰, 경산 20대 中유학생 살해 30대 중국인 본격 조사",
+          "url": "https://n.news.naver.com/mnews/article/001/0016270667?sid=104"
+        },
+        {
+          "keyword": "컨트리",
+          "headline": "\"난 아직 안 죽었다\" 했는데…'컨트리 여왕' 돌리 파튼 별세",
+          "url": "https://n.news.naver.com/mnews/article/015/0005324745?sid=104"
+        },
+        {
+          "keyword": "아이슬란드",
+          "headline": "EU 가입 국민투표 앞둔 아이슬란드 \"찬반여론 팽팽\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002398224?sid=104"
+        },
+        {
+          "keyword": "앞둔",
+          "headline": "IPO 앞둔 오픈AI, 핵심 임원 줄줄이 이탈...데이터센터 총괄도 퇴사",
+          "url": "https://n.news.naver.com/mnews/article/660/0000115882?sid=104"
         }
       ]
     },
@@ -230,19 +230,14 @@
       "cls": "game",
       "items": [
         {
-          "keyword": "게임스컴",
+          "keyword": "붉은사막",
           "headline": "K-게임, 게임스컴 출격…'붉은사막' 수상 후보",
           "url": "https://n.news.naver.com/mnews/article/009/0005725711"
         },
         {
-          "keyword": "후보",
+          "keyword": "게임",
           "headline": "\"에픽·PC 게임 2개 부문 후보\"…'붉은사막' 인기 여전",
           "url": "https://n.news.naver.com/mnews/article/008/0005404610"
-        },
-        {
-          "keyword": "게임",
-          "headline": "게임 빅 5, 상반기 매출만 6조…해외매출 비중 70% 돌파",
-          "url": "https://n.news.naver.com/mnews/article/011/0004655049"
         },
         {
           "keyword": "e스포츠",
@@ -250,9 +245,9 @@
           "url": "https://n.news.naver.com/mnews/article/001/0016270201"
         },
         {
-          "keyword": "상반기",
-          "headline": "K게임 상반기 해외매출 6조…반년 만에 작년의 80% 채웠다",
-          "url": "https://n.news.naver.com/mnews/article/011/0004655114"
+          "keyword": "6조",
+          "headline": "게임 빅 5, 상반기 매출만 6조…해외매출 비중 70% 돌파",
+          "url": "https://n.news.naver.com/mnews/article/011/0004655049"
         }
       ]
     }
