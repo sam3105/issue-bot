@@ -28,7 +28,7 @@ import re
 import sys
 from collections import Counter
 from datetime import datetime, timezone, timedelta
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse, parse_qs
 
 import requests
 from bs4 import BeautifulSoup
@@ -54,6 +54,25 @@ CATEGORIES = {
     "세계": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=104",
     "게임": "https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid1=105&sid2=229",
 }
+
+# 기사 주소 안에 있는 sid 파라미터로 "진짜 그 분야 기사인지" 검증할 때 쓰는 기대값
+# (사이드바에 붙는 '많이 본 뉴스' 위젯처럼 다른 분야 기사가 섞여 들어오는 걸 걸러냄)
+CATEGORY_EXPECTED_SID = {
+    "경제": "101",
+    "IT·과학": "105",
+    "생활·문화": "103",
+    "세계": "104",
+    "게임": "105",  # 게임은 IT·과학 하위라 sid는 105로 동일함 - 아래 키워드 필터로 추가 검증
+}
+
+# '게임' 분야는 네이버가 별도 sid로 안 나눠서, sid 검증만으로는 부족함.
+# 헤드라인에 이 단어들 중 하나라도 있어야 진짜 게임 뉴스로 인정한다.
+GAME_KEYWORDS = (
+    "게임", "e스포츠", "이스포츠", "스팀", "넥슨", "엔씨", "크래프톤",
+    "펄어비스", "카트라이더", "리그오브레전드", "배틀그라운드", "확률형",
+    "콘솔", "플레이스테이션", "닌텐도", "게이머", "게임업계", "게임사",
+    "모바일게임", "PC방", "롤드컵", "던전앤파이터", "메이플스토리",
+)
 
 # 조사/어미로 흔히 붙는 꼬리들 - 길이가 긴 것부터 시도해서 먼저 잘라낸다
 # (완벽한 형태소 분석은 아니지만 "정부는"/"정부가"를 "정부"로 합쳐주는 수준의 효과)
@@ -138,6 +157,27 @@ def fetch_headlines(url: str) -> list[tuple[str, str]]:
 # ------------------------------------------------------------------
 # 2. 단순 빈도 + 연관어 기반 키워드 추출
 # ------------------------------------------------------------------
+def filter_by_category(category: str, fetched: list[tuple[str, str]]) -> list[tuple[str, str]]:
+    """
+    기사 주소에 들어있는 sid(분야 코드)를 확인해서, 다른 분야인데 사이드바
+    위젯 등으로 섞여 들어온 기사를 걸러낸다. '게임'은 sid만으로 구분이
+    안 되므로 게임 관련 단어가 헤드라인에 있는지도 추가로 확인한다.
+    """
+    expected_sid = CATEGORY_EXPECTED_SID.get(category)
+    filtered = []
+    for headline, url in fetched:
+        if expected_sid:
+            query = parse_qs(urlparse(url).query)
+            sid = query.get("sid", [None])[0]
+            # sid 정보가 아예 없는 기사(구식 링크 등)는 판단 보류하고 통과시킨다
+            if sid is not None and sid != expected_sid:
+                continue
+        if category == "게임" and not any(kw in headline for kw in GAME_KEYWORDS):
+            continue
+        filtered.append((headline, url))
+    return filtered
+
+
 def strip_trailing_suffix(token: str) -> str:
     """흔한 조사/어미 꼬리를 잘라낸다. 자른 결과가 2글자 미만이면 원본 유지."""
     for suffix in TRAILING_SUFFIXES:
@@ -287,10 +327,12 @@ def main():
     for category, url in CATEGORIES.items():
         try:
             fetched = fetch_headlines(url)  # [(headline, article_url), ...]
+            before = len(fetched)
+            fetched = filter_by_category(category, fetched)
+            print(f"[{category}] 헤드라인 {before}개 수집 -> 분야 검증 후 {len(fetched)}개")
             raw_headlines[category] = [h for h, _ in fetched]
             for h, article_url in fetched:
                 headline_url_map.setdefault(h, article_url)
-            print(f"[{category}] 헤드라인 {len(raw_headlines[category])}개 수집 완료")
         except Exception as e:
             print(f"[{category}] 수집 실패: {e}", file=sys.stderr)
             raw_headlines[category] = []
