@@ -199,14 +199,27 @@ def main():
         sys.exit(1)
 
     results = {}
+    raw_headlines = {}
     for category, url in CATEGORIES.items():
         try:
-            headlines = fetch_headlines(url)
-            print(f"[{category}] 헤드라인 {len(headlines)}개 수집 완료")
-            results[category] = extract_issue_keywords(headlines)
+            raw_headlines[category] = fetch_headlines(url)
+            print(f"[{category}] 헤드라인 {len(raw_headlines[category])}개 수집 완료")
         except Exception as e:
             print(f"[{category}] 수집 실패: {e}", file=sys.stderr)
-            results[category] = []
+            raw_headlines[category] = []
+
+    # 2개 이상의 분야에 똑같이 등장하는 헤드라인은 "공통 위젯(사이드바 등)"일
+    # 가능성이 높으므로 제거한다. 진짜 그 분야 고유 기사만 남긴다.
+    headline_appearance = Counter()
+    for headlines in raw_headlines.values():
+        for h in set(headlines):
+            headline_appearance[h] += 1
+    shared_headlines = {h for h, count in headline_appearance.items() if count > 1}
+
+    for category, headlines in raw_headlines.items():
+        unique_headlines = [h for h in headlines if h not in shared_headlines]
+        print(f"[{category}] 공통 위젯 제거 후 {len(unique_headlines)}개 남음")
+        results[category] = extract_issue_keywords(unique_headlines)
 
     message = format_message(results)
     send_telegram_message(message)
