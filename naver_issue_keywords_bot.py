@@ -103,28 +103,14 @@ CATEGORY_CSS_CLASS = {
     "생활·문화": "life",
     "세계": "world",
     "게임": "game",
-    "국내축구": "sports",
-    "해외축구": "sports",
 }
 
 # 기사로 연결되는 링크인지 판별할 때 쓰는 href 패턴
-ARTICLE_HREF_PATTERNS = ("/article/", "article_id=", "aid=", "/news/", "oid=")
-
-# 스포츠(축구) 뉴스 소스 - news.naver.com이 아니라 별도 사이트(sports.news.naver.com)라
-# sid로 분야 검증이 안 되므로, 아래 키워드가 헤드라인에 있는지로 축구 뉴스만 골라낸다.
-SPORTS_SOURCES = {
-    "국내축구": "https://sports.news.naver.com/kfootball/news/index",
-    "해외축구": "https://sports.news.naver.com/wfootball/news/index",
-}
-SPORTS_NEWS_LIMIT = 5
-SOCCER_KEYWORDS = (
-    "축구", "K리그", "프리미어리그", "라리가", "분데스리가", "세리에",
-    "챔피언스리그", "유로파", "손흥민", "이강인", "황희찬", "월드컵",
-    "FC", "K리그1", "K리그2", "이적", "리그앙", "감독", "국가대표",
-)
+ARTICLE_HREF_PATTERNS = ("/article/", "article_id=", "aid=")
 
 # 분야별로 몇 페이지까지 더 가져와서 표본을 늘릴지
 PAGES_PER_CATEGORY = 3
+
 
 # 빈도 계산에서 제외할 흔한 단어 / 조사·어미가 붙기 쉬운 일반 단어들
 # 실행해보면서 여기에 계속 단어를 추가해 정확도를 다듬으면 됩니다.
@@ -245,60 +231,6 @@ def dedupe_similar_headlines(headlines: list[str], tokens_list: list[list[str]])
             kept.append((headline, tokens))
             kept_sets.append(token_set)
     return kept
-
-
-def fetch_sports_headlines(url: str) -> list[tuple[str, str]]:
-    """
-    네이버 스포츠(sports.news.naver.com) 뉴스 목록에서 (텍스트, 기사 주소)를 모은다.
-    이 사이트는 news.naver.com과 페이지 구조가 다를 수 있어서 페이지네이션 없이
-    첫 화면만 가져온다.
-    """
-    titles: list[tuple[str, str]] = []
-    seen = set()
-    resp = requests.get(url, headers=HEADERS, timeout=15)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
-
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if not any(pattern in href for pattern in ARTICLE_HREF_PATTERNS):
-            continue
-        text = a.get_text(strip=True)
-        if not (8 <= len(text) <= 60):
-            continue
-        if text in seen:
-            continue
-        seen.add(text)
-        absolute_url = urljoin(url, href)
-        titles.append((text, absolute_url))
-
-    return titles
-
-
-def extract_latest_news(fetched: list[tuple[str, str]], limit: int) -> list[dict]:
-    """
-    이슈 클러스터링 없이, 최근 순서 그대로 최대 limit개를 뽑는다.
-    거의 같은 문구의 중복 기사만 걸러낸다(보도자료 반복 게재 등).
-    """
-    seen_token_sets: list[set[str]] = []
-    results = []
-    for headline, url in fetched:
-        if len(results) >= limit:
-            break
-        tokens = set(tokenize(headline))
-        if not tokens:
-            continue
-        is_duplicate = False
-        for existing in seen_token_sets:
-            union = len(tokens | existing)
-            if union and len(tokens & existing) / union >= DUPLICATE_SIMILARITY_THRESHOLD:
-                is_duplicate = True
-                break
-        if is_duplicate:
-            continue
-        seen_token_sets.append(tokens)
-        results.append({"word": "", "count": 1, "headline": headline, "url": url})
-    return results
 
 
 def extract_issue_keywords(headlines: list[str]) -> list[dict]:
@@ -439,18 +371,6 @@ def main():
             item["url"] = headline_url_map.get(item["headline"], "")
 
         results[category] = keywords
-
-    # ---- 스포츠(축구) 별도 처리: 이슈 클러스터링 없이 최신 5개씩 ----
-    for label, url in SPORTS_SOURCES.items():
-        try:
-            fetched = fetch_sports_headlines(url)
-            before = len(fetched)
-            fetched = [(h, u) for h, u in fetched if any(kw in h for kw in SOCCER_KEYWORDS)]
-            print(f"[{label}] 헤드라인 {before}개 수집 -> 축구 키워드 검증 후 {len(fetched)}개")
-            results[label] = extract_latest_news(fetched, SPORTS_NEWS_LIMIT)
-        except Exception as e:
-            print(f"[{label}] 수집 실패: {e}", file=sys.stderr)
-            results[label] = []
 
     save_latest_json(results)
     print("latest.json 저장 완료")
