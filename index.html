@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<title>이슈 전광판</title>
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" type="image/png" sizes="32x32" href="icon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="icon-16.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=JetBrains+Mono:wght@400;600&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #12151a;
+    --panel: #181c22;
+    --panel-line: #262b33;
+    --text: #ecebe6;
+    --text-dim: #8c9099;
+    --eco: #d9a441;
+    --tech: #4fd1c5;
+    --life: #e8746b;
+    --world: #6c93d6;
+    --game: #a78bfa;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Noto Sans KR', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    min-height: 100vh;
+    padding-bottom: 48px;
+  }
+
+  /* ---------- 상단 전광판 헤더 ---------- */
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: linear-gradient(180deg, var(--bg) 80%, transparent);
+    padding: 20px 20px 14px;
+    border-bottom: 1px solid var(--panel-line);
+  }
+
+  .board-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .live-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--tech);
+    box-shadow: 0 0 0 0 rgba(79, 209, 197, 0.6);
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(79, 209, 197, 0.5); }
+    70% { box-shadow: 0 0 0 8px rgba(79, 209, 197, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(79, 209, 197, 0); }
+  }
+
+  h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    letter-spacing: -0.01em;
+    margin-top: 6px;
+  }
+
+  .timestamp {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    color: var(--text-dim);
+    margin-top: 4px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .mode-chip {
+    display: inline-block;
+    margin-top: 10px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--bg);
+    background: var(--tech);
+    padding: 3px 9px;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+
+  /* ---------- 분야 섹션 ---------- */
+  main {
+    padding: 24px 16px 0;
+    max-width: 640px;
+    margin: 0 auto;
+  }
+
+  .category {
+    margin-bottom: 34px;
+  }
+
+  .category-head {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin-bottom: 12px;
+    padding-left: 2px;
+  }
+
+  .category-dot {
+    width: 9px;
+    height: 9px;
+    border-radius: 2px;
+  }
+
+  .category-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+  }
+
+  .category-count {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--text-dim);
+  }
+
+  .eco .category-dot { background: var(--eco); }
+  .tech .category-dot { background: var(--tech); }
+  .life .category-dot { background: var(--life); }
+  .world .category-dot { background: var(--world); }
+  .game .category-dot { background: var(--game); }
+
+  .row {
+    display: grid;
+    grid-template-columns: 34px 1fr;
+    gap: 12px;
+    align-items: center;
+    padding: 13px 14px;
+    background: var(--panel);
+    border: 1px solid var(--panel-line);
+    border-radius: 8px;
+    margin-bottom: 8px;
+    transition: border-color 0.15s ease;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  a.row:active { border-color: var(--text-dim); }
+  a.row:hover { border-color: var(--tech); }
+
+  .rank {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--text-dim);
+    font-variant-numeric: tabular-nums;
+    padding-top: 1px;
+  }
+
+  .eco .rank { color: var(--eco); }
+  .tech .rank { color: var(--tech); }
+  .life .rank { color: var(--life); }
+  .world .rank { color: var(--world); }
+  .game .rank { color: var(--game); }
+
+  .headline {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1.5;
+    color: var(--text);
+  }
+
+  .empty-note {
+    font-size: 13px;
+    color: var(--text-dim);
+    font-style: normal;
+    padding: 14px;
+    background: var(--panel);
+    border: 1px dashed var(--panel-line);
+    border-radius: 8px;
+  }
+
+  /* ---------- 하단 안내 ---------- */
+  footer {
+    max-width: 640px;
+    margin: 8px auto 0;
+    padding: 18px 16px 0;
+    border-top: 1px solid var(--panel-line);
+  }
+
+  footer p {
+    font-size: 12px;
+    color: var(--text-dim);
+    line-height: 1.7;
+  }
+
+  footer strong { color: var(--text); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="board-label"><span class="live-dot"></span>BY NINGCHAN</div>
+  <h1>분야별 이슈 전광판</h1>
+  <div class="timestamp" id="clock">2026-08-25 18:00 KST</div>
+  <span class="mode-chip" id="modeChip">전체 갱신</span>
+</header>
+
+<main id="app"></main>
+
+<footer>
+  <p>
+    이 대시보드는 <strong>3시간마다 자동 실행되는 텔레그램 봇</strong>과 같은 데이터를
+    보여주는 예시 화면입니다. 지금은 샘플 데이터로 채워져 있고, 실제 서비스로 연결하려면
+    호스팅(예: GitHub Pages)에 최신 결과 파일을 올려 이 페이지가 읽어오게 하는 작업이
+    한 단계 더 필요합니다.
+  </p>
+</footer>
+
+<script>
+  // ------------------------------------------------------------
+  // 실제 데이터 불러오기: 텔레그램 봇이 매 실행마다 저장하는
+  // latest.json을 같은 서버(GitHub Pages)에서 읽어온다.
+  // ------------------------------------------------------------
+  const FALLBACK_DATA = {
+    updatedAt: "데이터 없음",
+    mode: "예시",
+    categories: []
+  };
+
+  async function loadData() {
+    try {
+      // 캐시된 옛날 데이터를 계속 보여주지 않도록 매번 새로 요청
+      const res = await fetch('latest.json?t=' + Date.now());
+      if (!res.ok) throw new Error('fetch failed: ' + res.status);
+      return await res.json();
+    } catch (err) {
+      console.error('latest.json을 불러오지 못했습니다:', err);
+      return FALLBACK_DATA;
+    }
+  }
+
+  function render(data) {
+    document.getElementById('clock').textContent = data.updatedAt + (data.updatedAt.includes('KST') ? '' : ' KST');
+    document.getElementById('modeChip').textContent = data.mode;
+
+    const app = document.getElementById('app');
+    app.innerHTML = '';
+
+    if (!data.categories || data.categories.length === 0) {
+      const empty = document.createElement('div');
+      empty.className = 'empty-note';
+      empty.textContent = '아직 저장된 결과가 없어요. 봇이 처음 실행되면 여기에 나타나요.';
+      app.appendChild(empty);
+      return;
+    }
+
+    data.categories.forEach(cat => {
+      const section = document.createElement('section');
+      section.className = 'category ' + cat.cls;
+
+      const head = document.createElement('div');
+      head.className = 'category-head';
+      head.innerHTML = `
+        <span class="category-dot"></span>
+        <span class="category-title">${cat.name}</span>
+        <span class="category-count">${cat.items.length}건</span>
+      `;
+      section.appendChild(head);
+
+      if (cat.items.length === 0) {
+        const empty = document.createElement('div');
+        empty.className = 'empty-note';
+        empty.textContent = '지난 주기와 겹치는 뉴스뿐이라 새 소식이 없어요.';
+        section.appendChild(empty);
+      } else {
+        cat.items.forEach((item, i) => {
+          const hasUrl = !!item.url;
+          const row = document.createElement(hasUrl ? 'a' : 'div');
+          row.className = 'row';
+          if (hasUrl) {
+            row.href = item.url;
+            row.target = '_blank';
+            row.rel = 'noopener noreferrer';
+          }
+          row.innerHTML = `
+            <div class="rank">${String(i + 1).padStart(2, '0')}</div>
+            <div class="headline">${item.headline}</div>
+          `;
+          section.appendChild(row);
+        });
+      }
+
+      app.appendChild(section);
+    });
+  }
+
+  loadData().then(render);
+</script>
+
+</body>
+</html>
