@@ -1,59 +1,34 @@
 {
-  "updatedAt": "2026-08-26 23:12",
+  "updatedAt": "2026-08-27 00:03",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "박현주",
-          "headline": "박현주 \"고객 디지털자산 150조 시대 열 것\"",
-          "url": "https://n.news.naver.com/mnews/article/009/0005726364?sid=101"
+          "keyword": "이코노미",
+          "headline": "[이코노미 플러스]40대 후반 조기퇴직…중장년층 고용 불안·사회 단절 이중고",
+          "url": "https://n.news.naver.com/mnews/article/087/0001213791?sid=101"
         },
         {
-          "keyword": "급파",
-          "headline": "[속보] 두산에너·남동발전 \"대책본부 구성·대응팀 급파\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398688?sid=101"
+          "keyword": "불안",
+          "headline": "미 국채금리 상승·재정 불안에…금·비트코인 반등",
+          "url": "https://n.news.naver.com/mnews/article/032/0003466633?sid=101"
         },
         {
-          "keyword": "총파업",
-          "headline": "카오뱅크, 31일 예정한 총파업 취소",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398686?sid=101"
+          "keyword": "강원",
+          "headline": "강원 아기 울음소리, 10년만에 증가세",
+          "url": "https://n.news.naver.com/mnews/article/087/0001213786?sid=101"
         },
         {
-          "keyword": "회장",
-          "headline": "박현주 회장 “배당 많이 했다면 삼전닉스 생겨났겠나”",
-          "url": "https://n.news.naver.com/mnews/article/366/0001188551?sid=101"
+          "keyword": "Now",
+          "headline": "[Biz & Now] 중기중앙회, 미국서 굿즈 페어 개막",
+          "url": "https://n.news.naver.com/mnews/article/025/0003547063?sid=101"
         },
         {
-          "keyword": "삼전닉스",
-          "headline": "지지부진한 주가에…삼전닉스 목표가 낮춰도 간극 '여전'",
-          "url": "https://n.news.naver.com/mnews/article/014/0005566989?sid=101"
-        },
-        {
-          "keyword": "현장",
-          "headline": "주병기 \"공정위 현장 조사 거부한 쿠팡 형사 고발할 것\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398676?sid=101"
-        },
-        {
-          "keyword": "대책본부",
-          "headline": "방어진 화재 대책본부 가동…피해 상인 금융지원",
-          "url": "https://n.news.naver.com/mnews/article/056/0012245341?sid=101"
-        },
-        {
-          "keyword": "선임",
-          "headline": "강원랜드 신임 대표이사에 김도균 전 육군 수방사령관…임시주총서 선임",
-          "url": "https://n.news.naver.com/mnews/article/082/0001395651?sid=101"
-        },
-        {
-          "keyword": "국토장관",
-          "headline": "국토장관 “용산 어린이정원에 주택공급 논의된 적 없다”",
-          "url": "https://n.news.naver.com/mnews/article/025/0003547026?sid=101"
-        },
-        {
-          "keyword": "없다",
-          "headline": "\"전기차 캐즘은 없다\"…현대차, 유럽 EV 판매 3.6배 늘린다",
-          "url": "https://n.news.naver.com/mnews/article/293/0000089608?sid=101"
+          "keyword": "이어",
+          "headline": "정보 유출 이어 과장 광고…듀오 3.5억 과징금",
+          "url": "https://n.news.naver.com/mnews/article/025/0003547054?sid=101"
         }
       ]
     },
@@ -62,54 +37,49 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "네팔",
-          "headline": "외교장관 주재 네팔 실종자 대책회의",
-          "url": "https://n.news.naver.com/mnews/article/001/0016273221?sid=102"
+          "keyword": "국회",
+          "headline": "'국회·선관위 출동' 김현태 등 군간부 7명 오늘 1심 결론",
+          "url": "https://n.news.naver.com/mnews/article/629/0000527922?sid=102"
+        },
+        {
+          "keyword": "기반",
+          "headline": "[The초점]소통·자발성 기반 청렴환경 조성",
+          "url": "https://n.news.naver.com/mnews/article/087/0001213798?sid=102"
+        },
+        {
+          "keyword": "동정",
+          "headline": "[동정]유광종 철원부군수",
+          "url": "https://n.news.naver.com/mnews/article/087/0001213800?sid=102"
+        },
+        {
+          "keyword": "미래",
+          "headline": "[자치칼럼]속초의 미래를 지키는 교육교부금, 축소해서는 안 된다",
+          "url": "https://n.news.naver.com/mnews/article/087/0001213794?sid=102"
         },
         {
           "keyword": "실종",
-          "headline": "네팔 홍수 한국인 실종…재외국민보호대책본부 회의",
-          "url": "https://n.news.naver.com/mnews/article/003/0014150773?sid=102"
+          "headline": "[사진] 중국 여대생 실종 신고자가 살인 피의자",
+          "url": "https://n.news.naver.com/mnews/article/025/0003547048?sid=102"
         },
         {
           "keyword": "경찰",
-          "headline": "경찰, 中유학생 살해한 중국인 대학강사 구속영장 신청",
-          "url": "https://n.news.naver.com/mnews/article/088/0001025421?sid=102"
+          "headline": "형사·여청 오락가락 이원화…경찰 실종수사 '실종'",
+          "url": "https://n.news.naver.com/mnews/article/629/0000527920?sid=102"
         },
         {
-          "keyword": "부고",
-          "headline": "[부고] 김종신씨 별세",
-          "url": "https://n.news.naver.com/mnews/article/022/0004154000?sid=102"
+          "keyword": "사랑방",
+          "headline": "[사랑방] 동국대학교 外",
+          "url": "https://n.news.naver.com/mnews/article/025/0003547041?sid=102"
         },
         {
-          "keyword": "실종자",
-          "headline": "[현장연결] 외교부, 장관 주재 네팔 실종자 긴급 대책회의",
-          "url": "https://n.news.naver.com/mnews/article/422/0000899760?sid=102"
+          "keyword": "중국",
+          "headline": "경찰, 중국인 유학생 살해한 30대 중국 남성 구속영장 신청",
+          "url": "https://n.news.naver.com/mnews/article/052/0002398721?sid=102"
         },
         {
-          "keyword": "유학생",
-          "headline": "중국인 유학생 살해 중국인 대학 강사 구속영장 신청",
-          "url": "https://n.news.naver.com/mnews/article/437/0000508068?sid=102"
-        },
-        {
-          "keyword": "모두",
-          "headline": "충북도 \"모두가 존중받고 행복한 양성평등 실현\"",
-          "url": "https://n.news.naver.com/mnews/article/079/0004182851?sid=102"
-        },
-        {
-          "keyword": "용인",
-          "headline": "용인 어린이집서 두살배기 창밖 5m 아래로 추락해 부상",
-          "url": "https://n.news.naver.com/mnews/article/020/0003743595?sid=102"
-        },
-        {
-          "keyword": "실종사건",
-          "headline": "\"숙소 나선 다음 날 숨져\" 경찰, 뒤늦은 '실종사건 전수조사'",
-          "url": "https://n.news.naver.com/mnews/article/437/0000508069?sid=102"
-        },
-        {
-          "keyword": "종결",
-          "headline": "실종사건 전화 확인 금지한다…3년 실종 31만건서 비대면 종결 조사",
-          "url": "https://n.news.naver.com/mnews/article/022/0004153999?sid=102"
+          "keyword": "규명",
+          "headline": "과기정통부, 알츠하이머 악화시키는 핵심 인자 규명 브리핑",
+          "url": "https://n.news.naver.com/mnews/article/003/0014150824?sid=102"
         }
       ]
     },
@@ -118,54 +88,49 @@
       "cls": "tech",
       "items": [
         {
+          "keyword": "찾았다",
+          "headline": "알츠하이머, 연쇄적 병리 끊을 단서 찾았다",
+          "url": "https://n.news.naver.com/mnews/article/029/0003044555?sid=105"
+        },
+        {
+          "keyword": "알츠하이머",
+          "headline": "알츠하이머 ‘첫 단추’ 찾았다…질환 유발 신경세포·기전 규명",
+          "url": "https://n.news.naver.com/mnews/article/011/0004655562?sid=105"
+        },
+        {
+          "keyword": "핵심",
+          "headline": "알츠하이머병 연쇄 병리 촉발 핵심 인자 찾았다",
+          "url": "https://n.news.naver.com/mnews/article/018/0006358600?sid=105"
+        },
+        {
           "keyword": "AI",
-          "headline": "[카드뉴스] AI가 '싫어요'라고 말한다면",
-          "url": "https://n.news.naver.com/mnews/article/092/0002435209?sid=105"
+          "headline": "‘찰나의 순간’ 하나도 안놓친다…오상욱도 반한 ‘펜싱 AI’",
+          "url": "https://n.news.naver.com/mnews/article/025/0003547052?sid=105"
         },
         {
-          "keyword": "개발",
-          "headline": "빛으로 진위 가린다…KAIST, 복제 어려운 ‘인공 지문’ 개발",
-          "url": "https://n.news.naver.com/mnews/article/011/0004655519?sid=105"
+          "keyword": "기억력",
+          "headline": "기억력 되살아났다…알츠하이머 악순환 끊을 ‘핵심 스위치’ 발견",
+          "url": "https://n.news.naver.com/mnews/article/025/0003547029?sid=105"
         },
         {
-          "keyword": "세계",
-          "headline": "삼성, 세계 첫 ‘연산 메모리’ 성능 공개…\"AI 새 대안\"",
-          "url": "https://n.news.naver.com/mnews/article/029/0003044541?sid=105"
+          "keyword": "규명",
+          "headline": "과기정통부, 알츠하이머진행 촉발 발병기전 규명 및 새로운 치료전략 연구발표",
+          "url": "https://n.news.naver.com/mnews/article/421/0009134576?sid=105"
         },
         {
-          "keyword": "공개",
-          "headline": "쿤텍, 스마트선박 사이버보안 국가 R&D 실증 공개",
-          "url": "https://n.news.naver.com/mnews/article/092/0002435214?sid=105"
+          "keyword": "신경세포",
+          "headline": "韓 연구진, “치매 진행막는 열쇠 발굴”…신경세포 살리고 기억력 높였다",
+          "url": "https://n.news.naver.com/mnews/article/016/0002688932?sid=105"
         },
         {
-          "keyword": "과정",
-          "headline": "마에스트로, 포렌식 전문가 자격증 과정 개설",
-          "url": "https://n.news.naver.com/mnews/article/092/0002435215?sid=105"
+          "keyword": "치매",
+          "headline": "극복 안 되는 치매, 궁극의 치료제 나올까 [지금은 과학]",
+          "url": "https://n.news.naver.com/mnews/article/031/0001052734?sid=105"
         },
         {
-          "keyword": "SK하이닉스",
-          "headline": "SK하이닉스 공장 입지 거론 日미야기현 \"파악된 바 없어\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016273131?sid=105"
-        },
-        {
-          "keyword": "공장",
-          "headline": "약국 간판에 ‘공장’·‘창고’ 안 돼…약사법 개정",
-          "url": "https://n.news.naver.com/mnews/article/029/0003044536?sid=105"
-        },
-        {
-          "keyword": "국제협력",
-          "headline": "과기정통부, 해상 원자력 시대를 향한 국제협력 본격화",
-          "url": "https://n.news.naver.com/mnews/article/030/0003460703?sid=105"
-        },
-        {
-          "keyword": "ATLAS",
-          "headline": "IAEA, 해상원자력 국제협력체 'ATLAS' 출범…한국도 참여",
-          "url": "https://n.news.naver.com/mnews/article/001/0016273090?sid=105"
-        },
-        {
-          "keyword": "한국",
-          "headline": "'中 치고 나가고 日 버티는데'…한국의 '처참한 성적표'",
-          "url": "https://n.news.naver.com/mnews/article/015/0005325186?sid=105"
+          "keyword": "연구진",
+          "headline": "국내 연구진, 알츠하이머병 일으키는 핵심 이유 찾았다",
+          "url": "https://n.news.naver.com/mnews/article/032/0003466729?sid=105"
         }
       ]
     },
@@ -174,54 +139,14 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "날씨",
-          "headline": "8월 하순에 37도 폭염…내일 남부 곳곳 비",
-          "url": "https://n.news.naver.com/mnews/article/422/0000899737?sid=103"
-        },
-        {
-          "keyword": "음악",
-          "headline": "‘미국 컨트리 음악의 여왕’ 돌리 파튼 별세",
-          "url": "https://n.news.naver.com/mnews/article/032/0003466671?sid=103"
-        },
-        {
           "keyword": "27일",
-          "headline": "[오늘의 별자리 운세] 8월 27일 목요일",
-          "url": "https://n.news.naver.com/mnews/article/366/0001188556?sid=103"
+          "headline": "[오늘의 날씨] 8월 27일",
+          "url": "https://n.news.naver.com/mnews/article/025/0003547034?sid=103"
         },
         {
-          "keyword": "8월",
-          "headline": "밀양 37.4℃...남부 7곳에서 8월 하순 역대 최고기온 기록",
-          "url": "https://n.news.naver.com/mnews/article/052/0002398652?sid=103"
-        },
-        {
-          "keyword": "절차",
-          "headline": "KBS 이사회, 새 사장 선임 절차 착수…임명 방법 의결",
-          "url": "https://n.news.naver.com/mnews/article/001/0016273144?sid=103"
-        },
-        {
-          "keyword": "나서",
-          "headline": "“내 아이는 내가 지킨다!”…학교까지 나서는 부모, 왜 늘었나",
-          "url": "https://n.news.naver.com/mnews/article/296/0000104105?sid=103"
-        },
-        {
-          "keyword": "르노코리아",
-          "headline": "르노코리아, 찬성률 50.1%로 임단협 타결",
-          "url": "https://n.news.naver.com/mnews/article/417/0001156487?sid=103"
-        },
-        {
-          "keyword": "개막",
-          "headline": "김영미 작가 개인전 ‘업’…29일 구구갤러리서 개막",
-          "url": "https://n.news.naver.com/mnews/article/005/0001869175?sid=103"
-        },
-        {
-          "keyword": "양문숙",
-          "headline": "사진으로 남은 백사마을의 시간…양문숙 ‘흔적’展",
-          "url": "https://n.news.naver.com/mnews/article/421/0009134515?sid=103"
-        },
-        {
-          "keyword": "재개발",
-          "headline": "재개발 앞둔 백사마을의 흔적…양문숙 사진가 개인전",
-          "url": "https://n.news.naver.com/mnews/article/421/0009134514?sid=103"
+          "keyword": "날씨",
+          "headline": "곳곳 비·소나기…남부는 폭염 계속[날씨]",
+          "url": "https://n.news.naver.com/mnews/article/055/0001383428?sid=103"
         }
       ]
     },
@@ -230,19 +155,19 @@
       "cls": "world",
       "items": [
         {
+          "keyword": "트럼프",
+          "headline": "[사진] 트럼프 “온타리오호→아메리카호 변경 검토”",
+          "url": "https://n.news.naver.com/mnews/article/025/0003547042?sid=104"
+        },
+        {
           "keyword": "홍수",
-          "headline": "[속보] 네팔 \"돌발 홍수로 실종된 외국인 341명\"",
-          "url": "https://n.news.naver.com/mnews/article/015/0005325231?sid=104"
+          "headline": "[온마이크] 네팔 홍수로 한국인 9명 실종…현지 정부 수색중",
+          "url": "https://n.news.naver.com/mnews/article/422/0000899775?sid=104"
         },
         {
-          "keyword": "한국인",
-          "headline": "네팔서 대홍수… 한국인 8명 실종·10명 고립",
-          "url": "https://n.news.naver.com/mnews/article/022/0004153996?sid=104"
-        },
-        {
-          "keyword": "실종",
-          "headline": "\"쓰나미급 홍수에 속수무책\"…네팔서 우리 국민 9명 실종(종합2보)",
-          "url": "https://n.news.naver.com/mnews/article/421/0009134554?sid=104"
+          "keyword": "이란",
+          "headline": "‘배런 어디서 죽일까’ 이란 섬뜩 영상",
+          "url": "https://n.news.naver.com/mnews/article/025/0003547045?sid=104"
         }
       ]
     },
@@ -252,18 +177,13 @@
       "items": [
         {
           "keyword": "게임스컴",
-          "headline": "게임스컴 찾은 의원들…조승래 \"게임산업 지원에 노력\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016272879"
+          "headline": "크래프톤 부스 찾은 여야 의원들",
+          "url": "https://n.news.naver.com/mnews/article/001/0016272916"
         },
         {
           "keyword": "게임",
           "headline": "K게임 잠식한 中자본 …'게임의 룰' 바꾼다",
           "url": "https://n.news.naver.com/mnews/article/009/0005726305"
-        },
-        {
-          "keyword": "찾은",
-          "headline": "크래프톤 부스 찾은 여야 의원들",
-          "url": "https://n.news.naver.com/mnews/article/001/0016272916"
         },
         {
           "keyword": "K게임",
@@ -272,8 +192,18 @@
         },
         {
           "keyword": "크래프톤",
-          "headline": "'게임스컴 2026' 독일 쾰른서 개막…크래프톤·엔씨 등 K-게임 신작 출격",
-          "url": "https://n.news.naver.com/mnews/article/092/0002435195"
+          "headline": "넥슨·크래프톤·스마일게이트 CEO, 게임스컴서 광폭행보",
+          "url": "https://n.news.naver.com/mnews/article/001/0016273085"
+        },
+        {
+          "keyword": "엔씨",
+          "headline": "엔씨 \"모바일 캐주얼로 2030년 매출 1조5000억원\"",
+          "url": "https://n.news.naver.com/mnews/article/092/0002435217"
+        },
+        {
+          "keyword": "게임스컴서",
+          "headline": "좀비서바이벌 게임 '갓 세이브 버밍엄', 게임스컴서 협동 플레이 영상 공개",
+          "url": "https://n.news.naver.com/mnews/article/236/0000256594"
         },
         {
           "keyword": "패스",
