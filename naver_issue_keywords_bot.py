@@ -49,6 +49,7 @@ TOP_N = 10
 # 분야별 뉴스 목록 페이지 (실제로 sid1/sid2 값에 따라 분야가 필터링됨)
 CATEGORIES = {
     "경제": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=101",
+    "사회": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=102",
     "IT·과학": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=105",
     "생활·문화": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=103",
     "세계": "https://news.naver.com/main/list.naver?mode=LSD&mid=sec&sid1=104",
@@ -59,6 +60,7 @@ CATEGORIES = {
 # (사이드바에 붙는 '많이 본 뉴스' 위젯처럼 다른 분야 기사가 섞여 들어오는 걸 걸러냄)
 CATEGORY_EXPECTED_SID = {
     "경제": "101",
+    "사회": "102",
     "IT·과학": "105",
     "생활·문화": "103",
     "세계": "104",
@@ -96,6 +98,7 @@ LATEST_JSON_FILE = "latest.json"  # 웹페이지가 읽어갈 최신 결과 파�
 # 웹 대시보드에서 분야별 색상을 구분하기 위한 클래스 이름
 CATEGORY_CSS_CLASS = {
     "경제": "eco",
+    "사회": "society",
     "IT·과학": "tech",
     "생활·문화": "life",
     "세계": "world",
