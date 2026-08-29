@@ -1,24 +1,49 @@
 {
-  "updatedAt": "2026-08-30 00:10",
+  "updatedAt": "2026-08-30 03:25",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "박정원",
+          "keyword": "트럼프",
+          "headline": "트럼프가 택한 워시, 중간선거 앞두고 금리 올리나",
+          "url": "https://n.news.naver.com/mnews/article/003/0014156406?sid=101"
+        },
+        {
+          "keyword": "국민",
+          "headline": "김용범 \"국민 재도약 위한 투자…성장 힘 국민 삶·기회로 연결\"",
+          "url": "https://n.news.naver.com/mnews/article/374/0000530065?sid=101"
+        },
+        {
+          "keyword": "회장",
           "headline": "박정원 두산 회장, 네팔서 실종 직원 수색현장 직접 지원",
           "url": "https://n.news.naver.com/mnews/article/030/0003461471?sid=101"
         },
         {
-          "keyword": "인상",
-          "headline": "기준금리 인상에 주담대 오르나...이자 부담도 커져",
-          "url": "https://n.news.naver.com/mnews/article/052/0002400006?sid=101"
+          "keyword": "박정원",
+          "headline": "두산 박정원 회장·박지원 부회장 네팔 도착...수색활동 지원",
+          "url": "https://n.news.naver.com/mnews/article/052/0002400018?sid=101"
         },
         {
-          "keyword": "긴축",
+          "keyword": "박지원",
+          "headline": "네팔 도착 박지원 두산에너 회장 “구조작업 빨리 이뤄지도록 노력”",
+          "url": "https://n.news.naver.com/mnews/article/025/0003547649?sid=101"
+        },
+        {
+          "keyword": "워시",
           "headline": "워시 Fed 의장, 추가 긴축 시사…시장 9월 인상에 무게",
           "url": "https://n.news.naver.com/mnews/article/277/0005809013?sid=101"
+        },
+        {
+          "keyword": "금리",
+          "headline": "금리 3% 시대, 집값보다 무서운 것은 전세다[손바닥부동산]",
+          "url": "https://n.news.naver.com/mnews/article/018/0006360238?sid=101"
+        },
+        {
+          "keyword": "부담",
+          "headline": "기준금리 인상에 주담대 오르나...이자 부담도 커져",
+          "url": "https://n.news.naver.com/mnews/article/052/0002400006?sid=101"
         },
         {
           "keyword": "비즈토크",
@@ -26,24 +51,9 @@
           "url": "https://n.news.naver.com/mnews/article/629/0000528678?sid=101"
         },
         {
-          "keyword": "탄천",
-          "headline": "7.3만 가구에 서울 추가되나?...탄천? 그린벨트?",
-          "url": "https://n.news.naver.com/mnews/article/052/0002400027?sid=101"
-        },
-        {
-          "keyword": "김용범",
-          "headline": "김용범 \"국민 재도약 위한 투자…성장 힘 국민 삶·기회로 연결\"",
-          "url": "https://n.news.naver.com/mnews/article/374/0000530065?sid=101"
-        },
-        {
-          "keyword": "시작",
-          "headline": "첫 헬기 수색 시작...본격적인 헬기 수색 나설 듯",
-          "url": "https://n.news.naver.com/mnews/article/052/0002399882?sid=101"
-        },
-        {
-          "keyword": "수색",
-          "headline": "박정원·박지원 네팔 도착…실종 직원 수색·구조 직접 챙긴다",
-          "url": "https://n.news.naver.com/mnews/article/011/0004656459?sid=101"
+          "keyword": "긴축",
+          "headline": "[비즈토크<하>] 두 달 만에 2.5%→3.0%…한은 '선제 긴축' 승부수",
+          "url": "https://n.news.naver.com/mnews/article/629/0000528684?sid=101"
         }
       ]
     },
@@ -52,29 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "신속대응팀",
-          "headline": "[속보] 네팔 신속대응팀 “두 차례 헬기 수색했지만 성과 없어”",
-          "url": "https://n.news.naver.com/mnews/article/016/0002690098?sid=102"
+          "keyword": "헬기",
+          "headline": "네팔 신속대응팀 \"두차례 헬기 수색, 실종자 관련 성과 없어\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016278219?sid=102"
         },
         {
-          "keyword": "실종",
-          "headline": "'실종 허위종결' 미스터리…부 경장 프로파일링 분석 막바지",
-          "url": "https://n.news.naver.com/mnews/article/421/0009139249?sid=102"
+          "keyword": "없어",
+          "headline": "충남 서산서 고속도로 달리던 차량 불...다친 사람 없어",
+          "url": "https://n.news.naver.com/mnews/article/052/0002400035?sid=102"
         },
         {
-          "keyword": "전북",
+          "keyword": "네팔",
+          "headline": "[속보] 네팔 신속대응팀 \"두 차례 헬기 수색했지만 성과 없었다\"",
+          "url": "https://n.news.naver.com/mnews/article/119/0003126891?sid=102"
+        },
+        {
+          "keyword": "전국",
+          "headline": "[날씨] 전국 비‥충청·전북 이틀간 최대 200mm",
+          "url": "https://n.news.naver.com/mnews/article/214/0001520899?sid=102"
+        },
+        {
+          "keyword": "주목",
+          "headline": "바다숲 조성에 기업 참여 확대...탄소흡수원 주목",
+          "url": "https://n.news.naver.com/mnews/article/052/0002400050?sid=102"
+        },
+        {
+          "keyword": "대응팀",
+          "headline": "정부 대응팀, 헬기로 90분 수색했지만…“생존자 발견 성과 없어”",
+          "url": "https://n.news.naver.com/mnews/article/028/0002820721?sid=102"
+        },
+        {
+          "keyword": "수색",
+          "headline": "경찰 '中유학생 살해' 대학 강사 데리고 전국 돌며 시신 유기장소 수색",
+          "url": "https://n.news.naver.com/mnews/article/421/0009139010?sid=102"
+        },
+        {
+          "keyword": "이전",
+          "headline": "무안군 망운면 일대 광주 군 공항 이전 부지로 확정",
+          "url": "https://n.news.naver.com/mnews/article/008/0005406402?sid=102"
+        },
+        {
+          "keyword": "충남",
           "headline": "충남·전북에 최대 200mm 집중호우…내일까지 전국 비",
           "url": "https://n.news.naver.com/mnews/article/056/0012247240?sid=102"
         },
         {
-          "keyword": "전국",
-          "headline": "장마 돌아온 듯 적신다... 주말 전국 곳곳서 강한 비",
-          "url": "https://n.news.naver.com/mnews/article/023/0003995460?sid=102"
-        },
-        {
-          "keyword": "제주",
-          "headline": "한동훈 “제주는 범죄도시 아닌 한국의 보물”",
-          "url": "https://n.news.naver.com/mnews/article/021/0002814815?sid=102"
+          "keyword": "살해",
+          "headline": "수십년 병든 아내 돌보던 80대 남편…살해 후 “나도 죽으려 했다”",
+          "url": "https://n.news.naver.com/mnews/article/011/0004656466?sid=102"
         }
       ]
     },
@@ -83,14 +118,14 @@
       "cls": "tech",
       "items": [
         {
+          "keyword": "8주년",
+          "headline": "스마일게이트 ‘에픽세븐’, 출시 8주년 대규모 업데이트 실시",
+          "url": "https://n.news.naver.com/mnews/article/009/0005727248?sid=105"
+        },
+        {
           "keyword": "AI",
           "headline": "AI 악용한 K뷰티 위조품…AI로 잡는다 [AI너머]",
           "url": "https://n.news.naver.com/mnews/article/056/0012247185?sid=105"
-        },
-        {
-          "keyword": "8주년",
-          "headline": "에픽세븐, 8주년 축제 ‘영속의 계승제’로 팬들과 만남 가져",
-          "url": "https://n.news.naver.com/mnews/article/347/0000195353?sid=105"
         }
       ]
     },
@@ -99,9 +134,44 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "운세",
+          "keyword": "8월",
           "headline": "[오늘의 운세] 2026년 8월 30일 오행별 행운의 컬러",
           "url": "https://n.news.naver.com/mnews/article/015/0005326230?sid=103"
+        },
+        {
+          "keyword": "뭐지",
+          "headline": "“죄책감 없는 음식”… 엄정화가 꼽은 ‘단백질 폭탄’, 뭐지?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115160?sid=103"
+        },
+        {
+          "keyword": "음식",
+          "headline": "위암 두려운 사람, ‘먹지 말아야 할 음식’ 있다",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115157?sid=103"
+        },
+        {
+          "keyword": "뭐야",
+          "headline": "맛있는 음식 먹기 전, 정진운이 쓴 ‘공복 치트키’… 뭐야?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115161?sid=103"
+        },
+        {
+          "keyword": "이상",
+          "headline": "오늘·내일 새벽 극한호우...충남권 최대 200mm 이상",
+          "url": "https://n.news.naver.com/mnews/article/052/0002400034?sid=103"
+        },
+        {
+          "keyword": "먹지",
+          "headline": "[오늘의 운세] 오늘 뭐 먹지?…8월 30일 띠별 추천 점심메뉴",
+          "url": "https://n.news.naver.com/mnews/article/015/0005326228?sid=103"
+        },
+        {
+          "keyword": "있다",
+          "headline": "“살 빠지고 있다는 신호”… 체중 말고 확인할 ‘3가지’, 뭐야?​",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115156?sid=103"
+        },
+        {
+          "keyword": "전국",
+          "headline": "주말 전국 흐리고 곳곳 비‥돌풍·천둥번개 동반",
+          "url": "https://n.news.naver.com/mnews/article/214/0001520822?sid=103"
         }
       ]
     },
@@ -111,23 +181,33 @@
       "items": [
         {
           "keyword": "네팔",
-          "headline": "[속보]네팔 신속대응팀 \"두 차례 헬기 수색했지만 성과 없어\"",
-          "url": "https://n.news.naver.com/mnews/article/079/0004183773?sid=104"
+          "headline": "네팔, 홍수 신원미상 희생자 매장 전 DNA 보존키로",
+          "url": "https://n.news.naver.com/mnews/article/003/0014156411?sid=104"
         },
         {
-          "keyword": "신속대응팀",
-          "headline": "한국 신속대응팀 헬기 현장으로...\"시간과 싸움\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002400031?sid=104"
+          "keyword": "생존자",
+          "headline": "한국 신속대응팀, 두 차례 헬기 수색...\"생존자 확인 못해\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002400046?sid=104"
         },
         {
-          "keyword": "초박빙",
-          "headline": "아이슬란드, EU 가입 협상 재개 국민투표…찬반 초박빙",
-          "url": "https://n.news.naver.com/mnews/article/016/0002690077?sid=104"
+          "keyword": "트럼프",
+          "headline": "트럼프 ”베네수엘라와 석유 거래 합의… 매장량 과반 통제“",
+          "url": "https://n.news.naver.com/mnews/article/366/0001189054?sid=104"
         },
         {
-          "keyword": "SOCCER",
-          "headline": "GERMANY SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010294862?sid=104"
+          "keyword": "마을",
+          "headline": "'조용했던 마을이…'",
+          "url": "https://n.news.naver.com/mnews/article/421/0009139503?sid=104"
+        },
+        {
+          "keyword": "Soccer",
+          "headline": "Britain Premier League Soccer",
+          "url": "https://n.news.naver.com/mnews/article/077/0007139876?sid=104"
+        },
+        {
+          "keyword": "Iran",
+          "headline": "Iran War",
+          "url": "https://n.news.naver.com/mnews/article/077/0007139879?sid=104"
         }
       ]
     },
@@ -156,7 +236,7 @@
           "url": "https://n.news.naver.com/mnews/article/076/0004440402"
         },
         {
-          "keyword": "붉은사막",
+          "keyword": "오픈월드",
           "headline": "'붉은사막' 오픈월드 구현 기술, 소니·캡콤·닌텐도 등 글로벌 사에 공유",
           "url": "https://n.news.naver.com/mnews/article/109/0005596650"
         },
