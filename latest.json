@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-08-31 22:37",
+  "updatedAt": "2026-09-01 04:38",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
+          "keyword": "소비",
+          "headline": "7월 생산·소비 주춤… 설비투자 홀로 뜀박질",
+          "url": "https://n.news.naver.com/mnews/article/008/0005407392?sid=101"
+        },
+        {
+          "keyword": "집값",
+          "headline": "\"집값 폭락\" 李 발언에… 경매시장선 '글쎄'",
+          "url": "https://n.news.naver.com/mnews/article/008/0005407367?sid=101"
+        },
+        {
+          "keyword": "만에",
+          "headline": "두달 만에 또 줄인사?… 술렁이는 국토부",
+          "url": "https://n.news.naver.com/mnews/article/008/0005407377?sid=101"
+        },
+        {
           "keyword": "투자",
-          "headline": "‘경남 첨단산업’ 투자 협약…4천억 원 규모",
-          "url": "https://n.news.naver.com/mnews/article/056/0012248161?sid=101"
+          "headline": "국민성장펀드, 경보제약에 200억 투자",
+          "url": "https://n.news.naver.com/mnews/article/008/0005407375?sid=101"
         },
         {
-          "keyword": "지원",
-          "headline": "동해·삼척, ‘그냥드림’ 사업 시행…생계 위기 지원",
-          "url": "https://n.news.naver.com/mnews/article/056/0012248122?sid=101"
+          "keyword": "강남",
+          "headline": "세제개편안 한달새 갈린 집값, 강남 매물 쌓이고 강북 오름세",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744756?sid=101"
         },
         {
-          "keyword": "240만원",
-          "headline": "\"330만원→240만원\" 충격 리포트…SK하이닉스 주주들 '패닉' [종목+]",
-          "url": "https://n.news.naver.com/mnews/article/015/0005326928?sid=101"
+          "keyword": "늘어",
+          "headline": "“성과급으로 집-테슬라 구입” 삼전닉스 벨트 소비 1.7조 늘어",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744754?sid=101"
         },
         {
-          "keyword": "목표",
-          "headline": "계약 단 한건으로 한해 목표 절반 채웠다…SK온 ‘ESS 파죽지세’",
-          "url": "https://n.news.naver.com/mnews/article/009/0005728386?sid=101"
+          "keyword": "트럼프",
+          "headline": "트럼프, 데이터센터 반대에 경고...\"낙후되고 가난해져\"",
+          "url": "https://n.news.naver.com/mnews/article/014/0005568963?sid=101"
         },
         {
-          "keyword": "매출",
-          "headline": "IPO 앞둔 오픈AI, 광고 매출 '쑥'…연환산 10억달러",
-          "url": "https://n.news.naver.com/mnews/article/014/0005568956?sid=101"
+          "keyword": "대신",
+          "headline": "\"혐오시설 몰아넣나\" 이번엔 강남 뿔났다...'용산 대신 탄천'도 난항",
+          "url": "https://n.news.naver.com/mnews/article/008/0005407398?sid=101"
         },
         {
-          "keyword": "최대",
-          "headline": "SK오션플랜트 매각…디오션컨소시엄 ‘최대 주주’",
-          "url": "https://n.news.naver.com/mnews/article/056/0012248152?sid=101"
+          "keyword": "수익률",
+          "headline": "원화 강세에… 미국ETF 수익률 희비",
+          "url": "https://n.news.naver.com/mnews/article/008/0005407389?sid=101"
         },
         {
-          "keyword": "상반기",
-          "headline": "무신사, 상반기 매출 8217억원 역대 최대…수출액 9배 성장",
-          "url": "https://n.news.naver.com/mnews/article/079/0004184384?sid=101"
-        },
-        {
-          "keyword": "매각",
-          "headline": "SK오션플랜트 4100억에 매각…'친환경 확장 상징' SK 품 떠난다",
-          "url": "https://n.news.naver.com/mnews/article/018/0006361185?sid=101"
-        },
-        {
-          "keyword": "확장",
-          "headline": "기아 PV7 영상 공개… 대형급 라인업 확장",
-          "url": "https://n.news.naver.com/mnews/article/022/0004155217?sid=101"
-        },
-        {
-          "keyword": "규모",
-          "headline": "“국산 성능이 너무 좋아서요”…2조 규모 공대공 미사일 수주전 ‘K기업끼리’",
-          "url": "https://n.news.naver.com/mnews/article/009/0005728388?sid=101"
+          "keyword": "시총",
+          "headline": "흑자기업 상폐 논란에 '시총 착시' 손본다",
+          "url": "https://n.news.naver.com/mnews/article/008/0005407396?sid=101"
         }
       ]
     },
@@ -62,54 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "실종",
-          "headline": "전국 곳곳 폭우 피해 속출…전북서 2명 실종·주민 고립도",
-          "url": "https://n.news.naver.com/mnews/article/018/0006361184?sid=102"
+          "keyword": "정책",
+          "headline": "[강동구]“민선 9기 정책 제안 247건 전부 답변”",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744744?sid=102"
         },
         {
-          "keyword": "피해",
-          "headline": "충남도, 네팔 대홍수 피해 가족 둔 주민 지원",
-          "url": "https://n.news.naver.com/mnews/article/056/0012248194?sid=102"
+          "keyword": "1억",
+          "headline": "리센느 팬클럽, 거제 등 수해 성금 1억",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744784?sid=102"
         },
         {
-          "keyword": "종결",
-          "headline": "부 경장 종결 실종사건 298건 중 63건 입력 누락",
-          "url": "https://n.news.naver.com/mnews/article/052/0002400848?sid=102"
+          "keyword": "아이들",
+          "headline": "[도봉구·중랑구]자치구가 아이들 꿈에 날개 달아준다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744743?sid=102"
         },
         {
-          "keyword": "공개",
-          "headline": "‘中 유학생 살해’ 강사, 신상정보 내일 공개",
-          "url": "https://n.news.naver.com/mnews/article/056/0012248155?sid=102"
+          "keyword": "현금",
+          "headline": "부산 시내버스 20%, 내달부터 현금 안 받는다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744729?sid=102"
         },
         {
-          "keyword": "수사",
-          "headline": "포천 요양원서 입소자 폭행에 80대 숨져…요양원 등 수사",
-          "url": "https://n.news.naver.com/mnews/article/421/0009142550?sid=102"
+          "keyword": "매달",
+          "headline": "산청군, 내달부터 군민에 매달 5만원씩 지급",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744730?sid=102"
         },
         {
-          "keyword": "숨져",
-          "headline": "HD현대중공업 복지시설서 협력업체 직원 숨져",
-          "url": "https://n.news.naver.com/mnews/article/056/0012248204?sid=102"
+          "keyword": "운임",
+          "headline": "여객선 반값 운임 지원, 19개 섬에서 34개 섬으로 확대",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744721?sid=102"
         },
         {
-          "keyword": "충남",
-          "headline": "“긴급대피” 홍성에 호우 재난문자 발송…충남 7개 시군 ‘산사태주의보’",
-          "url": "https://n.news.naver.com/mnews/article/081/0003675229?sid=102"
+          "keyword": "2026년",
+          "headline": "2026년 9월 서울의 문화행사",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744733?sid=102"
         },
         {
-          "keyword": "2년",
-          "headline": "4·3 가족관계 정정 신청, 2028년 8월까지 2년 연장",
-          "url": "https://n.news.naver.com/mnews/article/056/0012248206?sid=102"
+          "keyword": "화재",
+          "headline": "5명 사상 천안 타이어원료 공장 화재 합동감식",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744767?sid=102"
         },
         {
-          "keyword": "지천댐",
-          "headline": "부여군, 지천댐 건설 ‘5대 선결 조건부’ 수용",
-          "url": "https://n.news.naver.com/mnews/article/056/0012248165?sid=102"
+          "keyword": "자치구",
+          "headline": "[마포구·중구]“청년 정책 내놓자”… 자치구, 조직 바꾸고 센터 만들었다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744745?sid=102"
         },
         {
-          "keyword": "2명",
-          "headline": "전북 교권 전담 변호사 2명 공모…고문 변호사도 위촉",
-          "url": "https://n.news.naver.com/mnews/article/056/0012248191?sid=102"
+          "keyword": "주민",
+          "headline": "[성동구]유보화 성동구청장, 주민센터서 직원-주민과 소통",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744740?sid=102"
         }
       ]
     },
@@ -119,53 +119,13 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "AI 독립이냐 협력이냐…K-NPU '딜레마'",
-          "url": "https://n.news.naver.com/mnews/article/015/0005326892?sid=105"
+          "headline": "하정우 “AI, 국민 삶의 질 높이는 기술 돼야”",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744700?sid=105"
         },
         {
-          "keyword": "국가과학기술자",
-          "headline": "[사설]국가과학기술자 제도, 성공하려면",
-          "url": "https://n.news.naver.com/mnews/article/030/0003462032?sid=105"
-        },
-        {
-          "keyword": "하정우",
-          "headline": "하정우 “독파모 사업, 프런티어 AI 경쟁에 적합한지 재검토해야”",
-          "url": "https://n.news.naver.com/mnews/article/028/0002821016?sid=105"
-        },
-        {
-          "keyword": "성과",
-          "headline": "100년 만에 완성한 ‘국가기본지질도’…성과·활용 방안 논의",
-          "url": "https://n.news.naver.com/mnews/article/029/0003045342?sid=105"
-        },
-        {
-          "keyword": "국민",
-          "headline": "하정우 \"AI 전략, 이제는 실행력…국민 체감 성과 만들 것\"(종합)",
-          "url": "https://n.news.naver.com/mnews/article/119/0003127482?sid=105"
-        },
-        {
-          "keyword": "삼성",
-          "headline": "[기획] 삼성 파운드리 ‘성과급 덫’… 5년만 흑자전환 물 건너갔다",
-          "url": "https://n.news.naver.com/mnews/article/029/0003045343?sid=105"
-        },
-        {
-          "keyword": "SK",
-          "headline": "SK, 일본에 반도체 공장 검토… 최태원 \"전력·물 되면 어디든\"",
-          "url": "https://n.news.naver.com/mnews/article/029/0003045345?sid=105"
-        },
-        {
-          "keyword": "정부",
-          "headline": "의대 쏠림에 꺾인 이공계…정부, 과학인재 1만명 키운다",
-          "url": "https://n.news.naver.com/mnews/article/003/0014159667?sid=105"
-        },
-        {
-          "keyword": "이공계",
-          "headline": "\"이공계 살려라\" 석박사 장학생 3배로 늘린다",
-          "url": "https://n.news.naver.com/mnews/article/009/0005728355?sid=105"
-        },
-        {
-          "keyword": "지원",
-          "headline": "‘의대’ 쏠림에 정부, 이공계 인재 ‘유입부터 정착까지’ 지원 확대",
-          "url": "https://n.news.naver.com/mnews/article/119/0003127475?sid=105"
+          "keyword": "100배",
+          "headline": "허블보다 100배 시야각 '로먼 우주망원경' 발사",
+          "url": "https://n.news.naver.com/mnews/article/052/0002400890?sid=105"
         }
       ]
     },
@@ -174,54 +134,54 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "날씨",
-          "headline": "[날씨/XR] 남부 폭염특보…내일까지 중부 비",
-          "url": "https://n.news.naver.com/mnews/article/055/0001384784?sid=103"
+          "keyword": "9월",
+          "headline": "[오늘의 운세/9월 1일]",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744774?sid=103"
         },
         {
-          "keyword": "내일",
-          "headline": "‘전국노래자랑 강릉시 편’ 내일 공개 녹화 장소 변경",
-          "url": "https://n.news.naver.com/mnews/article/056/0012248121?sid=103"
+          "keyword": "기도",
+          "headline": "아펜젤러 124주기… 가슴에 띄운 추모 기도",
+          "url": "https://n.news.naver.com/mnews/article/005/0001870112?sid=103"
         },
         {
-          "keyword": "소나기",
-          "headline": "[제주날씨] 해안 전역 폭염 특보...내일(1일)  소나기",
-          "url": "https://n.news.naver.com/mnews/article/661/0000082473?sid=103"
+          "keyword": "시간",
+          "headline": "시간은 흐르지 않는다… 선조가 품은 ‘순환’의 지혜",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744790?sid=103"
         },
         {
-          "keyword": "충남",
-          "headline": "[속보] 홍성에 긴급 재난호우문자…충남 곳곳 호우경보",
-          "url": "https://n.news.naver.com/mnews/article/422/0000901372?sid=103"
+          "keyword": "사랑해",
+          "headline": "죽을만큼 사랑해… 죽일만큼 사랑해",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744789?sid=103"
         },
         {
-          "keyword": "폭우",
-          "headline": "전국 덮친 폭우에 실종·고립 잇따라…전북서 2명 실종(종합)",
-          "url": "https://n.news.naver.com/mnews/article/421/0009142520?sid=103"
+          "keyword": "없었다",
+          "headline": "\"치질이겠지\" 넘긴 혈변…항문은 죄가 없었다 [김효경의 데일리 헬스]",
+          "url": "https://n.news.naver.com/mnews/article/119/0003127498?sid=103"
         },
         {
-          "keyword": "오디세",
-          "headline": "‘오디세이’ 900만 돌파...IMAX 관객도 역대 1위",
-          "url": "https://n.news.naver.com/mnews/article/023/0003995895?sid=103"
+          "keyword": "민음사",
+          "headline": "민음사 격월간 문예지 ‘릿터’ 창간 10주년",
+          "url": "https://n.news.naver.com/mnews/article/023/0003995947?sid=103"
         },
         {
-          "keyword": "전국",
-          "headline": "[내일날씨] \"우산 챙기세요\"…전국 곳곳 비·소나기 이어져",
-          "url": "https://n.news.naver.com/mnews/article/031/0001054053?sid=103"
+          "keyword": "의사",
+          "headline": "“저녁으로 먹으면 살 반드시 찐다”… 의사 경고한 메뉴, 뭘까?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115243?sid=103"
         },
         {
-          "keyword": "곳곳",
-          "headline": "[날씨] 화요일, 전국 흐리고 곳곳 비·소나기…돌풍·천둥·번개 조심",
-          "url": "https://n.news.naver.com/mnews/article/029/0003045355?sid=103"
+          "keyword": "의외",
+          "headline": "“숙변 해결” 장 깨우는 의외의 방법들… 뭐야?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115249?sid=103"
         },
         {
-          "keyword": "너무",
-          "headline": "김지민 임신에 김준호 ‘입덧’…“너무 사랑해서”라고?",
-          "url": "https://n.news.naver.com/mnews/article/296/0000104293?sid=103"
+          "keyword": "예상",
+          "headline": "비구름 강원도로 이동...오전까지 최대 100mm 예상",
+          "url": "https://n.news.naver.com/mnews/article/052/0002400893?sid=103"
         },
         {
-          "keyword": "고혈압",
-          "headline": "평일 못 잔 잠, 주말에 보충했더니…\"고혈압 위험 낮아져\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014159797?sid=103"
+          "keyword": "뭘까",
+          "headline": "“독소 내보내” 채정안, 아침마다 ‘미지근하게’ 마신다는데… 뭘까?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115248?sid=103"
         }
       ]
     },
@@ -230,19 +190,54 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "시진핑",
-          "headline": "푸틴, 시진핑 만나 “러중 협력, 모든 분야 성공적 발전”",
-          "url": "https://n.news.naver.com/mnews/article/056/0012248214?sid=104"
+          "keyword": "트럼프",
+          "headline": "\"트럼프,11월 중간선거前 김정은 만날듯\"",
+          "url": "https://n.news.naver.com/mnews/article/008/0005407376?sid=104"
         },
         {
           "keyword": "네팔",
-          "headline": "네팔 수력발전소 터널서 시신 3구 수습…1구는 한국인 근무지서(종합2보)",
-          "url": "https://n.news.naver.com/mnews/article/421/0009142553?sid=104"
+          "headline": "산에서 또 하늘에서...신속대응팀 네팔 구조 '총력전'",
+          "url": "https://n.news.naver.com/mnews/article/052/0002400891?sid=104"
         },
         {
-          "keyword": "FRANCE",
-          "headline": "FRANCE POLITICS",
-          "url": "https://n.news.naver.com/mnews/article/091/0010296135?sid=104"
+          "keyword": "이란",
+          "headline": "한달만에 또 이란 때린 美… 이란도 美공군기지 즉각 보복",
+          "url": "https://n.news.naver.com/mnews/article/008/0005407390?sid=104"
+        },
+        {
+          "keyword": "유럽",
+          "headline": "美·日·유럽, 금리인상 신호 켰다",
+          "url": "https://n.news.naver.com/mnews/article/008/0005407371?sid=104"
+        },
+        {
+          "keyword": "G20",
+          "headline": "G20 재무장관회의 개막…美, 성장·규제완화·글로벌 불균형 해소 제시",
+          "url": "https://n.news.naver.com/mnews/article/003/0014159875?sid=104"
+        },
+        {
+          "keyword": "홍수",
+          "headline": "홍수 잔해 속 60시간, 네팔 5세 소녀 ‘기적의 생환’",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744762?sid=104"
+        },
+        {
+          "keyword": "수색",
+          "headline": "정부, '육로 수색' 본격 시작…헬기 수색 병행",
+          "url": "https://n.news.naver.com/mnews/article/055/0001384760?sid=104"
+        },
+        {
+          "keyword": "잔해",
+          "headline": "‘고양이 울음’에 잔해 파헤치자 아이가… 물찬 터널 기어서 탈출도",
+          "url": "https://n.news.naver.com/mnews/article/020/0003744746?sid=104"
+        },
+        {
+          "keyword": "대응",
+          "headline": "트럼프, 이란 보복에 “강력한 대응” 예고… “실패한 국가” 맹비난",
+          "url": "https://n.news.naver.com/mnews/article/023/0003995995?sid=104"
+        },
+        {
+          "keyword": "회의",
+          "headline": "'메카 방위동맹' 첫 회의…중동국가 새 안보 체계 구축",
+          "url": "https://n.news.naver.com/mnews/article/422/0000901409?sid=104"
         }
       ]
     },
@@ -251,7 +246,7 @@
       "cls": "game",
       "items": [
         {
-          "keyword": "AI",
+          "keyword": "게임",
           "headline": "게임 개발 전설들 \"AI로 누구나 창작하는 시대 개막\"",
           "url": "https://n.news.naver.com/mnews/article/029/0003045306"
         },
@@ -261,7 +256,7 @@
           "url": "https://n.news.naver.com/mnews/article/396/0000753937"
         },
         {
-          "keyword": "통합",
+          "keyword": "클랜컵",
           "headline": "카카오게임즈, '2026 PUBG 통합 클랜컵' 결선 성료",
           "url": "https://n.news.naver.com/mnews/article/031/0001053958"
         },
