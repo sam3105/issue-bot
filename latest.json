@@ -1,19 +1,34 @@
 {
-  "updatedAt": "2026-09-05 01:56",
+  "updatedAt": "2026-09-05 04:12",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
+          "keyword": "정용진",
+          "headline": "정용진 회장 \"한미 합치면 더 큰 시너지 낼 것\"",
+          "url": "https://n.news.naver.com/mnews/article/082/0001396915?sid=101"
+        },
+        {
+          "keyword": "트럼프",
+          "headline": "트럼프, 연준에 \"금리 내려라, 아니면 교역 중단\"",
+          "url": "https://n.news.naver.com/mnews/article/014/0005571311?sid=101"
+        },
+        {
           "keyword": "AI",
           "headline": "인성 묻던 자소서, 이젠 AI 역량 묻는다",
           "url": "https://n.news.naver.com/mnews/article/023/0003996814?sid=101"
         },
         {
-          "keyword": "코스피",
-          "headline": "코스피-코스닥 ‘상장폐지 시총 기준 강화’ 6개월 늦춘다",
-          "url": "https://n.news.naver.com/mnews/article/020/0003745941?sid=101"
+          "keyword": "경유가격",
+          "headline": "美 경유가격 갤런당 5.85＄로 사상최고 기록",
+          "url": "https://n.news.naver.com/mnews/article/003/0014170751?sid=101"
+        },
+        {
+          "keyword": "부동산",
+          "headline": "2차 공공기관 지방이전, 지방 부동산 가치 달라질까[손바닥부동산]",
+          "url": "https://n.news.naver.com/mnews/article/018/0006364011?sid=101"
         },
         {
           "keyword": "주식",
@@ -31,29 +46,14 @@
           "url": "https://n.news.naver.com/mnews/article/119/0003129316?sid=101"
         },
         {
-          "keyword": "9월",
-          "headline": "[지표로 보는 경제]9월 5일",
-          "url": "https://n.news.naver.com/mnews/article/020/0003745904?sid=101"
+          "keyword": "지자체들",
+          "headline": "통합 발전사, 본사 새로 짓는다… 지자체들 “우리가 유치”",
+          "url": "https://n.news.naver.com/mnews/article/023/0003996788?sid=101"
         },
         {
-          "keyword": "스쿨",
-          "headline": "정용진 ‘파운드리 스쿨’서 한·미 AI 협력 논의",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056571?sid=101"
-        },
-        {
-          "keyword": "논의",
+          "keyword": "반도체",
           "headline": "“반도체 관세, 경쟁국보다 안 불리하게 논의”",
           "url": "https://n.news.naver.com/mnews/article/023/0003996817?sid=101"
-        },
-        {
-          "keyword": "교역",
-          "headline": "트럼프, 연준에 \"금리 내려라, 아니면 교역 중단\"",
-          "url": "https://n.news.naver.com/mnews/article/014/0005571311?sid=101"
-        },
-        {
-          "keyword": "개장전",
-          "headline": "젠슨 황, 챗GPT 대항마 키운다 [박신영의 개장전 요것만]",
-          "url": "https://n.news.naver.com/mnews/article/015/0005328943?sid=101"
         }
       ]
     },
@@ -62,19 +62,14 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "크레인",
-          "headline": "태풍 영향 제주항 크레인 쓰러져 1명 사망",
-          "url": "https://n.news.naver.com/mnews/article/020/0003745917?sid=102"
+          "keyword": "불꽃축제",
+          "headline": "밤하늘 수놓은 불꽃축제 전야제...돗자리로 명당 선점도",
+          "url": "https://n.news.naver.com/mnews/article/052/0002402988?sid=102"
         },
         {
-          "keyword": "지귀연",
-          "headline": "기소된 지귀연‥\"난 먼저 갔는데‥술값 나눴는데\"",
-          "url": "https://n.news.naver.com/mnews/article/214/0001522173?sid=102"
-        },
-        {
-          "keyword": "AI",
-          "headline": "“에어컨 몇 도로 켜 둘까요”…LG가 보여준 AI 집사",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056567?sid=102"
+          "keyword": "제주",
+          "headline": "장씨 유족, 제주 찾아 “부 경장 파면처분 요구”",
+          "url": "https://n.news.naver.com/mnews/article/005/0001870966?sid=102"
         },
         {
           "keyword": "의혹",
@@ -82,34 +77,39 @@
           "url": "https://n.news.naver.com/mnews/article/214/0001522175?sid=102"
         },
         {
-          "keyword": "부고",
-          "headline": "[부고] 김경옥씨",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056565?sid=102"
+          "keyword": "크레인",
+          "headline": "태풍 영향 제주항 크레인 쓰러져 1명 사망",
+          "url": "https://n.news.naver.com/mnews/article/020/0003745917?sid=102"
         },
         {
-          "keyword": "불꽃축제",
-          "headline": "주말 서울 도심서 불꽃축제·마라톤 열려…곳곳 도로 통제",
-          "url": "https://n.news.naver.com/mnews/article/056/0012251532?sid=102"
+          "keyword": "주말",
+          "headline": "선선한 첫 주말‥전국 아침 최저기온 16도",
+          "url": "https://n.news.naver.com/mnews/article/214/0001522176?sid=102"
         },
         {
-          "keyword": "반도체",
+          "keyword": "AI",
+          "headline": "“에어컨 몇 도로 켜 둘까요”…LG가 보여준 AI 집사",
+          "url": "https://n.news.naver.com/mnews/article/353/0000056567?sid=102"
+        },
+        {
+          "keyword": "명당",
+          "headline": "반복되는 ‘불꽃 명당’ 거래…“단속 못한다”는 지자체[어떻게 생각하십니까]",
+          "url": "https://n.news.naver.com/mnews/article/011/0004658740?sid=102"
+        },
+        {
+          "keyword": "술접대",
+          "headline": "공수처, ‘술접대 의혹’ 지귀연 판사 기소… 뇌물죄는 빠져",
+          "url": "https://n.news.naver.com/mnews/article/020/0003745943?sid=102"
+        },
+        {
+          "keyword": "4명",
+          "headline": "김관정·김지용·문홍주·이윤제…초대 중수청장 후보 4명 압축",
+          "url": "https://n.news.naver.com/mnews/article/353/0000056576?sid=102"
+        },
+        {
+          "keyword": "세계",
           "headline": "반도체가 쌓은 ‘달러 방파제’…상반기 경상흑자 세계 2위",
           "url": "https://n.news.naver.com/mnews/article/353/0000056575?sid=102"
-        },
-        {
-          "keyword": "전국",
-          "headline": "전국 맑은 날씨… 강원·제주는 비 소식",
-          "url": "https://n.news.naver.com/mnews/article/366/0001190283?sid=102"
-        },
-        {
-          "keyword": "2명",
-          "headline": "강풍에 제주항 바지선 크레인 쓰러져…2명 사상",
-          "url": "https://n.news.naver.com/mnews/article/422/0000902978?sid=102"
-        },
-        {
-          "keyword": "50대",
-          "headline": "50대 현직 경찰, 식당서 여성 강제 추행 혐의 현행범 체포",
-          "url": "https://n.news.naver.com/mnews/article/021/0002816463?sid=102"
         }
       ]
     },
@@ -124,13 +124,8 @@
         },
         {
           "keyword": "IFA",
-          "headline": "[IFA 2026] 가전쇼 개막 무대 오른 AMD… 잭 후인 수석부사장 “PC가 사람 이해하는 시대”",
-          "url": "https://n.news.naver.com/mnews/article/366/0001190499?sid=105"
-        },
-        {
-          "keyword": "공개",
-          "headline": "인간 감시도 피한다 오픈AI, 차세대 AI ‘아스트라’ 공개",
-          "url": "https://n.news.naver.com/mnews/article/023/0003996786?sid=105"
+          "headline": "[IFA 2026] LG전자 ‘최고 브랜드’·삼성전자 혁신상 4개… 韓 가전 나란히 수상",
+          "url": "https://n.news.naver.com/mnews/article/366/0001190503?sid=105"
         },
         {
           "keyword": "시대",
@@ -144,34 +139,9 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "책의",
+          "keyword": "향기",
           "headline": "[책의 향기/밑줄 긋기]여름을 건너",
           "url": "https://n.news.naver.com/mnews/article/020/0003745931?sid=103"
-        },
-        {
-          "keyword": "9월",
-          "headline": "[오늘의 운세/9월 6일]",
-          "url": "https://n.news.naver.com/mnews/article/020/0003745955?sid=103"
-        },
-        {
-          "keyword": "바다",
-          "headline": "[어린이 책]고양이의 바다 여행, 오늘은 성공할까?",
-          "url": "https://n.news.naver.com/mnews/article/020/0003745936?sid=103"
-        },
-        {
-          "keyword": "메모",
-          "headline": "[책의 향기]우리는 잊기 위해 메모를 쓴다",
-          "url": "https://n.news.naver.com/mnews/article/020/0003745935?sid=103"
-        },
-        {
-          "keyword": "세계",
-          "headline": "[책의 향기]金에 밀리기 전, 銀이 세계의 돈이었다",
-          "url": "https://n.news.naver.com/mnews/article/020/0003745933?sid=103"
-        },
-        {
-          "keyword": "있다",
-          "headline": "[책의 향기]게으른 빈곤 뒤에 ‘쇠약한 뇌’ 있다",
-          "url": "https://n.news.naver.com/mnews/article/020/0003745929?sid=103"
         },
         {
           "keyword": "음식",
@@ -179,19 +149,44 @@
           "url": "https://n.news.naver.com/mnews/article/346/0000115512?sid=103"
         },
         {
-          "keyword": "뭐지",
-          "headline": "폐경 후 체중 불었을 때, 되레 ‘더 먹어야 할 것’ 있다… 뭐지?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000115511?sid=103"
-        },
-        {
-          "keyword": "기타",
-          "headline": "아직도 기타로 오토바이 타는 72세 청춘",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056563?sid=103"
+          "keyword": "9월",
+          "headline": "[오늘의 운세/9월 6일]",
+          "url": "https://n.news.naver.com/mnews/article/020/0003745955?sid=103"
         },
         {
           "keyword": "세상",
           "headline": "전쟁·불평등 가득한 세상 ‘두려움’은 오히려 정상",
           "url": "https://n.news.naver.com/mnews/article/023/0003996752?sid=103"
+        },
+        {
+          "keyword": "가지",
+          "headline": "‘한 가지 음식’만 끊었는데, 23kg 쏙 빠졌다… 대체 뭐야?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115517?sid=103"
+        },
+        {
+          "keyword": "보는",
+          "headline": "“아침에 즐겨 먹었는데”… 심장 보는 의사가 경고한 ‘의외의 음식’, 뭐지?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115513?sid=103"
+        },
+        {
+          "keyword": "우리",
+          "headline": "[책의 향기]우리는 잊기 위해 메모를 쓴다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003745935?sid=103"
+        },
+        {
+          "keyword": "감량",
+          "headline": "“식단 안 해도 체중 유지”… 20kg 감량 제이제이가 공복에 하는 운동은?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115516?sid=103"
+        },
+        {
+          "keyword": "먹으면",
+          "headline": "“매일 5g 더 먹으면 LDL 콜레스테롤 뚝”… 영양사 추천 음식, 뭐야?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115514?sid=103"
+        },
+        {
+          "keyword": "바다",
+          "headline": "[어린이 책]고양이의 바다 여행, 오늘은 성공할까?",
+          "url": "https://n.news.naver.com/mnews/article/020/0003745936?sid=103"
         }
       ]
     },
@@ -200,34 +195,24 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "불허",
-          "headline": "한국인 실종지 도보수색 불허...네팔군 \"위험 지역\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002402975?sid=104"
+          "keyword": "트럼프",
+          "headline": "[속보] 트럼프 \"이란 '곡괭이산' 곧 공격할 수도 있다\"",
+          "url": "https://n.news.naver.com/mnews/article/422/0000902986?sid=104"
         },
         {
-          "keyword": "트럼프",
-          "headline": "트럼프 \"연준 금리 인하 안하면 미국이 적자보는 나라와 무역 중단\"",
-          "url": "https://n.news.naver.com/mnews/article/214/0001522179?sid=104"
+          "keyword": "League",
+          "headline": "France League One Soccer",
+          "url": "https://n.news.naver.com/mnews/article/077/0007147461?sid=104"
+        },
+        {
+          "keyword": "Soccer",
+          "headline": "Germany Bundesliga Soccer",
+          "url": "https://n.news.naver.com/mnews/article/077/0007147447?sid=104"
         },
         {
           "keyword": "US",
           "headline": "Iran US War",
-          "url": "https://n.news.naver.com/mnews/article/077/0007147307?sid=104"
-        },
-        {
-          "keyword": "네팔",
-          "headline": "네팔 홍수 ‘9일만의 기적’… 발전소 터널서 2명 구조",
-          "url": "https://n.news.naver.com/mnews/article/020/0003745918?sid=104"
-        },
-        {
-          "keyword": "9일",
-          "headline": "9일 만에… 발전소 터널서 희망을 끌어올렸다",
-          "url": "https://n.news.naver.com/mnews/article/023/0003996816?sid=104"
-        },
-        {
-          "keyword": "Film",
-          "headline": "Italy Venice Film Festival A Place To Heal Red Carpet",
-          "url": "https://n.news.naver.com/mnews/article/077/0007147292?sid=104"
+          "url": "https://n.news.naver.com/mnews/article/077/0007147459?sid=104"
         }
       ]
     },
@@ -271,7 +256,7 @@
           "url": "https://n.news.naver.com/mnews/article/347/0000195472"
         },
         {
-          "keyword": "아시안게임",
+          "keyword": "모바일",
           "headline": "‘배틀그라운드 모바일’ 국가대표팀, 아시안게임 앞두고 평가전",
           "url": "https://n.news.naver.com/mnews/article/009/0005730540"
         }
