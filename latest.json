@@ -1,59 +1,29 @@
 {
-  "updatedAt": "2026-09-05 21:09",
+  "updatedAt": "2026-09-06 00:08",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "수출",
-          "headline": "수출 7천억 달러 돌파…지난해 실적 넘어",
-          "url": "https://n.news.naver.com/mnews/article/056/0012251675?sid=101"
+          "keyword": "원텍",
+          "headline": "원지안, 원텍 앰버서더…행사장 빛낸 미소",
+          "url": "https://n.news.naver.com/mnews/article/421/0009152890?sid=101"
         },
         {
-          "keyword": "불꽃",
-          "headline": "서울 밤하늘 수놓는 불꽃…100만 인파 모인 서울세계불꽃축제",
-          "url": "https://n.news.naver.com/mnews/article/057/0001967509?sid=101"
+          "keyword": "코스피",
+          "headline": "코스피 6700선서 오락가락…개인·외국인 팔고 기타법인 6조 순매수",
+          "url": "https://n.news.naver.com/mnews/article/293/0000090060?sid=101"
         },
         {
-          "keyword": "반도체",
-          "headline": "관세 피해 美에서 쇳물 뽑는다‥\"반도체도 지어라\" 압박",
-          "url": "https://n.news.naver.com/mnews/article/214/0001522235?sid=101"
+          "keyword": "비즈토크",
+          "headline": "[비즈토크<상>] \"수도권 잔류 최소화\"…정부, 공공기관 옮기고 줄인다",
+          "url": "https://n.news.naver.com/mnews/article/629/0000531015?sid=101"
         },
         {
-          "keyword": "다시",
-          "headline": "[돈이 보이는 경제] \"금 맡기면 이자 드려요\"…다시 뜨는 금 테크",
-          "url": "https://n.news.naver.com/mnews/article/448/0000637657?sid=101"
-        },
-        {
-          "keyword": "시대",
-          "headline": "막 내린 팀 쿡 시대…애플 어떻게 달라질까?",
-          "url": "https://n.news.naver.com/mnews/article/374/0000531195?sid=101"
-        },
-        {
-          "keyword": "관세",
-          "headline": "'관세 장벽' 넘는다…미국서 철강부터 완성차까지",
-          "url": "https://n.news.naver.com/mnews/article/422/0000903188?sid=101"
-        },
-        {
-          "keyword": "철강",
-          "headline": "쇳물부터 자동차까지…'K-철강 동맹' 미국 제철소 첫삽",
-          "url": "https://n.news.naver.com/mnews/article/057/0001967507?sid=101"
-        },
-        {
-          "keyword": "시장",
-          "headline": "\"폐업률 80%\" 삭막했던 '유령 시장'…화려한 변신",
-          "url": "https://n.news.naver.com/mnews/article/055/0001386154?sid=101"
-        },
-        {
-          "keyword": "최대",
-          "headline": "지방 중소기업 다니면 ‘청년미래적금’ 최대 450만원 더 받는다",
-          "url": "https://n.news.naver.com/mnews/article/022/0004156603?sid=101"
-        },
-        {
-          "keyword": "지방",
-          "headline": "금융노조 총파업‥\"임금 인상·지방 이전 반대\"",
-          "url": "https://n.news.naver.com/mnews/article/214/0001522065?sid=101"
+          "keyword": "거주",
+          "headline": "영화 '비광' 하지원, 서래마을 빌라 9년 장기 거주 이어가는 배경",
+          "url": "https://n.news.naver.com/mnews/article/003/0014171498?sid=101"
         }
       ]
     },
@@ -62,54 +32,19 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "불꽃",
-          "headline": "[포토]'빛나는 불꽃'",
-          "url": "https://n.news.naver.com/mnews/article/018/0006364201?sid=102"
-        },
-        {
-          "keyword": "로또",
-          "headline": "1240회 로또 1등 16명…각 17억9000만원 챙긴다",
-          "url": "https://n.news.naver.com/mnews/article/277/0005812338?sid=102"
-        },
-        {
-          "keyword": "화려한",
-          "headline": "여의도 밤하늘 수놓은 화려한 불꽃",
-          "url": "https://n.news.naver.com/mnews/article/421/0009152815?sid=102"
-        },
-        {
-          "keyword": "주의",
-          "headline": "[날씨] 당분간 초가을 날씨…제주·남해·동해 강풍 주의",
-          "url": "https://n.news.naver.com/mnews/article/057/0001967512?sid=102"
-        },
-        {
-          "keyword": "강풍",
+          "keyword": "제주",
           "headline": "제주 거센 풍랑에 낚시객 고립...강풍 피해도 발생",
-          "url": "https://n.news.naver.com/mnews/article/052/0002403198?sid=102"
+          "url": "https://n.news.naver.com/mnews/article/052/0002403242?sid=102"
         },
         {
-          "keyword": "만에",
-          "headline": "\"뒤집힐 것 같다\" 다급한 신고…12분 만에 구조했지만 2명 사망",
-          "url": "https://n.news.naver.com/mnews/article/018/0006364202?sid=102"
+          "keyword": "아빠",
+          "headline": "물에 빠진 아이 구하려 뛰어든 아빠 숨져…함께 구조 나선 40대도 사망",
+          "url": "https://n.news.naver.com/mnews/article/053/0000061269?sid=102"
         },
         {
-          "keyword": "사망",
-          "headline": "물에 빠진 아들 구하고 아빠는 숨져… 돕던 40대 남성도 사망",
-          "url": "https://n.news.naver.com/mnews/article/469/0000952290?sid=102"
-        },
-        {
-          "keyword": "여의",
-          "headline": "\"지금이라도 내려주세요\"…여의도 불꽃축제 명당 싹 풀렸다",
-          "url": "https://n.news.naver.com/mnews/article/437/0000509551?sid=102"
-        },
-        {
-          "keyword": "불꽃축제",
-          "headline": "불꽃축제 관람객들로 붐비는 한강공원",
-          "url": "https://n.news.naver.com/mnews/article/003/0014171345?sid=102"
-        },
-        {
-          "keyword": "대박",
-          "headline": "첫 불꽃 터지자 \"와, 대박\"…한강변 가득 메운 인파 환호[현장]",
-          "url": "https://n.news.naver.com/mnews/article/003/0014171350?sid=102"
+          "keyword": "사람",
+          "headline": "경기 의왕 창고 건물 불‥다친 사람 없어",
+          "url": "https://n.news.naver.com/mnews/article/214/0001522254?sid=102"
         }
       ]
     },
@@ -119,53 +54,18 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "철강·농업에 AI 접목…'AX 당진' 선포",
-          "url": "https://n.news.naver.com/mnews/article/422/0000903098?sid=105"
-        },
-        {
-          "keyword": "IFA",
-          "headline": "삼성 IFA 전시관에 아이폰17 프로가?… 경쟁사 제품 올려놨다, 왜?",
-          "url": "https://n.news.naver.com/mnews/article/023/0003996848?sid=105"
-        },
-        {
-          "keyword": "삼성",
-          "headline": "독일에 뜬 '삼성 AI 판촉왕'…가전·TV 추천부터 상담까지 척척",
-          "url": "https://n.news.naver.com/mnews/article/001/0016291630?sid=105"
-        },
-        {
-          "keyword": "가전",
-          "headline": "[IFA 2026] 파충류 집도 돌보고, 빨래도 집어넣고…中 가전, ‘집안일’ 경계 허문다",
-          "url": "https://n.news.naver.com/mnews/article/138/0002240335?sid=105"
-        },
-        {
-          "keyword": "샤오미",
           "headline": "스마트폰-전기차-집을 AI로 연결한 샤오미... 소비자 '록인' 노린다",
           "url": "https://n.news.naver.com/mnews/article/469/0000952283?sid=105"
         },
         {
-          "keyword": "LG전자",
-          "headline": "노범준 LG전자 상무 “빨리 시도하고 치고 나가는 게 경쟁력”",
-          "url": "https://n.news.naver.com/mnews/article/138/0002240334?sid=105"
+          "keyword": "샤오미",
+          "headline": "“하루 1대도 안 팔려” “그냥 싼 맛에 산다” 조롱받던 샤오미…삼성 따라 한 ‘접는 폰’ 내놨다",
+          "url": "https://n.news.naver.com/mnews/article/016/0002693244?sid=105"
         },
         {
-          "keyword": "정의선",
-          "headline": "취재진 질문에 답하는 정의선 회장",
-          "url": "https://n.news.naver.com/mnews/article/001/0016291707?sid=105"
-        },
-        {
-          "keyword": "IFA2026",
-          "headline": "[IFA2026]종이컵 들고 버튼 누른다…모바, 로봇손 'Knot 80'",
-          "url": "https://n.news.naver.com/mnews/article/030/0003463776?sid=105"
-        },
-        {
-          "keyword": "운동",
+          "keyword": "하루",
           "headline": "하루 14분이면 충분?…가을 운동, '이렇게' 섞어야 효과 본다",
           "url": "https://n.news.naver.com/mnews/article/584/0000039213?sid=105"
-        },
-        {
-          "keyword": "경계",
-          "headline": "“이 논문, 누가 썼습니까”…AI가 흔든 연구윤리의 경계",
-          "url": "https://n.news.naver.com/mnews/article/018/0006364112?sid=105"
         }
       ]
     },
@@ -174,54 +74,24 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "날씨",
-          "headline": "[날씨] 서울 불꽃축제 '선선'…일교차 유의",
-          "url": "https://n.news.naver.com/mnews/article/448/0000637666?sid=103"
-        },
-        {
-          "keyword": "여수세계섬박람회",
-          "headline": "개막 열기 가득한 여수세계섬박람회",
-          "url": "https://n.news.naver.com/mnews/article/001/0016291865?sid=103"
-        },
-        {
-          "keyword": "맑고",
-          "headline": "[날씨] 당분간 맑고 선선‥동해안·제주 약한 비",
-          "url": "https://n.news.naver.com/mnews/article/214/0001522249?sid=103"
-        },
-        {
-          "keyword": "선선",
-          "headline": "[내일날씨]전국 맑고 선선…부산·울산 늦은 오후 비",
-          "url": "https://n.news.naver.com/mnews/article/277/0005812334?sid=103"
-        },
-        {
-          "keyword": "내일",
-          "headline": "[날씨] 내일도 맑고 선선한 초가을…강한 바람은 주의",
-          "url": "https://n.news.naver.com/mnews/article/422/0000903180?sid=103"
-        },
-        {
-          "keyword": "사과",
-          "headline": "부산비엔날레 측, 류성실 작품 손상 “작가에 신속 공유 못했다” 사과",
-          "url": "https://n.news.naver.com/mnews/article/025/0003549301?sid=103"
-        },
-        {
-          "keyword": "장관",
-          "headline": "여수세계섬박람회 참석한 윤호중 장관",
-          "url": "https://n.news.naver.com/mnews/article/001/0016291879?sid=103"
-        },
-        {
-          "keyword": "대상",
-          "headline": "환경파괴, 가톨릭 8번째 죄악?…\"고해성사 대상\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016291869?sid=103"
-        },
-        {
           "keyword": "6일",
-          "headline": "‘사운드 플래닛 페스티벌 2026’ 개막···6일 까지 공연이어져",
-          "url": "https://n.news.naver.com/mnews/article/144/0001136305?sid=103"
+          "headline": "[오늘의 운세] 2026년 9월 6일 오행별 행운의 컬러",
+          "url": "https://n.news.naver.com/mnews/article/015/0005329037?sid=103"
         },
         {
-          "keyword": "만에",
-          "headline": "충남 공주 '마곡사 동종' 50년 만에 국가 보물로",
-          "url": "https://n.news.naver.com/mnews/article/656/0000185977?sid=103"
+          "keyword": "제주",
+          "headline": "늦더위 물러나고 가을 성큼…제주·동해안은 비바람",
+          "url": "https://n.news.naver.com/mnews/article/025/0003549160?sid=103"
+        },
+        {
+          "keyword": "일요일",
+          "headline": "[오늘의 날씨] 일요일 맑고 무덥다…강원·경상·제주 곳곳 비",
+          "url": "https://n.news.naver.com/mnews/article/629/0000531017?sid=103"
+        },
+        {
+          "keyword": "무대",
+          "headline": "무대 위에서 더 큰 감동 만든 연극 ‘타인의 삶’",
+          "url": "https://n.news.naver.com/mnews/article/022/0004156616?sid=103"
         }
       ]
     },
@@ -230,29 +100,19 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "이란",
-          "headline": "이란 \"한국 호르무즈 어떤 행위도 공격으로 간주할 것\"",
-          "url": "https://n.news.naver.com/mnews/article/008/0005409837?sid=104"
+          "keyword": "Soccer",
+          "headline": "Italy Soccer Serie A",
+          "url": "https://n.news.naver.com/mnews/article/077/0007148426?sid=104"
         },
         {
-          "keyword": "네팔",
-          "headline": "네팔 홍수 9일만의 기적…발전소 터널서 2명 구조",
-          "url": "https://n.news.naver.com/mnews/article/020/0003745810?sid=104"
+          "keyword": "Nepal",
+          "headline": "APTOPIX Nepal Flood",
+          "url": "https://n.news.naver.com/mnews/article/077/0007148430?sid=104"
         },
         {
-          "keyword": "교황청",
-          "headline": "교황청 “환경파괴는 죄악…고해성사 필요”",
-          "url": "https://n.news.naver.com/mnews/article/056/0012251682?sid=104"
-        },
-        {
-          "keyword": "이런",
-          "headline": "외도하는 사람 이런 공통점?…전문가도 주목한 건 '어린 시절'",
-          "url": "https://n.news.naver.com/mnews/article/008/0005409836?sid=104"
-        },
-        {
-          "keyword": "Britain",
-          "headline": "Britain Port Blocked",
-          "url": "https://n.news.naver.com/mnews/article/077/0007148286?sid=104"
+          "keyword": "구조",
+          "headline": "한국 구조대, 한국인 9명 실종된 발전소서 10일 만에 생존자 구조",
+          "url": "https://n.news.naver.com/mnews/article/053/0000061270?sid=104"
         }
       ]
     },
@@ -266,19 +126,49 @@
           "url": "https://n.news.naver.com/mnews/article/001/0016290938"
         },
         {
-          "keyword": "테스트",
+          "keyword": "글로벌",
           "headline": "크래프톤 '제타', 2차 글로벌 테스트…연내 공개 목표",
           "url": "https://n.news.naver.com/mnews/article/003/0014170442"
+        },
+        {
+          "keyword": "붉은사막",
+          "headline": "펄어비스가 ‘붉은사막’으로 증명한 K-패키지 새 문법[서대문 오락실]",
+          "url": "https://n.news.naver.com/mnews/article/243/0000102641"
+        },
+        {
+          "keyword": "엔씨",
+          "headline": "OP.GG, 엔씨 신작 '타임 테이커즈' 전적 검색 서비스 오픈",
+          "url": "https://n.news.naver.com/mnews/article/076/0004442954"
+        },
+        {
+          "keyword": "신작",
+          "headline": "라인게임즈, 9일 신작 '어메이징 슬롯 서바이버' 스팀 테스트 시작",
+          "url": "https://n.news.naver.com/mnews/article/138/0002240302"
+        },
+        {
+          "keyword": "공략",
+          "headline": "'아이온2' 띄우고 '슈터 신작' 쏜다…엔씨, 글로벌 공략 '투트랙'",
+          "url": "https://n.news.naver.com/mnews/article/003/0014171083"
+        },
+        {
+          "keyword": "시작",
+          "headline": "펄어비스, '붉은사막 인핸스드' 첫 DLC 10월 16일 출시…예약 구매 시작",
+          "url": "https://n.news.naver.com/mnews/article/076/0004442961"
+        },
+        {
+          "keyword": "예약",
+          "headline": "엔씨, '퍼플'서 '창세기전 외전: 서풍의 광시곡 리마스터' 예약 판매",
+          "url": "https://n.news.naver.com/mnews/article/076/0004442930"
+        },
+        {
+          "keyword": "출시",
+          "headline": "사이게임스, 새 게임 브랜드 '사이게임스 엣지' 출범…첫 타이틀 11월 5일 출시",
+          "url": "https://n.news.naver.com/mnews/article/076/0004442949"
         },
         {
           "keyword": "나올까",
           "headline": "시청률 23% 찍던 '김부장', 게임으로 나올까…게임사들 \"K-웹툰 모셔라\"",
           "url": "https://n.news.naver.com/mnews/article/003/0014170926"
-        },
-        {
-          "keyword": "광고",
-          "headline": "카카오게임즈 기대작 '도깨비의세계', 서울 번화가 옥외 광고로 만난다",
-          "url": "https://n.news.naver.com/mnews/article/347/0000195472"
         }
       ]
     }
