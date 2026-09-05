@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-09-06 02:18",
+  "updatedAt": "2026-09-06 04:09",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "원지안",
-          "headline": "원지안, 원텍 앰버서더…행사장 빛낸 미소",
-          "url": "https://n.news.naver.com/mnews/article/421/0009152890?sid=101"
+          "keyword": "Seoul",
+          "headline": "원지안, 원텍 'Wave Seoul 2026' 행사 참석…눈부신 비주얼",
+          "url": "https://n.news.naver.com/mnews/article/421/0009152895?sid=101"
         },
         {
-          "keyword": "벌써",
+          "keyword": "달러",
           "headline": "수출, 어제 벌써 역대 최대 지난해 실적 돌파...\"12월 초 1조 달러\"",
           "url": "https://n.news.naver.com/mnews/article/052/0002403263?sid=101"
         },
         {
-          "keyword": "1조",
-          "headline": "1조 수주에도 고점서 38%↓…'비싼 몸값' 갇힌 삼성전기[종목현미경]",
-          "url": "https://n.news.naver.com/mnews/article/421/0009152370?sid=101"
+          "keyword": "돌파",
+          "headline": "삼전닉스 자사주 매입 벌써 30% 돌파…불안해지는 코스피 수급 방패 [박진우의 개미수다]",
+          "url": "https://n.news.naver.com/mnews/article/029/0003046270?sid=101"
         },
         {
           "keyword": "비즈토크",
@@ -42,39 +42,14 @@
           "url": "https://n.news.naver.com/mnews/article/018/0006364295?sid=102"
         },
         {
-          "keyword": "1명",
-          "headline": "네팔 수력발전소 터널에서 중국인 1명 구조",
-          "url": "https://n.news.naver.com/mnews/article/421/0009152896?sid=102"
-        },
-        {
-          "keyword": "이혼",
-          "headline": "이혼 통보한 아내 살해하고 불륜男 중상 입힌 50대 ‘징역 30년’",
-          "url": "https://n.news.naver.com/mnews/article/011/0004658904?sid=102"
-        },
-        {
-          "keyword": "피해",
-          "headline": "야생 조류 정전 피해 되풀이...대책은 '한계'",
-          "url": "https://n.news.naver.com/mnews/article/052/0002403255?sid=102"
-        },
-        {
-          "keyword": "없어",
-          "headline": "안산호수공원 폐기물 수거차에서 불...인명피해 없어",
-          "url": "https://n.news.naver.com/mnews/article/052/0002403268?sid=102"
-        },
-        {
-          "keyword": "9월",
+          "keyword": "바다",
           "headline": "더위 꺾인 9월 첫 주말 전국 바다 곳곳 사고",
           "url": "https://n.news.naver.com/mnews/article/052/0002403266?sid=102"
         },
         {
-          "keyword": "전국",
-          "headline": "예천군, 전국 무형유산 한마당 ‘흥’… 전통 농요·놀이·탈놀이 무대",
-          "url": "https://n.news.naver.com/mnews/article/002/0002455173?sid=102"
-        },
-        {
-          "keyword": "사고",
-          "headline": "초등생 아들 구하던 아빠 심정지…울진서 물놀이 사고 속출",
-          "url": "https://n.news.naver.com/mnews/article/025/0003549293?sid=102"
+          "keyword": "구조",
+          "headline": "[그래픽] '네팔 대홍수' 생존자 구조 현황",
+          "url": "https://n.news.naver.com/mnews/article/001/0016291987?sid=102"
         },
         {
           "keyword": "축제",
@@ -82,9 +57,34 @@
           "url": "https://n.news.naver.com/mnews/article/014/0005571418?sid=102"
         },
         {
-          "keyword": "쓰레기",
-          "headline": "한강공원에 쌓인 쓰레기",
-          "url": "https://n.news.naver.com/mnews/article/001/0016291986?sid=102"
+          "keyword": "경기",
+          "headline": "경기 의왕 낚시용품 창고에서 불...1명 경상",
+          "url": "https://n.news.naver.com/mnews/article/052/0002403267?sid=102"
+        },
+        {
+          "keyword": "곳곳",
+          "headline": "[오늘의 날씨] 경기(6일, 일)…맑은 가을 하늘에 곳곳 강한 바람",
+          "url": "https://n.news.naver.com/mnews/article/421/0009152903?sid=102"
+        },
+        {
+          "keyword": "자막뉴스",
+          "headline": "'100만 인파' 불꽃 축제...눈살 찌푸리게 모습 [자막뉴스]",
+          "url": "https://n.news.naver.com/mnews/article/052/0002403276?sid=102"
+        },
+        {
+          "keyword": "모터보트",
+          "headline": "충남 당진 해상에서 모터보트 침몰...6명 구조",
+          "url": "https://n.news.naver.com/mnews/article/052/0002403278?sid=102"
+        },
+        {
+          "keyword": "심정지",
+          "headline": "경북 울진 바다·계곡서 잇따라 수난사고...4명 심정지",
+          "url": "https://n.news.naver.com/mnews/article/052/0002403277?sid=102"
+        },
+        {
+          "keyword": "30대",
+          "headline": "현금 6만원 훔쳤는데…징역 2년3개월 선고받은 30대, 이유는",
+          "url": "https://n.news.naver.com/mnews/article/011/0004658905?sid=102"
         }
       ]
     },
@@ -94,18 +94,18 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "모두의 AI 성공방정식 '외산과 차별화'…SKT·KT·카카오 출격",
-          "url": "https://n.news.naver.com/mnews/article/030/0003463700?sid=105"
+          "headline": "스마트폰-전기차-집을 AI로 연결한 샤오미... 소비자 '록인' 노린다",
+          "url": "https://n.news.naver.com/mnews/article/469/0000952283?sid=105"
+        },
+        {
+          "keyword": "샤오미",
+          "headline": "“하루 1대도 안 팔려” “그냥 싼 맛에 산다” 조롱받던 샤오미…삼성 따라 한 ‘접는 폰’ 내놨다",
+          "url": "https://n.news.naver.com/mnews/article/016/0002693244?sid=105"
         },
         {
           "keyword": "하루",
           "headline": "하루 14분이면 충분?…가을 운동, '이렇게' 섞어야 효과 본다",
           "url": "https://n.news.naver.com/mnews/article/584/0000039213?sid=105"
-        },
-        {
-          "keyword": "샤오미",
-          "headline": "스마트폰-전기차-집을 AI로 연결한 샤오미... 소비자 '록인' 노린다",
-          "url": "https://n.news.naver.com/mnews/article/469/0000952283?sid=105"
         }
       ]
     },
@@ -114,14 +114,9 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "운세",
+          "keyword": "9월",
           "headline": "[김동완의오늘의 운세] 2026년 9월 6일",
           "url": "https://n.news.naver.com/mnews/article/081/0003677114?sid=103"
-        },
-        {
-          "keyword": "날씨",
-          "headline": "[날씨] 오늘도 쾌청한 초가을...큰 일교차 주의",
-          "url": "https://n.news.naver.com/mnews/article/052/0002403245?sid=103"
         },
         {
           "keyword": "일요일",
@@ -129,9 +124,9 @@
           "url": "https://n.news.naver.com/mnews/article/003/0014171497?sid=103"
         },
         {
-          "keyword": "제주",
-          "headline": "내일도 내륙 초가을 날씨...동해안·제주도 비[날씨]",
-          "url": "https://n.news.naver.com/mnews/article/052/0002403233?sid=103"
+          "keyword": "뭐야",
+          "headline": "“장 염증 막는다”… 자주 먹으면 좋은 ‘10가지 음식’, 뭐야?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115542?sid=103"
         },
         {
           "keyword": "아침",
@@ -140,13 +135,18 @@
         },
         {
           "keyword": "막는다",
-          "headline": "“장 염증 막는다”… 자주 먹으면 좋은 ‘10가지 음식’, 뭐야?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000115542?sid=103"
+          "headline": "“아침에 먹어두면 혈당 급상승 막는다”… 16kg 뺀 홍현희의 ‘첫 끼’, 뭘까?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115541?sid=103"
         },
         {
           "keyword": "7월",
           "headline": "금호미술관, 38년 만에 문 닫는다…내년 7월 미술사업 종료",
           "url": "https://n.news.naver.com/mnews/article/018/0006364297?sid=103"
+        },
+        {
+          "keyword": "날씨",
+          "headline": "[날씨] 오늘도 쾌청한 초가을...큰 일교차 주의",
+          "url": "https://n.news.naver.com/mnews/article/052/0002403245?sid=103"
         }
       ]
     },
@@ -155,24 +155,29 @@
       "cls": "world",
       "items": [
         {
+          "keyword": "트럼프",
+          "headline": "푸틴, 트럼프 특사 만나 \"상황 녹록지 않아…모든 측면 논의\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016291996?sid=104"
+        },
+        {
           "keyword": "SOCCER",
           "headline": "SPAIN SOCCER",
           "url": "https://n.news.naver.com/mnews/article/091/0010301109?sid=104"
         },
         {
-          "keyword": "트럼프",
-          "headline": "국가보안국도 타격...트럼프 \"특사단, 종전 제안 가지고 방문\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002403270?sid=104"
+          "keyword": "푸틴",
+          "headline": "푸틴 \"美 특사단 안전 위해 키이우 공격 중단…포괄적 휴전 아냐\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009152902?sid=104"
         },
         {
-          "keyword": "GERMANY",
-          "headline": "GERMANY SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010301126?sid=104"
+          "keyword": "특사",
+          "headline": "러, 트럼프 특사 방문 앞두고 \"우크라에 불리한 전황 고려해야\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016291783?sid=104"
         },
         {
-          "keyword": "Soccer",
-          "headline": "Italy Soccer Serie A",
-          "url": "https://n.news.naver.com/mnews/article/077/0007148552?sid=104"
+          "keyword": "1명",
+          "headline": "한국인 실종지역 생존자 “근처에 1명 더 있었다…생사는 몰라”",
+          "url": "https://n.news.naver.com/mnews/article/056/0012251761?sid=104"
         },
         {
           "keyword": "epaselect",
@@ -180,29 +185,24 @@
           "url": "https://n.news.naver.com/mnews/article/091/0010301115?sid=104"
         },
         {
-          "keyword": "ITALY",
-          "headline": "ITALY CINEMA",
-          "url": "https://n.news.naver.com/mnews/article/091/0010301125?sid=104"
+          "keyword": "만에",
+          "headline": "9일 만에… 발전소 터널서 희망을 끌어올렸다",
+          "url": "https://n.news.naver.com/mnews/article/023/0003996816?sid=104"
         },
         {
-          "keyword": "SPAIN",
-          "headline": "SPAIN CYCLING",
-          "url": "https://n.news.naver.com/mnews/article/091/0010301129?sid=104"
+          "keyword": "공격",
+          "headline": "“수단 정부군, 반군에 화학무기 공격 정황”",
+          "url": "https://n.news.naver.com/mnews/article/056/0012251762?sid=104"
         },
         {
-          "keyword": "Russia",
-          "headline": "Russia Putin",
-          "url": "https://n.news.naver.com/mnews/article/077/0007148560?sid=104"
+          "keyword": "아냐",
+          "headline": "WSJ \"시간은 이란 편 아냐...산유국들, 우회로 찾아\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002403260?sid=104"
         },
         {
-          "keyword": "BRITAIN",
-          "headline": "BRITAIN SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010301124?sid=104"
-        },
-        {
-          "keyword": "NETHERLANDS",
-          "headline": "NETHERLANDS SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010301113?sid=104"
+          "keyword": "특사단",
+          "headline": "국가보안국도 타격...트럼프 \"특사단, 종전 제안 가지고 방문\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002403270?sid=104"
         }
       ]
     },
