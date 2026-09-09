@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-09-09 22:54",
+  "updatedAt": "2026-09-10 02:22",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
+          "keyword": "주가",
+          "headline": "[美특징주]바슈롬, 리링크 '매수' 의견에 강세",
+          "url": "https://n.news.naver.com/mnews/article/018/0006366495?sid=101"
+        },
+        {
+          "keyword": "바이백",
+          "headline": "[속보]美 재무부, 바이백 규모 60억달러",
+          "url": "https://n.news.naver.com/mnews/article/277/0005814227?sid=101"
+        },
+        {
+          "keyword": "실적",
+          "headline": "내년 서울 공동주택 입주 37% 줄어… 착공 실적도 부진",
+          "url": "https://n.news.naver.com/mnews/article/020/0003746995?sid=101"
+        },
+        {
+          "keyword": "환율",
+          "headline": "엔화 환율 급락 따른 ‘엔 캐리’ 청산 가능성 낮아",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997566?sid=101"
+        },
+        {
+          "keyword": "9월",
+          "headline": "[주요경제지표] 2026년 9월 9일자",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997557?sid=101"
+        },
+        {
           "keyword": "AI",
-          "headline": "구글, 핀란드에 23조원 투자 AI 데이터센터 구축",
-          "url": "https://n.news.naver.com/mnews/article/015/0005330676?sid=101"
+          "headline": "‘AI 대전환기’ 국회·재계, 경제대도약 위해 맞손",
+          "url": "https://n.news.naver.com/mnews/article/005/0001872017?sid=101"
         },
         {
-          "keyword": "부산",
-          "headline": "“산업은행 부산 이전 명시해야…연관 기능 집적”",
-          "url": "https://n.news.naver.com/mnews/article/056/0012254416?sid=101"
+          "keyword": "유럽",
+          "headline": "유럽 천연가스 3년여만에 ㎿h당 80유로 돌파…'비싼 겨울' 예고",
+          "url": "https://n.news.naver.com/mnews/article/001/0016301167?sid=101"
         },
         {
-          "keyword": "만에",
-          "headline": "포스코 광양제철소 39년 만에 첫 파업",
-          "url": "https://n.news.naver.com/mnews/article/056/0012254456?sid=101"
+          "keyword": "최대",
+          "headline": "구글, 유럽 최대 151억달러 AI 베팅…원전 전력까지 직접 확보",
+          "url": "https://n.news.naver.com/mnews/article/014/0005573598?sid=101"
         },
         {
-          "keyword": "기업",
-          "headline": "기업도 연일 수색에 고군분투...\"수색 인력 증원\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002405004?sid=101"
+          "keyword": "고용률",
+          "headline": "청년 취업 14만명 줄어… 고용률 28개월째 악화",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997575?sid=101"
         },
         {
-          "keyword": "동양생명",
-          "headline": "GA에 고객 정보 넘긴 동양생명, 과징금 1400억→ 70억 대폭 감경",
-          "url": "https://n.news.naver.com/mnews/article/366/0001191403?sid=101"
-        },
-        {
-          "keyword": "산업가속화법",
-          "headline": "김정관, EU '산업가속화법' 우려 전달…\"FTA 파트너 고려해야\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014180795?sid=101"
-        },
-        {
-          "keyword": "선정",
-          "headline": "큐브종합건설 등 울산 299곳 ‘강소기업’ 선정",
-          "url": "https://n.news.naver.com/mnews/article/056/0012254373?sid=101"
-        },
-        {
-          "keyword": "설명회",
-          "headline": "금융기관 기업지원 설명회 창원상의서 열려",
-          "url": "https://n.news.naver.com/mnews/article/056/0012254443?sid=101"
-        },
-        {
-          "keyword": "개막",
-          "headline": "‘대한민국 국제물주간’ 대구 엑스코서 개막",
-          "url": "https://n.news.naver.com/mnews/article/056/0012254410?sid=101"
-        },
-        {
-          "keyword": "전략",
-          "headline": "반도체·2차전지 강세에 7천선 탈환...내일 예고된 변동성, 전략은? [몇층이세요]",
-          "url": "https://n.news.naver.com/mnews/article/052/0002404988?sid=101"
+          "keyword": "돌파",
+          "headline": "미·이란 충돌 격화에 유가 101달러 돌파",
+          "url": "https://n.news.naver.com/mnews/article/014/0005573596?sid=101"
         }
       ]
     },
@@ -62,54 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "발견",
-          "headline": "오륙도 예인선 사고 실종자 1명 포항서 발견",
-          "url": "https://n.news.naver.com/mnews/article/022/0004157806?sid=102"
+          "keyword": "동정",
+          "headline": "[동정]김길수 영월군수",
+          "url": "https://n.news.naver.com/mnews/article/087/0001216910?sid=102"
         },
         {
-          "keyword": "서울대",
-          "headline": "서울대 총장 예비후보 4명으로 압축",
-          "url": "https://n.news.naver.com/mnews/article/032/0003469530?sid=102"
+          "keyword": "AI",
+          "headline": "당진에 ‘AI 데이터센터’ 건립… 1조2405억 투자",
+          "url": "https://n.news.naver.com/mnews/article/005/0001872005?sid=102"
         },
         {
-          "keyword": "강원도의회",
-          "headline": "강원도의회, 도내 자율주행 상용화 제도적 기반 마련",
-          "url": "https://n.news.naver.com/mnews/article/002/0002455697?sid=102"
+          "keyword": "이혼",
+          "headline": "2조5500억원짜리 이혼",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997632?sid=102"
         },
         {
-          "keyword": "역대",
-          "headline": "스마일게이트 권혁빈, 이혼 1심서 2.5조 재산분할...역대 최대",
-          "url": "https://n.news.naver.com/mnews/article/052/0002405008?sid=102"
+          "keyword": "재산분할",
+          "headline": "재산분할 2조5500억…역대 최고액 이혼판결",
+          "url": "https://n.news.naver.com/mnews/article/025/0003550344?sid=102"
         },
         {
-          "keyword": "피해자",
-          "headline": "구글, 디지털 성범죄 피해자 정보 노출…\"깊은 상처 통감\"",
-          "url": "https://n.news.naver.com/mnews/article/018/0006366485?sid=102"
+          "keyword": "파주",
+          "headline": "냉동창고 '1주 전' 설치…파주 동행 남성도 입건",
+          "url": "https://n.news.naver.com/mnews/article/055/0001387135?sid=102"
         },
         {
-          "keyword": "민원",
-          "headline": "김승원 민원에 김강립 전 식약처장 \"개별회사 언급 예외적\"",
-          "url": "https://n.news.naver.com/mnews/article/437/0000510396?sid=102"
+          "keyword": "예인선",
+          "headline": "부산 예인선 전복 실종자 시신 7일 만에 첫 발견",
+          "url": "https://n.news.naver.com/mnews/article/422/0000904609?sid=102"
         },
         {
-          "keyword": "보니",
-          "headline": "'바다의 블랙홀' 테트라포드...5m 아래로 내려가 보니",
-          "url": "https://n.news.naver.com/mnews/article/052/0002404998?sid=102"
+          "keyword": "남편",
+          "headline": "피 흘리는 아내 두고 테니스장에…뇌사 빠졌는데 남편 집유, 왜",
+          "url": "https://n.news.naver.com/mnews/article/025/0003550345?sid=102"
         },
         {
-          "keyword": "안전",
-          "headline": "윤지영 강원도의회 행문위원장 “소방청사는 도민 안전 핵심 기반”",
-          "url": "https://n.news.naver.com/mnews/article/002/0002455869?sid=102"
+          "keyword": "9월",
+          "headline": "[오늘의 날씨] 2026년 9월 10일",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997584?sid=102"
         },
         {
-          "keyword": "점검",
-          "headline": "강원도의회 복지건설위, 장애인복지관·지방도 461호선 현지 점검",
-          "url": "https://n.news.naver.com/mnews/article/002/0002455868?sid=102"
+          "keyword": "30일",
+          "headline": "추석 농축산물 할인 30일까지 연장… 1인당 한도도 없애",
+          "url": "https://n.news.naver.com/mnews/article/020/0003746991?sid=102"
         },
         {
-          "keyword": "하락",
-          "headline": "전북도 성인지 성과 목표 달성률 74%…하락 폭 ‘전국 2위’",
-          "url": "https://n.news.naver.com/mnews/article/056/0012254453?sid=102"
+          "keyword": "베스트셀러",
+          "headline": "베스트셀러 순위 올리려… ‘사재기’ 작가 기소",
+          "url": "https://n.news.naver.com/mnews/article/005/0001872007?sid=102"
         }
       ]
     },
@@ -119,53 +119,48 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "韓-佛, ‘AI·양자·바이오’ 기술 동맹 강화",
-          "url": "https://n.news.naver.com/mnews/article/016/0002695128?sid=105"
+          "headline": "인간과 AI, 경계가 사라지다",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997628?sid=105"
         },
         {
-          "keyword": "재승인",
-          "headline": "현대홈쇼핑플러스샵 재승인 평가 1위…쇼핑엔티 최하위",
-          "url": "https://n.news.naver.com/mnews/article/092/0002436869?sid=105"
+          "keyword": "인류",
+          "headline": "인류 수학사 넘는데 단 88시간",
+          "url": "https://n.news.naver.com/mnews/article/025/0003550343?sid=105"
         },
         {
-          "keyword": "개발",
-          "headline": "커넥셔너리, 신한카드와 '금융 의사결정 AI 엔진' 개발",
-          "url": "https://n.news.naver.com/mnews/article/092/0002436874?sid=105"
+          "keyword": "아이폰",
+          "headline": "아이폰 신형 공개임박…첫 폴더블폰 출시할까",
+          "url": "https://n.news.naver.com/mnews/article/277/0005814185?sid=105"
         },
         {
-          "keyword": "과징금",
-          "headline": "불법스팸 과징금, 매출액 최대 6%…10월부터 시행",
-          "url": "https://n.news.naver.com/mnews/article/138/0002240828?sid=105"
+          "keyword": "구축",
+          "headline": "우주청, 부산에 ‘부품 실증센터’ 구축",
+          "url": "https://n.news.naver.com/mnews/article/020/0003746980?sid=105"
         },
         {
-          "keyword": "사업자",
-          "headline": "불법스팸 전송자·방치 사업자에 매출액 최대 6% 과징금",
-          "url": "https://n.news.naver.com/mnews/article/119/0003130990?sid=105"
+          "keyword": "에이전트",
+          "headline": "오픈AI 통제이탈 에이전트, 10여개 사이트서 무단 소통…\"더 있을 수도\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009161520?sid=105"
         },
         {
-          "keyword": "협력",
-          "headline": "오픈AI·삼성 협력 핵심은 '칩 생산과 보안'",
-          "url": "https://n.news.naver.com/mnews/article/293/0000090249?sid=105"
+          "keyword": "수도",
+          "headline": "“인류가 언어 만든 계기 모닥불 주변서 보내던 밤 시간이었을 수도”",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997568?sid=105"
         },
         {
-          "keyword": "보안",
-          "headline": "AI부터 보안까지…LG유플러스, 기술 인재와 머리 맞댔다",
-          "url": "https://n.news.naver.com/mnews/article/119/0003130983?sid=105"
+          "keyword": "무단",
+          "headline": "美 “딥시크 등 中 6개社, 美 첨단 AI 무단 증류”",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997563?sid=105"
         },
         {
-          "keyword": "권혁빈",
-          "headline": "\"2.5조원 주식으로\"…권혁빈 이혼, 최태원과 왜 달랐나",
-          "url": "https://n.news.naver.com/mnews/article/003/0014180735?sid=105"
+          "keyword": "88시간",
+          "headline": "AI 에이전트 1만개 투입… “92년간 못푼 수학 난제, 88시간 만에 풀어”",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997613?sid=105"
         },
         {
-          "keyword": "기존",
-          "headline": "SKB 노조, DC사업 분사에 “기존 처우·근로조건 승계해야”",
-          "url": "https://n.news.naver.com/mnews/article/119/0003130992?sid=105"
-        },
-        {
-          "keyword": "KT",
-          "headline": "KT, 임직원 아이디어로 ‘AX’ 만든다…업무 혁신 122건 발굴",
-          "url": "https://n.news.naver.com/mnews/article/119/0003130988?sid=105"
+          "keyword": "데니소바인",
+          "headline": "‘고대 인류’ 데니소바인 새 화석 발굴… 몸 형태 가늠할 팔뼈도 포함",
+          "url": "https://n.news.naver.com/mnews/article/028/0002822400?sid=105"
         }
       ]
     },
@@ -174,49 +169,39 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "날씨",
-          "headline": "[뉴스9 날씨] 내일 아침 서늘해요…남부·제주 강풍",
-          "url": "https://n.news.naver.com/mnews/article/056/0012254414?sid=103"
+          "keyword": "운세",
+          "headline": "[오늘의 날씨] 9월 10일",
+          "url": "https://n.news.naver.com/mnews/article/025/0003550286?sid=103"
         },
         {
-          "keyword": "나왔다",
-          "headline": "대장암 ‘새 원인균’ 나왔다… 한국인 감염 많다던데?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000115750?sid=103"
+          "keyword": "아침",
+          "headline": "아침 최저 11도 기온 '뚝'‥일교차 최대 15도",
+          "url": "https://n.news.naver.com/mnews/article/214/0001523048?sid=103"
         },
         {
-          "keyword": "무대",
-          "headline": "“내가 만든 의상이 무대에”…인력 양성 ‘결실’",
-          "url": "https://n.news.naver.com/mnews/article/056/0012254412?sid=103"
+          "keyword": "수상",
+          "headline": "연합뉴스TV 김동혁기자, 기후환경언론인상 수상",
+          "url": "https://n.news.naver.com/mnews/article/422/0000904610?sid=103"
         },
         {
-          "keyword": "들썩",
-          "headline": "6일 만에 '몸값 1조' 불었다…상장 앞두고 기대감 '들썩'",
-          "url": "https://n.news.naver.com/mnews/article/015/0005330674?sid=103"
+          "keyword": "5명",
+          "headline": "인제서 30회 만해대상 시상식… 평화·실천·문예분야 5명 수상",
+          "url": "https://n.news.naver.com/mnews/article/023/0003997629?sid=103"
         },
         {
-          "keyword": "거장",
-          "headline": "바이올린 거장은 ‘의심하는 법’을 알려주었다",
-          "url": "https://n.news.naver.com/mnews/article/032/0003469525?sid=103"
+          "keyword": "최대",
+          "headline": "고양종합운동장 등 3곳 K팝 공연장 개선…최대 20억씩 지원",
+          "url": "https://n.news.naver.com/mnews/article/001/0016298735?sid=103"
         },
         {
-          "keyword": "최고",
-          "headline": "‘현재 최고가 3000원은 너무 싸요’… 고궁 관람 국민 적정가는 ‘9200원’",
-          "url": "https://n.news.naver.com/mnews/article/022/0004157785?sid=103"
+          "keyword": "화백",
+          "headline": "'화폐 영정 제작' 이종상 화백 별세",
+          "url": "https://n.news.naver.com/mnews/article/654/0000199817?sid=103"
         },
         {
-          "keyword": "석등",
-          "headline": "여주 고달사지 쌍사자 석등 ‘68년 만의 귀가’",
-          "url": "https://n.news.naver.com/mnews/article/032/0003469473?sid=103"
-        },
-        {
-          "keyword": "열린다",
-          "headline": "인천도 ‘KTX 시대’ 열린다…송도역~부산·목포, 2시간대 주파",
-          "url": "https://n.news.naver.com/mnews/article/032/0003469492?sid=103"
-        },
-        {
-          "keyword": "석조전",
-          "headline": "밤의 석조전에서",
-          "url": "https://n.news.naver.com/mnews/article/003/0014180710?sid=103"
+          "keyword": "감독",
+          "headline": "[문화인터뷰] 영화 ‘개미잡이’ 신준영 감독",
+          "url": "https://n.news.naver.com/mnews/article/087/0001216888?sid=103"
         }
       ]
     },
@@ -225,24 +210,39 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "아라비아해",
-          "headline": "이란 “아라비아해까지 해상 통제구역 확대…통과 선박 서비스 차단”",
-          "url": "https://n.news.naver.com/mnews/article/025/0003550276?sid=104"
+          "keyword": "APTOPIX",
+          "headline": "APTOPIX Iran School",
+          "url": "https://n.news.naver.com/mnews/article/077/0007154408?sid=104"
         },
         {
-          "keyword": "중동",
-          "headline": "미 당국자 \"미군 무인기, 중동에서 고장...구형 모델\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002404555?sid=104"
+          "keyword": "Italy",
+          "headline": "APTOPIX Italy Venice Film Festival Place To Be Red Carpet",
+          "url": "https://n.news.naver.com/mnews/article/077/0007154402?sid=104"
         },
         {
-          "keyword": "철수",
-          "headline": "네팔, 수색 작업 사실상 마무리...\"군 병력 상당수 철수\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002405005?sid=104"
+          "keyword": "Israel",
+          "headline": "Slovenia Israel",
+          "url": "https://n.news.naver.com/mnews/article/077/0007154414?sid=104"
         },
         {
-          "keyword": "대통령",
-          "headline": "이 대통령 \"제 임기 헌법상 명확하게 제한\" [뉴시스Pic]",
-          "url": "https://n.news.naver.com/mnews/article/003/0014180794?sid=104"
+          "keyword": "POLAND",
+          "headline": "POLAND ECONOMY",
+          "url": "https://n.news.naver.com/mnews/article/091/0010305917?sid=104"
+        },
+        {
+          "keyword": "트럼프",
+          "headline": "\"트럼프로 대동단결\"…美공화 전국위 \"민주, 美 모스크바로 만들어\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009161530?sid=104"
+        },
+        {
+          "keyword": "Election",
+          "headline": "Election 2026 Texas",
+          "url": "https://n.news.naver.com/mnews/article/077/0007154405?sid=104"
+        },
+        {
+          "keyword": "이란",
+          "headline": "IAEA 이사회, 20년만에 이란 핵 문제 유엔 안보리 회부",
+          "url": "https://n.news.naver.com/mnews/article/056/0012254496?sid=104"
         }
       ]
     },
@@ -250,6 +250,11 @@
       "name": "게임",
       "cls": "game",
       "items": [
+        {
+          "keyword": "전통공예",
+          "headline": "'바람의나라' 30년, 전통공예로 잇는다…넥슨재단 신진예술가 지원",
+          "url": "https://n.news.naver.com/mnews/article/138/0002240818"
+        },
         {
           "keyword": "신규",
           "headline": "엔씨 '리니지 클래식', 신규 에피소드 '아덴' 사전예약",
@@ -261,19 +266,9 @@
           "url": "https://n.news.naver.com/mnews/article/648/0000050630"
         },
         {
-          "keyword": "신진예술",
-          "headline": "'바람의나라' 30년, 전통공예로 잇는다…넥슨재단 신진예술가 지원",
-          "url": "https://n.news.naver.com/mnews/article/138/0002240818"
-        },
-        {
           "keyword": "게임",
           "headline": "게임 덮친 AI… 혁신적 신기술에 기대·우려 교차 [김영욱의 게임 후벼파기]",
           "url": "https://n.news.naver.com/mnews/article/029/0003047137"
-        },
-        {
-          "keyword": "테마",
-          "headline": "라이엇 '리그오브레전드', 팀 보이스 추가와 음악 테마 아수라장 예고",
-          "url": "https://n.news.naver.com/mnews/article/236/0000256850"
         }
       ]
     }
