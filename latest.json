@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-09-12 03:10",
+  "updatedAt": "2026-09-12 05:55",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "기업",
-          "headline": "K스테이블코인 입법 지연, 기업이 달릴 ‘운동장’이 없다",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056643?sid=101"
+          "keyword": "AI",
+          "headline": "90년 수학 난제, AI가 88시간 만에 풀었다",
+          "url": "https://n.news.naver.com/mnews/article/374/0000532524?sid=101"
         },
         {
-          "keyword": "역대",
-          "headline": "고유가 여파 美소비자심리 47.8로 급락…역대 두번째로 낮아",
-          "url": "https://n.news.naver.com/mnews/article/001/0016305647?sid=101"
+          "keyword": "반등",
+          "headline": "[속보]유가 하락에 뉴욕증시 반등…다우 1%↑",
+          "url": "https://n.news.naver.com/mnews/article/018/0006367968?sid=101"
         },
         {
-          "keyword": "강화",
-          "headline": "\"후티, 홍해 페림 섬 장악\"…바브엘만데브 지배력 강화",
-          "url": "https://n.news.naver.com/mnews/article/014/0005574675?sid=101"
+          "keyword": "특징주",
+          "headline": "[美특징주]델테크놀로지, AI 인프라 수혜에 RBC ‘매수’…주가 11%↑",
+          "url": "https://n.news.naver.com/mnews/article/018/0006367960?sid=101"
+        },
+        {
+          "keyword": "하락",
+          "headline": "뉴욕증시, 유가 하락·CPI 안도감에 5일 만에 반등",
+          "url": "https://n.news.naver.com/mnews/article/001/0016305670?sid=101"
+        },
+        {
+          "keyword": "급등",
+          "headline": "[국제유가] 오만 회담 기대감에 2% 넘게 급락…주간 9% 안팎 급등",
+          "url": "https://n.news.naver.com/mnews/article/014/0005574682?sid=101"
         },
         {
           "keyword": "인상",
-          "headline": "미 소비심리, 역대 2번째로 저조…\"금리 인상 확률 89%\"",
-          "url": "https://n.news.naver.com/mnews/article/014/0005574674?sid=101"
+          "headline": "FOMC 금리 인상 가능성 70% 넘어섰다",
+          "url": "https://n.news.naver.com/mnews/article/014/0005574676?sid=101"
         },
         {
-          "keyword": "전망",
-          "headline": "\"비트코인, 3년 뒤 5억 간다\"…파격 전망 나온 이유",
-          "url": "https://n.news.naver.com/mnews/article/003/0014185577?sid=101"
+          "keyword": "트럼프",
+          "headline": "하필이면…트럼프 투표 호소한 날 경윳값 신기록",
+          "url": "https://n.news.naver.com/mnews/article/029/0003047530?sid=101"
         },
         {
-          "keyword": "압박",
-          "headline": "유가·물가 압박에… 美 국채금리 급등",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998003?sid=101"
+          "keyword": "기름값",
+          "headline": "\"기름값 내리니 살만\"…증시 닷새만에 숨통[뉴욕마감]",
+          "url": "https://n.news.naver.com/mnews/article/008/0005412714?sid=101"
         },
         {
-          "keyword": "한국",
-          "headline": "中, 한국 ‘간첩죄 적용 확대’에 “차별없는 기업환경 제공해야”",
-          "url": "https://n.news.naver.com/mnews/article/021/0002818203?sid=101"
+          "keyword": "증시",
+          "headline": "금리인상 임박에도 美증시 반등…시선은 '몇번 올리나'[월스트리트in]",
+          "url": "https://n.news.naver.com/mnews/article/018/0006367969?sid=101"
         },
         {
-          "keyword": "목표",
-          "headline": "애브비,  향후 10년간 강력한 성장 전망…목표가 상향-웰스파고",
-          "url": "https://n.news.naver.com/mnews/article/018/0006367956?sid=101"
-        },
-        {
-          "keyword": "추석",
-          "headline": "산림청, 추석 앞두고 전국 임도 2만7675㎞ 한시 개방",
-          "url": "https://n.news.naver.com/mnews/article/629/0000533158?sid=101"
-        },
-        {
-          "keyword": "KB금융",
-          "headline": "KB금융 차기 회장에 이재근… ‘세대교체’가 ‘대세론’ 깼다",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998006?sid=101"
+          "keyword": "동네",
+          "headline": "'첫 집 사는 30대들, 몰려간 동네'…어디길래?",
+          "url": "https://n.news.naver.com/mnews/article/374/0000532530?sid=101"
         }
       ]
     },
@@ -62,54 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "40대",
-          "headline": "전남광주 아파트 공사장서 철제 구조물에 맞은 40대 숨져",
-          "url": "https://n.news.naver.com/mnews/article/422/0000905345?sid=102"
+          "keyword": "일교차",
+          "headline": "대전·세종·충남, 10도 안팎 일교차 속 '구름'",
+          "url": "https://n.news.naver.com/mnews/article/003/0014185590?sid=102"
         },
         {
-          "keyword": "명태균",
-          "headline": "김종인 “명태균 말 과장…날 계획적 이용”",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056641?sid=102"
+          "keyword": "여성",
+          "headline": "측근·여성·야당...성평등부 장관 둘러싼 정치 셈법",
+          "url": "https://n.news.naver.com/mnews/article/052/0002406033?sid=102"
         },
         {
-          "keyword": "이재근",
-          "headline": "KB 세대교체, 차기 회장에 이재근",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056640?sid=102"
+          "keyword": "토요일",
+          "headline": "[오늘의 주요일정]부산(9월12일 토요일)",
+          "url": "https://n.news.naver.com/mnews/article/003/0014185599?sid=102"
         },
         {
-          "keyword": "김승원측",
-          "headline": "김승원측 13일간 28차례 해명에도, 의혹 해소커녕 논란만 키워",
-          "url": "https://n.news.naver.com/mnews/article/020/0003747552?sid=102"
+          "keyword": "날씨",
+          "headline": "내일 아침 서울 15도…오늘보다 더 쌀쌀[날씨]",
+          "url": "https://n.news.naver.com/mnews/article/449/0000360273?sid=102"
         },
         {
-          "keyword": "테러",
-          "headline": "[사진] 9·11 테러 25주기 ‘추모의 벽’",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056655?sid=102"
+          "keyword": "먹고",
+          "headline": "“먹고 남은 포장지가 5만원”…당근마켓에 등장한 ‘한정선’ 뭐길래",
+          "url": "https://n.news.naver.com/mnews/article/003/0014185604?sid=102"
         },
         {
-          "keyword": "무죄",
-          "headline": "‘노상원에 군사기밀 누설’ 문상호 前정보사령관 1심 무죄",
-          "url": "https://n.news.naver.com/mnews/article/081/0003679472?sid=102"
+          "keyword": "사연",
+          "headline": "“부모님 집에서 살면 50만원 내야 하나”…취업한 자녀 사연에 의견 분분",
+          "url": "https://n.news.naver.com/mnews/article/003/0014185608?sid=102"
+        },
+        {
+          "keyword": "사건",
+          "headline": "\"처음부터 죽이려고 불렀다\"…범죄심리학자가 본 '파주 카페 냉동창고' 사건",
+          "url": "https://n.news.naver.com/mnews/article/003/0014185607?sid=102"
+        },
+        {
+          "keyword": "카페",
+          "headline": "2억 빚내서 차린 카페, 녹조연못 논란에 이동건 해명…\"영업종료 절차 마쳐\"",
+          "url": "https://n.news.naver.com/mnews/article/014/0005574686?sid=102"
+        },
+        {
+          "keyword": "기사",
+          "headline": "\"배달 기사 의심했는데\"…새벽마다 사라진 계란, 범인은 할머니였다[영상]",
+          "url": "https://n.news.naver.com/mnews/article/421/0009165989?sid=102"
         },
         {
           "keyword": "해명",
-          "headline": "[데일리안 주간 포토] 김민석 민주당 대표 수첩 메모 포착! \"서울시장 필승카드 생각과정일 뿐\" 해명",
-          "url": "https://n.news.naver.com/mnews/article/119/0003131868?sid=102"
-        },
-        {
-          "keyword": "남성",
-          "headline": "제주 금능해수욕장에서 40대 남성 실종...야간 수색 중",
-          "url": "https://n.news.naver.com/mnews/article/052/0002406013?sid=102"
-        },
-        {
-          "keyword": "숨진",
-          "headline": "여수서 주택 화재…신원미상인 숨진 채 발견, 남성으로 추정",
-          "url": "https://n.news.naver.com/mnews/article/021/0002818204?sid=102"
-        },
-        {
-          "keyword": "추석",
-          "headline": "부산과학관, 추석 연휴 '민속놀이·과학 문화 프로그램'",
-          "url": "https://n.news.naver.com/mnews/article/003/0014185573?sid=102"
+          "headline": "\"나도 성차별 문화에 상처\" 용혜인 해명에… \"폭로자 2차 가해\" 반박 나왔다",
+          "url": "https://n.news.naver.com/mnews/article/469/0000953613?sid=102"
         }
       ]
     },
@@ -129,24 +129,19 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "향기",
-          "headline": "[책의 향기/밑줄 긋기]젠지 사전",
-          "url": "https://n.news.naver.com/mnews/article/020/0003747573?sid=103"
+          "keyword": "책의",
+          "headline": "[책의 향기]‘과학적 사실’이라는 말부터 의심하라",
+          "url": "https://n.news.naver.com/mnews/article/020/0003747583?sid=103"
         },
         {
-          "keyword": "아침",
-          "headline": "아침 최저 12도 '가을 성큼'‥큰 일교차 주의",
-          "url": "https://n.news.naver.com/mnews/article/214/0001523516?sid=103"
+          "keyword": "날씨",
+          "headline": "청명한 가을 날씨 계속…큰 일교차 주의",
+          "url": "https://n.news.naver.com/mnews/article/056/0012256032?sid=103"
         },
         {
-          "keyword": "이야기",
-          "headline": "외국인 배우가 연기한 한국인 부부 이야기…중년 남성들 눈물 펑펑",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056631?sid=103"
-        },
-        {
-          "keyword": "음식",
-          "headline": "“아침 식단으로는 위험” 최화정 맛본 유행 음식, 뭐지?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000115872?sid=103"
+          "keyword": "주말",
+          "headline": "10도 이상 큰 일교차 지속… 남부지방은 주말 무더위",
+          "url": "https://n.news.naver.com/mnews/article/005/0001872264?sid=103"
         },
         {
           "keyword": "뭐야",
@@ -154,29 +149,34 @@
           "url": "https://n.news.naver.com/mnews/article/346/0000115870?sid=103"
         },
         {
-          "keyword": "베테랑",
-          "headline": "베테랑 책 편집자인 저자의 30년간 쌓아온 사유의 기록",
-          "url": "https://n.news.naver.com/mnews/article/023/0003997985?sid=103"
-        },
-        {
           "keyword": "9월",
           "headline": "[오늘의 운세/9월 13일]",
           "url": "https://n.news.naver.com/mnews/article/020/0003747602?sid=103"
         },
         {
-          "keyword": "뒤엔",
-          "headline": "실로 아름다운 서도호 뒤엔 17년 ‘실 인연’",
-          "url": "https://n.news.naver.com/mnews/article/353/0000056636?sid=103"
+          "keyword": "말부터",
+          "headline": "[날씨] 주말도 기온 차 '비상'...\"올가을 단풍 이달 말부터\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002406038?sid=103"
         },
         {
-          "keyword": "배우",
-          "headline": "4번째 에세이집 낸 배우 봉태규 “주연 아닌 콩, 저와 닮았죠”",
-          "url": "https://n.news.naver.com/mnews/article/023/0003997987?sid=103"
+          "keyword": "위험",
+          "headline": "“아침 식단으로는 위험” 최화정 맛본 유행 음식, 뭐지?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115872?sid=103"
         },
         {
-          "keyword": "K웹툰",
-          "headline": "K웹툰 원작 드라마 올해만 86편… K콘텐츠의 새 엔진으로",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998021?sid=103"
+          "keyword": "세상",
+          "headline": "[책의 향기]‘안녕히 주무셨어요?” 묻기 어려워진 세상",
+          "url": "https://n.news.naver.com/mnews/article/020/0003747582?sid=103"
+        },
+        {
+          "keyword": "무슨",
+          "headline": "'믿고 낳으라더니'...경기도 산모들 날벼락 무슨 일?",
+          "url": "https://n.news.naver.com/mnews/article/374/0000532529?sid=103"
+        },
+        {
+          "keyword": "많이",
+          "headline": "‘살자’로 바꾼 한마디… “많이 힘들지요, 이야기 좀 들어줄까요”",
+          "url": "https://n.news.naver.com/mnews/article/005/0001872424?sid=103"
         }
       ]
     },
@@ -185,54 +185,9 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "트럼프",
-          "headline": "트럼프 \"9·11은 끔찍한 악…우리가 오늘 싸우는 이유\"",
-          "url": "https://n.news.naver.com/mnews/article/421/0009165964?sid=104"
-        },
-        {
-          "keyword": "25주년",
-          "headline": "9·11테러 25주년… “희생자 2977명 추모”",
-          "url": "https://n.news.naver.com/mnews/article/020/0003747551?sid=104"
-        },
-        {
-          "keyword": "사상",
-          "headline": "미국 경윳값 사상 처음 갤런당 6달러 돌파…미국 물가 ‘자극’",
-          "url": "https://n.news.naver.com/mnews/article/056/0012256025?sid=104"
-        },
-        {
-          "keyword": "테러",
-          "headline": "9·11 테러 25주년…트럼프 “이란은 테러 후원국…우리가 싸우는 이유”",
-          "url": "https://n.news.naver.com/mnews/article/029/0003047529?sid=104"
-        },
-        {
-          "keyword": "호르무즈",
-          "headline": "호르무즈 이어 홍해 비상…\"후티, 바브엘만데브 해협 통제권 확보\"",
-          "url": "https://n.news.naver.com/mnews/article/422/0000905346?sid=104"
-        },
-        {
-          "keyword": "후티",
-          "headline": "앤스로픽, 후티 반군 클로드로 유도 무기 개발 시도 의심",
-          "url": "https://n.news.naver.com/mnews/article/014/0005574672?sid=104"
-        },
-        {
-          "keyword": "이란",
-          "headline": "조현 “파병 결정된 것 없다” 이란 외교장관과 통화",
-          "url": "https://n.news.naver.com/mnews/article/020/0003747589?sid=104"
-        },
-        {
-          "keyword": "미국",
-          "headline": "9·11 25주년 추모식 그라운드제로서 엄수…미국 곳곳 추모 분위기",
-          "url": "https://n.news.naver.com/mnews/article/056/0012256023?sid=104"
-        },
-        {
-          "keyword": "처음",
-          "headline": "9·11 25주년, 처음으로 '일곱 번째 묵념'이 울렸다",
-          "url": "https://n.news.naver.com/mnews/article/014/0005574673?sid=104"
-        },
-        {
-          "keyword": "청소년",
-          "headline": "아르헨티나 15살 청소년, 챗GPT에 살인 계획 논의했다가 ‘덜미’",
-          "url": "https://n.news.naver.com/mnews/article/056/0012256024?sid=104"
+          "keyword": "USA",
+          "headline": "USA TENNIS",
+          "url": "https://n.news.naver.com/mnews/article/091/0010308961?sid=104"
         }
       ]
     },
@@ -251,14 +206,9 @@
           "url": "https://n.news.naver.com/mnews/article/347/0000195621"
         },
         {
-          "keyword": "크래프톤",
+          "keyword": "일자리",
           "headline": "크래프톤·네오플·매드엔진, 일자리 으뜸기업 선정 잇따라",
           "url": "https://n.news.naver.com/mnews/article/347/0000195620"
-        },
-        {
-          "keyword": "신규",
-          "headline": "배틀그라운드 모바일, 신규 테마 모드 ‘블러드헌트’ 공개… 추석·아시안게임 이벤트",
-          "url": "https://n.news.naver.com/mnews/article/109/0005605078"
         },
         {
           "keyword": "배틀그라운드",
@@ -266,14 +216,14 @@
           "url": "https://n.news.naver.com/mnews/article/031/0001057679"
         },
         {
-          "keyword": "펄어비스",
-          "headline": "펄어비스 김대일 의장, '대한민국 콘텐츠대상' 정부포상 추천 후보 포함",
-          "url": "https://n.news.naver.com/mnews/article/347/0000195619"
-        },
-        {
           "keyword": "확장",
           "headline": "PC방·테마파크·방탈출까지…무한 확장 '메이플' IP",
           "url": "https://n.news.naver.com/mnews/article/018/0006367817"
+        },
+        {
+          "keyword": "펄어비스",
+          "headline": "펄어비스 김대일 의장, '대한민국 콘텐츠대상' 정부포상 추천 후보 포함",
+          "url": "https://n.news.naver.com/mnews/article/347/0000195619"
         },
         {
           "keyword": "방탈출",
