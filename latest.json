@@ -1,59 +1,29 @@
 {
-  "updatedAt": "2026-09-12 21:52",
+  "updatedAt": "2026-09-13 00:53",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "앞두고",
-          "headline": "추석 배 공급 3.5배 늘린다…농축산물 최대 40% 할인",
-          "url": "https://n.news.naver.com/mnews/article/011/0004661165?sid=101"
+          "keyword": "비즈토크",
+          "headline": "[비즈토크<하>] 인천국제공항 발생 중대재해, 위험의 외주화 탓?",
+          "url": "https://n.news.naver.com/mnews/article/629/0000533196?sid=101"
         },
         {
-          "keyword": "요즘",
-          "headline": "남자는 14만원, 여자는 8만원…요즘 '데이트비' 따져보니",
-          "url": "https://n.news.naver.com/mnews/article/015/0005331608?sid=101"
+          "keyword": "이재근",
+          "headline": "[속보] KB금융 차기 회장 후보에 이재근…양종희 연임 실패",
+          "url": "https://n.news.naver.com/mnews/article/015/0005331402?sid=101"
         },
         {
-          "keyword": "한국",
-          "headline": "“보트 빌려달라” 北, 아시안게임 앞두고 한국 측 인사에 직접 요청",
-          "url": "https://n.news.naver.com/mnews/article/016/0002696349?sid=101"
+          "keyword": "3년",
+          "headline": "스타크래프트 후속작 공개할까…3년 만에 블리자드 신작 행사 열린다",
+          "url": "https://n.news.naver.com/mnews/article/021/0002818271?sid=101"
         },
         {
-          "keyword": "직접",
-          "headline": "추석 앞두고 송도서 미술 나들이…“작가가 직접 작품 설명”",
-          "url": "https://n.news.naver.com/mnews/article/016/0002696347?sid=101"
-        },
-        {
-          "keyword": "만에",
-          "headline": "북극항로 뚫고 유럽으로…21일 만에 도착",
-          "url": "https://n.news.naver.com/mnews/article/056/0012256196?sid=101"
-        },
-        {
-          "keyword": "1등",
-          "headline": "제1241회 로또 1등 18명 당첨…각 16억2839만원",
-          "url": "https://n.news.naver.com/mnews/article/016/0002696346?sid=101"
-        },
-        {
-          "keyword": "로제",
-          "headline": "'전 갤럭시 모델' 로제가 아이폰 들자…삼성이 남긴 한마디",
-          "url": "https://n.news.naver.com/mnews/article/015/0005331607?sid=101"
-        },
-        {
-          "keyword": "최대",
-          "headline": "“우리 아이들 최대 고민, 공부가 아니었다”…대인관계·가족갈등이 52%",
-          "url": "https://n.news.naver.com/mnews/article/009/0005734241?sid=101"
-        },
-        {
-          "keyword": "삼성",
-          "headline": "“팀 쿡도 갈아탔다”…삼성 vs 애플 ‘홍보 전쟁’",
-          "url": "https://n.news.naver.com/mnews/article/449/0000360484?sid=101"
-        },
-        {
-          "keyword": "환급",
-          "headline": "충청북도, ‘수산물’ 구매 고객에게 온누리상품권 환급",
-          "url": "https://n.news.naver.com/mnews/article/056/0012256201?sid=101"
+          "keyword": "경북",
+          "headline": "경북 농기계 화재 30% 가을철에 집중",
+          "url": "https://n.news.naver.com/mnews/article/056/0012256236?sid=101"
         }
       ]
     },
@@ -62,54 +32,24 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "부산",
-          "headline": "부산 국립대 수시모집 경쟁률 상승",
-          "url": "https://n.news.naver.com/mnews/article/056/0012256198?sid=102"
+          "keyword": "결혼",
+          "headline": "\"공방 운영한다더니 사실상 백수\"…결혼 앞두고 알게 된 여친의 두 얼굴",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186118?sid=102"
         },
         {
-          "keyword": "단수",
-          "headline": "통영 등 7개 시군 단수 피해…사천정수장 설비 고장",
-          "url": "https://n.news.naver.com/mnews/article/422/0000905542?sid=102"
+          "keyword": "먹통",
+          "headline": "수시 마감 직전 서버 먹통…접수 못한 수험생 구제 '도마위'",
+          "url": "https://n.news.naver.com/mnews/article/014/0005574710?sid=102"
         },
         {
-          "keyword": "사고",
-          "headline": "갯바위 고립 사고 잇따라…4명 구조",
-          "url": "https://n.news.naver.com/mnews/article/056/0012256186?sid=102"
+          "keyword": "그날",
+          "headline": "“웃자고 한 게임이었는데” 녹화 도중 떡 먹다 의식불명…유명 성우에게 벌어진 비극 [오늘의 그날]",
+          "url": "https://n.news.naver.com/mnews/article/011/0004661173?sid=102"
         },
         {
-          "keyword": "경쟁률",
-          "headline": "전남광주 국립대 중심 경쟁률 상승…켄텍 최고 경쟁률",
-          "url": "https://n.news.naver.com/mnews/article/660/0000117077?sid=102"
-        },
-        {
-          "keyword": "4명",
-          "headline": "함평서 버스 논두렁 빠져 전신주 충돌...4명 이송",
-          "url": "https://n.news.naver.com/mnews/article/660/0000117082?sid=102"
-        },
-        {
-          "keyword": "숨져",
-          "headline": "정선서 벌초하다 벌에 쏘인 50대 숨져(종합)",
-          "url": "https://n.news.naver.com/mnews/article/421/0009166394?sid=102"
-        },
-        {
-          "keyword": "50대",
-          "headline": "정선 야산서 벌초하던 50대 벌 쏘임 사망",
-          "url": "https://n.news.naver.com/mnews/article/003/0014186087?sid=102"
-        },
-        {
-          "keyword": "벌초",
-          "headline": "벌 쏘임 사고 급증…“성묘, 벌초 주의해야”",
-          "url": "https://n.news.naver.com/mnews/article/056/0012256202?sid=102"
-        },
-        {
-          "keyword": "피해",
-          "headline": "“국익이라지만, 피해는 국민에게”…호르무즈 파병 반대 시민대행진",
-          "url": "https://n.news.naver.com/mnews/article/028/0002822769?sid=102"
-        },
-        {
-          "keyword": "복구",
-          "headline": "경상남도청년봉사단, 거제 둔덕면 수해 농가 복구 지원",
-          "url": "https://n.news.naver.com/mnews/article/003/0014186089?sid=102"
+          "keyword": "5명",
+          "headline": "부산 예인선 전복 실종자 5명 어디에…10일째 밤샘 수색",
+          "url": "https://n.news.naver.com/mnews/article/001/0016305503?sid=102"
         }
       ]
     },
@@ -119,38 +59,13 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "데이터 쫓아 지방 간다…제조 AI 거점 확산",
-          "url": "https://n.news.naver.com/mnews/article/092/0002437194?sid=105"
+          "headline": "\"AI가 90년 난제 해결\" 직후…우려 쏟아낸 수학자들, 왜?",
+          "url": "https://n.news.naver.com/mnews/article/215/0001265751?sid=105"
         },
         {
-          "keyword": "장비",
-          "headline": "장비 세팅하는 '오너' 문현준",
-          "url": "https://n.news.naver.com/mnews/article/001/0016305951?sid=105"
-        },
-        {
-          "keyword": "LCK",
-          "headline": "장비 세팅하는 T1 '페이즈' 김수환",
-          "url": "https://n.news.naver.com/mnews/article/001/0016305953?sid=105"
-        },
-        {
-          "keyword": "경쟁",
-          "headline": "아이폰18 프로 예약판매 돌입…이통 3사 혜택 경쟁",
-          "url": "https://n.news.naver.com/mnews/article/001/0016304750?sid=105"
-        },
-        {
-          "keyword": "공개",
-          "headline": "넷마블, TGS 2026 무대 라인업 공개…신작 3종 현지 공략",
-          "url": "https://n.news.naver.com/mnews/article/076/0004445314?sid=105"
-        },
-        {
-          "keyword": "우리",
-          "headline": "\"우리가 알던 행성이 아니네\"…우주에서 찾은 낯선 세계들",
-          "url": "https://n.news.naver.com/mnews/article/584/0000039302?sid=105"
-        },
-        {
-          "keyword": "삼성",
-          "headline": "“우리한테 말하지 그랬어”…신형 아이폰 든 로제에 삼성 깜짝 등판",
-          "url": "https://n.news.naver.com/mnews/article/016/0002696312?sid=105"
+          "keyword": "원신",
+          "headline": "'원신' 7.1 버전 '죽음의 진혼곡' 공개…스네즈나야 이야기 본격화",
+          "url": "https://n.news.naver.com/mnews/article/347/0000195635?sid=105"
         },
         {
           "keyword": "아이폰18",
@@ -158,14 +73,9 @@
           "url": "https://n.news.naver.com/mnews/article/138/0002241159?sid=105"
         },
         {
-          "keyword": "페이커",
-          "headline": "장비 세팅하는 '페이커' 이상혁",
-          "url": "https://n.news.naver.com/mnews/article/001/0016305955?sid=105"
-        },
-        {
-          "keyword": "제우스",
-          "headline": "장비 점검하는 '제우스' 최우제",
-          "url": "https://n.news.naver.com/mnews/article/001/0016305947?sid=105"
+          "keyword": "T1",
+          "headline": "LCK 결승 코앞서 미끄러진 T1…페이커 \"월즈서 더 좋은 경기력\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016306067?sid=105"
         }
       ]
     },
@@ -174,34 +84,24 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "춘천인형극제",
-          "headline": "춘천인형극제 개막행사",
-          "url": "https://n.news.naver.com/mnews/article/001/0016306144?sid=103"
-        },
-        {
           "keyword": "일교차",
-          "headline": "[날씨] 선선한 아침 뒤 '늦더위'…전국 일교차 최대 15도",
-          "url": "https://n.news.naver.com/mnews/article/437/0000510828?sid=103"
+          "headline": "일교차 큰 초가을 날씨…자외선 주의[날씨]",
+          "url": "https://n.news.naver.com/mnews/article/055/0001387782?sid=103"
         },
         {
-          "keyword": "1등",
-          "headline": "1241회 로또 1등 각 16억씩…자동 13명·수동 5명(종합)",
-          "url": "https://n.news.naver.com/mnews/article/003/0014186083?sid=103"
+          "keyword": "콘텐츠",
+          "headline": "경북지사 만난 최휘영 장관 \"경북 관광 콘텐츠 적극 발굴해야\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016305908?sid=103"
         },
         {
-          "keyword": "가능한",
-          "headline": "오늘 베니스 영화제 폐막...'가능한 사랑' 수상 여부 주목",
-          "url": "https://n.news.naver.com/mnews/article/052/0002406001?sid=103"
+          "keyword": "9월",
+          "headline": "[오늘의 운세] 9월 13일 띠별 운세",
+          "url": "https://n.news.naver.com/mnews/article/015/0005331620?sid=103"
         },
         {
-          "keyword": "이것",
-          "headline": "몸에 난 징그러운 그물 자국…무심코 ‘이것’ 배에 얹었다간 ‘피부 참변’",
-          "url": "https://n.news.naver.com/mnews/article/081/0003679620?sid=103"
-        },
-        {
-          "keyword": "무슨",
-          "headline": "“갱년기 때문인 줄” 피로 시달리던 60대, 결국 암 진단… 무슨 사연?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000115892?sid=103"
+          "keyword": "현장",
+          "headline": "“사회선교, 다시 불붙이자”…현장 경험 한자리에",
+          "url": "https://n.news.naver.com/mnews/article/005/0001872463?sid=103"
         }
       ]
     },
@@ -210,29 +110,49 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "브릭스",
-          "headline": "시진핑·푸틴 집결…브릭스 정상회의 개막",
-          "url": "https://n.news.naver.com/mnews/article/421/0009166392?sid=104"
-        },
-        {
-          "keyword": "SPAIN",
-          "headline": "SPAIN SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010309663?sid=104"
-        },
-        {
-          "keyword": "BRICS",
-          "headline": "India BRICS",
-          "url": "https://n.news.naver.com/mnews/article/077/0007160364?sid=104"
-        },
-        {
           "keyword": "이란",
-          "headline": "트럼프 “이란 전쟁, 11월 美 중간선거 직후 끝날 것… 국제유가 급락 전망”",
-          "url": "https://n.news.naver.com/mnews/article/366/0001191943?sid=104"
+          "headline": "미국 “이란, 중국 위성사진 보고 미군 기지 공습”",
+          "url": "https://n.news.naver.com/mnews/article/032/0003469951?sid=104"
         },
         {
-          "keyword": "Golf",
-          "headline": "Irish Open Golf",
-          "url": "https://n.news.naver.com/mnews/article/077/0007160362?sid=104"
+          "keyword": "SOCCER",
+          "headline": "ITALY SOCCER",
+          "url": "https://n.news.naver.com/mnews/article/091/0010310018?sid=104"
+        },
+        {
+          "keyword": "전쟁",
+          "headline": "“이란·걸프 GCC 회원국, 전쟁 이후 14일 첫 회담 예정”-FT",
+          "url": "https://n.news.naver.com/mnews/article/003/0014185584?sid=104"
+        },
+        {
+          "keyword": "푸틴",
+          "headline": "젤렌스키 \"푸틴 참석하면 美 G20 갈 것\" vs 크렘린궁 \"모스크바로 오라\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186121?sid=104"
+        },
+        {
+          "keyword": "러시아",
+          "headline": "젤렌스키, 트럼프에 “러시아 제재 지금 당장”…에너지시설 휴전도 제안",
+          "url": "https://n.news.naver.com/mnews/article/021/0002818279?sid=104"
+        },
+        {
+          "keyword": "공습",
+          "headline": "우크라, 러시아 무차별 공습에 사상자 60여명…푸틴 \"유럽, 우크라 파병 땐 러시아와 전쟁\"",
+          "url": "https://n.news.naver.com/mnews/article/014/0005574753?sid=104"
+        },
+        {
+          "keyword": "ITALY",
+          "headline": "ITALY CINEMA",
+          "url": "https://n.news.naver.com/mnews/article/091/0010310044?sid=104"
+        },
+        {
+          "keyword": "Soccer",
+          "headline": "Germany Bundesliga Soccer",
+          "url": "https://n.news.naver.com/mnews/article/077/0007160620?sid=104"
+        },
+        {
+          "keyword": "Germany",
+          "headline": "WCup France Germany Basketball",
+          "url": "https://n.news.naver.com/mnews/article/077/0007160627?sid=104"
         }
       ]
     },
@@ -244,6 +164,11 @@
           "keyword": "게임",
           "headline": "4050 게임 큰손 잡아라...키덜트·AI 강조한 로블록스",
           "url": "https://n.news.naver.com/mnews/article/011/0004661123"
+        },
+        {
+          "keyword": "공개",
+          "headline": "컴투스홀딩스, AI 게임 개발 플랫폼 '하이브 액실' 비전 공개",
+          "url": "https://n.news.naver.com/mnews/article/076/0004445303"
         },
         {
           "keyword": "로블록스",
