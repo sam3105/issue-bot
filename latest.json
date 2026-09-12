@@ -1,39 +1,59 @@
 {
-  "updatedAt": "2026-09-13 04:42",
+  "updatedAt": "2026-09-13 06:39",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "금리",
-          "headline": "미국 경제계 ‘막후 실세’, 국채 금리 급등에 “美금리 아직 낮다”",
-          "url": "https://n.news.naver.com/mnews/article/021/0002818273?sid=101"
-        },
-        {
           "keyword": "유가",
-          "headline": "국제 유가 향배, 중국에 달렸다",
-          "url": "https://n.news.naver.com/mnews/article/014/0005574757?sid=101"
+          "headline": "채권시장 덮친 '유가 쇼크'…한은의 선제적 인상, 방파제되나",
+          "url": "https://n.news.naver.com/mnews/article/001/0016306267?sid=101"
         },
         {
-          "keyword": "열린다",
-          "headline": "IEA \"호르무즈, 올해 안 열린다\"…내년까지 '잃어버린 시대'",
-          "url": "https://n.news.naver.com/mnews/article/014/0005574756?sid=101"
+          "keyword": "덮친",
+          "headline": "정품 맞아?…에이피알 메디큐브 덮친 ‘수단레드 미스터리’",
+          "url": "https://n.news.naver.com/mnews/article/243/0000102976?sid=101"
         },
         {
-          "keyword": "비즈토크",
-          "headline": "[비즈토크<하>] 인천국제공항 발생 중대재해, 위험의 외주화 탓?",
-          "url": "https://n.news.naver.com/mnews/article/629/0000533196?sid=101"
+          "keyword": "감소",
+          "headline": "'나이키의 굴욕' 한국에서도 현실로…3년째 매출 감소",
+          "url": "https://n.news.naver.com/mnews/article/015/0005331628?sid=101"
         },
         {
-          "keyword": "3년",
-          "headline": "스타크래프트 후속작 공개할까…3년 만에 블리자드 신작 행사 열린다",
-          "url": "https://n.news.naver.com/mnews/article/021/0002818271?sid=101"
+          "keyword": "가격",
+          "headline": "“이거 월급으로 살 수 있어?” 난 못 사겠는데…월가 “합리적 가격”",
+          "url": "https://n.news.naver.com/mnews/article/016/0002696325?sid=101"
         },
         {
-          "keyword": "반발",
-          "headline": "주민들 반발에 염창동 1000가구 주택공급 설명회 무산",
-          "url": "https://n.news.naver.com/mnews/article/018/0006367920?sid=101"
+          "keyword": "이마트",
+          "headline": "이마트, 아이폰 18 프로 라인업 사전예약 개시",
+          "url": "https://n.news.naver.com/mnews/article/421/0009165998?sid=101"
+        },
+        {
+          "keyword": "후보자",
+          "headline": "美·日 금리 결정 주목...이형일 후보자 인사 청문회 [한동훈의 위클리전망대]",
+          "url": "https://n.news.naver.com/mnews/article/011/0004661178?sid=101"
+        },
+        {
+          "keyword": "금리",
+          "headline": "[주간증시전망] 유가 100달러·美 10년물 금리 5% 돌파… FOMC도 대기",
+          "url": "https://n.news.naver.com/mnews/article/366/0001191963?sid=101"
+        },
+        {
+          "keyword": "돌파",
+          "headline": "전세 씨 마르자 '생존 매수'…외곽도 20억 돌파[전세난이 바꾼 서울③]",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186170?sid=101"
+        },
+        {
+          "keyword": "서울",
+          "headline": "서울 아파트값 86주째 상승… 文정부 최장 기록 넘었다",
+          "url": "https://n.news.naver.com/mnews/article/366/0001191961?sid=101"
+        },
+        {
+          "keyword": "시장",
+          "headline": "담배도 '성분 공개 시대'…시장·정책 변화 여부에 업계 '촉각'",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186174?sid=101"
         }
       ]
     },
@@ -42,54 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "김승원",
-          "headline": "김승원, 자녀 위장전입 이력...\"교육 목적, 송구\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002405979?sid=102"
+          "keyword": "연장",
+          "headline": "대입 수시 원서접수 마감 1시간 연장‥\"시스템 서버 오류\"",
+          "url": "https://n.news.naver.com/mnews/article/214/0001523489?sid=102"
         },
         {
-          "keyword": "졸음운전",
-          "headline": "인천서 '졸음운전'으로 차량 10대 추돌…5명 경상",
-          "url": "https://n.news.naver.com/mnews/article/448/0000638989?sid=102"
+          "keyword": "먼저",
+          "headline": "수시 원서 마감 10분 전 '먹통'…1시간 연장에 \"먼저 낸 사람만 바보\"",
+          "url": "https://n.news.naver.com/mnews/article/053/0000061455?sid=102"
         },
         {
-          "keyword": "청탁",
-          "headline": "'식약처 청탁'부터 '판사 아들 채용'까지…김승원 논란 일파만파",
-          "url": "https://n.news.naver.com/mnews/article/629/0000533186?sid=102"
+          "keyword": "추석",
+          "headline": "김제소방서 \"추석 명절 주방 화재·안전사고 주의하세요\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186186?sid=102"
         },
         {
-          "keyword": "사고",
-          "headline": "가을철 낚시어선 사고 '집중'...출항 전 점검 '필수'",
-          "url": "https://n.news.naver.com/mnews/article/052/0002406255?sid=102"
+          "keyword": "직접",
+          "headline": "광주 어린이 12명, 직접 쓰고 그린 그림책 12권 펴냈다",
+          "url": "https://n.news.naver.com/mnews/article/079/0004188666?sid=102"
         },
         {
-          "keyword": "여성",
-          "headline": "60대 여성 시신 나온 카페 창고…“일주일만 쓸게요” 급하게 주문했다",
-          "url": "https://n.news.naver.com/mnews/article/011/0004661176?sid=102"
+          "keyword": "일교차",
+          "headline": "전남광주, 아침 안개 주의…낮 최고 30도·큰 일교차",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186188?sid=102"
         },
         {
-          "keyword": "부산",
-          "headline": "부산 곳곳 달리는 시민 늘었다…\"러닝친화도시로 키워야\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014186125?sid=102"
+          "keyword": "최고",
+          "headline": "충북, 가끔 구름 많음…낮 최고 24~29도",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186182?sid=102"
         },
         {
-          "keyword": "만난",
-          "headline": "전통·현대가 만난 국악관현악…17일 연주회 '부산, 청년'",
-          "url": "https://n.news.naver.com/mnews/article/003/0014186124?sid=102"
+          "keyword": "구름",
+          "headline": "부산, 가끔 구름 많은 날씨…낮 최고기온 29도",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186187?sid=102"
         },
         {
-          "keyword": "앞두고",
-          "headline": "대입 수시 원서접수 마감 10분 앞두고 서버 ‘먹통’…“1시간 연장”",
-          "url": "https://n.news.naver.com/mnews/article/011/0004661034?sid=102"
+          "keyword": "대통령",
+          "headline": "대통령 '공정 원칙' 주문…사회보장제도 전면 손질로 이어질까",
+          "url": "https://n.news.naver.com/mnews/article/001/0016306245?sid=102"
         },
         {
-          "keyword": "결혼",
-          "headline": "\"공방 운영한다더니 사실상 백수\"…결혼 앞두고 알게 된 여친의 두 얼굴",
-          "url": "https://n.news.naver.com/mnews/article/003/0014186118?sid=102"
+          "keyword": "피해",
+          "headline": "철원 갈말읍서 주택 화재…7천여만원 피해",
+          "url": "https://n.news.naver.com/mnews/article/001/0016306258?sid=102"
         },
         {
-          "keyword": "먹통",
-          "headline": "교육부, ‘수시 원서 접수 먹통’ 사고에 체계 전면 검토… 구제절차는 13일 공개",
-          "url": "https://n.news.naver.com/mnews/article/366/0001191948?sid=102"
+          "keyword": "화물열차",
+          "headline": "낙동강역서 화물열차 탈선…경전선 일부 열차 운행 중지",
+          "url": "https://n.news.naver.com/mnews/article/056/0012256257?sid=102"
         }
       ]
     },
@@ -98,24 +118,54 @@
       "cls": "tech",
       "items": [
         {
-          "keyword": "공개",
-          "headline": "'원신' 7.1 버전 '죽음의 진혼곡' 공개…스네즈나야 이야기 본격화",
-          "url": "https://n.news.naver.com/mnews/article/347/0000195635?sid=105"
-        },
-        {
-          "keyword": "원신",
-          "headline": "원신, \"7.1 버전 특별 방송에서 첫 한정 5성 캐릭터 배포 결정\"",
-          "url": "https://n.news.naver.com/mnews/article/236/0000256907?sid=105"
-        },
-        {
-          "keyword": "아이폰18",
-          "headline": "모요, 아이폰18 사전예약 맞춰 ‘재고알리미’ 운영",
-          "url": "https://n.news.naver.com/mnews/article/138/0002241159?sid=105"
+          "keyword": "스타크래프트",
+          "headline": "3년 만에 돌아온 블리즈컨…‘스타크래프트’ 신작 공개되나",
+          "url": "https://n.news.naver.com/mnews/article/022/0004158480?sid=105"
         },
         {
           "keyword": "AI",
-          "headline": "\"AI가 90년 난제 해결\" 직후…우려 쏟아낸 수학자들, 왜?",
-          "url": "https://n.news.naver.com/mnews/article/215/0001265751?sid=105"
+          "headline": "AI와 기업 시스템 잇는 ‘공통 언어’…MCP 생태계 확산",
+          "url": "https://n.news.naver.com/mnews/article/138/0002241164?sid=105"
+        },
+        {
+          "keyword": "출시",
+          "headline": "“정말 오래 기다렸다”…스타크래프트 신작 2030년 출시",
+          "url": "https://n.news.naver.com/mnews/article/015/0005331623?sid=105"
+        },
+        {
+          "keyword": "경쟁",
+          "headline": "[AI밸류체인 전쟁]①'독파모'만으론 역부족…달라진 AI 주권 경쟁",
+          "url": "https://n.news.naver.com/mnews/article/421/0009166481?sid=105"
+        },
+        {
+          "keyword": "디아블로5",
+          "headline": "블리자드, 블리즈컨서  '디아블로5' 전격 공개…2029년 출시 목표",
+          "url": "https://n.news.naver.com/mnews/article/092/0002437205?sid=105"
+        },
+        {
+          "keyword": "블리자드",
+          "headline": "블리자드, '스타크래프트' 오픈월드 슈터로 귀환…2030년 출시 목표",
+          "url": "https://n.news.naver.com/mnews/article/092/0002437203?sid=105"
+        },
+        {
+          "keyword": "애플",
+          "headline": "애플 아이폰17, 첫해 매출 230조원…삼성 MX 연매출의 1.8배",
+          "url": "https://n.news.naver.com/mnews/article/092/0002437201?sid=105"
+        },
+        {
+          "keyword": "가능성",
+          "headline": "당신은 리센느를 좋아할 가능성이 높습니다",
+          "url": "https://n.news.naver.com/mnews/article/008/0005412825?sid=105"
+        },
+        {
+          "keyword": "세계",
+          "headline": "세계 상위 0.1% 연구자 \"창업 대신 기업가치 100배 키울래요\"",
+          "url": "https://n.news.naver.com/mnews/article/008/0005412823?sid=105"
+        },
+        {
+          "keyword": "아이폰18",
+          "headline": "롯데하이마트, 아이폰18 프로 사전예약…도난·분실도 보장",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186165?sid=105"
         }
       ]
     },
@@ -125,53 +175,53 @@
       "items": [
         {
           "keyword": "이창동",
-          "headline": "소설가서 세계적 영화 거장으로…인간과 사회 응시해온 이창동",
-          "url": "https://n.news.naver.com/mnews/article/001/0016306181?sid=103"
-        },
-        {
-          "keyword": "13일",
-          "headline": "[오늘의 운세] 9월 13일 띠별 운세",
-          "url": "https://n.news.naver.com/mnews/article/015/0005331620?sid=103"
-        },
-        {
-          "keyword": "음식",
-          "headline": "‘간에 낀 기름’ 빼줄 뜻밖의 음식 6가지",
-          "url": "https://n.news.naver.com/mnews/article/346/0000115898?sid=103"
-        },
-        {
-          "keyword": "먹는",
-          "headline": "“배 많이 나왔다” 기안84 고백… 많이 안 먹는 게 정답일까?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000115899?sid=103"
+          "headline": "이창동, 베니스 심사위원대상 쾌거...\"계속 영화로 질문\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002406292?sid=103"
         },
         {
           "keyword": "일교차",
-          "headline": "일교차 큰 가을 날씨‥낮 최고기온 30도",
-          "url": "https://n.news.naver.com/mnews/article/214/0001523539?sid=103"
+          "headline": "전국 곳곳 약한 비…'낮 최고 30도' 환절기 큰 일교차 유의",
+          "url": "https://n.news.naver.com/mnews/article/001/0016306192?sid=103"
         },
         {
-          "keyword": "뜻밖",
-          "headline": "“공복에 매일 먹다간 췌장 혹사”… 김숙이 먹은 ‘뜻밖의 음식’, 뭐야?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000115901?sid=103"
+          "keyword": "베니스",
+          "headline": "칸에서 베니스까지...한국영화의 빛나는 발자취",
+          "url": "https://n.news.naver.com/mnews/article/052/0002406285?sid=103"
         },
         {
-          "keyword": "세계",
-          "headline": "[세계 3대 영화제 장편경쟁 부문 한국영화 수상 연혁]",
-          "url": "https://n.news.naver.com/mnews/article/001/0016306182?sid=103"
+          "keyword": "날씨",
+          "headline": "주말도 기온 차 '비상'...\"올가을 단풍 이달 말부터\"[날씨]",
+          "url": "https://n.news.naver.com/mnews/article/052/0002406038?sid=103"
         },
         {
-          "keyword": "거장",
-          "headline": "국내외 거장 뜬 서울..미술로 물든 가을",
-          "url": "https://n.news.naver.com/mnews/article/052/0002406263?sid=103"
+          "keyword": "최대",
+          "headline": "“최대 20% 깎아주는데”…다자녀 고속도로 할인, 신청은 10%대",
+          "url": "https://n.news.naver.com/mnews/article/025/0003550912?sid=103"
         },
         {
-          "keyword": "정체",
-          "headline": "코 자세히 들여다보니 ‘하얀 실’ 한가득… 정체 뭔가 봤더니?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000115897?sid=103"
+          "keyword": "수도권",
+          "headline": "수도권 전력 위해 또 송전탑?…'지산지소' 정부의 딜레마",
+          "url": "https://n.news.naver.com/mnews/article/079/0004188658?sid=103"
         },
         {
-          "keyword": "재미",
-          "headline": "[인플루언서 프리즘] \"생태계 관찰하는 재미\"…자연 담은 '탐조' 콘텐츠",
-          "url": "https://n.news.naver.com/mnews/article/629/0000533195?sid=103"
+          "keyword": "일본",
+          "headline": "중국·일본 갔다가 '문화 충격'…\"정신 혼미해질 정도\" 무슨 일",
+          "url": "https://n.news.naver.com/mnews/article/015/0005331627?sid=103"
+        },
+        {
+          "keyword": "무슨",
+          "headline": "“갑자기 앞이 안 보여” 병원 간 31세女… 알고 보니 임신 36주, 무슨 일?",
+          "url": "https://n.news.naver.com/mnews/article/296/0000104786?sid=103"
+        },
+        {
+          "keyword": "중국",
+          "headline": "“미국·중국 못따라갑니다, 3등합시다”…한국 얘기 아니라는데 [Book]",
+          "url": "https://n.news.naver.com/mnews/article/009/0005734282?sid=103"
+        },
+        {
+          "keyword": "Book",
+          "headline": "“모태기독교 딸이 불교박람회 간대요”…시인이 짚어낸 젠지의 언어 [Book]",
+          "url": "https://n.news.naver.com/mnews/article/009/0005734283?sid=103"
         }
       ]
     },
@@ -180,29 +230,24 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "SOCCER",
-          "headline": "SPAIN SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010310253?sid=104"
+          "keyword": "Baseball",
+          "headline": "Pirates Cubs Baseball",
+          "url": "https://n.news.naver.com/mnews/article/077/0007161186?sid=104"
         },
         {
-          "keyword": "ITALY",
-          "headline": "ITALY SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010310263?sid=104"
+          "keyword": "트럼프",
+          "headline": "9·11 테러 25주년 엄수‥트럼프 \"오늘 싸우는 이유\"",
+          "url": "https://n.news.naver.com/mnews/article/214/0001523534?sid=104"
         },
         {
-          "keyword": "Italy",
-          "headline": "Italy Serie A Soccer",
-          "url": "https://n.news.naver.com/mnews/article/077/0007160898?sid=104"
+          "keyword": "해협",
+          "headline": "[속보] 후티군,\" 모카 점령 뒤에도 홍해 해협 선박 통행은 정상\" 주장",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186190?sid=104"
         },
         {
-          "keyword": "Soccer",
-          "headline": "Britain Soccer Premier League",
-          "url": "https://n.news.naver.com/mnews/article/077/0007160880?sid=104"
-        },
-        {
-          "keyword": "SPAIN",
-          "headline": "SPAIN CYCLING",
-          "url": "https://n.news.naver.com/mnews/article/091/0010310250?sid=104"
+          "keyword": "Football",
+          "headline": "Arizona BYU Football",
+          "url": "https://n.news.naver.com/mnews/article/077/0007161171?sid=104"
         }
       ]
     },
@@ -211,9 +256,14 @@
       "cls": "game",
       "items": [
         {
-          "keyword": "공개",
+          "keyword": "게임",
           "headline": "컴투스홀딩스, AI 게임 개발 플랫폼 '하이브 액실' 비전 공개",
           "url": "https://n.news.naver.com/mnews/article/076/0004445303"
+        },
+        {
+          "keyword": "공개",
+          "headline": "넥슨, 홍대에 '메이플스토리' 방탈출 카페 연다…5개 테마 순차 공개",
+          "url": "https://n.news.naver.com/mnews/article/076/0004445301"
         }
       ]
     }
