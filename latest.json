@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13 00:53",
+  "updatedAt": "2026-09-13 02:54",
   "categories": [
     {
       "name": "경제",
@@ -11,14 +11,9 @@
           "url": "https://n.news.naver.com/mnews/article/629/0000533196?sid=101"
         },
         {
-          "keyword": "이재근",
-          "headline": "[속보] KB금융 차기 회장 후보에 이재근…양종희 연임 실패",
-          "url": "https://n.news.naver.com/mnews/article/015/0005331402?sid=101"
-        },
-        {
           "keyword": "3년",
-          "headline": "스타크래프트 후속작 공개할까…3년 만에 블리자드 신작 행사 열린다",
-          "url": "https://n.news.naver.com/mnews/article/021/0002818271?sid=101"
+          "headline": "3년 전엔 숏리스트도 못 들었는데…KB 이재근, 양종희 넘은 이유",
+          "url": "https://n.news.naver.com/mnews/article/629/0000533191?sid=101"
         },
         {
           "keyword": "경북",
@@ -32,24 +27,29 @@
       "cls": "society",
       "items": [
         {
+          "keyword": "졸음운전",
+          "headline": "인천서 '졸음운전'으로 차량 10대 추돌…5명 경상",
+          "url": "https://n.news.naver.com/mnews/article/448/0000638989?sid=102"
+        },
+        {
+          "keyword": "부산",
+          "headline": "부산 곳곳 달리는 시민 늘었다…\"러닝친화도시로 키워야\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186125?sid=102"
+        },
+        {
+          "keyword": "만난",
+          "headline": "전통·현대가 만난 국악관현악…17일 연주회 '부산, 청년'",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186124?sid=102"
+        },
+        {
           "keyword": "결혼",
           "headline": "\"공방 운영한다더니 사실상 백수\"…결혼 앞두고 알게 된 여친의 두 얼굴",
           "url": "https://n.news.naver.com/mnews/article/003/0014186118?sid=102"
         },
         {
-          "keyword": "먹통",
-          "headline": "수시 마감 직전 서버 먹통…접수 못한 수험생 구제 '도마위'",
-          "url": "https://n.news.naver.com/mnews/article/014/0005574710?sid=102"
-        },
-        {
           "keyword": "그날",
           "headline": "“웃자고 한 게임이었는데” 녹화 도중 떡 먹다 의식불명…유명 성우에게 벌어진 비극 [오늘의 그날]",
           "url": "https://n.news.naver.com/mnews/article/011/0004661173?sid=102"
-        },
-        {
-          "keyword": "5명",
-          "headline": "부산 예인선 전복 실종자 5명 어디에…10일째 밤샘 수색",
-          "url": "https://n.news.naver.com/mnews/article/001/0016305503?sid=102"
         }
       ]
     },
@@ -64,18 +64,18 @@
         },
         {
           "keyword": "원신",
-          "headline": "'원신' 7.1 버전 '죽음의 진혼곡' 공개…스네즈나야 이야기 본격화",
-          "url": "https://n.news.naver.com/mnews/article/347/0000195635?sid=105"
+          "headline": "원신, \"7.1 버전 특별 방송에서 첫 한정 5성 캐릭터 배포 결정\"",
+          "url": "https://n.news.naver.com/mnews/article/236/0000256907?sid=105"
+        },
+        {
+          "keyword": "T1",
+          "headline": "한화생명, T1에 3:1 승…LCK 결승서 젠지와 리매치 성사",
+          "url": "https://n.news.naver.com/mnews/article/001/0016306025?sid=105"
         },
         {
           "keyword": "아이폰18",
           "headline": "모요, 아이폰18 사전예약 맞춰 ‘재고알리미’ 운영",
           "url": "https://n.news.naver.com/mnews/article/138/0002241159?sid=105"
-        },
-        {
-          "keyword": "T1",
-          "headline": "LCK 결승 코앞서 미끄러진 T1…페이커 \"월즈서 더 좋은 경기력\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016306067?sid=105"
         }
       ]
     },
@@ -85,23 +85,33 @@
       "items": [
         {
           "keyword": "일교차",
-          "headline": "일교차 큰 초가을 날씨…자외선 주의[날씨]",
-          "url": "https://n.news.naver.com/mnews/article/055/0001387782?sid=103"
+          "headline": "아침엔 선선, 낮기온 쑥…일교차 ‘10도 이상’",
+          "url": "https://n.news.naver.com/mnews/article/056/0012256249?sid=103"
         },
         {
-          "keyword": "콘텐츠",
-          "headline": "경북지사 만난 최휘영 장관 \"경북 관광 콘텐츠 적극 발굴해야\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016305908?sid=103"
+          "keyword": "먹는",
+          "headline": "“배 많이 나왔다” 기안84 고백… 많이 안 먹는 게 정답일까?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115899?sid=103"
         },
         {
-          "keyword": "9월",
+          "keyword": "뜻밖",
+          "headline": "‘간에 낀 기름’ 빼줄 뜻밖의 음식 6가지",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115898?sid=103"
+        },
+        {
+          "keyword": "음식",
+          "headline": "“먹는 건강보험”… 의사가 ‘간식으로 곁에 두라’ 추천한 음식, 뭐야?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115895?sid=103"
+        },
+        {
+          "keyword": "운세",
           "headline": "[오늘의 운세] 9월 13일 띠별 운세",
           "url": "https://n.news.naver.com/mnews/article/015/0005331620?sid=103"
         },
         {
-          "keyword": "현장",
-          "headline": "“사회선교, 다시 불붙이자”…현장 경험 한자리에",
-          "url": "https://n.news.naver.com/mnews/article/005/0001872463?sid=103"
+          "keyword": "문화",
+          "headline": "문체부-경북도, 문화·체육·관광 협력 논의",
+          "url": "https://n.news.naver.com/mnews/article/092/0002437198?sid=103"
         }
       ]
     },
@@ -111,48 +121,33 @@
       "items": [
         {
           "keyword": "이란",
-          "headline": "미국 “이란, 중국 위성사진 보고 미군 기지 공습”",
-          "url": "https://n.news.naver.com/mnews/article/032/0003469951?sid=104"
+          "headline": "바레인 \"이란·걸프국 호르무즈 회의 참석하지 않을 것\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014186129?sid=104"
+        },
+        {
+          "keyword": "Italy",
+          "headline": "Italy Serie A Soccer",
+          "url": "https://n.news.naver.com/mnews/article/077/0007160729?sid=104"
+        },
+        {
+          "keyword": "실적",
+          "headline": "신입급에도 1억4000만원 쏜다…역대급 실적에 돈 푸는 이 회사",
+          "url": "https://n.news.naver.com/mnews/article/025/0003550789?sid=104"
+        },
+        {
+          "keyword": "Soccer",
+          "headline": "Britain Soccer Premier League",
+          "url": "https://n.news.naver.com/mnews/article/077/0007160720?sid=104"
         },
         {
           "keyword": "SOCCER",
           "headline": "ITALY SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010310018?sid=104"
-        },
-        {
-          "keyword": "전쟁",
-          "headline": "“이란·걸프 GCC 회원국, 전쟁 이후 14일 첫 회담 예정”-FT",
-          "url": "https://n.news.naver.com/mnews/article/003/0014185584?sid=104"
-        },
-        {
-          "keyword": "푸틴",
-          "headline": "젤렌스키 \"푸틴 참석하면 美 G20 갈 것\" vs 크렘린궁 \"모스크바로 오라\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014186121?sid=104"
-        },
-        {
-          "keyword": "러시아",
-          "headline": "젤렌스키, 트럼프에 “러시아 제재 지금 당장”…에너지시설 휴전도 제안",
-          "url": "https://n.news.naver.com/mnews/article/021/0002818279?sid=104"
-        },
-        {
-          "keyword": "공습",
-          "headline": "우크라, 러시아 무차별 공습에 사상자 60여명…푸틴 \"유럽, 우크라 파병 땐 러시아와 전쟁\"",
-          "url": "https://n.news.naver.com/mnews/article/014/0005574753?sid=104"
+          "url": "https://n.news.naver.com/mnews/article/091/0010310126?sid=104"
         },
         {
           "keyword": "ITALY",
           "headline": "ITALY CINEMA",
-          "url": "https://n.news.naver.com/mnews/article/091/0010310044?sid=104"
-        },
-        {
-          "keyword": "Soccer",
-          "headline": "Germany Bundesliga Soccer",
-          "url": "https://n.news.naver.com/mnews/article/077/0007160620?sid=104"
-        },
-        {
-          "keyword": "Germany",
-          "headline": "WCup France Germany Basketball",
-          "url": "https://n.news.naver.com/mnews/article/077/0007160627?sid=104"
+          "url": "https://n.news.naver.com/mnews/article/091/0010310122?sid=104"
         }
       ]
     },
