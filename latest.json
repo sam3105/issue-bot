@@ -1,10 +1,25 @@
 {
-  "updatedAt": "2026-09-13 02:54",
+  "updatedAt": "2026-09-13 04:42",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
+        {
+          "keyword": "금리",
+          "headline": "미국 경제계 ‘막후 실세’, 국채 금리 급등에 “美금리 아직 낮다”",
+          "url": "https://n.news.naver.com/mnews/article/021/0002818273?sid=101"
+        },
+        {
+          "keyword": "유가",
+          "headline": "국제 유가 향배, 중국에 달렸다",
+          "url": "https://n.news.naver.com/mnews/article/014/0005574757?sid=101"
+        },
+        {
+          "keyword": "열린다",
+          "headline": "IEA \"호르무즈, 올해 안 열린다\"…내년까지 '잃어버린 시대'",
+          "url": "https://n.news.naver.com/mnews/article/014/0005574756?sid=101"
+        },
         {
           "keyword": "비즈토크",
           "headline": "[비즈토크<하>] 인천국제공항 발생 중대재해, 위험의 외주화 탓?",
@@ -12,13 +27,13 @@
         },
         {
           "keyword": "3년",
-          "headline": "3년 전엔 숏리스트도 못 들었는데…KB 이재근, 양종희 넘은 이유",
-          "url": "https://n.news.naver.com/mnews/article/629/0000533191?sid=101"
+          "headline": "스타크래프트 후속작 공개할까…3년 만에 블리자드 신작 행사 열린다",
+          "url": "https://n.news.naver.com/mnews/article/021/0002818271?sid=101"
         },
         {
-          "keyword": "경북",
-          "headline": "경북 농기계 화재 30% 가을철에 집중",
-          "url": "https://n.news.naver.com/mnews/article/056/0012256236?sid=101"
+          "keyword": "반발",
+          "headline": "주민들 반발에 염창동 1000가구 주택공급 설명회 무산",
+          "url": "https://n.news.naver.com/mnews/article/018/0006367920?sid=101"
         }
       ]
     },
@@ -27,9 +42,29 @@
       "cls": "society",
       "items": [
         {
+          "keyword": "김승원",
+          "headline": "김승원, 자녀 위장전입 이력...\"교육 목적, 송구\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002405979?sid=102"
+        },
+        {
           "keyword": "졸음운전",
           "headline": "인천서 '졸음운전'으로 차량 10대 추돌…5명 경상",
           "url": "https://n.news.naver.com/mnews/article/448/0000638989?sid=102"
+        },
+        {
+          "keyword": "청탁",
+          "headline": "'식약처 청탁'부터 '판사 아들 채용'까지…김승원 논란 일파만파",
+          "url": "https://n.news.naver.com/mnews/article/629/0000533186?sid=102"
+        },
+        {
+          "keyword": "사고",
+          "headline": "가을철 낚시어선 사고 '집중'...출항 전 점검 '필수'",
+          "url": "https://n.news.naver.com/mnews/article/052/0002406255?sid=102"
+        },
+        {
+          "keyword": "여성",
+          "headline": "60대 여성 시신 나온 카페 창고…“일주일만 쓸게요” 급하게 주문했다",
+          "url": "https://n.news.naver.com/mnews/article/011/0004661176?sid=102"
         },
         {
           "keyword": "부산",
@@ -42,14 +77,19 @@
           "url": "https://n.news.naver.com/mnews/article/003/0014186124?sid=102"
         },
         {
+          "keyword": "앞두고",
+          "headline": "대입 수시 원서접수 마감 10분 앞두고 서버 ‘먹통’…“1시간 연장”",
+          "url": "https://n.news.naver.com/mnews/article/011/0004661034?sid=102"
+        },
+        {
           "keyword": "결혼",
           "headline": "\"공방 운영한다더니 사실상 백수\"…결혼 앞두고 알게 된 여친의 두 얼굴",
           "url": "https://n.news.naver.com/mnews/article/003/0014186118?sid=102"
         },
         {
-          "keyword": "그날",
-          "headline": "“웃자고 한 게임이었는데” 녹화 도중 떡 먹다 의식불명…유명 성우에게 벌어진 비극 [오늘의 그날]",
-          "url": "https://n.news.naver.com/mnews/article/011/0004661173?sid=102"
+          "keyword": "먹통",
+          "headline": "교육부, ‘수시 원서 접수 먹통’ 사고에 체계 전면 검토… 구제절차는 13일 공개",
+          "url": "https://n.news.naver.com/mnews/article/366/0001191948?sid=102"
         }
       ]
     },
@@ -58,9 +98,9 @@
       "cls": "tech",
       "items": [
         {
-          "keyword": "AI",
-          "headline": "\"AI가 90년 난제 해결\" 직후…우려 쏟아낸 수학자들, 왜?",
-          "url": "https://n.news.naver.com/mnews/article/215/0001265751?sid=105"
+          "keyword": "공개",
+          "headline": "'원신' 7.1 버전 '죽음의 진혼곡' 공개…스네즈나야 이야기 본격화",
+          "url": "https://n.news.naver.com/mnews/article/347/0000195635?sid=105"
         },
         {
           "keyword": "원신",
@@ -68,14 +108,14 @@
           "url": "https://n.news.naver.com/mnews/article/236/0000256907?sid=105"
         },
         {
-          "keyword": "T1",
-          "headline": "한화생명, T1에 3:1 승…LCK 결승서 젠지와 리매치 성사",
-          "url": "https://n.news.naver.com/mnews/article/001/0016306025?sid=105"
-        },
-        {
           "keyword": "아이폰18",
           "headline": "모요, 아이폰18 사전예약 맞춰 ‘재고알리미’ 운영",
           "url": "https://n.news.naver.com/mnews/article/138/0002241159?sid=105"
+        },
+        {
+          "keyword": "AI",
+          "headline": "\"AI가 90년 난제 해결\" 직후…우려 쏟아낸 수학자들, 왜?",
+          "url": "https://n.news.naver.com/mnews/article/215/0001265751?sid=105"
         }
       ]
     },
@@ -84,9 +124,19 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "일교차",
-          "headline": "아침엔 선선, 낮기온 쑥…일교차 ‘10도 이상’",
-          "url": "https://n.news.naver.com/mnews/article/056/0012256249?sid=103"
+          "keyword": "이창동",
+          "headline": "소설가서 세계적 영화 거장으로…인간과 사회 응시해온 이창동",
+          "url": "https://n.news.naver.com/mnews/article/001/0016306181?sid=103"
+        },
+        {
+          "keyword": "13일",
+          "headline": "[오늘의 운세] 9월 13일 띠별 운세",
+          "url": "https://n.news.naver.com/mnews/article/015/0005331620?sid=103"
+        },
+        {
+          "keyword": "음식",
+          "headline": "‘간에 낀 기름’ 빼줄 뜻밖의 음식 6가지",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115898?sid=103"
         },
         {
           "keyword": "먹는",
@@ -94,24 +144,34 @@
           "url": "https://n.news.naver.com/mnews/article/346/0000115899?sid=103"
         },
         {
+          "keyword": "일교차",
+          "headline": "일교차 큰 가을 날씨‥낮 최고기온 30도",
+          "url": "https://n.news.naver.com/mnews/article/214/0001523539?sid=103"
+        },
+        {
           "keyword": "뜻밖",
-          "headline": "‘간에 낀 기름’ 빼줄 뜻밖의 음식 6가지",
-          "url": "https://n.news.naver.com/mnews/article/346/0000115898?sid=103"
+          "headline": "“공복에 매일 먹다간 췌장 혹사”… 김숙이 먹은 ‘뜻밖의 음식’, 뭐야?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115901?sid=103"
         },
         {
-          "keyword": "음식",
-          "headline": "“먹는 건강보험”… 의사가 ‘간식으로 곁에 두라’ 추천한 음식, 뭐야?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000115895?sid=103"
+          "keyword": "세계",
+          "headline": "[세계 3대 영화제 장편경쟁 부문 한국영화 수상 연혁]",
+          "url": "https://n.news.naver.com/mnews/article/001/0016306182?sid=103"
         },
         {
-          "keyword": "운세",
-          "headline": "[오늘의 운세] 9월 13일 띠별 운세",
-          "url": "https://n.news.naver.com/mnews/article/015/0005331620?sid=103"
+          "keyword": "거장",
+          "headline": "국내외 거장 뜬 서울..미술로 물든 가을",
+          "url": "https://n.news.naver.com/mnews/article/052/0002406263?sid=103"
         },
         {
-          "keyword": "문화",
-          "headline": "문체부-경북도, 문화·체육·관광 협력 논의",
-          "url": "https://n.news.naver.com/mnews/article/092/0002437198?sid=103"
+          "keyword": "정체",
+          "headline": "코 자세히 들여다보니 ‘하얀 실’ 한가득… 정체 뭔가 봤더니?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000115897?sid=103"
+        },
+        {
+          "keyword": "재미",
+          "headline": "[인플루언서 프리즘] \"생태계 관찰하는 재미\"…자연 담은 '탐조' 콘텐츠",
+          "url": "https://n.news.naver.com/mnews/article/629/0000533195?sid=103"
         }
       ]
     },
@@ -120,34 +180,29 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "이란",
-          "headline": "바레인 \"이란·걸프국 호르무즈 회의 참석하지 않을 것\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014186129?sid=104"
+          "keyword": "SOCCER",
+          "headline": "SPAIN SOCCER",
+          "url": "https://n.news.naver.com/mnews/article/091/0010310253?sid=104"
+        },
+        {
+          "keyword": "ITALY",
+          "headline": "ITALY SOCCER",
+          "url": "https://n.news.naver.com/mnews/article/091/0010310263?sid=104"
         },
         {
           "keyword": "Italy",
           "headline": "Italy Serie A Soccer",
-          "url": "https://n.news.naver.com/mnews/article/077/0007160729?sid=104"
-        },
-        {
-          "keyword": "실적",
-          "headline": "신입급에도 1억4000만원 쏜다…역대급 실적에 돈 푸는 이 회사",
-          "url": "https://n.news.naver.com/mnews/article/025/0003550789?sid=104"
+          "url": "https://n.news.naver.com/mnews/article/077/0007160898?sid=104"
         },
         {
           "keyword": "Soccer",
           "headline": "Britain Soccer Premier League",
-          "url": "https://n.news.naver.com/mnews/article/077/0007160720?sid=104"
+          "url": "https://n.news.naver.com/mnews/article/077/0007160880?sid=104"
         },
         {
-          "keyword": "SOCCER",
-          "headline": "ITALY SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010310126?sid=104"
-        },
-        {
-          "keyword": "ITALY",
-          "headline": "ITALY CINEMA",
-          "url": "https://n.news.naver.com/mnews/article/091/0010310122?sid=104"
+          "keyword": "SPAIN",
+          "headline": "SPAIN CYCLING",
+          "url": "https://n.news.naver.com/mnews/article/091/0010310250?sid=104"
         }
       ]
     },
@@ -156,19 +211,9 @@
       "cls": "game",
       "items": [
         {
-          "keyword": "게임",
-          "headline": "4050 게임 큰손 잡아라...키덜트·AI 강조한 로블록스",
-          "url": "https://n.news.naver.com/mnews/article/011/0004661123"
-        },
-        {
           "keyword": "공개",
           "headline": "컴투스홀딩스, AI 게임 개발 플랫폼 '하이브 액실' 비전 공개",
           "url": "https://n.news.naver.com/mnews/article/076/0004445303"
-        },
-        {
-          "keyword": "로블록스",
-          "headline": "\"로블록스 게임개발, 유튜브 초창기와 유사…AI창작시대 열릴것\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016305896"
         }
       ]
     }
