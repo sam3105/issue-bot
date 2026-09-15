@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-09-16 01:53",
+  "updatedAt": "2026-09-16 04:53",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "하반기",
-          "headline": "“폴더블 디스플레이 출하량, 하반기 71% 늘어날 듯”",
-          "url": "https://n.news.naver.com/mnews/article/020/0003748384?sid=101"
+          "keyword": "AI",
+          "headline": "'AI 감속론'에도… ETF 출시는 '가속'",
+          "url": "https://n.news.naver.com/mnews/article/008/0005414284?sid=101"
         },
         {
-          "keyword": "국채금리",
-          "headline": "美 국채금리, 국제유가와 동조화…인플레 우려 속 시장 압박",
-          "url": "https://n.news.naver.com/mnews/article/293/0000090510?sid=101"
+          "keyword": "추진",
+          "headline": "정부, 한전의 美웨스팅하우스 지분 15% 인수 추진",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748457?sid=101"
         },
         {
-          "keyword": "돌파",
-          "headline": "美 10년물 국채금리 장중 5% 돌파… 커지는 글로벌 금융 불안",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998614?sid=101"
+          "keyword": "마일리지",
+          "headline": "대한항공, 마일리지 통합 퍼즐 맞췄다…'메가캐리어' 출범 임박",
+          "url": "https://n.news.naver.com/mnews/article/001/0016311740?sid=101"
         },
         {
-          "keyword": "금리",
-          "headline": "美금리 '더 높게 더 오래' 간다면…주식·채권 어디에 투자할까",
-          "url": "https://n.news.naver.com/mnews/article/018/0006370022?sid=101"
+          "keyword": "대한항공",
+          "headline": "대한항공, 마지막 행정절차 완료… '메가캐리어' 이륙 임박",
+          "url": "https://n.news.naver.com/mnews/article/008/0005414293?sid=101"
+        },
+        {
+          "keyword": "서울",
+          "headline": "5개월만에 오름폭 줄인 서울 집값… 외곽 뜀박질은 ‘계속’",
+          "url": "https://n.news.naver.com/mnews/article/005/0001873215?sid=101"
+        },
+        {
+          "keyword": "구글",
+          "headline": "\"오픈AI·앤스로픽·구글, AI 안전성 협력 논의 중\"",
+          "url": "https://n.news.naver.com/mnews/article/014/0005576383?sid=101"
+        },
+        {
+          "keyword": "10년물",
+          "headline": "美 국채 10년물 5% 또 돌파…재무장관 \"글로벌 이슈 때문\"",
+          "url": "https://n.news.naver.com/mnews/article/008/0005414309?sid=101"
+        },
+        {
+          "keyword": "영향",
+          "headline": "한은 \"팬데믹 이후 중립금리 반등 추정…인구·AI 영향 클 것\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009172529?sid=101"
         },
         {
           "keyword": "주식",
-          "headline": "[주식 매매 상위 종목 및 환율] 2026년 9월 15일자",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998629?sid=101"
+          "headline": "美국채금리 5% ‘쇼크’… 韓 가계빚-주식 연쇄충격 우려",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748451?sid=101"
         },
         {
-          "keyword": "앞두고",
-          "headline": "에이스경암, 성남시에 백미 기탁… 추석 앞두고 2억1000만원 상당",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998622?sid=101"
-        },
-        {
-          "keyword": "특징주",
-          "headline": "[美특징주]레비티, 하반기 수주잔고 매출 반영 기대…주가 7%↑",
-          "url": "https://n.news.naver.com/mnews/article/018/0006370023?sid=101"
-        },
-        {
-          "keyword": "매출",
-          "headline": "\"배달앱 입점사 거래비용, 월 매출의 26.2%…1년 새 5.2%p 증가\"",
-          "url": "https://n.news.naver.com/mnews/article/055/0001388409?sid=101"
-        },
-        {
-          "keyword": "국채",
-          "headline": "베선트, 美국채금리 급등에 \"글로벌 이슈탓…美국채 세계 최고\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016313271?sid=101"
-        },
-        {
-          "keyword": "세계",
-          "headline": "“롯데월드 가을축제, 기묘한 세계로 초대합니다”",
-          "url": "https://n.news.naver.com/mnews/article/020/0003748387?sid=101"
+          "keyword": "우려",
+          "headline": "“美연준 금리인상 확률 92%”… 기업 자금조달-투자위축 우려",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748441?sid=101"
         }
       ]
     },
@@ -62,54 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "시내버스",
-          "headline": "[오늘의 날씨] 2026년 9월 16일",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998672?sid=102"
-        },
-        {
-          "keyword": "파업",
-          "headline": "[속보] 서울 시내버스, 파업 직전 극적 타결",
-          "url": "https://n.news.naver.com/mnews/article/366/0001192600?sid=102"
-        },
-        {
-          "keyword": "경쟁률",
-          "headline": "원서접수 마감 연장하고 경쟁률 공개한 대학은 17곳",
-          "url": "https://n.news.naver.com/mnews/article/055/0001388552?sid=102"
+          "keyword": "서울",
+          "headline": "서울 시내버스 노사 협상 타결…출근길 대란 피했다",
+          "url": "https://n.news.naver.com/mnews/article/079/0004189775?sid=102"
         },
         {
           "keyword": "김승원",
-          "headline": "김승원 \"檢캐비넷 자료 유출해 정치 이용하면 감찰\"…한동훈 정조준",
-          "url": "https://n.news.naver.com/mnews/article/277/0005816726?sid=102"
+          "headline": "풀리지 않은 김승원 의혹 [오늘의 1면 사진]",
+          "url": "https://n.news.naver.com/mnews/article/469/0000954269?sid=102"
         },
         {
-          "keyword": "경북",
-          "headline": "경북 폐학교, 교육·문화 거점으로 재탄생한다",
-          "url": "https://n.news.naver.com/mnews/article/022/0004159334?sid=102"
+          "keyword": "버스",
+          "headline": "제주 버스 공공 와이파이 데이터 넉넉해졌다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748431?sid=102"
         },
         {
-          "keyword": "무슨",
-          "headline": "\"8년 살고 나갔더니 집이 이 지경”…천장 뜯기고 얼룩 뒤덮여, 무슨 일이",
-          "url": "https://n.news.naver.com/mnews/article/003/0014192812?sid=102"
+          "keyword": "AI",
+          "headline": "AI 등 키울 울산경자구역 새 후보지 찾는다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748425?sid=102"
         },
         {
-          "keyword": "만에",
-          "headline": "8개월 만에 또 멈춰‥새벽 첫차부터 전면 파업",
-          "url": "https://n.news.naver.com/mnews/article/214/0001524151?sid=102"
+          "keyword": "운행",
+          "headline": "인천지하철 26, 27일 새벽 2시까지 운행",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748418?sid=102"
         },
         {
-          "keyword": "서울시",
-          "headline": "서울시, 어르신 ‘퇴원 후 간병’ 돕는다",
-          "url": "https://n.news.naver.com/mnews/article/005/0001873205?sid=102"
+          "keyword": "부산",
+          "headline": "[부산판/게시판]부산 外",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748427?sid=102"
         },
         {
-          "keyword": "수상",
-          "headline": "본보 변민영 기자 ‘물길은…’ 이달의 편집상 수상",
-          "url": "https://n.news.naver.com/mnews/article/005/0001873204?sid=102"
+          "keyword": "카자흐",
+          "headline": "이상균 서울사이버대이사장 카자흐 훈장",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748407?sid=102"
         },
         {
-          "keyword": "이상균",
-          "headline": "이상균, 카자흐스탄 ‘도스틱 훈장’",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998648?sid=102"
+          "keyword": "대기업",
+          "headline": "“전문대에서 다시 배워 日 대기업 뚫어”",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748436?sid=102"
+        },
+        {
+          "keyword": "역대",
+          "headline": "반도체 등 대기업 계약학과 수시모집 지원자 역대 최다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748411?sid=102"
+        },
+        {
+          "keyword": "대구",
+          "headline": "[대구판/게시판]대구 外",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748434?sid=102"
         }
       ]
     },
@@ -123,19 +123,39 @@
           "url": "https://n.news.naver.com/mnews/article/023/0003998625?sid=105"
         },
         {
+          "keyword": "CEO",
+          "headline": "인텔 CEO “메모리 부족 더 악화될 것”",
+          "url": "https://n.news.naver.com/mnews/article/011/0004662238?sid=105"
+        },
+        {
+          "keyword": "누리호",
+          "headline": "누리호, 주탑재위성 5기 한꺼번에 우주 보낸다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748382?sid=105"
+        },
+        {
+          "keyword": "앤트로픽",
+          "headline": "오픈AI \"앤트로픽·구글과 AI안전 협력중…반독점 면제 불필요\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016313303?sid=105"
+        },
+        {
+          "keyword": "오픈AI",
+          "headline": "오픈AI, 폰 카메라 화질 개선 스타트업 인수",
+          "url": "https://n.news.naver.com/mnews/article/023/0003998624?sid=105"
+        },
+        {
+          "keyword": "vs",
+          "headline": "AI 감속론 놓고 세쪽 난 美 기업… “속도 조절” vs “개발 가속” vs “빅테크 횡포”",
+          "url": "https://n.news.naver.com/mnews/article/023/0003998665?sid=105"
+        },
+        {
           "keyword": "개발",
           "headline": "잠들고 깨는 원리 밝혀내… 수면 장애 치료제 개발 이어져",
           "url": "https://n.news.naver.com/mnews/article/023/0003998632?sid=105"
         },
         {
           "keyword": "인수",
-          "headline": "오픈AI, 폰 카메라 화질 개선 스타트업 인수",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998624?sid=105"
-        },
-        {
-          "keyword": "내달",
-          "headline": "내달 발사 누리호…‘위성 15기’ 한번에 우주 배달합니다",
-          "url": "https://n.news.naver.com/mnews/article/025/0003551627?sid=105"
+          "headline": "카카오게임즈, 미투온 인수…글로벌 캐주얼 게임 강화",
+          "url": "https://n.news.naver.com/mnews/article/015/0005332537?sid=105"
         }
       ]
     },
@@ -144,54 +164,54 @@
       "cls": "life",
       "items": [
         {
+          "keyword": "16일",
+          "headline": "[오늘의 운세/9월 16일]",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748403?sid=103"
+        },
+        {
+          "keyword": "정체성",
+          "headline": "“국토는 민족 정체성의 근간… 고지도가 내겐 태극기”",
+          "url": "https://n.news.naver.com/mnews/article/020/0003748470?sid=103"
+        },
+        {
+          "keyword": "소리",
+          "headline": "1200년 거슬러…에밀레종, 신라의 소리를 깨우다",
+          "url": "https://n.news.naver.com/mnews/article/015/0005332761?sid=103"
+        },
+        {
+          "keyword": "한국",
+          "headline": "프랑스 아비뇽 사로잡은 작품들, 한국에 온다",
+          "url": "https://n.news.naver.com/mnews/article/023/0003998639?sid=103"
+        },
+        {
+          "keyword": "시작",
+          "headline": "비엔날레는 시작이 아닌 축적의 결과다",
+          "url": "https://n.news.naver.com/mnews/article/053/0000061525?sid=103"
+        },
+        {
+          "keyword": "여행",
+          "headline": "건물이 온통 삐뚤빼뚤, 땅이 솟아오르는 국가 수도의 '뒤틀린 멋' [요즘 여행]",
+          "url": "https://n.news.naver.com/mnews/article/469/0000954260?sid=103"
+        },
+        {
+          "keyword": "마세요",
+          "headline": "[리빙포인트] 배 껍질 버리지 마세요",
+          "url": "https://n.news.naver.com/mnews/article/023/0003998674?sid=103"
+        },
+        {
+          "keyword": "예술",
+          "headline": "서울국제공연예술제 10월 개막… 올해 주제는 ‘예술의 다중우주’",
+          "url": "https://n.news.naver.com/mnews/article/005/0001873236?sid=103"
+        },
+        {
           "keyword": "아침",
-          "headline": "아침 최저 9도… 일교차 15도 안팎",
-          "url": "https://n.news.naver.com/mnews/article/654/0000200838?sid=103"
+          "headline": "북촌을 아침 핫플레이스로 만든 ‘모닝 레이브’",
+          "url": "https://n.news.naver.com/mnews/article/023/0003998642?sid=103"
         },
         {
-          "keyword": "일교차",
-          "headline": "맑고 쾌청한 가을 하늘‥큰 일교차 주의",
-          "url": "https://n.news.naver.com/mnews/article/214/0001524157?sid=103"
-        },
-        {
-          "keyword": "날씨",
-          "headline": "아침 서늘…한낮 더위, 큰 일교차 유의[날씨]",
-          "url": "https://n.news.naver.com/mnews/article/055/0001388479?sid=103"
-        },
-        {
-          "keyword": "운세",
-          "headline": "[오늘의 운세] 9월 16일",
-          "url": "https://n.news.naver.com/mnews/article/025/0003551649?sid=103"
-        },
-        {
-          "keyword": "가을",
-          "headline": "독서의 계절, 책의 도시로 떠나는 가을 산책",
-          "url": "https://n.news.naver.com/mnews/article/654/0000200776?sid=103"
-        },
-        {
-          "keyword": "AI",
-          "headline": "김성호 교수 \"AI 기술도입 자체보다 최종 판단 사람 역할 중요\"",
-          "url": "https://n.news.naver.com/mnews/article/654/0000200864?sid=103"
-        },
-        {
-          "keyword": "작가",
-          "headline": "미술관엔 없는 작가의 삶… 거장의 집에서 만나다",
-          "url": "https://n.news.naver.com/mnews/article/023/0003998641?sid=103"
-        },
-        {
-          "keyword": "공개",
+          "keyword": "이렇게",
           "headline": "자외선이 이렇게 무서웠나… ‘충격적 피부 상태’ 공개",
           "url": "https://n.news.naver.com/mnews/article/346/0000116049?sid=103"
-        },
-        {
-          "keyword": "김차섭",
-          "headline": "김차섭 회고전…'춘천'의 자연에서 ‘뉴욕’의 무대로",
-          "url": "https://n.news.naver.com/mnews/article/087/0001218288?sid=103"
-        },
-        {
-          "keyword": "무대",
-          "headline": "강원의 굿·춤 시카고 무대 선다",
-          "url": "https://n.news.naver.com/mnews/article/654/0000200779?sid=103"
         }
       ]
     },
@@ -200,54 +220,34 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "트럼프",
-          "headline": "트럼프, 에너지 휴전 발표에도...\"전투 계속\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002407441?sid=104"
+          "keyword": "추진",
+          "headline": "\"AI 속도조절\" 빅3 협력 이미 시작…독립표준기구 추진",
+          "url": "https://n.news.naver.com/mnews/article/008/0005414312?sid=104"
         },
         {
-          "keyword": "USA",
-          "headline": "USA JOHNSON RNC",
-          "url": "https://n.news.naver.com/mnews/article/091/0010312575?sid=104"
-        },
-        {
-          "keyword": "국채금리",
-          "headline": "美 10년물 국채금리 '마의 5%' 뚫렸다",
-          "url": "https://n.news.naver.com/mnews/article/015/0005332762?sid=104"
-        },
-        {
-          "keyword": "PROTEST",
-          "headline": "ROMANIA SHEPHERDS PROTEST",
-          "url": "https://n.news.naver.com/mnews/article/091/0010312558?sid=104"
+          "keyword": "AI",
+          "headline": "앤트로픽 CEO “자동차처럼 AI 안전 표준 세워야”",
+          "url": "https://n.news.naver.com/mnews/article/056/0012258090?sid=104"
         },
         {
           "keyword": "Trump",
           "headline": "Melania Trump",
-          "url": "https://n.news.naver.com/mnews/article/077/0007164271?sid=104"
+          "url": "https://n.news.naver.com/mnews/article/077/0007164357?sid=104"
         },
         {
-          "keyword": "SPAIN",
-          "headline": "SPAIN SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010312576?sid=104"
+          "keyword": "Washington",
+          "headline": "King Memorial Washington",
+          "url": "https://n.news.naver.com/mnews/article/077/0007164368?sid=104"
         },
         {
-          "keyword": "Protest",
-          "headline": "Congo Protest",
-          "url": "https://n.news.naver.com/mnews/article/077/0007164268?sid=104"
+          "keyword": "Memorial",
+          "headline": "Thomas Jefferson Memorial",
+          "url": "https://n.news.naver.com/mnews/article/077/0007164362?sid=104"
         },
         {
-          "keyword": "마의",
-          "headline": "美 10년물 국채 금리 ‘마의 5%’ 넘었다",
-          "url": "https://n.news.naver.com/mnews/article/022/0004159252?sid=104"
-        },
-        {
-          "keyword": "AI",
-          "headline": "딥마인드 퇴사 직원도 \"AI가 우리를 죽일 수 있다\" 경고",
-          "url": "https://n.news.naver.com/mnews/article/052/0002407359?sid=104"
-        },
-        {
-          "keyword": "DENMARK",
-          "headline": "DENMARK NOVO",
-          "url": "https://n.news.naver.com/mnews/article/091/0010312563?sid=104"
+          "keyword": "이란",
+          "headline": "“가상화폐로 이란 원유 밀매”…美검찰, 800억 원대 몰수 추진",
+          "url": "https://n.news.naver.com/mnews/article/056/0012257656?sid=104"
         }
       ]
     },
@@ -266,7 +266,7 @@
           "url": "https://n.news.naver.com/mnews/article/029/0003048185"
         },
         {
-          "keyword": "우수게임",
+          "keyword": "넷마블",
           "headline": "넷마블, ‘올해의 우수게임’ 3관왕…자체·외부 IP 고루 수상",
           "url": "https://n.news.naver.com/mnews/article/138/0002241528"
         },
