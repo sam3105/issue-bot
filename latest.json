@@ -1,10 +1,20 @@
 {
-  "updatedAt": "2026-09-20 02:30",
+  "updatedAt": "2026-09-20 04:34",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
+        {
+          "keyword": "최대",
+          "headline": "프랑스 나랏빚 경고등…GDP 대비 120% '역대 최대' 전망",
+          "url": "https://n.news.naver.com/mnews/article/001/0016322928?sid=101"
+        },
+        {
+          "keyword": "전문가",
+          "headline": "\"10억 모으려 하지 마세요\"…전문가가 말한 노후자금 만드는 법",
+          "url": "https://n.news.naver.com/mnews/article/003/0014201911?sid=101"
+        },
         {
           "keyword": "추석",
           "headline": "\"지역사회에 온정\"…iM증권, 추석 계기 사회공헌",
@@ -12,23 +22,18 @@
         },
         {
           "keyword": "ETF",
-          "headline": "'SK그룹 상장사 투자' 등 ETF 4종 22일 신규 상장",
-          "url": "https://n.news.naver.com/mnews/article/001/0016321451?sid=101"
-        },
-        {
-          "keyword": "최대",
-          "headline": "삼성전자 최대 노조 '반도체만' 남는다…96% 찬성으로 DX 배제",
-          "url": "https://n.news.naver.com/mnews/article/053/0000061618?sid=101"
-        },
-        {
-          "keyword": "비즈토크",
           "headline": "[비즈토크<하>] 누가 레버리지 ETF 밀었나…'김용범 요청설' 국감 최대 쟁점 부상",
           "url": "https://n.news.naver.com/mnews/article/629/0000535472?sid=101"
         },
         {
-          "keyword": "다시",
+          "keyword": "비즈토크",
           "headline": "[비즈토크<상>] 노소영 측 '1000억 지출' 주장 다시 쟁점화…\"왜곡된 계산\" 지적도",
           "url": "https://n.news.naver.com/mnews/article/629/0000535468?sid=101"
+        },
+        {
+          "keyword": "다시",
+          "headline": "‘서학개미, 다시 엔비디아로?’…“내년 칩 판매 올해 두 배” 젠슨황 한마디 후 주가 3.9%↑",
+          "url": "https://n.news.naver.com/mnews/article/021/0002820001?sid=101"
         },
         {
           "keyword": "공포",
@@ -36,9 +41,9 @@
           "url": "https://n.news.naver.com/mnews/article/081/0003681854?sid=101"
         },
         {
-          "keyword": "주목",
-          "headline": "한미 외교장관 회담 시작…'호르무즈 파병·대미 투자' 주목",
-          "url": "https://n.news.naver.com/mnews/article/660/0000117513?sid=101"
+          "keyword": "하락",
+          "headline": "주유소 기름값 18주째 하락…최고가격제 영향에 1천800원대 지속",
+          "url": "https://n.news.naver.com/mnews/article/001/0016321917?sid=101"
         }
       ]
     },
@@ -47,17 +52,42 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "수원",
+          "keyword": "추석",
+          "headline": "폭염·폭우에 추석 차례상 비용도 올라",
+          "url": "https://n.news.naver.com/mnews/article/052/0002409273?sid=102"
+        },
+        {
+          "keyword": "시너",
           "headline": "수원 5천 세대 아파트단지 일부 단수...\"시너 냄새\"",
           "url": "https://n.news.naver.com/mnews/article/052/0002409265?sid=102"
         },
         {
           "keyword": "부산",
-          "headline": "어제 그 상어일까…부산 북항 수로서 이틀째 상어 출몰",
-          "url": "https://n.news.naver.com/mnews/article/421/0009180271?sid=102"
+          "headline": "산책로 바로 옆 \"상어다!\"…부산 시민들 '화들짝'",
+          "url": "https://n.news.naver.com/mnews/article/437/0000511866?sid=102"
         },
         {
-          "keyword": "트럭",
+          "keyword": "부글",
+          "headline": "\"모친상인데 잠깐 출근하는 게 맞지 않나?\"…직장인들 ‘부글’",
+          "url": "https://n.news.naver.com/mnews/article/003/0014201917?sid=102"
+        },
+        {
+          "keyword": "일주일",
+          "headline": "\"1년 육아휴직 후 복직했는 일주일 만에 퇴사\"…동료들 '부글'",
+          "url": "https://n.news.naver.com/mnews/article/003/0014201914?sid=102"
+        },
+        {
+          "keyword": "만에",
+          "headline": "수원 아파트 '수돗물 시너 냄새'로 단수…14시간 만에 일부 복구",
+          "url": "https://n.news.naver.com/mnews/article/057/0001969877?sid=102"
+        },
+        {
+          "keyword": "이혼",
+          "headline": "‘믿고 넘어가 줬는데’…같은 여자와 또 바람난 남편이 한 말 “이혼 못할걸?”",
+          "url": "https://n.news.naver.com/mnews/article/011/0004663626?sid=102"
+        },
+        {
+          "keyword": "덮친",
           "headline": "벼룩시장 덮친 트럭에 모자 참변…운전자에 구속영장 신청(종합3보)",
           "url": "https://n.news.naver.com/mnews/article/421/0009180694?sid=102"
         },
@@ -67,9 +97,9 @@
           "url": "https://n.news.naver.com/mnews/article/056/0012260626?sid=102"
         },
         {
-          "keyword": "추석",
-          "headline": "[전립선 방광살리기] 소변 걱정 없는 추석 연휴를 위해...",
-          "url": "https://n.news.naver.com/mnews/article/018/0006372741?sid=102"
+          "keyword": "바로",
+          "headline": "\"내가 바로 유물\" '국중박 분장놀이' 내일 드디어 결선이다! [앵커리포트]",
+          "url": "https://n.news.naver.com/mnews/article/052/0002408988?sid=102"
         }
       ]
     },
@@ -78,9 +108,14 @@
       "cls": "tech",
       "items": [
         {
-          "keyword": "TGS",
-          "headline": "넷마블 TGS 2026 출품작 ‘한눈에’…미디어 허브 전용 탭 개설",
-          "url": "https://n.news.naver.com/mnews/article/009/0005737368?sid=105"
+          "keyword": "AI",
+          "headline": "트럼프 \"우주군처럼 'AI軍' 창설…AI 우위 유지할 것\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016322930?sid=105"
+        },
+        {
+          "keyword": "트럼프",
+          "headline": "트럼프 \"인공지능 대신 최고지능 어떠냐\"…온라인 설문 부쳐",
+          "url": "https://n.news.naver.com/mnews/article/001/0016322925?sid=105"
         },
         {
           "keyword": "너무",
@@ -88,9 +123,9 @@
           "url": "https://n.news.naver.com/mnews/article/016/0002699715?sid=105"
         },
         {
-          "keyword": "AI",
-          "headline": "업스테이지 “GPU 격차, 효율로 좁힌다”…韓 AI 3사 프런티어 전략",
-          "url": "https://n.news.naver.com/mnews/article/138/0002242073?sid=105"
+          "keyword": "TGS",
+          "headline": "넷마블 부스 '오픈런'…시연 대기권 오전에 동났다 [TGS 2026]",
+          "url": "https://n.news.naver.com/mnews/article/119/0003134588?sid=105"
         }
       ]
     },
@@ -99,19 +134,29 @@
       "cls": "life",
       "items": [
         {
+          "keyword": "20일",
+          "headline": "[가정예배 365-9월 20일] 네 생물의 찬양",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874010?sid=103"
+        },
+        {
           "keyword": "뭐야",
           "headline": "66kg 뺀 30대 남성, ‘즐겨 먹은 음식’ 있다는데… 뭐야?",
           "url": "https://n.news.naver.com/mnews/article/346/0000116275?sid=103"
         },
         {
-          "keyword": "20일",
-          "headline": "[오늘의 운세] 2026년 9월 20일 오행별 행운의 컬러",
-          "url": "https://n.news.naver.com/mnews/article/015/0005334195?sid=103"
+          "keyword": "의사",
+          "headline": "“살 덜 찌는 방법” 의사가 ‘밥 먹고 앉아서 꼭 하라’는 동작… 뭘까?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000116281?sid=103"
         },
         {
-          "keyword": "날씨",
-          "headline": "주말 쾌청한 가을 날씨…당분간 일교차 커[날씨]",
-          "url": "https://n.news.naver.com/mnews/article/422/0000907822?sid=103"
+          "keyword": "비결",
+          "headline": "“탄수화물 먹어도 살 빠진다”… ‘23kg 감량’ 드웨인 존슨, 비결은?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000116278?sid=103"
+        },
+        {
+          "keyword": "음식",
+          "headline": "“위고비 없이 51kg 뺀 비결”… ‘혈당 방어’ 식사했다는데, 무슨 음식?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000116280?sid=103"
         }
       ]
     },
@@ -121,38 +166,33 @@
       "items": [
         {
           "keyword": "트럼프",
-          "headline": "\"英버넘 총리, 내주 유엔총회서 트럼프와 첫 회담\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014201906?sid=104"
-        },
-        {
-          "keyword": "Soccer",
-          "headline": "Italy Serie A Soccer",
-          "url": "https://n.news.naver.com/mnews/article/077/0007168960?sid=104"
+          "headline": "트럼프 \"성공한 우주군처럼 AI군 창설할 것\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014201919?sid=104"
         },
         {
           "keyword": "SOCCER",
           "headline": "SPAIN SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010316165?sid=104"
+          "url": "https://n.news.naver.com/mnews/article/091/0010316256?sid=104"
         },
         {
-          "keyword": "대신",
-          "headline": "트럼프 \"인공지능 대신 최고지능 어떠냐\"...온라인 설문 부쳐",
-          "url": "https://n.news.naver.com/mnews/article/052/0002409264?sid=104"
+          "keyword": "Soccer",
+          "headline": "Italy Serie A Soccer",
+          "url": "https://n.news.naver.com/mnews/article/077/0007169026?sid=104"
         },
         {
-          "keyword": "Britain",
-          "headline": "Britain Premier League Soccer",
-          "url": "https://n.news.naver.com/mnews/article/077/0007168962?sid=104"
+          "keyword": "Spain",
+          "headline": "Spain La Liga Soccer",
+          "url": "https://n.news.naver.com/mnews/article/077/0007169025?sid=104"
         },
         {
-          "keyword": "SPAIN",
-          "headline": "SPAIN FASHION",
-          "url": "https://n.news.naver.com/mnews/article/091/0010316175?sid=104"
+          "keyword": "CNN",
+          "headline": "백악관기자협회 \"CNN 등 출입금지, 수정헌법 1조 위반\"",
+          "url": "https://n.news.naver.com/mnews/article/422/0000907869?sid=104"
         },
         {
-          "keyword": "케네디센터",
-          "headline": "케네디센터 철거 우려…수천 명 “손 떼라” 시위",
-          "url": "https://n.news.naver.com/mnews/article/056/0012260627?sid=104"
+          "keyword": "Baseball",
+          "headline": "Phillies Mets Baseball",
+          "url": "https://n.news.naver.com/mnews/article/077/0007169022?sid=104"
         }
       ]
     },
