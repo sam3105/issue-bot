@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-09-21 00:14",
+  "updatedAt": "2026-09-21 03:12",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "강원",
-          "headline": "강원 경제기관 추석맞아 이웃에 온기 나눔 확산",
-          "url": "https://n.news.naver.com/mnews/article/087/0001219405?sid=101"
-        },
-        {
-          "keyword": "농지",
-          "headline": "농지 전수조사 반발에 당정 보완 나서…오늘 대책 논의",
-          "url": "https://n.news.naver.com/mnews/article/654/0000201747?sid=101"
-        },
-        {
-          "keyword": "반발",
-          "headline": "정부, 추석 주유소 기름값 100원 인하에 석유유통협회 “선심성 특혜” 반발",
-          "url": "https://n.news.naver.com/mnews/article/022/0004160552?sid=101"
-        },
-        {
-          "keyword": "춘천",
-          "headline": "농협강원본부 춘천 애민원 농산물 전달",
-          "url": "https://n.news.naver.com/mnews/article/654/0000201725?sid=101"
-        },
-        {
-          "keyword": "확대",
-          "headline": "강원 AI 헬스케어 유럽 실증망 발트 3국으로 확대",
-          "url": "https://n.news.naver.com/mnews/article/654/0000201735?sid=101"
+          "keyword": "서울",
+          "headline": "불 안 붙는 서울 목동 재건축 수주전",
+          "url": "https://n.news.naver.com/mnews/article/023/0003999525?sid=101"
         },
         {
           "keyword": "AI",
-          "headline": "돈 벌 시간 좀 벌자…9조달러 AI 투자의 역설",
-          "url": "https://n.news.naver.com/mnews/article/025/0003552700?sid=101"
+          "headline": "중형 SUV급으로 커지고, 안전·AI 기능 더했다",
+          "url": "https://n.news.naver.com/mnews/article/023/0003999521?sid=101"
         },
         {
-          "keyword": "규제",
-          "headline": "임대사업자 대출 규제, 세입자가 비명…전셋값 급등 부메랑 됐다",
-          "url": "https://n.news.naver.com/mnews/article/025/0003552714?sid=101"
+          "keyword": "대신",
+          "headline": "“주식 대신 예적금” 은행 총수신 올 최고 찍었다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003749563?sid=101"
         },
         {
-          "keyword": "100원",
-          "headline": "석유유통협회 \"고속도로 주유소 100원 할인, 공정경쟁 흔들어\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016324894?sid=101"
+          "keyword": "기업",
+          "headline": "SOVAC, 기업-기관 228곳과 ‘지역의 미래’ 논의",
+          "url": "https://n.news.naver.com/mnews/article/020/0003749568?sid=101"
         },
         {
-          "keyword": "만에",
-          "headline": "[사진] 6년 만에…5세대 ‘디 올 뉴 투싼’",
-          "url": "https://n.news.naver.com/mnews/article/025/0003552678?sid=101"
+          "keyword": "DBR",
+          "headline": "[DBR]후불제 자본주의, 책임 주체는?",
+          "url": "https://n.news.naver.com/mnews/article/020/0003749561?sid=101"
         },
         {
-          "keyword": "성과급",
-          "headline": "상반기 근로자 월급 3.1% 올랐지만…‘성과급 착시’",
-          "url": "https://n.news.naver.com/mnews/article/025/0003552695?sid=101"
+          "keyword": "인플레",
+          "headline": "美연준 매파 카시카리 \"인플레, 경제 전반서 여전히 너무 높다\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016324904?sid=101"
+        },
+        {
+          "keyword": "추석",
+          "headline": "추석 앞두고 붐비는 전통시장",
+          "url": "https://n.news.naver.com/mnews/article/023/0003999513?sid=101"
+        },
+        {
+          "keyword": "강화",
+          "headline": "추경호 대구시장 전통시장 방문 \"현장 중심 행정 강화\"",
+          "url": "https://n.news.naver.com/mnews/article/088/0001029582?sid=101"
+        },
+        {
+          "keyword": "쓰면",
+          "headline": "\"카드 쓰면 소비기회 한번더\"…상생의 '3각협력'[같이의 가치]",
+          "url": "https://n.news.naver.com/mnews/article/003/0014203168?sid=101"
+        },
+        {
+          "keyword": "청년",
+          "headline": "서울 외곽 아파트값 11% 뛰어… 신혼부부·청년 울리는 ‘평탄화’",
+          "url": "https://n.news.naver.com/mnews/article/023/0003999569?sid=101"
         }
       ]
     },
@@ -62,54 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "포토뉴스",
-          "headline": "[포토뉴스]추석 대목맞은 강릉농산물새벽시장",
-          "url": "https://n.news.naver.com/mnews/article/087/0001219444?sid=102"
-        },
-        {
           "keyword": "동정",
-          "headline": "[동정]김정중 양양군수",
-          "url": "https://n.news.naver.com/mnews/article/087/0001219480?sid=102"
+          "headline": "[동정]함명준 고성군수",
+          "url": "https://n.news.naver.com/mnews/article/087/0001219487?sid=102"
         },
         {
-          "keyword": "추석",
-          "headline": "횡성군, 추석 민생·복지 안전망 ‘촘촘’",
-          "url": "https://n.news.naver.com/mnews/article/087/0001219465?sid=102"
+          "keyword": "60대",
+          "headline": "평택제천고속도로 안성IC 근처 화물차 추돌사고…60대 운전자 경상",
+          "url": "https://n.news.naver.com/mnews/article/055/0001389835?sid=102"
         },
         {
-          "keyword": "전통시장",
+          "keyword": "서울",
+          "headline": "서울 홍제천서 멧돼지 출몰…인명 피해 없어",
+          "url": "https://n.news.naver.com/mnews/article/056/0012260833?sid=102"
+        },
+        {
+          "keyword": "대체",
+          "headline": "일요일 전국 대체로 맑음…추석 연휴 큰 일교차[날씨]",
+          "url": "https://n.news.naver.com/mnews/article/277/0005818744?sid=102"
+        },
+        {
+          "keyword": "포토뉴스",
           "headline": "[포토뉴스]한국도로교통공단 전통시장 방문 캠페인",
           "url": "https://n.news.naver.com/mnews/article/087/0001219474?sid=102"
         },
         {
-          "keyword": "프로그램",
-          "headline": "강릉시·강릉교육지원청 협업 프로그램 추진",
-          "url": "https://n.news.naver.com/mnews/article/087/0001219460?sid=102"
+          "keyword": "4년",
+          "headline": "6세 여아 무릎에 앉히고 “사귀자”…파렴치한 추행 저지른 60대, 징역 4년",
+          "url": "https://n.news.naver.com/mnews/article/011/0004663831?sid=102"
         },
         {
-          "keyword": "방문",
-          "headline": "[포토뉴스]횡성군의회 이모빌리티 연구·실증단지 방문",
-          "url": "https://n.news.naver.com/mnews/article/087/0001219472?sid=102"
+          "keyword": "없어",
+          "headline": "경기 안산 상가주택에서 불...다친 사람 없어",
+          "url": "https://n.news.naver.com/mnews/article/052/0002409546?sid=102"
         },
         {
-          "keyword": "운영",
-          "headline": "강릉시립주야간보호센터, 워킹 레일 운영 돌입",
-          "url": "https://n.news.naver.com/mnews/article/087/0001219461?sid=102"
+          "keyword": "운전자",
+          "headline": "'시장 돌진' 운전자 오늘 영장심사...급발진 진위 검증",
+          "url": "https://n.news.naver.com/mnews/article/052/0002409545?sid=102"
         },
         {
-          "keyword": "전국",
-          "headline": "삼척시 달군 전국 농구인 열전…스포츠 관광 '활짝'",
-          "url": "https://n.news.naver.com/mnews/article/654/0000201721?sid=102"
+          "keyword": "출몰",
+          "headline": "상어 사흘째 출몰에 ‘핫플’ 된 부산 북항",
+          "url": "https://n.news.naver.com/mnews/article/023/0003999551?sid=102"
         },
         {
-          "keyword": "민생",
-          "headline": "강원도의회 민생 챙겼지만 여야 협치는 삐걱",
-          "url": "https://n.news.naver.com/mnews/article/087/0001219477?sid=102"
-        },
-        {
-          "keyword": "삐걱",
-          "headline": "청년미래센터 채용 2명 그쳐…공공지원 첫발부터 삐걱",
-          "url": "https://n.news.naver.com/mnews/article/654/0000201738?sid=102"
+          "keyword": "만에",
+          "headline": "노인학대죄 복역 출소 1년 만에 장애 노모 또 폭행한 40대",
+          "url": "https://n.news.naver.com/mnews/article/654/0000201750?sid=102"
         }
       ]
     },
@@ -119,43 +119,38 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "“AI가 과학 바꿔도 노벨상 원칙 불변”",
-          "url": "https://n.news.naver.com/mnews/article/022/0004160537?sid=105"
-        },
-        {
-          "keyword": "연구",
-          "headline": "1년 연구를 20초만에…K폴드 구글에 도전장",
-          "url": "https://n.news.naver.com/mnews/article/056/0012260761?sid=105"
-        },
-        {
-          "keyword": "만에",
-          "headline": "군 복무 대신 AI 연구…대기업 병역특례 14년 만에 부활",
-          "url": "https://n.news.naver.com/mnews/article/025/0003552708?sid=105"
-        },
-        {
-          "keyword": "고민",
           "headline": "AI '지능 폭발' 우려...연구실의 고민",
           "url": "https://n.news.naver.com/mnews/article/052/0002409518?sid=105"
         },
         {
-          "keyword": "하루",
-          "headline": "“200만원 큰맘 먹고 샀는데” 하루 만에 ‘먹통’…아이폰18 프로, ‘패닉풀’ 잇따라",
-          "url": "https://n.news.naver.com/mnews/article/011/0004663819?sid=105"
+          "keyword": "만에",
+          "headline": "대기업 전문연구요원 14년 만에 부활",
+          "url": "https://n.news.naver.com/mnews/article/023/0003999518?sid=105"
         },
         {
-          "keyword": "기업",
-          "headline": "제미나이도 외부 기업 3곳 해킹…통제 벗어난 AI 자율 행동 ‘위험’",
-          "url": "https://n.news.naver.com/mnews/article/032/0003471613?sid=105"
+          "keyword": "연구",
+          "headline": "군 복무 대신 AI 연구…대기업 병역특례 14년 만에 부활",
+          "url": "https://n.news.naver.com/mnews/article/025/0003552708?sid=105"
         },
         {
-          "keyword": "구글",
-          "headline": "구글 제미나이, 보안 시험 중 기업 3곳 무단 해킹…4달이나 지나 알려져",
-          "url": "https://n.news.naver.com/mnews/article/088/0001029595?sid=105"
+          "keyword": "받는",
+          "headline": "“KAIST, 논문 없이도 박사 받는 방안 마련”",
+          "url": "https://n.news.naver.com/mnews/article/023/0003999510?sid=105"
         },
         {
-          "keyword": "플랫폼",
-          "headline": "김형태 시프트업 대표 “플랫폼 넓혀 신작 이용자 늘릴 것”",
-          "url": "https://n.news.naver.com/mnews/article/011/0004663734?sid=105"
+          "keyword": "반도체",
+          "headline": "100살 된 전자 ‘스핀’… 반도체 넘어 우주 비밀 푼다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003749582?sid=105"
+        },
+        {
+          "keyword": "방안",
+          "headline": "최휘영 장관, 지스타 위기론에 “안타까워…활성화 방안 고민”",
+          "url": "https://n.news.naver.com/mnews/article/018/0006373264?sid=105"
+        },
+        {
+          "keyword": "정부",
+          "headline": "백악관 \"美정부, AI 문제 발생했을 때 대처할 수단 있다\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016324891?sid=105"
         }
       ]
     },
@@ -164,34 +159,54 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "날씨",
-          "headline": "내일도 늦더위 계속...동해안 빗방울[날씨]",
-          "url": "https://n.news.naver.com/mnews/article/052/0002409523?sid=103"
-        },
-        {
-          "keyword": "운세",
+          "keyword": "21일",
           "headline": "[오늘의 운세] 9월 21일",
           "url": "https://n.news.naver.com/mnews/article/025/0003552709?sid=103"
         },
         {
-          "keyword": "성료",
-          "headline": "춘천양성평등대회 성료",
-          "url": "https://n.news.naver.com/mnews/article/654/0000201646?sid=103"
+          "keyword": "목사",
+          "headline": "예장개혁 총회장에 정은주 목사 추대",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874208?sid=103"
         },
         {
-          "keyword": "세대",
-          "headline": "책의 물결·온 세대 하모니 향연…문화도시 춘천 물들이다",
-          "url": "https://n.news.naver.com/mnews/article/654/0000201648?sid=103"
+          "keyword": "날씨",
+          "headline": "[날씨] 오늘 서쪽 늦더위...아침 짙은 안개",
+          "url": "https://n.news.naver.com/mnews/article/052/0002409537?sid=103"
         },
         {
-          "keyword": "전국",
-          "headline": "전국 맑고 낮 최고 31도…강원 동해안 약한 비[오늘날씨]",
-          "url": "https://n.news.naver.com/mnews/article/003/0014203157?sid=103"
+          "keyword": "서울",
+          "headline": "[우리 교회 소식] 서울 새문안교회 外",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874205?sid=103"
         },
         {
-          "keyword": "맑고",
-          "headline": "휴일 맑고 일교차 커…이번 주 청명한 가을 날씨[날씨]",
-          "url": "https://n.news.naver.com/mnews/article/422/0000908066?sid=103"
+          "keyword": "우리",
+          "headline": "\"오늘을 살아가는 우리 이야기, 붓 끝 통해 다음 세대 이어지길\"",
+          "url": "https://n.news.naver.com/mnews/article/654/0000201643?sid=103"
+        },
+        {
+          "keyword": "교회",
+          "headline": "[365기도 ON] <264> 본질에 집중하는 교회 되게 하소서",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874159?sid=103"
+        },
+        {
+          "keyword": "기독교",
+          "headline": "기독교가 묻는다 “AI는 인간 존엄성 아느냐”",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874197?sid=103"
+        },
+        {
+          "keyword": "공간",
+          "headline": "예배 공간, 빌려주고 빌리고… ‘플랫폼 통한 공유’ 활기",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874193?sid=103"
+        },
+        {
+          "keyword": "이야기",
+          "headline": "서울 재벌가 이야기로 재탄생… 체호프 ‘벚꽃동산’ 뉴욕에 꽃 피우다",
+          "url": "https://n.news.naver.com/mnews/article/023/0003999536?sid=103"
+        },
+        {
+          "keyword": "벚꽃동산",
+          "headline": "뉴욕 지하철, 스타트업, 하이라인에 폭소…미국 무기고에 울려 퍼진 한국어 ‘벚꽃동산’",
+          "url": "https://n.news.naver.com/mnews/article/081/0003681944?sid=103"
         }
       ]
     },
@@ -202,52 +217,47 @@
         {
           "keyword": "Soccer",
           "headline": "Spain La Liga Soccer",
-          "url": "https://n.news.naver.com/mnews/article/077/0007170262?sid=104"
-        },
-        {
-          "keyword": "일본",
-          "headline": "일본서 일본 지웠다",
-          "url": "https://n.news.naver.com/mnews/article/025/0003552685?sid=104"
+          "url": "https://n.news.naver.com/mnews/article/077/0007170339?sid=104"
         },
         {
           "keyword": "트럼프",
-          "headline": "부정적 기사 쓴다고…백악관서 CNN 쫓아낸 트럼프",
-          "url": "https://n.news.naver.com/mnews/article/025/0003552683?sid=104"
+          "headline": "트럼프 \"대이란 대응 결정중‥이란 대통령 만나는데 열려있다\"",
+          "url": "https://n.news.naver.com/mnews/article/214/0001525038?sid=104"
+        },
+        {
+          "keyword": "총선",
+          "headline": "전쟁 후 첫 러 총선, 투표율 50% 넘겨…푸틴 장악력 강화",
+          "url": "https://n.news.naver.com/mnews/article/056/0012260837?sid=104"
         },
         {
           "keyword": "SOCCER",
-          "headline": "BRITAIN SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010316746?sid=104"
+          "headline": "SPAIN SOCCER",
+          "url": "https://n.news.naver.com/mnews/article/091/0010316840?sid=104"
         },
         {
-          "keyword": "GERMANY",
-          "headline": "GERMANY SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010316740?sid=104"
-        },
-        {
-          "keyword": "백악관서",
-          "headline": "‘언론 출입금지’ 하루 만에 현실로…CNN 등 백악관서 퇴짜",
-          "url": "https://n.news.naver.com/mnews/article/021/0002820128?sid=104"
-        },
-        {
-          "keyword": "만에",
-          "headline": "남자 농구, 12년 만에 금메달...'버스 노쇼'도 못 막았다",
-          "url": "https://n.news.naver.com/mnews/article/052/0002409530?sid=104"
-        },
-        {
-          "keyword": "아니다",
-          "headline": "이현중 \"금메달이 끝이 아니다…NBA·올림픽까지 가겠다\"[AG]",
-          "url": "https://n.news.naver.com/mnews/article/421/0009182004?sid=104"
-        },
-        {
-          "keyword": "AG",
-          "headline": "전웅태 금빛 질주·김은주 깜짝 은…AG 강원 메달 포문",
-          "url": "https://n.news.naver.com/mnews/article/654/0000201728?sid=104"
+          "keyword": "강화",
+          "headline": "‘대정전’ 쿠바, 32시간 만에 전력망 복구…미 압박 강화",
+          "url": "https://n.news.naver.com/mnews/article/056/0012260835?sid=104"
         },
         {
           "keyword": "사우디",
-          "headline": "정규군 없는 후티에…수도 얻어맞은 ‘군사비 8위’ 사우디",
-          "url": "https://n.news.naver.com/mnews/article/025/0003552677?sid=104"
+          "headline": "후티 반군에 절절매는 사우디",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874187?sid=104"
+        },
+        {
+          "keyword": "Britain",
+          "headline": "Britain PGA Championship Golf",
+          "url": "https://n.news.naver.com/mnews/article/077/0007170353?sid=104"
+        },
+        {
+          "keyword": "앞두고",
+          "headline": "미중정상회담 앞두고 시진핑 건강 이상설",
+          "url": "https://n.news.naver.com/mnews/article/449/0000361480?sid=104"
+        },
+        {
+          "keyword": "Germany",
+          "headline": "Germany Elections",
+          "url": "https://n.news.naver.com/mnews/article/077/0007170349?sid=104"
         }
       ]
     },
@@ -261,14 +271,14 @@
           "url": "https://n.news.naver.com/mnews/article/009/0005737905"
         },
         {
-          "keyword": "K게임",
+          "keyword": "도쿄게임쇼",
           "headline": "문체장관, 도쿄게임쇼 찾아…\"K게임 성장 돕겠다\"",
           "url": "https://n.news.naver.com/mnews/article/001/0016324445"
         },
         {
-          "keyword": "도쿄게임쇼",
-          "headline": "[도쿄게임쇼 2026] 시프트업 김형태 \"변화하는 韓 게임 시장…이용자들이 바꾼 것\"",
-          "url": "https://n.news.naver.com/mnews/article/031/0001060005"
+          "keyword": "K게임",
+          "headline": "최휘영·문체위원 TGS서 'K게임' 점검…\"옛 위상 되찾도록 지원\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009181620"
         },
         {
           "keyword": "돕겠다",
