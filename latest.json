@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-09-23 23:58",
+  "updatedAt": "2026-09-24 03:47",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "추석",
-          "headline": "원주, 추석 전통시장 장보기 행사",
-          "url": "https://n.news.naver.com/mnews/article/056/0012262703?sid=101"
+          "keyword": "만에",
+          "headline": "올해 7월 출생아 수 7년 만에 가장 많아",
+          "url": "https://n.news.naver.com/mnews/article/023/0004000213?sid=101"
         },
         {
-          "keyword": "하락",
-          "headline": "[속보] 뉴욕증시, 일제 하락 출발…나스닥 0.14%↓",
-          "url": "https://n.news.naver.com/mnews/article/003/0014211741?sid=101"
+          "keyword": "9월",
+          "headline": "[지표로 보는 경제]9월 24일",
+          "url": "https://n.news.naver.com/mnews/article/020/0003750497?sid=101"
         },
         {
-          "keyword": "성장률",
-          "headline": "ADB, 올해 한국 성장률 전망치 3.2%로 상향",
-          "url": "https://n.news.naver.com/mnews/article/422/0000909189?sid=101"
-        },
-        {
-          "keyword": "상향",
-          "headline": "소공연, 이형일 경제팀에 간이과세 기준 상향 요구",
-          "url": "https://n.news.naver.com/mnews/article/014/0005580537?sid=101"
-        },
-        {
-          "keyword": "논의",
-          "headline": "李 \"트럼프와 군함건조 조선협력 논의…실제적 성과 기대\"",
-          "url": "https://n.news.naver.com/mnews/article/215/0001267079?sid=101"
+          "keyword": "10년물",
+          "headline": "美10년물 국채금리 다시 급등…19년 만에 최고치 경신",
+          "url": "https://n.news.naver.com/mnews/article/001/0016334103?sid=101"
         },
         {
           "keyword": "최고",
-          "headline": "美기업활동 5년여만에 최고…PMI 58.4, 물가압력도 급등",
-          "url": "https://n.news.naver.com/mnews/article/018/0006375179?sid=101"
+          "headline": "美 30년 주택대출금리 7% 돌파…2024년 5월 이후 최고",
+          "url": "https://n.news.naver.com/mnews/article/001/0016334109?sid=101"
         },
         {
-          "keyword": "SMR",
-          "headline": "삼성, 美·日 등과 유럽 SMR 공급…美 \"200조원 투자촉진 목표\"(종합)",
-          "url": "https://n.news.naver.com/mnews/article/001/0016334047?sid=101"
+          "keyword": "최고치",
+          "headline": "美 9월 PMI 62개월만에 최고치… 물가상승 압력 가중",
+          "url": "https://n.news.naver.com/mnews/article/008/0005418062?sid=101"
         },
         {
-          "keyword": "투자",
-          "headline": "은행, 사이버 위협 고도화에도 정보보호 투자 줄여",
-          "url": "https://n.news.naver.com/mnews/article/022/0004161444?sid=101"
+          "keyword": "AI",
+          "headline": "코어위브, AI 수요 대비 저평가…‘매수’-UBS",
+          "url": "https://n.news.naver.com/mnews/article/018/0006375187?sid=101"
         },
         {
-          "keyword": "한국",
-          "headline": "대미투자 30조원 첫발…\"원금 회수보다 중요한 건 '한국 몫'\"",
-          "url": "https://n.news.naver.com/mnews/article/018/0006375178?sid=101"
+          "keyword": "트럼프",
+          "headline": "트럼프, 디젤 수출 제한 검토에 美 석유업계 '비상'",
+          "url": "https://n.news.naver.com/mnews/article/293/0000090876?sid=101"
+        },
+        {
+          "keyword": "특징주",
+          "headline": "[美특징주]데본에너지, 행동주의펀드 전략적 대안 촉구에 상승",
+          "url": "https://n.news.naver.com/mnews/article/018/0006375186?sid=101"
+        },
+        {
+          "keyword": "폭등",
+          "headline": "美10년물 국채금리 5.079%로 폭등…PMI호조로 인플레압력 부각",
+          "url": "https://n.news.naver.com/mnews/article/015/0005335830?sid=101"
         },
         {
           "keyword": "기준",
-          "headline": "\"추석 차례상 비용 4인 기준 30만9천원...3주 전보다 1.2% 하락\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002410732?sid=101"
+          "headline": "농지 조사, 내 땅은 괜찮나…'문제 농지' 가르는 기준은",
+          "url": "https://n.news.naver.com/mnews/article/057/0001970580?sid=101"
         }
       ]
     },
@@ -62,54 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "추석",
-          "headline": "추석 직전인데…삼성 AI 냉장고 먹통",
-          "url": "https://n.news.naver.com/mnews/article/658/0000156559?sid=102"
+          "keyword": "흠결",
+          "headline": "曺 “절차적 흠결 수긍 어려워”… 靑 “위헌적 해석”",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874895?sid=102"
         },
         {
-          "keyword": "공장서",
-          "headline": "인천 검단 공장서 불…인명피해 없어",
-          "url": "https://n.news.naver.com/mnews/article/421/0009189770?sid=102"
+          "keyword": "조희대",
+          "headline": "靑 반박에 조희대 재반박… ‘치킨게임’ 된 재제청 갈등",
+          "url": "https://n.news.naver.com/mnews/article/020/0003750539?sid=102"
         },
         {
-          "keyword": "추돌",
-          "headline": "보성 국도에서 차량 3대 추돌…1명 숨지고 5명 부상",
-          "url": "https://n.news.naver.com/mnews/article/056/0012262711?sid=102"
+          "keyword": "공소취소",
+          "headline": "취임 첫날 ‘李 공소취소’ 운 뗀 이정현",
+          "url": "https://n.news.naver.com/mnews/article/023/0004000228?sid=102"
         },
         {
-          "keyword": "40대",
-          "headline": "유치권 갈등...리조트 관계자 폭행한 40대  입건",
-          "url": "https://n.news.naver.com/mnews/article/661/0000083795?sid=102"
+          "keyword": "수상한",
+          "headline": "‘김검찰’ ‘김갑동’…도로 한복판에 흩뿌려진 수상한 서류, 뭔일",
+          "url": "https://n.news.naver.com/mnews/article/025/0003553627?sid=102"
         },
         {
-          "keyword": "화재",
-          "headline": "인천 검단 공장서 화재 발생…대응 1단계발령",
-          "url": "https://n.news.naver.com/mnews/article/008/0005418054?sid=102"
+          "keyword": "20대",
+          "headline": "“속옷 차림으로 코에 빨대 꽂고 호텔 로비 배회”…수상한 20대 남성 잡고 보니",
+          "url": "https://n.news.naver.com/mnews/article/011/0004665105?sid=102"
+        },
+        {
+          "keyword": "관광객",
+          "headline": "수해 딛고 뭉친 거제...가을 관광객 유치 총력전",
+          "url": "https://n.news.naver.com/mnews/article/052/0002410768?sid=102"
+        },
+        {
+          "keyword": "확산",
+          "headline": "추석 앞두고 독감·코로나19 '동시 확산'",
+          "url": "https://n.news.naver.com/mnews/article/052/0002410766?sid=102"
         },
         {
           "keyword": "앞두고",
-          "headline": "추석 명절 앞두고 '한숨만'...후원  '뚝'",
-          "url": "https://n.news.naver.com/mnews/article/661/0000083784?sid=102"
+          "headline": "화성 마사지업소에서 불나 3명 사상...연휴 앞두고 참변",
+          "url": "https://n.news.naver.com/mnews/article/052/0002410561?sid=102"
         },
         {
-          "keyword": "추진",
-          "headline": "노동부, 800만 특고·플랫폼 노동자 최저보수 보장 추진",
-          "url": "https://n.news.naver.com/mnews/article/011/0004665092?sid=102"
+          "keyword": "추석",
+          "headline": "추석 선물 중고 거래 '활발'...\"판매자 사기 이력 확인해야\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002410759?sid=102"
         },
         {
-          "keyword": "바다서",
-          "headline": "바다서 구해준 해경 폭행한 20대 검거",
-          "url": "https://n.news.naver.com/mnews/article/661/0000083797?sid=102"
-        },
-        {
-          "keyword": "검거",
-          "headline": "관악서 밤마다 ‘재미로’ 창밖 BB탄 난사 40대男…1년만 검거",
-          "url": "https://n.news.naver.com/mnews/article/021/0002821025?sid=102"
-        },
-        {
-          "keyword": "유족",
-          "headline": "'허위 종결' 30대 여성 유족...국가배상청구 소송  제기",
-          "url": "https://n.news.naver.com/mnews/article/661/0000083798?sid=102"
+          "keyword": "중고",
+          "headline": "중고 거래부터 골드바까지...피해 규모 '108억 원' 사기단 검거",
+          "url": "https://n.news.naver.com/mnews/article/052/0002410767?sid=102"
         }
       ]
     },
@@ -118,54 +118,19 @@
       "cls": "tech",
       "items": [
         {
+          "keyword": "마라톤",
+          "headline": "세계 첫 마라톤 완주… 네이처 실린 ‘K로봇개’",
+          "url": "https://n.news.naver.com/mnews/article/023/0004000204?sid=105"
+        },
+        {
           "keyword": "AI",
-          "headline": "[카드뉴스] AI도 나이를 먹을까",
-          "url": "https://n.news.naver.com/mnews/article/092/0002438684?sid=105"
+          "headline": "트럼프 “AI 규제 반대” 마크롱 “독자 생태계 추진”",
+          "url": "https://n.news.naver.com/mnews/article/020/0003750538?sid=105"
         },
         {
-          "keyword": "방미통위",
-          "headline": "방미통위, 회피 위원은 회의 정족수 포함…의결 때는 뺀다",
-          "url": "https://n.news.naver.com/mnews/article/003/0014211393?sid=105"
-        },
-        {
-          "keyword": "추석",
-          "headline": "추석 연휴 D-1…조심해야 할 사이버 위협은",
-          "url": "https://n.news.naver.com/mnews/article/092/0002438679?sid=105"
-        },
-        {
-          "keyword": "협력",
-          "headline": "마음AI-경복대학교, 피지컬 AI 교육 협력",
-          "url": "https://n.news.naver.com/mnews/article/092/0002438672?sid=105"
-        },
-        {
-          "keyword": "무산",
-          "headline": "카카오 노조, 합병 저지 무산 뒤 법원 앞 손팻말 시위",
-          "url": "https://n.news.naver.com/mnews/article/056/0012262558?sid=105"
-        },
-        {
-          "keyword": "IPTV",
-          "headline": "IPTV 단독가입 막은 통신3사…방미통위, 4900만원 과징금",
-          "url": "https://n.news.naver.com/mnews/article/003/0014211378?sid=105"
-        },
-        {
-          "keyword": "거부",
-          "headline": "유엔총회 첫날 AI 패권 경쟁…美 \"통제 거부\"",
-          "url": "https://n.news.naver.com/mnews/article/422/0000909218?sid=105"
-        },
-        {
-          "keyword": "SOOP",
-          "headline": "SOOP, 추석 볼거리 채운다…버추얼 대전부터 e스포츠까지",
-          "url": "https://n.news.naver.com/mnews/article/092/0002438683?sid=105"
-        },
-        {
-          "keyword": "운영",
-          "headline": "스마일게이트, 日TGS 공식 부스 운영 성료…최대 2시간 대기",
-          "url": "https://n.news.naver.com/mnews/article/421/0009189428?sid=105"
-        },
-        {
-          "keyword": "책임",
-          "headline": "AI가 '알아서' 일하는 에이전틱 AI 시대⋯\"정보 승인·책임 기준 세워야\"",
-          "url": "https://n.news.naver.com/mnews/article/031/0001061098?sid=105"
+          "keyword": "과학",
+          "headline": "미래를 보는 새 안경은 과학…양주시, 김범준 교수 초청 시민특강 마련",
+          "url": "https://n.news.naver.com/mnews/article/030/0003469796?sid=105"
         }
       ]
     },
@@ -174,54 +139,54 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "추석",
-          "headline": "추석 연휴 전북 곳곳 전통문화 체험행사 예정",
-          "url": "https://n.news.naver.com/mnews/article/056/0012262674?sid=103"
+          "keyword": "연휴",
+          "headline": "짧은 연휴, 더 신나게… 놀이공원이 있잖아!",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874903?sid=103"
         },
         {
-          "keyword": "한가위",
-          "headline": "낮엔 퍼레이드 밤엔 드론쇼… 심심할 틈 없네 [福작福작 한가위]",
-          "url": "https://n.news.naver.com/mnews/article/022/0004161443?sid=103"
+          "keyword": "습관",
+          "headline": "“대장 꽉 막힌다”… 영양사 경고한 ‘최악의 아침 습관’, 뭐지?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000116464?sid=103"
         },
         {
-          "keyword": "구름",
-          "headline": "전북 추석 보름달 보기 힘들듯…구름 많고 연휴 후반 비",
-          "url": "https://n.news.naver.com/mnews/article/056/0012262606?sid=103"
+          "keyword": "있다",
+          "headline": "제주 애월 폐건물에 매트릭스가 있다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003750555?sid=103"
         },
         {
-          "keyword": "전시",
-          "headline": "샤로수길 공실상가가 전시장으로! ‘새삶스런 예술 전파사’ 팝업 전시 개막",
-          "url": "https://n.news.naver.com/mnews/article/144/0001140191?sid=103"
+          "keyword": "9월",
+          "headline": "[오늘의 운세/9월 24일]",
+          "url": "https://n.news.naver.com/mnews/article/020/0003750565?sid=103"
         },
         {
-          "keyword": "이주",
-          "headline": "공동체·영성·이주...아시아 큐레이터들이 말하는 ‘아시아의 오늘’",
-          "url": "https://n.news.naver.com/mnews/article/310/0000140267?sid=103"
+          "keyword": "하나님",
+          "headline": "12년 만에 금메달… “코트에 하나님 은혜 넘쳤다”",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874905?sid=103"
         },
         {
-          "keyword": "부산",
-          "headline": "[부산에 가면] 고독을 연대하는 얼굴들",
-          "url": "https://n.news.naver.com/mnews/article/023/0004000142?sid=103"
+          "keyword": "은혜",
+          "headline": "[겨자씨] 돌아가는 길의 은혜",
+          "url": "https://n.news.naver.com/mnews/article/005/0001874907?sid=103"
         },
         {
-          "keyword": "강릉",
-          "headline": "강릉 신영극장, 추석 맞아 추억의 만화영화 상영",
-          "url": "https://n.news.naver.com/mnews/article/310/0000140266?sid=103"
+          "keyword": "금메달",
+          "headline": "그림 대신 방송 장비… 지금 ACS는 ‘금메달 모드’",
+          "url": "https://n.news.naver.com/mnews/article/023/0004000170?sid=103"
         },
         {
-          "keyword": "음식",
-          "headline": "“밤에 출출할 때 먹어라”… 혈당 ‘덜’ 오르는 음식 4가지",
-          "url": "https://n.news.naver.com/mnews/article/346/0000116454?sid=103"
+          "keyword": "12년",
+          "headline": "12년만 ‘네팔 대홍수’ 다큐 후일담",
+          "url": "https://n.news.naver.com/mnews/article/023/0004000167?sid=103"
         },
         {
-          "keyword": "알고",
-          "headline": "생리통인 줄 알고 버틴 7년, 대장암 키웠다… 위치 따라 증상 다르다는데?",
-          "url": "https://n.news.naver.com/mnews/article/346/0000116456?sid=103"
+          "keyword": "공개",
+          "headline": "'국중박 분장놀이' 대상 유물 실물 공개...\"신기 하게 닮았네\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002410763?sid=103"
         },
         {
-          "keyword": "대체",
-          "headline": "경남 추석 연휴 ‘대체로 흐림’…보름달 보기 어려울 듯",
-          "url": "https://n.news.naver.com/mnews/article/056/0012262696?sid=103"
+          "keyword": "다이어트",
+          "headline": "‘22kg 감량’ 심진화, 다이어트 라면 레시피 공개… 뭐 넣었을까?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000116463?sid=103"
         }
       ]
     },
@@ -230,49 +195,34 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "대통령",
-          "headline": "악수하는 이재명 대통령",
-          "url": "https://n.news.naver.com/mnews/article/003/0014211774?sid=104"
-        },
-        {
-          "keyword": "이란",
-          "headline": "이란, 트럼프 유엔연설에 발끈…“패배 덮으려는 국내 선전용”",
-          "url": "https://n.news.naver.com/mnews/article/119/0003135808?sid=104"
-        },
-        {
           "keyword": "트럼프",
-          "headline": "\"대만에 무기 팔지 말라\"···시진핑, 회담서 트럼프에 요구하나",
-          "url": "https://n.news.naver.com/mnews/article/014/0005579971?sid=104"
+          "headline": "트럼프는 레드카펫·시진핑은 국빈 관철…\"성과보다 쇼 집중\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016334111?sid=104"
         },
         {
-          "keyword": "유엔",
-          "headline": "각국 정상들, 연이은 전쟁에 유엔 안보리 개혁 촉구",
-          "url": "https://n.news.naver.com/mnews/article/052/0002410737?sid=104"
+          "keyword": "대통령",
+          "headline": "이란 대통령 \"우린 미국이 저지른 테러의 희생자\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002410764?sid=104"
         },
         {
-          "keyword": "전쟁",
-          "headline": "젤렌스키 \"에너지 휴전, 전쟁 종식 방안 논의\"",
-          "url": "https://n.news.naver.com/mnews/article/055/0001390493?sid=104"
+          "keyword": "한국",
+          "headline": "젤렌스키 \"북한군 포로 2명 최근 한국으로 보냈다\"",
+          "url": "https://n.news.naver.com/mnews/article/014/0005580551?sid=104"
         },
         {
-          "keyword": "오상욱",
-          "headline": "오상욱 '침착하게'",
-          "url": "https://n.news.naver.com/mnews/article/001/0016334083?sid=104"
+          "keyword": "루비오",
+          "headline": "루비오 美국무 \"러와 우크라 모두 제한적 휴전 관심 표명\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009189813?sid=104"
         },
         {
-          "keyword": "논의",
-          "headline": "이 대통령 \"트럼프와 군함 건조 포함 조선 협력 논의…실실 성과 기대\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014211775?sid=104"
+          "keyword": "12월",
+          "headline": "12월 G20서 트럼프·푸틴 만나나…美국무 \"푸틴 참석 기대\"(종합)",
+          "url": "https://n.news.naver.com/mnews/article/001/0016334128?sid=104"
         },
         {
-          "keyword": "미국",
-          "headline": "\"우린 테러리즘의 희생자\"…이란 대통령, 유엔 연설서 미국 맹비난",
-          "url": "https://n.news.naver.com/mnews/article/421/0009189798?sid=104"
-        },
-        {
-          "keyword": "AI",
-          "headline": "오픈AI·문샷 등 미중 AI 리더 안보리 AI 회의 참석",
-          "url": "https://n.news.naver.com/mnews/article/052/0002410738?sid=104"
+          "keyword": "모두",
+          "headline": "美 \"러·우 모두 제한적 휴전 관심…12월 G20에 푸틴 초청\"(종합)",
+          "url": "https://n.news.naver.com/mnews/article/003/0014211816?sid=104"
         }
       ]
     },
@@ -284,6 +234,26 @@
           "keyword": "게임",
           "headline": "네오위즈, 추석 맞아 게임 8종 이벤트…순금·여행권 경품도",
           "url": "https://n.news.naver.com/mnews/article/119/0003136059"
+        },
+        {
+          "keyword": "크래프톤",
+          "headline": "크래프톤 '방플' 선수 2명 영구 제재…\"운영 책임 통감, 내부 점검\"",
+          "url": "https://n.news.naver.com/mnews/article/277/0005820642"
+        },
+        {
+          "keyword": "나서",
+          "headline": "[리포트]콘솔 상륙한 '듄: 어웨이크닝', 싱글 모드와 편의성 강화로 도약 나서",
+          "url": "https://n.news.naver.com/mnews/article/236/0000257167"
+        },
+        {
+          "keyword": "강화",
+          "headline": "인도 게임시장, UPI 확산에 인앱결제 확대…현금성 게임은 규제 강화",
+          "url": "https://n.news.naver.com/mnews/article/347/0000195844"
+        },
+        {
+          "keyword": "엔씨",
+          "headline": "엔씨 '아스트라에 오라티오', 10월2일 글로벌 테스트 돌입",
+          "url": "https://n.news.naver.com/mnews/article/092/0002438667"
         }
       ]
     }
