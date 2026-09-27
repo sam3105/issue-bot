@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-09-27 07:21",
+  "updatedAt": "2026-09-27 09:42",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
+          "keyword": "삼성전자",
+          "headline": "멕시코 눈길 사로잡은 삼성전자",
+          "url": "https://n.news.naver.com/mnews/article/421/0009193027?sid=101"
+        },
+        {
           "keyword": "추석",
-          "headline": "설 vs 추석…연휴 끝나고 세탁물 더 몰리는 명절은?",
-          "url": "https://n.news.naver.com/mnews/article/277/0005821047?sid=101"
+          "headline": "지난 추석에 100만원 넣었다면…예금은 102만원, 삼전닉스는?",
+          "url": "https://n.news.naver.com/mnews/article/009/0005740186?sid=101"
         },
         {
-          "keyword": "반도체",
-          "headline": "4분기도 반도체·조선 수출 기대감 이어간다… 원자재 가격 변수",
-          "url": "https://n.news.naver.com/mnews/article/011/0004665537?sid=101"
-        },
-        {
-          "keyword": "AI",
-          "headline": "AI 서버 전력소비 절반으로 '뚝'…삼성도 반한 신기술의 정체는",
-          "url": "https://n.news.naver.com/mnews/article/015/0005336197?sid=101"
-        },
-        {
-          "keyword": "전망",
-          "headline": "\"설마가 현실로\"...삼성전자, '역대급' 전망",
-          "url": "https://n.news.naver.com/mnews/article/050/0000111334?sid=101"
-        },
-        {
-          "keyword": "증시",
-          "headline": "[마켓인사이트] 추석 연휴서 돌아온 韓증시, 상승흐름 이어갈까",
-          "url": "https://n.news.naver.com/mnews/article/001/0016337787?sid=101"
-        },
-        {
-          "keyword": "삼전닉스",
-          "headline": "상장사 3분기 실적 전망치 변화는…삼전닉스 상향 조정",
-          "url": "https://n.news.naver.com/mnews/article/001/0016337824?sid=101"
+          "keyword": "멕시코",
+          "headline": "멕시코 상륙한 갤럭시 Z 시리즈",
+          "url": "https://n.news.naver.com/mnews/article/421/0009193024?sid=101"
         },
         {
           "keyword": "서울",
-          "headline": "서울 아파트 전세 2년 새 8천만 원↑…월세는 24% 뛰어",
-          "url": "https://n.news.naver.com/mnews/article/422/0000909939?sid=101"
+          "headline": "[속보]서울 통신요금 세계 최고 수준",
+          "url": "https://n.news.naver.com/mnews/article/050/0000111338?sid=101"
         },
         {
-          "keyword": "삼성전자",
-          "headline": "삼성전자 DX 노조, 추석에도 한남동서 농성…'선명성 경쟁'에 무리수",
-          "url": "https://n.news.naver.com/mnews/article/421/0009192903?sid=101"
+          "keyword": "삼전닉스",
+          "headline": "\"억대 성과급 놓칠라\" 삼전닉스 육아휴직률 동반 하락",
+          "url": "https://n.news.naver.com/mnews/article/469/0000956091?sid=101"
         },
         {
-          "keyword": "코스피",
-          "headline": "코스피 7000의 착시…오를 때마다 내린 종목이 더 많았다 [증시는 왜]",
-          "url": "https://n.news.naver.com/mnews/article/014/0005581025?sid=101"
+          "keyword": "반도체",
+          "headline": "반도체·정유 웃고 자동차·배터리 울고…3분기 실적 전망 '희비'",
+          "url": "https://n.news.naver.com/mnews/article/374/0000534922?sid=101"
         },
         {
-          "keyword": "종목",
-          "headline": "\"한은 총재가 종목 추천해준다?\"…유명인 사칭 SNS 기승",
-          "url": "https://n.news.naver.com/mnews/article/015/0005336109?sid=101"
+          "keyword": "1위",
+          "headline": "올해 재테크 수익률 1위는",
+          "url": "https://n.news.naver.com/mnews/article/277/0005821076?sid=101"
+        },
+        {
+          "keyword": "갤럭시",
+          "headline": "갤럭시 탭 매력 속으로",
+          "url": "https://n.news.naver.com/mnews/article/421/0009193023?sid=101"
+        },
+        {
+          "keyword": "실적",
+          "headline": "연휴 뒤 3분기 실적 시즌…삼전닉스 영업이익 190조 전망",
+          "url": "https://n.news.naver.com/mnews/article/421/0009192878?sid=101"
+        },
+        {
+          "keyword": "전망",
+          "headline": "올해 초과세수 50조원 넘을수도… 내년 미래대응기금 200조원 상회 전망",
+          "url": "https://n.news.naver.com/mnews/article/366/0001194532?sid=101"
         }
       ]
     },
@@ -62,54 +62,54 @@
       "cls": "society",
       "items": [
         {
+          "keyword": "포토뉴스",
+          "headline": "[포토뉴스]원주경찰서 청소년 범죄 예방 캠페인",
+          "url": "https://n.news.naver.com/mnews/article/087/0001220381?sid=102"
+        },
+        {
+          "keyword": "추석",
+          "headline": "[포토뉴스]경포동, 추석 명절 전통시장 장보기",
+          "url": "https://n.news.naver.com/mnews/article/087/0001220365?sid=102"
+        },
+        {
           "keyword": "연휴",
-          "headline": "연휴 마지막날 귀경길 정체…이 시각 고속도로",
-          "url": "https://n.news.naver.com/mnews/article/056/0012263639?sid=102"
+          "headline": "연휴 마지막 날 '귀경 절정'…고속도로 정체 시작",
+          "url": "https://n.news.naver.com/mnews/article/215/0001267259?sid=102"
         },
         {
-          "keyword": "형사사법대전환",
-          "headline": "[형사사법대전환] ③ 내 고소장은 어디로?…달라지는 형사 절차 가이드",
-          "url": "https://n.news.naver.com/mnews/article/001/0016337800?sid=102"
+          "keyword": "운영",
+          "headline": "원주 미리내도서관 어린이 프로그램 운영",
+          "url": "https://n.news.naver.com/mnews/article/087/0001220382?sid=102"
         },
         {
-          "keyword": "지원",
-          "headline": "농업용 면세유 보조금 지원, 연말까지 늘려",
-          "url": "https://n.news.naver.com/mnews/article/659/0000047235?sid=102"
+          "keyword": "원주",
+          "headline": "[포토뉴스]원주 문막여성의소대 추석 명절 독거노인 후원",
+          "url": "https://n.news.naver.com/mnews/article/087/0001220380?sid=102"
         },
         {
-          "keyword": "확보",
-          "headline": "진천 화산지구, 재해위험지역 정비사업 선정…140억원 확보",
-          "url": "https://n.news.naver.com/mnews/article/421/0009192917?sid=102"
+          "keyword": "정체",
+          "headline": "연휴 마지막날 귀경길 정체 집중…부산→서울 5시간 40분",
+          "url": "https://n.news.naver.com/mnews/article/020/0003750749?sid=102"
         },
         {
-          "keyword": "경기",
-          "headline": "경기도, 개발제한구역 주민지원사업 국비 123억 확보…전국 최대",
-          "url": "https://n.news.naver.com/mnews/article/421/0009192941?sid=102"
+          "keyword": "부고",
+          "headline": "[부고]송한진(MBN 감사팀 부장)씨 모친상",
+          "url": "https://n.news.naver.com/mnews/article/003/0014215140?sid=102"
         },
         {
-          "keyword": "최대",
-          "headline": "추석 연휴 토요일 비 소식…전남해안 최대 80㎜",
-          "url": "https://n.news.naver.com/mnews/article/001/0016336626?sid=102"
+          "keyword": "경찰",
+          "headline": "실종자 찾다 밀물에 고립...사천 갯바위서 경찰 등 3명 구조",
+          "url": "https://n.news.naver.com/mnews/article/052/0002411465?sid=102"
         },
         {
-          "keyword": "선정",
-          "headline": "결의대회·서명운동·TF구성…괴산군, 농어촌 기본소득 선정 '사활'",
-          "url": "https://n.news.naver.com/mnews/article/421/0009192939?sid=102"
+          "keyword": "청소년",
+          "headline": "[사진뉴스]횡성 ‘자살예방회의 및 청소년 생명지킴 지역안전망 협의회",
+          "url": "https://n.news.naver.com/mnews/article/087/0001220374?sid=102"
         },
         {
-          "keyword": "공무원",
-          "headline": "허위수당 176만원·비상근무 때 출국…공무원 24명 적발",
-          "url": "https://n.news.naver.com/mnews/article/003/0014215007?sid=102"
-        },
-        {
-          "keyword": "강도",
-          "headline": "15년 지인 집서 밥 훔쳐먹다 들키자 강도 돌변…징역 4년",
-          "url": "https://n.news.naver.com/mnews/article/001/0016337825?sid=102"
-        },
-        {
-          "keyword": "징역",
-          "headline": "출소 9개월만에 고물상·사찰서 또 절도…50대 징역 2년",
-          "url": "https://n.news.naver.com/mnews/article/001/0016337808?sid=102"
+          "keyword": "사진뉴스",
+          "headline": "[사진뉴스]횡성·원주지역 산림조합, 고향사랑기부 교차 지원",
+          "url": "https://n.news.naver.com/mnews/article/087/0001220373?sid=102"
         }
       ]
     },
@@ -119,53 +119,53 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "\"AI 시대의 업무 OS\" MS, 새로운 코파일럿 공개",
-          "url": "https://n.news.naver.com/mnews/article/015/0005336078?sid=105"
+          "headline": "대답만 하는 AI는 끝…'AI페스타'서 일하는 AI 만난다",
+          "url": "https://n.news.naver.com/mnews/article/092/0002438813?sid=105"
         },
         {
-          "keyword": "1년",
-          "headline": "한국 노린 랜섬웨어 1년 새 3.3배↑…글로벌 피해도 역대급",
-          "url": "https://n.news.naver.com/mnews/article/001/0016337783?sid=105"
+          "keyword": "퀄컴",
+          "headline": "퀄컴, PC 프로세서 보급형까지 확대...게임·메모리 가격 관건",
+          "url": "https://n.news.naver.com/mnews/article/092/0002438816?sid=105"
         },
         {
-          "keyword": "한국",
-          "headline": "한국, 랜섬웨어 표적 됐다…상반기 피해 36건, 1년 새 3배 급증",
-          "url": "https://n.news.naver.com/mnews/article/015/0005336199?sid=105"
+          "keyword": "기술",
+          "headline": "급속 발전하는 '포집 기술'...탄소 배출 상쇄할까?",
+          "url": "https://n.news.naver.com/mnews/article/052/0002411455?sid=105"
         },
         {
-          "keyword": "휴머노이드",
-          "headline": "다 같은 휴머노이드가 아니다…‘외모’에 숨겨진 설계 철학",
-          "url": "https://n.news.naver.com/mnews/article/023/0004000501?sid=105"
+          "keyword": "화담숲",
+          "headline": "LGU+, 화담숲에 자생·특산식물 120여종 정원 조성",
+          "url": "https://n.news.naver.com/mnews/article/092/0002438817?sid=105"
         },
         {
-          "keyword": "에이전트",
-          "headline": "네이버 AI 쇼핑 에이전트, 상품 추천부터 결제까지 간다",
-          "url": "https://n.news.naver.com/mnews/article/001/0016337775?sid=105"
+          "keyword": "우리",
+          "headline": "LGU+, 화담숲에 우리 자생·특산식물 120종 심었다",
+          "url": "https://n.news.naver.com/mnews/article/001/0016337885?sid=105"
+        },
+        {
+          "keyword": "세계",
+          "headline": "서울 통신비, 세계 주요 도시 대비 비싸",
+          "url": "https://n.news.naver.com/mnews/article/029/0003049927?sid=105"
+        },
+        {
+          "keyword": "최고",
+          "headline": "갤럭시 Z8, 유럽 5개국서 ‘최고 폴더블’ 평가",
+          "url": "https://n.news.naver.com/mnews/article/018/0006375791?sid=105"
         },
         {
           "keyword": "시대",
-          "headline": "포털도 언론도 외면 받는 시대, 다음이 내놓은 상생방안은?",
-          "url": "https://n.news.naver.com/mnews/article/006/0000137929?sid=105"
+          "headline": "게임 전용 벗어난 OLED 모니터…'1000만대 시대' 1년 빨라졌다",
+          "url": "https://n.news.naver.com/mnews/article/031/0001061295?sid=105"
         },
         {
-          "keyword": "위기",
-          "headline": "애플, 美서 특허침해 사상 최대 손배 위기…7.7조원 배상 평결",
-          "url": "https://n.news.naver.com/mnews/article/001/0016337700?sid=105"
+          "keyword": "만든다",
+          "headline": "[AI위클리] 해킹 막는 '사이버 방패' 만든다…보안 AI 개발 속도",
+          "url": "https://n.news.naver.com/mnews/article/001/0016337930?sid=105"
         },
         {
-          "keyword": "추석",
-          "headline": "\"택배 반품됐습니다\" 눌렀다간…추석 노리는 스미싱 구별법은",
-          "url": "https://n.news.naver.com/mnews/article/421/0009192916?sid=105"
-        },
-        {
-          "keyword": "챗GPT",
-          "headline": "오픈AI 에이전트, 챗GPT 이용자 이미지 53장 무단 유출",
-          "url": "https://n.news.naver.com/mnews/article/023/0004000466?sid=105"
-        },
-        {
-          "keyword": "매출",
-          "headline": "바이브 코딩 뜨자 '러버블'도 질주…연환산 매출 6억 달러 돌파",
-          "url": "https://n.news.naver.com/mnews/article/092/0002438809?sid=105"
+          "keyword": "만난다",
+          "headline": "노태문, 10월 DX 임직원 만난다…성과급 ‘보상 격차’ 해법 찾나",
+          "url": "https://n.news.naver.com/mnews/article/029/0003049922?sid=105"
         }
       ]
     },
@@ -174,54 +174,54 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "멕시코",
-          "headline": "\"굿즈 받았어요\"…멕시코 관람객들의 환한 미소",
-          "url": "https://n.news.naver.com/mnews/article/421/0009192931?sid=103"
+          "keyword": "연휴",
+          "headline": "추석 연휴 마지막날 정체 시작…부산→서울 5시간",
+          "url": "https://n.news.naver.com/mnews/article/658/0000156653?sid=103"
         },
         {
-          "keyword": "날씨",
-          "headline": "강원 내륙·산지 큰 일교차…오전까지 짙은 안개",
-          "url": "https://n.news.naver.com/mnews/article/001/0016337762?sid=103"
+          "keyword": "추석",
+          "headline": "추석 연휴 마지막날 아침 귀경길 집중…부산→서울 5시간40분",
+          "url": "https://n.news.naver.com/mnews/article/003/0014215095?sid=103"
+        },
+        {
+          "keyword": "뮤지컬",
+          "headline": "해외 라이선스 뮤지컬, 마음대로 바꿔선 안돼요",
+          "url": "https://n.news.naver.com/mnews/article/009/0005740196?sid=103"
         },
         {
           "keyword": "일교차",
-          "headline": "대전·세종·충남 대체로 맑다가 구름…일교차 커",
-          "url": "https://n.news.naver.com/mnews/article/001/0016337772?sid=103"
+          "headline": "[내일날씨] 전국 곳곳 출근길 비소식…일교차 15도 주의",
+          "url": "https://n.news.naver.com/mnews/article/001/0016337889?sid=103"
         },
         {
-          "keyword": "연휴",
-          "headline": "[날씨] 연휴 마지막 날 큰 일교차…동해안 소나기",
-          "url": "https://n.news.naver.com/mnews/article/055/0001391268?sid=103"
+          "keyword": "소비자",
+          "headline": "가을옷 입은 킥플립·허남준…소비자에서 렌즈 모델된 '원희'[유통가 새 얼굴]",
+          "url": "https://n.news.naver.com/mnews/article/003/0014215069?sid=103"
         },
         {
-          "keyword": "대체",
-          "headline": "제주, 대체로 흐리고 한라산 남쪽에 약한 비",
-          "url": "https://n.news.naver.com/mnews/article/001/0016337759?sid=103"
+          "keyword": "상반기",
+          "headline": "연휴 늦잠 2시간의 대가 72시간…수면장애 상반기 95만명",
+          "url": "https://n.news.naver.com/mnews/article/088/0001030687?sid=103"
         },
         {
-          "keyword": "포즈",
-          "headline": "멕시코 팬과 다정하게…'브이' 포즈 취하는 소유",
-          "url": "https://n.news.naver.com/mnews/article/421/0009192935?sid=103"
+          "keyword": "증가",
+          "headline": "콘크리트에 ‘사람 똥’ 넣었더니…‘휨 강도’ 무려 42%나 증가했다",
+          "url": "https://n.news.naver.com/mnews/article/032/0003472573?sid=103"
         },
         {
-          "keyword": "제주",
-          "headline": "[7시 날씨] 귀경길 짙은 안개 유의…저녁까지 제주도 비",
-          "url": "https://n.news.naver.com/mnews/article/056/0012263643?sid=103"
+          "keyword": "아우터",
+          "headline": "들쑥날쑥 날씨, 뭐 입어야하냐고?···올 가을 꾸안꾸의 정석 ‘이 아우터’ 뜬다",
+          "url": "https://n.news.naver.com/mnews/article/032/0003472575?sid=103"
         },
         {
-          "keyword": "저녁",
-          "headline": "왜 새벽 3시에 항상 잠이 깰까…‘3시 각성’ 부르는 저녁 습관",
-          "url": "https://n.news.naver.com/mnews/article/032/0003472562?sid=103"
+          "keyword": "만난다",
+          "headline": "책 밖으로 나온 문학…한강·김애란 작품, 무대에서 만난다",
+          "url": "https://n.news.naver.com/mnews/article/018/0006375813?sid=103"
         },
         {
-          "keyword": "부르",
-          "headline": "‘흔한 지방간인 줄 알았는데’…간경변·간암 부르는 대사이상 지방간 주의",
-          "url": "https://n.news.naver.com/mnews/article/022/0004162004?sid=103"
-        },
-        {
-          "keyword": "하나",
-          "headline": "싱크대 배수구에 페트병 하나 꽂았을 뿐인데 벌어진 일",
-          "url": "https://n.news.naver.com/mnews/article/022/0004162008?sid=103"
+          "keyword": "주의",
+          "headline": "[제주날씨] 연휴 마지막 날 '흐림'.. 만조 시 해안가 주의",
+          "url": "https://n.news.naver.com/mnews/article/661/0000083900?sid=103"
         }
       ]
     },
@@ -230,29 +230,54 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "epaselect",
-          "headline": "epaselect POLAND SPEEDWAY",
-          "url": "https://n.news.naver.com/mnews/article/091/0010322467?sid=104"
+          "keyword": "트럼프",
+          "headline": "'연전연패' 늪 빠진 트럼프…\"좌절감 고조\"",
+          "url": "https://n.news.naver.com/mnews/article/422/0000909972?sid=104"
         },
         {
           "keyword": "이란",
-          "headline": "中 \"美와 AI대화 설립…이란 해협 통행료 불가 동의\"",
-          "url": "https://n.news.naver.com/mnews/article/018/0006375731?sid=104"
+          "headline": "이란 \"호르무즈 개방 '7일 계획' 美에 전달\"",
+          "url": "https://n.news.naver.com/mnews/article/422/0000909966?sid=104"
         },
         {
-          "keyword": "Soccer",
-          "headline": "Peru United States Soccer",
-          "url": "https://n.news.naver.com/mnews/article/077/0007179806?sid=104"
+          "keyword": "아시안게임",
+          "headline": "[아시안게임] 한국 야구, 中 꺾고 결승행…오늘 일본과 맞대결",
+          "url": "https://n.news.naver.com/mnews/article/448/0000641610?sid=104"
         },
         {
-          "keyword": "트럼프",
-          "headline": "\"트럼프-시진핑, 올해 두 번 더 만난다\"",
-          "url": "https://n.news.naver.com/mnews/article/014/0005581024?sid=104"
+          "keyword": "AG",
+          "headline": "'AG 金' 이현중, 미국 출국…\"나답게 할 것\"",
+          "url": "https://n.news.naver.com/mnews/article/422/0000909964?sid=104"
         },
         {
-          "keyword": "SOCCER",
-          "headline": "CZECHIA SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010322481?sid=104"
+          "keyword": "보름달",
+          "headline": "탑 끝에 걸린 보름달",
+          "url": "https://n.news.naver.com/mnews/article/003/0014215099?sid=104"
+        },
+        {
+          "keyword": "AI",
+          "headline": "빌 게이츠 \"AI, 악의적 세력이 쓰면 10억명 죽을 수도\"",
+          "url": "https://n.news.naver.com/mnews/article/277/0005821080?sid=104"
+        },
+        {
+          "keyword": "일본",
+          "headline": "“다 되갚아 주겠다”…한국 야구, 일본과 5연패 걸린 설욕전",
+          "url": "https://n.news.naver.com/mnews/article/018/0006375820?sid=104"
+        },
+        {
+          "keyword": "야구",
+          "headline": "韓 야구·핸드볼 '한일전'서 금메달 놓고 설욕 노린다",
+          "url": "https://n.news.naver.com/mnews/article/656/0000187824?sid=104"
+        },
+        {
+          "keyword": "김하성",
+          "headline": "삼진 아쉬워하는 김하성",
+          "url": "https://n.news.naver.com/mnews/article/003/0014215112?sid=104"
+        },
+        {
+          "keyword": "김시우",
+          "headline": "포섬 경기서 샷하는 김시우",
+          "url": "https://n.news.naver.com/mnews/article/003/0014215106?sid=104"
         }
       ]
     },
@@ -261,44 +286,39 @@
       "cls": "game",
       "items": [
         {
-          "keyword": "게임",
-          "headline": "[기획] 추석 연휴, 재미로 채울 콘솔 게임 추천작",
-          "url": "https://n.news.naver.com/mnews/article/347/0000195854"
-        },
-        {
           "keyword": "아시안게임",
           "headline": "[아시안게임] 강동신, '신동' 구리하라에 석패…'뿌요뿌요' 은메달",
           "url": "https://n.news.naver.com/mnews/article/001/0016336935"
         },
         {
-          "keyword": "e스포츠",
+          "keyword": "게임",
+          "headline": "\"그 게임 공짜라는데\"…부모가 모르는 게임 결제의 세계",
+          "url": "https://n.news.naver.com/mnews/article/008/0005418557"
+        },
+        {
+          "keyword": "업데이트",
+          "headline": "설원 넘어 엔드게임까지…‘아크 레이더스’ 최대 규모 업데이트 온다",
+          "url": "https://n.news.naver.com/mnews/article/029/0003049909"
+        },
+        {
+          "keyword": "나고야AG",
           "headline": "한국 e스포츠, 일본 꺾고 대전격투 우승…종목 대회 첫 金[나고야AG]",
           "url": "https://n.news.naver.com/mnews/article/003/0014214589"
         },
         {
-          "keyword": "글로벌",
-          "headline": "엔씨 ‘아스오라’ 글로벌 시험대…첫 레이드 공개[오늘의 게임 업데이트]",
-          "url": "https://n.news.naver.com/mnews/article/011/0004665501"
-        },
-        {
-          "keyword": "닌텐",
-          "headline": "닌텐도, '스위치 불법복제' 운영자에 450만달러 승소",
-          "url": "https://n.news.naver.com/mnews/article/030/0003469899"
-        },
-        {
-          "keyword": "추석",
-          "headline": "추석 연휴에 굳은 머리 식혀볼까…가볍게 뇌 깨우는 캐주얼 게임 3선",
-          "url": "https://n.news.naver.com/mnews/article/092/0002438766"
-        },
-        {
-          "keyword": "나고야AG",
-          "headline": "韓 이스포츠 대전격투팀 金…41세 배재민 \"언제 또 이런 일이\"[나고야AG]",
-          "url": "https://n.news.naver.com/mnews/article/003/0014214642"
+          "keyword": "한국",
+          "headline": "[아시안게임] 한국, 대전 격투서 아시안게임 e스포츠 첫 금메달(종합)",
+          "url": "https://n.news.naver.com/mnews/article/001/0016337251"
         },
         {
           "keyword": "일본",
           "headline": "[아시안게임] 하품한 11살 일본 뿌요뿌요 챔피언 \"인생에서 2∼3번째로 기뻐\"",
           "url": "https://n.news.naver.com/mnews/article/001/0016337110"
+        },
+        {
+          "keyword": "글로벌",
+          "headline": "엔씨 ‘아스오라’ 글로벌 시험대…첫 레이드 공개[오늘의 게임 업데이트]",
+          "url": "https://n.news.naver.com/mnews/article/011/0004665501"
         }
       ]
     }
