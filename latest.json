@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-09-30 11:22",
+  "updatedAt": "2026-09-30 17:45",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "AI",
-          "headline": "AI 수장 만난 트럼프…규제 대신 자율 통제 맡기기로",
-          "url": "https://n.news.naver.com/mnews/article/018/0006377594?sid=101"
+          "keyword": "투자",
+          "headline": "\"트럼프, 알래스카 LNG에 韓 540억불 투자 발표\"",
+          "url": "https://n.news.naver.com/mnews/article/009/0005742264?sid=101"
         },
         {
-          "keyword": "트럼프",
-          "headline": "트럼프, 알래스카 LNG 韓 투자 발표 가능성…강관·철강株 급등",
-          "url": "https://n.news.naver.com/mnews/article/088/0001031364?sid=101"
+          "keyword": "알래스카",
+          "headline": "韓 \"수익성 검증\" 선그었는데 … 美 \"알래스카부터 투자\" 압박",
+          "url": "https://n.news.naver.com/mnews/article/009/0005742251?sid=101"
+        },
+        {
+          "keyword": "AI",
+          "headline": "LG유플, AI로 상담 대기 47초→4초…2030년 제로 구현",
+          "url": "https://n.news.naver.com/mnews/article/032/0003473422?sid=101"
         },
         {
           "keyword": "서울",
-          "headline": "SOOP, 광화문 '레드불 서울 줄타기' 생중계",
-          "url": "https://n.news.naver.com/mnews/article/030/0003471080?sid=101"
+          "headline": "서울 인허가 40% 껑충 … 공급회복 속도",
+          "url": "https://n.news.naver.com/mnews/article/009/0005742260?sid=101"
         },
         {
-          "keyword": "확대",
-          "headline": "신축 아파트 사전점검 의무기간, ‘2일→3일’ 확대",
-          "url": "https://n.news.naver.com/mnews/article/016/0002703655?sid=101"
+          "keyword": "위한",
+          "headline": "\"주택공급 위한 마중물 펀드 조성\"",
+          "url": "https://n.news.naver.com/mnews/article/015/0005337748?sid=101"
         },
         {
-          "keyword": "협력",
-          "headline": "DB증권, STO·RWA 사업 비전 제시…국내외 협력 강화",
-          "url": "https://n.news.naver.com/mnews/article/088/0001031368?sid=101"
+          "keyword": "상담",
+          "headline": "자금 계획부터 재개발 투자까지…수요자 위한 '실전 상담'",
+          "url": "https://n.news.naver.com/mnews/article/015/0005337747?sid=101"
         },
         {
-          "keyword": "여의도단신",
-          "headline": "[여의도단신] 하나증권·신한투자증권·한화투자증권",
-          "url": "https://n.news.naver.com/mnews/article/088/0001031363?sid=101"
+          "keyword": "재개발",
+          "headline": "'공공 재개발' 도심복합사업 신규 후보지 11곳 선정",
+          "url": "https://n.news.naver.com/mnews/article/052/0002412830?sid=101"
         },
         {
-          "keyword": "앞두고",
-          "headline": "서부발전, 5사 통합 앞두고 노동이사 선임… 조인호 전 노조위원장",
-          "url": "https://n.news.naver.com/mnews/article/022/0004162701?sid=101"
+          "keyword": "AB180",
+          "headline": "AB180, 마케팅 실무 적용 사례 담은 'MGS26 리포트' 발행",
+          "url": "https://n.news.naver.com/mnews/article/008/0005420553?sid=101"
         },
         {
-          "keyword": "로봇",
-          "headline": "SFA-레인보우로보틱스, AI 자율제조·로봇 분야 MOU",
-          "url": "https://n.news.naver.com/mnews/article/003/0014223231?sid=101"
+          "keyword": "발행",
+          "headline": "국고채 발행, 연내 10조 이상 줄인다",
+          "url": "https://n.news.naver.com/mnews/article/015/0005337746?sid=101"
         },
         {
-          "keyword": "매출",
-          "headline": "코스모로보틱스, '로봇 매출 부풀리기' 의혹 압수수색에 하한가",
-          "url": "https://n.news.naver.com/mnews/article/088/0001031366?sid=101"
-        },
-        {
-          "keyword": "LH",
-          "headline": "LH, 지방 공공분양 ‘잔여물량 털기’ 안간힘",
-          "url": "https://n.news.naver.com/mnews/article/016/0002703650?sid=101"
+          "keyword": "개시",
+          "headline": "우리금융, 은행장 경영승계절차 개시",
+          "url": "https://n.news.naver.com/mnews/article/215/0001267752?sid=101"
         }
       ]
     },
@@ -62,54 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "징역",
-          "headline": "전재수 측 증거인멸 선임비서관 징역 1년 법정구속",
-          "url": "https://n.news.naver.com/mnews/article/422/0000911112?sid=102"
+          "keyword": "운영",
+          "headline": "원주 달빛도깨비야시장, 2일 운영 재개",
+          "url": "https://n.news.naver.com/mnews/article/654/0000203238?sid=102"
         },
         {
-          "keyword": "의혹",
-          "headline": "“하청 노조 와해하려 고의 파산 의혹”…노동당국, 원청 본사 압수수색",
-          "url": "https://n.news.naver.com/mnews/article/031/0001062259?sid=102"
+          "keyword": "살해",
+          "headline": "'여고생 살해' 장윤기 무기징역",
+          "url": "https://n.news.naver.com/mnews/article/009/0005742242?sid=102"
         },
         {
-          "keyword": "은행나무",
-          "headline": "'은행나무 열매 채취해요'",
-          "url": "https://n.news.naver.com/mnews/article/421/0009200140?sid=102"
+          "keyword": "횡성군",
+          "headline": "제4회 횡성군 농아인 복지대회 개최",
+          "url": "https://n.news.naver.com/mnews/article/654/0000203241?sid=102"
         },
         {
-          "keyword": "전국",
-          "headline": "김병내 남구청장, 전국 227 기초자치단체 대표회장 선출",
-          "url": "https://n.news.naver.com/mnews/article/660/0000118145?sid=102"
+          "keyword": "개최",
+          "headline": "경기신보, 남양주 본점서 고객자문위원회 개최",
+          "url": "https://n.news.naver.com/mnews/article/011/0004666960?sid=102"
         },
         {
-          "keyword": "대구",
-          "headline": "내년 대구 중등교사 임용후보자 시험 계획 공고",
-          "url": "https://n.news.naver.com/mnews/article/003/0014223228?sid=102"
+          "keyword": "강화",
+          "headline": "동해·포항광역VTS 개국…동해 연안 해상교통안전 강화",
+          "url": "https://n.news.naver.com/mnews/article/001/0016348184?sid=102"
         },
         {
-          "keyword": "수사",
-          "headline": "중수청 출범 후 “기업 수사 더 세진다”…“체계적 대응 필요”",
-          "url": "https://n.news.naver.com/mnews/article/011/0004666780?sid=102"
+          "keyword": "30대",
+          "headline": "아내 가출에 3개월 아들 화풀이 살해 30대, 항소심도 징역 10년",
+          "url": "https://n.news.naver.com/mnews/article/001/0016348187?sid=102"
         },
         {
-          "keyword": "대응",
-          "headline": "전북도, 전체 농지의 절반 53만 필지 심층조사 \"투기 엄정 대응\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016346221?sid=102"
+          "keyword": "트램",
+          "headline": "개혁신당 대전시당, 트램 건설 일시 중지·원점 재검토 촉구",
+          "url": "https://n.news.naver.com/mnews/article/421/0009199900?sid=102"
         },
         {
-          "keyword": "전체",
-          "headline": "홍천 서석 코스모스축제 3일 개막…올해는 면 전체가 축제장",
-          "url": "https://n.news.naver.com/mnews/article/014/0005582868?sid=102"
+          "keyword": "가을",
+          "headline": "횡성군, 코레일과 함께 가을 파격 관광행사 추진",
+          "url": "https://n.news.naver.com/mnews/article/654/0000203243?sid=102"
         },
         {
-          "keyword": "개막",
-          "headline": "'구미 오픈 테니스 대회' 내달 2일 개막…'전국서 800명 참가'",
-          "url": "https://n.news.naver.com/mnews/article/003/0014223232?sid=102"
+          "keyword": "암살자",
+          "headline": "조갑제 “영화 ‘암살자(들)’, 패륜이고 이적행위”",
+          "url": "https://n.news.naver.com/mnews/article/021/0002822287?sid=102"
         },
         {
-          "keyword": "전시",
-          "headline": "\"여수섬박람회 성공\" 시민들 힘 모아…공연·전시, 재능 기부",
-          "url": "https://n.news.naver.com/mnews/article/421/0009200143?sid=102"
+          "keyword": "60대",
+          "headline": "성북구서 5톤 이삿짐 트럭 건물 돌진…60대 운전자 중상",
+          "url": "https://n.news.naver.com/mnews/article/003/0014224991?sid=102"
         }
       ]
     },
@@ -119,43 +119,53 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "카카오 'AI 국민비서'에서 국민연금 임의가입 신청 가능",
-          "url": "https://n.news.naver.com/mnews/article/092/0002439265?sid=105"
+          "headline": "AI 기업 평가에 KODATA 활용…AIIA와 맞손",
+          "url": "https://n.news.naver.com/mnews/article/092/0002439364?sid=105"
         },
         {
-          "keyword": "배경훈",
-          "headline": "회의 입장하는 배경훈 부총리",
-          "url": "https://n.news.naver.com/mnews/article/003/0014223162?sid=105"
+          "keyword": "공개",
+          "headline": "방미통위 1기 청사진 공개…방송·OTT 통합 법제 추진",
+          "url": "https://n.news.naver.com/mnews/article/092/0002439361?sid=105"
         },
         {
-          "keyword": "도전",
-          "headline": "AX 입은 LGU+ 고객센터, 상담 대기 시간 ‘제로’ 도전",
-          "url": "https://n.news.naver.com/mnews/article/016/0002703643?sid=105"
+          "keyword": "방미통위",
+          "headline": "AI 생성물 표시·알고리즘 투명성 강화…방미통위 '미디어 기본사회' 시동",
+          "url": "https://n.news.naver.com/mnews/article/030/0003471334?sid=105"
         },
         {
-          "keyword": "출시",
-          "headline": "CDPR, '더 위쳐 3: 와일드 헌트' 리마스터 출시",
-          "url": "https://n.news.naver.com/mnews/article/001/0016346213?sid=105"
+          "keyword": "개인정보",
+          "headline": "SKT, ‘개인정보 보호의 날 맞아’ 사내 캠페인 진행",
+          "url": "https://n.news.naver.com/mnews/article/029/0003050789?sid=105"
         },
         {
-          "keyword": "고객센터",
-          "headline": "LG유플러스 고객센터 대기시간 47초→5초…“2030년엔 기다림 없앤다”",
-          "url": "https://n.news.naver.com/mnews/article/018/0006377587?sid=105"
+          "keyword": "개발",
+          "headline": "네오이뮨텍 면역 신약 美 협력사 통해 개발 탄력",
+          "url": "https://n.news.naver.com/mnews/article/015/0005337732?sid=105"
         },
         {
-          "keyword": "무신사",
-          "headline": "\"이상 없다더니 무신사·위버스 털렸다\"…정부, 민간 기업 '셀프 점검' 뭇매",
-          "url": "https://n.news.naver.com/mnews/article/003/0014223221?sid=105"
+          "keyword": "기술",
+          "headline": "[과기원NOW] GIST-MIT, VR 가상보행 기술 개발 外",
+          "url": "https://n.news.naver.com/mnews/article/584/0000039508?sid=105"
         },
         {
-          "keyword": "경쟁",
-          "headline": "오픈AI, 24시간 일하는 AI 에이전트 ‘닷’ 공개…메타 ‘뮤즈’와 경쟁",
-          "url": "https://n.news.naver.com/mnews/article/020/0003751672?sid=105"
+          "keyword": "투자",
+          "headline": "트럼프, 내일 韓 대미 투자 발표…알래스카 LNG 언급 여부 주목",
+          "url": "https://n.news.naver.com/mnews/article/092/0002439362?sid=105"
         },
         {
-          "keyword": "인사나누",
-          "headline": "인사나누는 하정우 부위원장-정구창 차관",
-          "url": "https://n.news.naver.com/mnews/article/003/0014223165?sid=105"
+          "keyword": "소재",
+          "headline": "소재·부품부터 위성·발사체까지…170개 우주항공社 '글로벌 노크'",
+          "url": "https://n.news.naver.com/mnews/article/015/0005337726?sid=105"
+        },
+        {
+          "keyword": "매출",
+          "headline": "다음달부터 중대한 개인정보 유출 시 관련 매출의 3% 과징금",
+          "url": "https://n.news.naver.com/mnews/article/008/0005420333?sid=105"
+        },
+        {
+          "keyword": "르포",
+          "headline": "고객 질문하자 3초 만에 답변 '척'…상담사 채점도 AI가[르포]",
+          "url": "https://n.news.naver.com/mnews/article/421/0009201696?sid=105"
         }
       ]
     },
@@ -164,39 +174,54 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "뷰익",
-          "headline": "'GM의 4번타자' 뷰익 韓 상륙",
-          "url": "https://n.news.naver.com/mnews/article/421/0009200124?sid=103"
+          "keyword": "RM",
+          "headline": "K팝 팬들이 미술관으로 … RM 컬렉션에 샌프란이 들썩",
+          "url": "https://n.news.naver.com/mnews/article/009/0005742164?sid=103"
         },
         {
-          "keyword": "3일",
-          "headline": "'새로운 50년 향해' 정선아리랑제 개막 D-1…준비 '이상 무'",
-          "url": "https://n.news.naver.com/mnews/article/001/0016346199?sid=103"
+          "keyword": "10월",
+          "headline": "10월 첫날 기온 5도 뚝…바람까지 거세 더 쌀쌀",
+          "url": "https://n.news.naver.com/mnews/article/654/0000203237?sid=103"
         },
         {
-          "keyword": "정의선",
-          "headline": "일본 찾은 정의선…양궁 대표팀에 “스스로 믿고 도전하라”",
-          "url": "https://n.news.naver.com/mnews/article/119/0003137884?sid=103"
-        },
-        {
-          "keyword": "프리미엄",
-          "headline": "모닝글로리, '더 프리미엄 5겹 도톰 플러스 화장지' 출시",
-          "url": "https://n.news.naver.com/mnews/article/001/0016346191?sid=103"
-        },
-        {
-          "keyword": "가을밤",
-          "headline": "가을밤 서울을 걸어요…손목닥터9988 밤산책 3종 미션",
-          "url": "https://n.news.naver.com/mnews/article/001/0016346198?sid=103"
-        },
-        {
-          "keyword": "웰니스",
-          "headline": "저당식품·비건식 한곳에…11번가, '웰니스' 전문관 오픈",
-          "url": "https://n.news.naver.com/mnews/article/374/0000535537?sid=103"
+          "keyword": "만에",
+          "headline": "투싼, 22년 만에 누적 1000만대 돌파",
+          "url": "https://n.news.naver.com/mnews/article/015/0005337727?sid=103"
         },
         {
           "keyword": "쌀쌀",
-          "headline": "[날씨] 오후 중부·전북 가을비…내일 찬 바람에 '쌀쌀'",
-          "url": "https://n.news.naver.com/mnews/article/422/0000911110?sid=103"
+          "headline": "[날씨] 밤까지 중부 비…내일 아침 10도 안팎 '쌀쌀'",
+          "url": "https://n.news.naver.com/mnews/article/422/0000911277?sid=103"
+        },
+        {
+          "keyword": "있는",
+          "headline": "유두 주변 오돌도톨 돌기, 대체 왜 있는 거지?",
+          "url": "https://n.news.naver.com/mnews/article/346/0000116730?sid=103"
+        },
+        {
+          "keyword": "공연",
+          "headline": "아이와 대학로·나주로 '예술 소풍'…공연·체험 모두 무료",
+          "url": "https://n.news.naver.com/mnews/article/277/0005822983?sid=103"
+        },
+        {
+          "keyword": "조병규",
+          "headline": "첫 뮤지컬 도전 조병규 “21살때부터 추정화 연출 작품 출연하고 싶었다”",
+          "url": "https://n.news.naver.com/mnews/article/138/0002243217?sid=103"
+        },
+        {
+          "keyword": "개최",
+          "headline": "서울관광재단, 대만서 아시아 마이스 포럼 개최…국제회의 유치 손잡는다",
+          "url": "https://n.news.naver.com/mnews/article/020/0003751808?sid=103"
+        },
+        {
+          "keyword": "날씨",
+          "headline": "[표] 오늘의 날씨",
+          "url": "https://n.news.naver.com/mnews/article/009/0005742239?sid=103"
+        },
+        {
+          "keyword": "인천공항",
+          "headline": "롯데백화점 41계단 '껑충'…인천공항은 6위에 안착",
+          "url": "https://n.news.naver.com/mnews/article/015/0005337739?sid=103"
         }
       ]
     },
@@ -205,39 +230,49 @@
       "cls": "world",
       "items": [
         {
+          "keyword": "한국",
+          "headline": "한국 경기에 북한 국가…日주간지 “프랑스계 대행업체 직원 실수”",
+          "url": "https://n.news.naver.com/mnews/article/018/0006377885?sid=104"
+        },
+        {
+          "keyword": "중국",
+          "headline": "아시안게임 남자축구, 중국에 역전승 거두고 결승 진출",
+          "url": "https://n.news.naver.com/mnews/article/658/0000157088?sid=104"
+        },
+        {
+          "keyword": "아시안게임",
+          "headline": "[아시안게임] 한국 트랙 사이클 남녀 단체추발, 나란히 '동메달'",
+          "url": "https://n.news.naver.com/mnews/article/448/0000642319?sid=104"
+        },
+        {
           "keyword": "트럼프",
-          "headline": "美중간선거 한 달 앞으로…트럼프 '집토끼 수성' 총력",
-          "url": "https://n.news.naver.com/mnews/article/277/0005822741?sid=104"
+          "headline": "美 정부, 트럼프 찬양 광고에 2천만 달러 투입…여야 \"세금 남용\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014224981?sid=104"
         },
         {
-          "keyword": "양궁",
-          "headline": "관중들에 인사하는 양궁 강연서-박예린-박정윤",
-          "url": "https://n.news.naver.com/mnews/article/003/0014223199?sid=104"
+          "keyword": "배준호",
+          "headline": "세리머니 하는 배준호",
+          "url": "https://n.news.naver.com/mnews/article/003/0014224975?sid=104"
         },
         {
-          "keyword": "China",
-          "headline": "China Martyrs Day",
-          "url": "https://n.news.naver.com/mnews/article/077/0007183873?sid=104"
+          "keyword": "향한",
+          "headline": "네팔 산골에 뜬 800㎏짜리 드론이 향한 곳",
+          "url": "https://n.news.naver.com/mnews/article/047/0002530797?sid=104"
         },
         {
           "keyword": "경기",
-          "headline": "경기 펼치는 남과 북",
-          "url": "https://n.news.naver.com/mnews/article/001/0016346208?sid=104"
+          "headline": "[스포츠머그] \"세계 최고로 가, 도와줄 테니까\" 경기 후 선수 찾아가 격려한 정의선 양궁협회장",
+          "url": "https://n.news.naver.com/mnews/article/055/0001392209?sid=104"
         },
         {
-          "keyword": "남과",
-          "headline": "관중석의 남과 북",
-          "url": "https://n.news.naver.com/mnews/article/001/0016346204?sid=104"
+          "keyword": "동메달",
+          "headline": "사이클 단체 추발 남녀 대표팀, 동메달 2개 연달아 수확",
+          "url": "https://n.news.naver.com/mnews/article/469/0000956945?sid=104"
         },
         {
-          "keyword": "만에",
-          "headline": "中 9월 제조업 PMI 50.1…두 달 만에 경기 확장 전환",
-          "url": "https://n.news.naver.com/mnews/article/001/0016346200?sid=104"
-        },
-        {
-          "keyword": "박정윤",
-          "headline": "기뻐하는 강연서-박예린-박정윤",
-          "url": "https://n.news.naver.com/mnews/article/003/0014223198?sid=104"
+          "keyword": "중국전",
+          "headline": "중국전 승리 이끈 배준호의 골",
+          "url": "https://n.news.naver.com/mnews/article/003/0014224956?sid=104"
         }
       ]
     },
@@ -247,33 +282,13 @@
       "items": [
         {
           "keyword": "게임",
-          "headline": "멕시코, ‘게임 디지털 소유권’ 손본다",
-          "url": "https://n.news.naver.com/mnews/article/092/0002439225"
+          "headline": "[단독] 메타보라 웹3 게임, '루디코바 홀딩스'가 맡는다…라인게임즈도 참여",
+          "url": "https://n.news.naver.com/mnews/article/031/0001062453"
         },
         {
-          "keyword": "해외",
-          "headline": "검증된 IP 해외로, 신규 IP는 국내서... K게임 10월 대전",
-          "url": "https://n.news.naver.com/mnews/article/030/0003471026"
-        },
-        {
-          "keyword": "국내",
-          "headline": "국내 게임 대리인 지정 실효성 강화…게임산업법 대안 본회의만 남겨",
-          "url": "https://n.news.naver.com/mnews/article/031/0001062167"
-        },
-        {
-          "keyword": "게임사",
-          "headline": "글로벌 게임사 몰려온다…지스타 2026, 신작·인디 총집결",
-          "url": "https://n.news.naver.com/mnews/article/011/0004666606"
-        },
-        {
-          "keyword": "콤플렉스콘",
-          "headline": "크래프톤, 미국 '콤플렉스콘 2026' 참가…PUBG 협업 선보여",
-          "url": "https://n.news.naver.com/mnews/article/001/0016345819"
-        },
-        {
-          "keyword": "IP",
-          "headline": "크래프톤 펍지, 머신 건 켈리와 첫 협업…'콤플렉스콘'서 IP 확장",
-          "url": "https://n.news.naver.com/mnews/article/138/0002243129"
+          "keyword": "AI",
+          "headline": "넥슨이 청소년 프로그래밍 대회에 AI를 허용한 이유는?",
+          "url": "https://n.news.naver.com/mnews/article/347/0000195908"
         }
       ]
     }
