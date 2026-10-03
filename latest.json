@@ -1,34 +1,59 @@
 {
-  "updatedAt": "2026-10-04 03:43",
+  "updatedAt": "2026-10-04 06:46",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "은행",
-          "headline": "은행·2금융까지 해킹 피해 확산…금융당국 전 금융권 긴급소집",
-          "url": "https://n.news.naver.com/mnews/article/648/0000051300?sid=101"
+          "keyword": "삼성전자",
+          "headline": "삼성전자 “용인서 360조 투자하고 하수 수십만톤 재활용”",
+          "url": "https://n.news.naver.com/mnews/article/011/0004668047?sid=101"
         },
         {
-          "keyword": "유조선",
-          "headline": "이란 \"호르무즈서 유조선 폭발\"",
-          "url": "https://n.news.naver.com/mnews/article/014/0005584600?sid=101"
+          "keyword": "전기차",
+          "headline": "폭스바겐그룹코리아, 소방대원 전기차 구조 교육에 실차 지원",
+          "url": "https://n.news.naver.com/mnews/article/022/0004163861?sid=101"
         },
         {
-          "keyword": "가격",
-          "headline": "사과·배 가격 ‘뚝’ 떨어졌는데…“장보기 겁나” 곡소리 나오는 이유가",
-          "url": "https://n.news.naver.com/mnews/article/011/0004668042?sid=101"
+          "keyword": "용인",
+          "headline": "삼성, 용인 반도체 국가산단 이달 착공…지역주민에 청사진 공개",
+          "url": "https://n.news.naver.com/mnews/article/018/0006380603?sid=101"
         },
         {
-          "keyword": "비즈토크",
-          "headline": "[비즈토크<하>] '2.5조원 재산분할' 권혁빈 부부 모두 항소…쟁점은",
-          "url": "https://n.news.naver.com/mnews/article/629/0000539284?sid=101"
+          "keyword": "공개",
+          "headline": "삼성전자 3분기 실적 발표...9월 FOMC 의사록 공개 [한동훈의 위클리전망대]",
+          "url": "https://n.news.naver.com/mnews/article/011/0004668048?sid=101"
         },
         {
-          "keyword": "모두",
-          "headline": "\"국감 코앞인데\" 5대 은행 모두 해킹 공격…은행장 증인 압박 커지나",
-          "url": "https://n.news.naver.com/mnews/article/629/0000539279?sid=101"
+          "keyword": "감소",
+          "headline": "'금포도' 옛말 된 샤인머스캣…공급과잉·품질저하에 재배 감소",
+          "url": "https://n.news.naver.com/mnews/article/001/0016356225?sid=101"
+        },
+        {
+          "keyword": "달러",
+          "headline": "3분기 약달러에 ETF 상승률 1∼3위 모두 '달러 곱버스' 차지",
+          "url": "https://n.news.naver.com/mnews/article/001/0016356219?sid=101"
+        },
+        {
+          "keyword": "시대",
+          "headline": "청주, 목포.. 인구 감소 시대에도 살아 남는 지방 부동산의 공통점",
+          "url": "https://n.news.naver.com/mnews/article/023/0004001984?sid=101"
+        },
+        {
+          "keyword": "부동산",
+          "headline": "중기부, 정책자금 받아 부동산 사업 벌인 업체 40곳 적발",
+          "url": "https://n.news.naver.com/mnews/article/001/0016356209?sid=101"
+        },
+        {
+          "keyword": "외인",
+          "headline": "외인, 한달간 코스피서 20조 '팔자'…삼전 비중 46%·닉스 49%대",
+          "url": "https://n.news.naver.com/mnews/article/001/0016356214?sid=101"
+        },
+        {
+          "keyword": "지원",
+          "headline": "[정책 인사이트] ‘아시아·태평양 FTA’ 검토하는 정부… “효율성 있는 농어업 지원 방안 고민해야”",
+          "url": "https://n.news.naver.com/mnews/article/366/0001196028?sid=101"
         }
       ]
     },
@@ -37,34 +62,54 @@
       "cls": "society",
       "items": [
         {
+          "keyword": "전국",
+          "headline": "부산 동래온천지구, 전국 네 번째 ‘온천도시’ 지정",
+          "url": "https://n.news.naver.com/mnews/article/022/0004163858?sid=102"
+        },
+        {
+          "keyword": "글로벌",
+          "headline": "\"빛의 향연\" 진주남강유등축제 개막…글로벌 축제 위상",
+          "url": "https://n.news.naver.com/mnews/article/003/0014232399?sid=102"
+        },
+        {
+          "keyword": "넘어뜨린",
+          "headline": "\"술값 내고 가\" 여자친구 밀어 넘어뜨린 20대 집행유예",
+          "url": "https://n.news.naver.com/mnews/article/003/0014232401?sid=102"
+        },
+        {
+          "keyword": "집행유예",
+          "headline": "강간죄 신상정보 등록 안한 50대 집행유예",
+          "url": "https://n.news.naver.com/mnews/article/003/0014232391?sid=102"
+        },
+        {
+          "keyword": "구름",
+          "headline": "충북, 가끔 구름 많음…한낮 23~25도",
+          "url": "https://n.news.naver.com/mnews/article/003/0014232395?sid=102"
+        },
+        {
           "keyword": "밤부터",
-          "headline": "밤부터 중부 비…기온의 일교차 커",
-          "url": "https://n.news.naver.com/mnews/article/056/0012267551?sid=102"
+          "headline": "휴일 전북 밤부터 '5㎜ 미만 비'…낮 22~26도'가끔 구름'",
+          "url": "https://n.news.naver.com/mnews/article/003/0014232398?sid=102"
         },
         {
-          "keyword": "법원",
-          "headline": "김승원 후원 시도한 브로커…법원 \"큰 도움 보답하려 한 것\"",
-          "url": "https://n.news.naver.com/mnews/article/629/0000539280?sid=102"
+          "keyword": "양주",
+          "headline": "신도시 인구 느는데 필수의료 부족… 양주, 공공의료원 조기 건립 추진",
+          "url": "https://n.news.naver.com/mnews/article/022/0004163860?sid=102"
         },
         {
-          "keyword": "이것",
-          "headline": "농지 전수조사 걸려도…'이것 3가지'만 처분명령",
-          "url": "https://n.news.naver.com/mnews/article/665/0000008281?sid=102"
+          "keyword": "절실",
+          "headline": "스토킹·가정폭력 검거 1년 새 40%↑...보호 대책 절실",
+          "url": "https://n.news.naver.com/mnews/article/052/0002414510?sid=102"
         },
         {
           "keyword": "부산",
-          "headline": "부산 외국인 보유 토지 5114필지…‘제주’ 논란 새겨야",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232338?sid=102"
+          "headline": "성산대교 색 하나 정하려 부산 출장까지?…한강 다리에 숨은 사연",
+          "url": "https://n.news.naver.com/mnews/article/022/0004163850?sid=102"
         },
         {
-          "keyword": "외국인",
-          "headline": "최시원이 제지했건만 또…외국인 관광객, 경복궁 경내서 전자담배 흡연 논란",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232305?sid=102"
-        },
-        {
-          "keyword": "콘텐츠",
-          "headline": "[알림]뉴시스 콘텐츠 저작권 고지",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232307?sid=102"
+          "keyword": "잘못",
+          "headline": "갈비찜용 밤인가 했는데…이 열매 잘못 먹으면 '호흡 곤란'",
+          "url": "https://n.news.naver.com/mnews/article/422/0000912361?sid=102"
         }
       ]
     },
@@ -74,23 +119,33 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "글로벌 통신사 투자, 기지국서 AI 컴퓨팅으로 향했다",
-          "url": "https://n.news.naver.com/mnews/article/092/0002439779?sid=105"
-        },
-        {
-          "keyword": "개인정보",
           "headline": "애플, 맥 개인정보 접근 문턱 높인다…AI 에이전트 위험 경고",
           "url": "https://n.news.naver.com/mnews/article/003/0014232336?sid=105"
         },
         {
-          "keyword": "대응",
-          "headline": "SK쉴더스, AWS '위협탐지 및 대응' 컴피턴시 국내 첫 획득",
-          "url": "https://n.news.naver.com/mnews/article/092/0002439774?sid=105"
+          "keyword": "반도체",
+          "headline": "반도체 호황에 성과급↑…메모리 3사 실적에 '보상비용' 변수",
+          "url": "https://n.news.naver.com/mnews/article/001/0016356206?sid=105"
         },
         {
-          "keyword": "내일",
-          "headline": "금융당국, 해킹 피해 확산에 내일 금융권 긴급소집",
-          "url": "https://n.news.naver.com/mnews/article/422/0000912338?sid=105"
+          "keyword": "삼성전자",
+          "headline": "용인 과학축제에 펼쳐진 '반도체 도시'…삼성전자 팹 2029년 가동",
+          "url": "https://n.news.naver.com/mnews/article/031/0001063346?sid=105"
+        },
+        {
+          "keyword": "메모리",
+          "headline": "HBM 가격 치솟자 AI칩 ‘메모리 다이어트’…삼전닉스 전략도 바뀌나",
+          "url": "https://n.news.naver.com/mnews/article/029/0003051285?sid=105"
+        },
+        {
+          "keyword": "2029년",
+          "headline": "\"RGB LED TV 매출, 2029년 OLED TV 역전\"",
+          "url": "https://n.news.naver.com/mnews/article/092/0002439780?sid=105"
+        },
+        {
+          "keyword": "유출",
+          "headline": "iM뱅크·바로저축銀 올해 악성코드 감염…고객정보는 유출 안돼",
+          "url": "https://n.news.naver.com/mnews/article/001/0016356176?sid=105"
         }
       ]
     },
@@ -99,9 +154,54 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "4일",
-          "headline": "[오늘의 운세] 10월 4일 띠별 운세",
-          "url": "https://n.news.naver.com/mnews/article/015/0005338917?sid=103"
+          "keyword": "날씨",
+          "headline": "[오늘의 운세] 2026년 10월 4일 별자리 운세",
+          "url": "https://n.news.naver.com/mnews/article/018/0006380607?sid=103"
+        },
+        {
+          "keyword": "밤부터",
+          "headline": "연휴 둘째 날 밤부터 곳곳에 비…수도권 대기 건조 주의",
+          "url": "https://n.news.naver.com/mnews/article/001/0016356166?sid=103"
+        },
+        {
+          "keyword": "가을",
+          "headline": "개천절 구름 많고 쌀쌀한 가을…내일 곳곳 비[날씨]",
+          "url": "https://n.news.naver.com/mnews/article/422/0000912278?sid=103"
+        },
+        {
+          "keyword": "우리",
+          "headline": "中 관광객, 도쿄 버리고 서울 가는데…日 “우리 인기 여전해”",
+          "url": "https://n.news.naver.com/mnews/article/016/0002705245?sid=103"
+        },
+        {
+          "keyword": "전국",
+          "headline": "'완연한 가을' 전국 대부분 구름…밤부터 최대 30㎜ 비",
+          "url": "https://n.news.naver.com/mnews/article/660/0000118387?sid=103"
+        },
+        {
+          "keyword": "건강",
+          "headline": "경기남부 아침 쌀쌀, 낮 최고 26도 큰 일교차…\"건강 유의\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014232374?sid=103"
+        },
+        {
+          "keyword": "Book",
+          "headline": "강남자가 우리 부장은 왜 커피를 안살까…진짜 생활비 없다는데 [Book]",
+          "url": "https://n.news.naver.com/mnews/article/009/0005743639?sid=103"
+        },
+        {
+          "keyword": "축제",
+          "headline": "어린이 화가부터 전국 숨은 요리 고수까지 총출동하는 가을 축제 [페스티벌 플러스]",
+          "url": "https://n.news.naver.com/mnews/article/009/0005743635?sid=103"
+        },
+        {
+          "keyword": "최고",
+          "headline": "항공업계의 수능 성적표 나왔다 … 올해 최고의 항공사 어디 [항공+]",
+          "url": "https://n.news.naver.com/mnews/article/009/0005743636?sid=103"
+        },
+        {
+          "keyword": "내일",
+          "headline": "“남은 회, 내일 먹어도 될까?”… 안전한 보관법과 상식",
+          "url": "https://n.news.naver.com/mnews/article/033/0000052510?sid=103"
         }
       ]
     },
@@ -111,43 +211,18 @@
       "items": [
         {
           "keyword": "트럼프",
-          "headline": "트럼프 \"알래스카에 역사상 누구보다 많은 것 가져와\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232358?sid=104"
+          "headline": "트럼프 \"한국 알래스카 투자 합의 않으면 두배로 청구\"",
+          "url": "https://n.news.naver.com/mnews/article/057/0001971818?sid=104"
         },
         {
-          "keyword": "예멘",
-          "headline": "사우디·예멘 정부군, 후티 반군 충돌…\"최소 72명 사망\"",
-          "url": "https://n.news.naver.com/mnews/article/014/0005584602?sid=104"
+          "keyword": "Switzerland",
+          "headline": "Switzerland",
+          "url": "https://n.news.naver.com/mnews/article/077/0007188707?sid=104"
         },
         {
-          "keyword": "텃밭",
-          "headline": "미국 전통 공화당 텃밭 '흔들'…아이오와·캔자스 접전 양상",
-          "url": "https://n.news.naver.com/mnews/article/422/0000912359?sid=104"
-        },
-        {
-          "keyword": "양상",
-          "headline": "佛고교생 시위 양상 악화…정부, 재정난 속 교육개선 '딜레마'",
-          "url": "https://n.news.naver.com/mnews/article/001/0016355074?sid=104"
-        },
-        {
-          "keyword": "시위",
-          "headline": "스페인 '강제 퇴거' 주택난 항의 시위 확산…마드리드에 7만",
-          "url": "https://n.news.naver.com/mnews/article/422/0000912358?sid=104"
-        },
-        {
-          "keyword": "합의",
-          "headline": "트럼프 \"韓, 알래스카 투자 곧 합의 안 하면 두 배 청구\"",
-          "url": "https://n.news.naver.com/mnews/article/586/0000139381?sid=104"
-        },
-        {
-          "keyword": "축구",
-          "headline": "축구 금메달 시상식서 황당 사고…태극기 늑장 게양[나고야AG]",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232348?sid=104"
-        },
-        {
-          "keyword": "SPAIN",
-          "headline": "SPAIN COMIC CON",
-          "url": "https://n.news.naver.com/mnews/article/091/0010328686?sid=104"
+          "keyword": "결산",
+          "headline": "[AG 결산]①숙소 대란에 버스 노쇼까지…32년 만의 日 AG '낙제점'",
+          "url": "https://n.news.naver.com/mnews/article/421/0009208579?sid=104"
         }
       ]
     },
@@ -181,7 +256,7 @@
           "url": "https://n.news.naver.com/mnews/article/092/0002439741"
         },
         {
-          "keyword": "당부",
+          "keyword": "게임위",
           "headline": "'연락두절' 中 게임사에 칼 빼든 게임위…\"추가 결제 주의\" 당부",
           "url": "https://n.news.naver.com/mnews/article/138/0002243599"
         },
