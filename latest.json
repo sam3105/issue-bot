@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04 00:16",
+  "updatedAt": "2026-10-04 03:43",
   "categories": [
     {
       "name": "경제",
@@ -11,24 +11,14 @@
           "url": "https://n.news.naver.com/mnews/article/648/0000051300?sid=101"
         },
         {
-          "keyword": "금융당국",
-          "headline": "은행부터 캐피탈까지 해커에 뚫려…금융당국, 전 업권 긴급소집",
-          "url": "https://n.news.naver.com/mnews/article/018/0006380596?sid=101"
+          "keyword": "유조선",
+          "headline": "이란 \"호르무즈서 유조선 폭발\"",
+          "url": "https://n.news.naver.com/mnews/article/014/0005584600?sid=101"
         },
         {
-          "keyword": "피해",
-          "headline": "\"추가 피해 가능성...전쟁하듯 실시간 대응해야\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002414457?sid=101"
-        },
-        {
-          "keyword": "삼전",
-          "headline": "환율 여파에 삼전·닉스 3분기 이익 전망치↓…목표 주가는?",
-          "url": "https://n.news.naver.com/mnews/article/028/0002825768?sid=101"
-        },
-        {
-          "keyword": "실적",
-          "headline": "삼성전자 자사주 매입 막바지 … 시장 관심은 8일에 나올 실적",
-          "url": "https://n.news.naver.com/mnews/article/009/0005743413?sid=101"
+          "keyword": "가격",
+          "headline": "사과·배 가격 ‘뚝’ 떨어졌는데…“장보기 겁나” 곡소리 나오는 이유가",
+          "url": "https://n.news.naver.com/mnews/article/011/0004668042?sid=101"
         },
         {
           "keyword": "비즈토크",
@@ -39,21 +29,6 @@
           "keyword": "모두",
           "headline": "\"국감 코앞인데\" 5대 은행 모두 해킹 공격…은행장 증인 압박 커지나",
           "url": "https://n.news.naver.com/mnews/article/629/0000539279?sid=101"
-        },
-        {
-          "keyword": "압박",
-          "headline": "트럼프, 84억弗 석유 프로젝트 압박…정부 \"팩트시트 이행이 원칙\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232267?sid=101"
-        },
-        {
-          "keyword": "수도권",
-          "headline": "\"서울 전세난, 경기·인천으로 번졌다\"…수도권 집값 상승 본격화",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232301?sid=101"
-        },
-        {
-          "keyword": "최고",
-          "headline": "“월급 절반 은행 바친다”…서울서 ‘내 집 마련 부담’ 3년 반 만에 최고",
-          "url": "https://n.news.naver.com/mnews/article/011/0004668040?sid=101"
         }
       ]
     },
@@ -65,6 +40,31 @@
           "keyword": "밤부터",
           "headline": "밤부터 중부 비…기온의 일교차 커",
           "url": "https://n.news.naver.com/mnews/article/056/0012267551?sid=102"
+        },
+        {
+          "keyword": "법원",
+          "headline": "김승원 후원 시도한 브로커…법원 \"큰 도움 보답하려 한 것\"",
+          "url": "https://n.news.naver.com/mnews/article/629/0000539280?sid=102"
+        },
+        {
+          "keyword": "이것",
+          "headline": "농지 전수조사 걸려도…'이것 3가지'만 처분명령",
+          "url": "https://n.news.naver.com/mnews/article/665/0000008281?sid=102"
+        },
+        {
+          "keyword": "부산",
+          "headline": "부산 외국인 보유 토지 5114필지…‘제주’ 논란 새겨야",
+          "url": "https://n.news.naver.com/mnews/article/003/0014232338?sid=102"
+        },
+        {
+          "keyword": "외국인",
+          "headline": "최시원이 제지했건만 또…외국인 관광객, 경복궁 경내서 전자담배 흡연 논란",
+          "url": "https://n.news.naver.com/mnews/article/003/0014232305?sid=102"
+        },
+        {
+          "keyword": "콘텐츠",
+          "headline": "[알림]뉴시스 콘텐츠 저작권 고지",
+          "url": "https://n.news.naver.com/mnews/article/003/0014232307?sid=102"
         }
       ]
     },
@@ -78,6 +78,11 @@
           "url": "https://n.news.naver.com/mnews/article/092/0002439779?sid=105"
         },
         {
+          "keyword": "개인정보",
+          "headline": "애플, 맥 개인정보 접근 문턱 높인다…AI 에이전트 위험 경고",
+          "url": "https://n.news.naver.com/mnews/article/003/0014232336?sid=105"
+        },
+        {
           "keyword": "대응",
           "headline": "SK쉴더스, AWS '위협탐지 및 대응' 컴피턴시 국내 첫 획득",
           "url": "https://n.news.naver.com/mnews/article/092/0002439774?sid=105"
@@ -86,11 +91,6 @@
           "keyword": "내일",
           "headline": "금융당국, 해킹 피해 확산에 내일 금융권 긴급소집",
           "url": "https://n.news.naver.com/mnews/article/422/0000912338?sid=105"
-        },
-        {
-          "keyword": "해킹",
-          "headline": "금융권 해킹 비상에 긴급 권고…\"웹·API 취약점 즉각 점검하라\"",
-          "url": "https://n.news.naver.com/mnews/article/138/0002243600?sid=105"
         }
       ]
     },
@@ -110,34 +110,44 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "금메달",
-          "headline": "엄지성 '금메달 향도 좋네'",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232327?sid=104"
+          "keyword": "트럼프",
+          "headline": "트럼프 \"알래스카에 역사상 누구보다 많은 것 가져와\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014232358?sid=104"
         },
         {
-          "keyword": "엄지성",
-          "headline": "오늘의 주인공 엄지성",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232329?sid=104"
+          "keyword": "예멘",
+          "headline": "사우디·예멘 정부군, 후티 반군 충돌…\"최소 72명 사망\"",
+          "url": "https://n.news.naver.com/mnews/article/014/0005584602?sid=104"
+        },
+        {
+          "keyword": "텃밭",
+          "headline": "미국 전통 공화당 텃밭 '흔들'…아이오와·캔자스 접전 양상",
+          "url": "https://n.news.naver.com/mnews/article/422/0000912359?sid=104"
+        },
+        {
+          "keyword": "양상",
+          "headline": "佛고교생 시위 양상 악화…정부, 재정난 속 교육개선 '딜레마'",
+          "url": "https://n.news.naver.com/mnews/article/001/0016355074?sid=104"
+        },
+        {
+          "keyword": "시위",
+          "headline": "스페인 '강제 퇴거' 주택난 항의 시위 확산…마드리드에 7만",
+          "url": "https://n.news.naver.com/mnews/article/422/0000912358?sid=104"
+        },
+        {
+          "keyword": "합의",
+          "headline": "트럼프 \"韓, 알래스카 투자 곧 합의 안 하면 두 배 청구\"",
+          "url": "https://n.news.naver.com/mnews/article/586/0000139381?sid=104"
         },
         {
           "keyword": "축구",
-          "headline": "승리 기쁨 누리는 축구 대표팀",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232322?sid=104"
+          "headline": "축구 금메달 시상식서 황당 사고…태극기 늑장 게양[나고야AG]",
+          "url": "https://n.news.naver.com/mnews/article/003/0014232348?sid=104"
         },
         {
-          "keyword": "태극기",
-          "headline": "태극기 게양 사고",
-          "url": "https://n.news.naver.com/mnews/article/001/0016356151?sid=104"
-        },
-        {
-          "keyword": "대한민국",
-          "headline": "기뻐하는 대한민국 선수들",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232314?sid=104"
-        },
-        {
-          "keyword": "선수들",
-          "headline": "일본 선수들과 인사 나누는 엄지성",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232326?sid=104"
+          "keyword": "SPAIN",
+          "headline": "SPAIN COMIC CON",
+          "url": "https://n.news.naver.com/mnews/article/091/0010328686?sid=104"
         }
       ]
     },
@@ -171,7 +181,7 @@
           "url": "https://n.news.naver.com/mnews/article/092/0002439741"
         },
         {
-          "keyword": "게임위",
+          "keyword": "당부",
           "headline": "'연락두절' 中 게임사에 칼 빼든 게임위…\"추가 결제 주의\" 당부",
           "url": "https://n.news.naver.com/mnews/article/138/0002243599"
         },
