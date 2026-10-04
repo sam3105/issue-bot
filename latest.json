@@ -1,54 +1,59 @@
 {
-  "updatedAt": "2026-10-04 14:45",
+  "updatedAt": "2026-10-04 20:18",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "이억원",
-          "headline": "모두 발언하는 이억원 금융위원장",
-          "url": "https://n.news.naver.com/mnews/article/421/0009208959?sid=101"
+          "keyword": "해킹",
+          "headline": "2금융권까지 털려…금융당국 \"AI 해킹 가능성\"",
+          "url": "https://n.news.naver.com/mnews/article/422/0000912523?sid=101"
         },
         {
           "keyword": "금융권",
-          "headline": "이억원 “금융권 전체 침해사고 최고수준 경각심 필요”",
-          "url": "https://n.news.naver.com/mnews/article/421/0009208954?sid=101"
+          "headline": "제2금융권까지 털렸다…금융당국, 긴급회의 소집",
+          "url": "https://n.news.naver.com/mnews/article/448/0000643047?sid=101"
         },
         {
           "keyword": "AI",
-          "headline": "\"AI 해킹 가능성 배제 못 해\", 줄줄이 뚫린 금융권",
-          "url": "https://n.news.naver.com/mnews/article/417/0001160029?sid=101"
+          "headline": "'AI 해킹'에 금융권 줄줄이 피해…긴급 회의 소집",
+          "url": "https://n.news.naver.com/mnews/article/055/0001393080?sid=101"
         },
         {
-          "keyword": "투자",
-          "headline": "이억원 \"보안은 비용 아닌 투자… AI 공격, AI로 방어해야\"",
-          "url": "https://n.news.naver.com/mnews/article/119/0003139374?sid=101"
+          "keyword": "공격",
+          "headline": "온투업 2곳에서도 정보 유출…“27일부터 공격”",
+          "url": "https://n.news.naver.com/mnews/article/056/0012267635?sid=101"
         },
         {
-          "keyword": "해킹",
-          "headline": "이억원 \"AI 활용 해킹 가능성…최고수준 경각심 가져야\"",
-          "url": "https://n.news.naver.com/mnews/article/277/0005824486?sid=101"
+          "keyword": "직원",
+          "headline": "한전 전체 직원 개인정보 노출…\"고객 정보는 안전\"",
+          "url": "https://n.news.naver.com/mnews/article/055/0001393083?sid=101"
         },
         {
           "keyword": "정보",
-          "headline": "웰컴저축은행도 정보 유출… 법인고객 2200건 추정",
-          "url": "https://n.news.naver.com/mnews/article/366/0001196064?sid=101"
+          "headline": "취약점 찾아 빠르게 공격…내 정보·자산 안전할까?",
+          "url": "https://n.news.naver.com/mnews/article/055/0001393081?sid=101"
         },
         {
-          "keyword": "가격",
-          "headline": "휘발유 가격 소폭 내려…20주 연속 하락",
-          "url": "https://n.news.naver.com/mnews/article/009/0005743730?sid=101"
+          "keyword": "정부",
+          "headline": "정부 162조 쌈짓돈 만들어줄 판…재경위 ‘국회 패싱 특례’ 반발",
+          "url": "https://n.news.naver.com/mnews/article/009/0005743877?sid=101"
         },
         {
-          "keyword": "점검",
-          "headline": "이억원 \"침해사고 최고 수준 경각심…보안 빈틈없게 점검\"",
-          "url": "https://n.news.naver.com/mnews/article/421/0009208966?sid=101"
+          "keyword": "주가",
+          "headline": "앤트로픽·릴리가 지목한 '이 회사'…AI신약붐에 주가 7배",
+          "url": "https://n.news.naver.com/mnews/article/008/0005421983?sid=101"
         },
         {
-          "keyword": "주진우",
-          "headline": "주진우 \"'암살자(들)' 제작사, 국책은행 투자금으로 홍대 15층 건물 투기\"",
-          "url": "https://n.news.naver.com/mnews/article/421/0009208957?sid=101"
+          "keyword": "2만",
+          "headline": "금융권 해킹에 정부 '24시간 비상체제'…기업 2만 8000곳 보안점검",
+          "url": "https://n.news.naver.com/mnews/article/656/0000188539?sid=101"
+        },
+        {
+          "keyword": "해커",
+          "headline": "‘중국 AI’ 손에 쥔 해커…벌써 7개 금융 털렸다",
+          "url": "https://n.news.naver.com/mnews/article/081/0003685909?sid=101"
         }
       ]
     },
@@ -57,34 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "유해진",
-          "headline": "배우 유해진 규탄 집회",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232858?sid=102"
+          "keyword": "AI",
+          "headline": "고리원전, 지역주민 대상 SMR·AI 등 강좌",
+          "url": "https://n.news.naver.com/mnews/article/658/0000157472?sid=102"
         },
         {
-          "keyword": "암살자",
-          "headline": "영화 '암살자(들)' 200만 관객 돌파",
-          "url": "https://n.news.naver.com/mnews/article/421/0009208979?sid=102"
+          "keyword": "경찰",
+          "headline": "'선거법 위반·성매매 의혹' 김상욱 울산시장 첫 경찰 조사",
+          "url": "https://n.news.naver.com/mnews/article/448/0000643051?sid=102"
         },
         {
-          "keyword": "페스티벌",
-          "headline": "시 승격 30년 용인, '조아용 페스티벌'…캐릭터 퍼레이드",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232845?sid=102"
+          "keyword": "울산바위",
+          "headline": "울산바위 담으려다 그만…40m 추락한 70대 등산객 숨져",
+          "url": "https://n.news.naver.com/mnews/article/437/0000514040?sid=102"
         },
         {
           "keyword": "인파",
-          "headline": "휴일 야구장 인파",
-          "url": "https://n.news.naver.com/mnews/article/421/0009208982?sid=102"
+          "headline": "\"당분간 구조 작전 없어\"…부캉이 보러 구름 인파 몰려",
+          "url": "https://n.news.naver.com/mnews/article/057/0001971988?sid=102"
         },
         {
           "keyword": "부캉",
-          "headline": "부캉이 보러 온 구름 인파",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232838?sid=102"
+          "headline": "떠나지 않는 상어 '부캉이' 보러 인파…누적 방문 80만명",
+          "url": "https://n.news.naver.com/mnews/article/422/0000912532?sid=102"
         },
         {
-          "keyword": "AI",
-          "headline": "AI가 은행 해킹했다고?...“AI로 막아라”",
-          "url": "https://n.news.naver.com/mnews/article/024/0000108694?sid=102"
+          "keyword": "축제",
+          "headline": "위기의 '소래포구'…축제·현장센터 통해 쇄신 약속",
+          "url": "https://n.news.naver.com/mnews/article/422/0000912533?sid=102"
+        },
+        {
+          "keyword": "암살자",
+          "headline": "메가박스, '암살자(들)' 굿즈 논란 사과… 남은 티켓 전량 폐기",
+          "url": "https://n.news.naver.com/mnews/article/656/0000188542?sid=102"
+        },
+        {
+          "keyword": "제작",
+          "headline": "AI 성착취물 제작·유포자 잡고보니 현직 경찰…구속·직위해제",
+          "url": "https://n.news.naver.com/mnews/article/448/0000643052?sid=102"
+        },
+        {
+          "keyword": "단풍철",
+          "headline": "전남광주소방, 단풍철 산악사고 주의 당부",
+          "url": "https://n.news.naver.com/mnews/article/079/0004195576?sid=102"
+        },
+        {
+          "keyword": "연휴",
+          "headline": "연휴 마지막 날, 낮 기온 5도 ‘뚝’… 중부·호남엔 비",
+          "url": "https://n.news.naver.com/mnews/article/366/0001196078?sid=102"
         }
       ]
     },
@@ -94,53 +119,53 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "AI 활용 해커들, 상호금융까지 전방위 공격",
-          "url": "https://n.news.naver.com/mnews/article/422/0000912451?sid=105"
+          "headline": "'AI 해커' 1인에 초토화된 韓 금융",
+          "url": "https://n.news.naver.com/mnews/article/009/0005743851?sid=105"
         },
         {
-          "keyword": "금융권",
-          "headline": "“초유의 금융권 전방위 해킹”…李 “철저 조사·대책 마련”",
-          "url": "https://n.news.naver.com/mnews/article/138/0002243624?sid=105"
+          "keyword": "해킹",
+          "headline": "해킹에 악용된 AI 에이전트는 '아르텍스'",
+          "url": "https://n.news.naver.com/mnews/article/015/0005339077?sid=105"
         },
         {
-          "keyword": "암살자",
-          "headline": "‘암살자(들)’ 평점 조작 의심 정황…네이버, 경찰 수사 의뢰",
-          "url": "https://n.news.naver.com/mnews/article/005/0001876596?sid=105"
+          "keyword": "대응",
+          "headline": "과기정통부, 금융권 해킹 대응 긴급 대응 체계 가동",
+          "url": "https://n.news.naver.com/mnews/article/092/0002439813?sid=105"
         },
         {
-          "keyword": "KISA",
-          "headline": "KISA, 암호모듈 전문교육 심화과정 교육생 모집",
-          "url": "https://n.news.naver.com/mnews/article/092/0002439801?sid=105"
+          "keyword": "24시간",
+          "headline": "신재생에너지 발전소 AI로 24시간 관리",
+          "url": "https://n.news.naver.com/mnews/article/014/0005584798?sid=105"
+        },
+        {
+          "keyword": "비상",
+          "headline": "금융권 해킹 비상에 긴급 권고…\"웹·API 취약점 즉각 점검하라\"",
+          "url": "https://n.news.naver.com/mnews/article/138/0002243600?sid=105"
+        },
+        {
+          "keyword": "보안",
+          "headline": "은행 다음은 어디... \"보안 틈새 메우고 이상징후 탐지 기준 높여야\"",
+          "url": "https://n.news.naver.com/mnews/article/469/0000957635?sid=105"
+        },
+        {
+          "keyword": "KT",
+          "headline": "KT 스포츠단 결실…亞게임서 금메달 3개",
+          "url": "https://n.news.naver.com/mnews/article/015/0005339026?sid=105"
+        },
+        {
+          "keyword": "한전",
+          "headline": "한전 변전소에 리벨리온 NPU 투입… AI영상분석 성능 검증",
+          "url": "https://n.news.naver.com/mnews/article/014/0005584799?sid=105"
+        },
+        {
+          "keyword": "대세",
+          "headline": "대세가 된 과기원 교수 창업, 3년새 30% 증가",
+          "url": "https://n.news.naver.com/mnews/article/015/0005339076?sid=105"
         },
         {
           "keyword": "대표",
-          "headline": "[정보통신 미래모임 30년] 100자 메시지- 김종현 쿠콘 대표",
-          "url": "https://n.news.naver.com/mnews/article/030/0003472195?sid=105"
-        },
-        {
-          "keyword": "착수",
-          "headline": "개보위, 영국과 개인정보 보호 동등성 인정 검토 착수",
-          "url": "https://n.news.naver.com/mnews/article/092/0002439799?sid=105"
-        },
-        {
-          "keyword": "공격",
-          "headline": "\"다른 업종까지 노렸나\"…정부, '금융권 공격 IP'발 全업종 유사 피해 조사 착수",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232800?sid=105"
-        },
-        {
-          "keyword": "안전",
-          "headline": "오픈AI 안전 담당자 또 사임...‘원전 수준 안전체계 필요’",
-          "url": "https://n.news.naver.com/mnews/article/009/0005743723?sid=105"
-        },
-        {
-          "keyword": "이억원",
-          "headline": "[속보] 이억원 \"AI활용 해킹공격 가능성…민감정보 유출은 미확인\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016356648?sid=105"
-        },
-        {
-          "keyword": "누리호",
-          "headline": "누리호 5차 발사 D-3...막바지 준비 상황과 변수는?",
-          "url": "https://n.news.naver.com/mnews/article/052/0002414583?sid=105"
+          "headline": "홍범식 LG유플 대표, 링크트인 열었다",
+          "url": "https://n.news.naver.com/mnews/article/009/0005743810?sid=105"
         }
       ]
     },
@@ -149,24 +174,54 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "정조대왕",
-          "headline": "'정조대왕 납시오'",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232834?sid=103"
-        },
-        {
-          "keyword": "연다",
-          "headline": "30주년 맞이한 롯데온 ‘온쇼페’ 연다",
-          "url": "https://n.news.naver.com/mnews/article/009/0005743722?sid=103"
-        },
-        {
           "keyword": "날씨",
-          "headline": "[날씨] 개천절 연휴 곳곳 가을비…큰 일교차 유의",
-          "url": "https://n.news.naver.com/mnews/article/422/0000912479?sid=103"
+          "headline": "[5일의 날씨] 연휴 마지막 날, 해님도 늦잠",
+          "url": "https://n.news.naver.com/mnews/article/022/0004163964?sid=103"
         },
         {
-          "keyword": "휴남동",
-          "headline": "‘휴남동 서점입니다’ 100만 부 판매…황보름 “상상조차 할 수 없었다”",
-          "url": "https://n.news.naver.com/mnews/article/020/0003752583?sid=103"
+          "keyword": "전국",
+          "headline": "5일 전국 비…오후부터 찬바람에 '쌀쌀'",
+          "url": "https://n.news.naver.com/mnews/article/015/0005339065?sid=103"
+        },
+        {
+          "keyword": "암살자",
+          "headline": "네이버 \"암살자(들) 관람평 비정상적 트래픽 확인...수사 의뢰\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002414701?sid=103"
+        },
+        {
+          "keyword": "마지막",
+          "headline": "[날씨] 연휴 마지막 날 오전까지 전국 비…돌풍·우박 가능성",
+          "url": "https://n.news.naver.com/mnews/article/422/0000912535?sid=103"
+        },
+        {
+          "keyword": "쌀쌀",
+          "headline": "'연휴인데 하필 비가'...오후 들어 찬바람 불며 '쌀쌀'",
+          "url": "https://n.news.naver.com/mnews/article/215/0001268164?sid=103"
+        },
+        {
+          "keyword": "5일",
+          "headline": "오늘의 운세- 2026년 10월 5일 (음 8월 25일)",
+          "url": "https://n.news.naver.com/mnews/article/658/0000157466?sid=103"
+        },
+        {
+          "keyword": "이것",
+          "headline": "“뽀뽀 조심해라”…생후 3주 아기, ‘이것’ 감염돼 폐까지 쪼그라든 사연은?",
+          "url": "https://n.news.naver.com/mnews/article/296/0000105578?sid=103"
+        },
+        {
+          "keyword": "시간",
+          "headline": "네 시간을 기다려도 만나고 싶은 '최애'가 있다",
+          "url": "https://n.news.naver.com/mnews/article/047/0002531190?sid=103"
+        },
+        {
+          "keyword": "GV80",
+          "headline": "16년 만에 '최악 부진' 현대차…7천만원대 GV80 꺼낸다",
+          "url": "https://n.news.naver.com/mnews/article/015/0005339071?sid=103"
+        },
+        {
+          "keyword": "축제",
+          "headline": "경성대·부경대 ‘골목골목’ 문화 축제",
+          "url": "https://n.news.naver.com/mnews/article/658/0000157422?sid=103"
         }
       ]
     },
@@ -175,54 +230,54 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "트럼프",
-          "headline": "트럼프 \"김정은과 잘 지내…북한 핵미사일 112기\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232786?sid=104"
-        },
-        {
-          "keyword": "AG",
-          "headline": "‘유일한 완등’…정상을 향해 가는 서채현 [나고야 AG 포토]",
-          "url": "https://n.news.naver.com/mnews/article/119/0003139371?sid=104"
-        },
-        {
           "keyword": "아시안게임",
-          "headline": "[그래픽] 역대 아시안게임 한국 순위",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232775?sid=104"
-        },
-        {
-          "keyword": "군대",
-          "headline": "전역모 쓰고 \"군대 안 간다\" 발언까지…\"국대 품격 어디갔냐\" 질타",
-          "url": "https://n.news.naver.com/mnews/article/015/0005338982?sid=104"
-        },
-        {
-          "keyword": "한국",
-          "headline": "[그래픽] 아이치·나고야 아시안게임 한국, 최종 메달 순위 3위",
-          "url": "https://n.news.naver.com/mnews/article/003/0014232774?sid=104"
-        },
-        {
-          "keyword": "다카이치",
-          "headline": "다카이치 1년, “돌풍은 사라졌지만…”",
-          "url": "https://n.news.naver.com/mnews/article/016/0002705332?sid=104"
-        },
-        {
-          "keyword": "중국",
-          "headline": "중국 정부가 천년 전 왕안석을 소환한 까닭 [베이징코드]",
-          "url": "https://n.news.naver.com/mnews/article/022/0004163933?sid=104"
-        },
-        {
-          "keyword": "정부",
-          "headline": "‘초접전’ 예상 브라질 대선···친 트럼프 정부 들어설까",
-          "url": "https://n.news.naver.com/mnews/article/032/0003474099?sid=104"
-        },
-        {
-          "keyword": "역대",
-          "headline": "유승민 체육회장 \"역대 가장 많이 항의한 아시안게임…선수단에 감사\"",
-          "url": "https://n.news.naver.com/mnews/article/057/0001971943?sid=104"
+          "headline": "16일간 타오르던 성화 소화",
+          "url": "https://n.news.naver.com/mnews/article/003/0014233171?sid=104"
         },
         {
           "keyword": "나고야",
-          "headline": "“이렇게 좋을 수가” 아시안게임 4연패 일군 축구대표팀 [나고야 AG 포토]",
-          "url": "https://n.news.naver.com/mnews/article/119/0003139372?sid=104"
+          "headline": "뜨거웠던 아이치·나고야 '굿바이'",
+          "url": "https://n.news.naver.com/mnews/article/421/0009209332?sid=104"
+        },
+        {
+          "keyword": "AG",
+          "headline": "야유 터진 태극기 게양 사고…'총체적 난맥' 속 AG 폐막",
+          "url": "https://n.news.naver.com/mnews/article/437/0000514044?sid=104"
+        },
+        {
+          "keyword": "태극기",
+          "headline": "태극기 들고 입장하는 서채현",
+          "url": "https://n.news.naver.com/mnews/article/003/0014233173?sid=104"
+        },
+        {
+          "keyword": "운영",
+          "headline": "\"국제대회 수준이‥\" 엉망진창 운영에 선수들도 '황당'",
+          "url": "https://n.news.naver.com/mnews/article/214/0001527135?sid=104"
+        },
+        {
+          "keyword": "엉망진창",
+          "headline": "'엉망진창 AG' 유승민 대한체육회장 \"항의문을 가장 많이 보낸 대회\"",
+          "url": "https://n.news.naver.com/mnews/article/119/0003139397?sid=104"
+        },
+        {
+          "keyword": "트럼프",
+          "headline": "트럼프 행정부, ‘중동 관련’ 캠프데이비드 극비 회의",
+          "url": "https://n.news.naver.com/mnews/article/056/0012267473?sid=104"
+        },
+        {
+          "keyword": "입장",
+          "headline": "우크라 전쟁영웅 韓비판...\"李, 젤레스키 위협할 입장 아냐\"",
+          "url": "https://n.news.naver.com/mnews/article/215/0001268167?sid=104"
+        },
+        {
+          "keyword": "젤렌스키",
+          "headline": "젤렌스키 \"푸틴, 민간시설 공격 확대…러 정유시설 타격 늘릴 것\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009209331?sid=104"
+        },
+        {
+          "keyword": "가장",
+          "headline": "배불뚝이 탈모 재벌로 변신했건만…19년 만에 가장 낮은 성적표",
+          "url": "https://n.news.naver.com/mnews/article/055/0001392990?sid=104"
         }
       ]
     },
@@ -232,13 +287,13 @@
       "items": [
         {
           "keyword": "글로벌",
-          "headline": "엔씨 신작 '아스오라', 글로벌 비공개 테스트 돌입",
-          "url": "https://n.news.naver.com/mnews/article/648/0000051289"
+          "headline": "'아이온2', 글로벌 스팀 동접 17만 돌파…엔씨 주가 반등",
+          "url": "https://n.news.naver.com/mnews/article/092/0002439766"
         },
         {
           "keyword": "게임",
-          "headline": "‘템빨’, 애니·게임으로 영토 확장…IP 시너지 노린다",
-          "url": "https://n.news.naver.com/mnews/article/011/0004667931"
+          "headline": "삼국지·디아블로 … 게임도 '복고 열풍'",
+          "url": "https://n.news.naver.com/mnews/article/009/0005743807"
         },
         {
           "keyword": "아시안게임",
@@ -251,29 +306,9 @@
           "url": "https://n.news.naver.com/mnews/article/119/0003139202"
         },
         {
-          "keyword": "개발",
-          "headline": "충남도립대 컴퓨터공학과, 학생 개발 게임 '지스타' 출품 준비 박차",
-          "url": "https://n.news.naver.com/mnews/article/092/0002439737"
-        },
-        {
           "keyword": "템빨",
-          "headline": "넥슨 '템빨: 오버기어드', 개발 방향성은...장비 중심 성장 시스템 눈길",
-          "url": "https://n.news.naver.com/mnews/article/092/0002439782"
-        },
-        {
-          "keyword": "게임위",
-          "headline": "'연락두절' 中 게임사에 칼 빼든 게임위…\"추가 결제 주의\" 당부",
-          "url": "https://n.news.naver.com/mnews/article/138/0002243599"
-        },
-        {
-          "keyword": "신규",
-          "headline": "라인게임즈, '창세기전 모바일' 신규 캐릭터 '카이' 등장 예고",
-          "url": "https://n.news.naver.com/mnews/article/092/0002439741"
-        },
-        {
-          "keyword": "개막",
-          "headline": "크래프톤, '마운틴듀 PMPS 2026 시즌 2' 3일 개막",
-          "url": "https://n.news.naver.com/mnews/article/092/0002439736"
+          "headline": "‘템빨’, 애니·게임으로 영토 확장…IP 시너지 노린다",
+          "url": "https://n.news.naver.com/mnews/article/011/0004667931"
         }
       ]
     }
