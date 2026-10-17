@@ -1,24 +1,44 @@
 {
-  "updatedAt": "2026-10-18 01:21",
+  "updatedAt": "2026-10-18 03:36",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
+          "keyword": "전문",
+          "headline": "월가 30년 신용투자 전문가 \"美고금리 장기화…디폴트 더 늘 수도\"",
+          "url": "https://n.news.naver.com/mnews/article/018/0006390523?sid=101"
+        },
+        {
+          "keyword": "반도체",
+          "headline": "삼전하닉 추격하는 中 반도체 굴기…창신메모리 매출 600% 폭증",
+          "url": "https://n.news.naver.com/mnews/article/053/0000062355?sid=101"
+        },
+        {
+          "keyword": "공급",
+          "headline": "이형일 \"반도체 호황 최소 내년까지 지속…수요·공급 격차 여전\"",
+          "url": "https://n.news.naver.com/mnews/article/018/0006390528?sid=101"
+        },
+        {
+          "keyword": "원금",
+          "headline": "삼전에 20배 베팅?…손실 만회하려다 원금 날릴 판",
+          "url": "https://n.news.naver.com/mnews/article/665/0000008378?sid=101"
+        },
+        {
+          "keyword": "한국",
+          "headline": "바이오·제약 산업 구조 흔드는 AI…한국 수혜 가능성은",
+          "url": "https://n.news.naver.com/mnews/article/119/0003143852?sid=101"
+        },
+        {
           "keyword": "비즈토크",
           "headline": "[비즈토크<상>] 집값 잡히지 않으면 '사퇴' LH 사장…말보다 급한 공급 실적",
           "url": "https://n.news.naver.com/mnews/article/629/0000542975?sid=101"
         },
         {
-          "keyword": "창신메모리",
-          "headline": "삼전하닉 추격하는 中 반도체 굴기…창신메모리 매출 600% 폭증",
-          "url": "https://n.news.naver.com/mnews/article/053/0000062355?sid=101"
-        },
-        {
-          "keyword": "아이폰",
-          "headline": "“오늘 주문하면 내년에 받는다?”…아이폰 듀오, ‘품귀’ 본격화 조짐",
-          "url": "https://n.news.naver.com/mnews/article/009/0005749865?sid=101"
+          "keyword": "주식",
+          "headline": "\"주식은 안 내는데 코인은 왜?\"…2030 분노 키운 가상자산 과세 형평성 논란",
+          "url": "https://n.news.naver.com/mnews/article/003/0014260126?sid=101"
         }
       ]
     },
@@ -27,29 +47,29 @@
       "cls": "society",
       "items": [
         {
+          "keyword": "화재",
+          "headline": "'쓰나미·선박 화재 대비' 해경, 대규모 구조 훈련",
+          "url": "https://n.news.naver.com/mnews/article/052/0002420145?sid=102"
+        },
+        {
           "keyword": "무료",
           "headline": "부룬디·필리핀·말레이 '합창·전통음악'…23일 무료 공연",
           "url": "https://n.news.naver.com/mnews/article/003/0014260144?sid=102"
         },
         {
-          "keyword": "우리",
-          "headline": "\"우리 가게 앞 왜 막나?\"…닭강정집 줄에 어묵집 사장 '울상'",
-          "url": "https://n.news.naver.com/mnews/article/003/0014260139?sid=102"
+          "keyword": "주차장서",
+          "headline": "서울 문정동 다세대주택 주차장서 불…8명 경상",
+          "url": "https://n.news.naver.com/mnews/article/056/0012275748?sid=102"
         },
         {
-          "keyword": "화재",
+          "keyword": "인천",
           "headline": "인천 수산물 가공 공장 화재 2시간여 만 완진…인명피해 없어",
           "url": "https://n.news.naver.com/mnews/article/422/0000916717?sid=102"
         },
         {
-          "keyword": "전국",
-          "headline": "전국에 비…비 그치면 기온 ‘뚝’",
-          "url": "https://n.news.naver.com/mnews/article/056/0012275744?sid=102"
-        },
-        {
-          "keyword": "부천",
-          "headline": "\"불길에 가장 먼저\"…부천 심정지 소방관 끝내 숨져",
-          "url": "https://n.news.naver.com/mnews/article/003/0014259432?sid=102"
+          "keyword": "우리",
+          "headline": "\"우리 가게 앞 왜 막나?\"…닭강정집 줄에 어묵집 사장 '울상'",
+          "url": "https://n.news.naver.com/mnews/article/003/0014260139?sid=102"
         }
       ]
     },
@@ -71,6 +91,11 @@
           "keyword": "나이",
           "headline": "“나이 안 드신다”는 성시경 말에…64세 톰 크루즈가 밝힌 자기관리",
           "url": "https://n.news.naver.com/mnews/article/020/0003755683?sid=105"
+        },
+        {
+          "keyword": "아이폰",
+          "headline": "\"509만원도 완판\"…아이폰 듀오, 지금 예약시 내년 1월 받는다",
+          "url": "https://n.news.naver.com/mnews/article/018/0006390089?sid=105"
         }
       ]
     },
@@ -79,9 +104,24 @@
       "cls": "life",
       "items": [
         {
+          "keyword": "18일",
+          "headline": "[오늘의 운세] 2026년 10월 18일 별자리 운세",
+          "url": "https://n.news.naver.com/mnews/article/015/0005343591?sid=103"
+        },
+        {
           "keyword": "날씨",
-          "headline": "토요일 맑고 온화한 날씨…일요일 최대 80㎜ 강한 비[날씨]",
-          "url": "https://n.news.naver.com/mnews/article/448/0000645358?sid=103"
+          "headline": "[날씨] 새벽부터 가을비 최고 80mm...서울 등 곳곳 강풍예비특보",
+          "url": "https://n.news.naver.com/mnews/article/052/0002420130?sid=103"
+        },
+        {
+          "keyword": "전국",
+          "headline": "일요일 전국 요란한 비바람[이슈날씨]",
+          "url": "https://n.news.naver.com/mnews/article/052/0002419841?sid=103"
+        },
+        {
+          "keyword": "하나님",
+          "headline": "[가정예배 365-10월 18일] 하나님의 진노, 내버려 두사",
+          "url": "https://n.news.naver.com/mnews/article/005/0001879247?sid=103"
         },
         {
           "keyword": "감량",
@@ -89,9 +129,9 @@
           "url": "https://n.news.naver.com/mnews/article/346/0000117481?sid=103"
         },
         {
-          "keyword": "18일",
-          "headline": "[김동완의 오늘의 운세] 2026년 10월 18일",
-          "url": "https://n.news.naver.com/mnews/article/081/0003689887?sid=103"
+          "keyword": "강한",
+          "headline": "토요일 맑고 밤부터 구름…큰 일교차에 전국 강한 바람[오늘날씨]",
+          "url": "https://n.news.naver.com/mnews/article/421/0009233198?sid=103"
         }
       ]
     },
@@ -100,49 +140,49 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "대통령",
-          "headline": "이집트 대통령 \"사우디 방어 위한 군사지원 채비\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002420127?sid=104"
-        },
-        {
-          "keyword": "사우디",
-          "headline": "이집트 대통령 \"사우디 요청 시 방어\"…18일 의회 긴급회의",
-          "url": "https://n.news.naver.com/mnews/article/421/0009233816?sid=104"
-        },
-        {
-          "keyword": "PROTEST",
-          "headline": "FRANCE PROTEST",
-          "url": "https://n.news.naver.com/mnews/article/091/0010343013?sid=104"
-        },
-        {
-          "keyword": "Election",
-          "headline": "Election 2028 Newsom",
-          "url": "https://n.news.naver.com/mnews/article/077/0007205394?sid=104"
-        },
-        {
           "keyword": "트럼프",
-          "headline": "트럼프 행정부, 미얀마 군부와 회담...'인권보다는 희토류'",
-          "url": "https://n.news.naver.com/mnews/article/052/0002420129?sid=104"
+          "headline": "\"서로 총질\"…중간선거 판세 악화에 트럼프 진영 내분",
+          "url": "https://n.news.naver.com/mnews/article/018/0006390526?sid=104"
         },
         {
           "keyword": "SOCCER",
           "headline": "SPAIN SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010343009?sid=104"
+          "url": "https://n.news.naver.com/mnews/article/091/0010343060?sid=104"
         },
         {
-          "keyword": "시위",
-          "headline": "알바니아 수도에서 5일째 반정부 시위...\"고무탄으로 부상자 속출\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002420124?sid=104"
+          "keyword": "이스라엘",
+          "headline": "서안서 이스라엘 정착민들 유럽 외교관 습격…1명 부상·차량 훼손",
+          "url": "https://n.news.naver.com/mnews/article/421/0009233817?sid=104"
         },
         {
-          "keyword": "epaselect",
-          "headline": "epaselect GERMANY SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010343006?sid=104"
+          "keyword": "공격",
+          "headline": "\"백악관 대변인 경질 부른 인터뷰는 비서실장이 주선...의도된 공격\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002420140?sid=104"
         },
         {
-          "keyword": "CONFLICT",
-          "headline": "YEMEN CONFLICT PRISONER FREED",
-          "url": "https://n.news.naver.com/mnews/article/091/0010342999?sid=104"
+          "keyword": "습격",
+          "headline": "\"왜 홋카이도만?\"...손바닥만 한 나방떼 도심 습격",
+          "url": "https://n.news.naver.com/mnews/article/052/0002420141?sid=104"
+        },
+        {
+          "keyword": "대변인",
+          "headline": "백악관 대변인, 4일 만에 최단명 경질...트럼프, 허위경력 논란에 ‘손절’",
+          "url": "https://n.news.naver.com/mnews/article/011/0004672187?sid=104"
+        },
+        {
+          "keyword": "만에",
+          "headline": "교황, 폐암 수술 5일 만에 퇴원…\"일상생활 가능할 만큼 회복\"",
+          "url": "https://n.news.naver.com/mnews/article/057/0001973977?sid=104"
+        },
+        {
+          "keyword": "퇴원",
+          "headline": "교황, 폐 수술 닷새만 퇴원…주일 삼종기도 주례 예정",
+          "url": "https://n.news.naver.com/mnews/article/422/0000916716?sid=104"
+        },
+        {
+          "keyword": "Soccer",
+          "headline": "Spain La Liga Soccer",
+          "url": "https://n.news.naver.com/mnews/article/077/0007205450?sid=104"
         }
       ]
     },
