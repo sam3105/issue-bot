@@ -1,24 +1,14 @@
 {
-  "updatedAt": "2026-10-25 01:44",
+  "updatedAt": "2026-10-25 04:01",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "시장",
-          "headline": "LG이노텍, 엔비디아 업고 로봇 시장 정조준",
-          "url": "https://n.news.naver.com/mnews/article/648/0000051904?sid=101"
-        },
-        {
           "keyword": "AI",
           "headline": "\"돈의 흐름이 바뀐다…AI 빚폭탄 시대, 장기채 버리고 단기채 담아라\"",
           "url": "https://n.news.naver.com/mnews/article/003/0014275974?sid=101"
-        },
-        {
-          "keyword": "증시",
-          "headline": "증시 큰 변동성에도 버티는 보험주…배당·방어주로 부각된다는데",
-          "url": "https://n.news.naver.com/mnews/article/009/0005753463?sid=101"
         },
         {
           "keyword": "금리",
@@ -26,12 +16,17 @@
           "url": "https://n.news.naver.com/mnews/article/001/0016398336?sid=101"
         },
         {
-          "keyword": "배당",
+          "keyword": "증시",
+          "headline": "증시 큰 변동성에도 버티는 보험주…배당·방어주로 부각된다는데",
+          "url": "https://n.news.naver.com/mnews/article/009/0005753463?sid=101"
+        },
+        {
+          "keyword": "삼성전자",
           "headline": "삼성전자, 내년 역대급 배당 준다는데…주당 1만2000원 받을 수 있을까",
           "url": "https://n.news.naver.com/mnews/article/003/0014275987?sid=101"
         },
         {
-          "keyword": "삼성전자",
+          "keyword": "시장",
           "headline": "\"HBM 잘 팔려도 안심 못 한다\"…삼성전자가 TSMC에 내줄 수 없는 핵심 시장",
           "url": "https://n.news.naver.com/mnews/article/003/0014275978?sid=101"
         },
@@ -41,9 +36,9 @@
           "url": "https://n.news.naver.com/mnews/article/021/0002827533?sid=101"
         },
         {
-          "keyword": "돌파",
-          "headline": "日 '치이카와' 200만 관객 돌파…극장·유통가 휩쓴 '먼작귀'",
-          "url": "https://n.news.naver.com/mnews/article/015/0005346060?sid=101"
+          "keyword": "상승",
+          "headline": "\"솔리다임 미국 상장 중단\"…하이닉스 4%대 상승",
+          "url": "https://n.news.naver.com/mnews/article/055/0001397864?sid=101"
         },
         {
           "keyword": "비즈토크",
@@ -54,6 +49,11 @@
           "keyword": "10년",
           "headline": "FC서울, 10년 만에 K리그 우승…경기장 찾은 허태수 GS 회장 \"선수단에 박수\"",
           "url": "https://n.news.naver.com/mnews/article/014/0005593845?sid=101"
+        },
+        {
+          "keyword": "서울",
+          "headline": "서울 정비사업으로 4.8만가구 멸실…전월세 대란 해법은",
+          "url": "https://n.news.naver.com/mnews/article/018/0006395060?sid=101"
         }
       ]
     },
@@ -67,9 +67,9 @@
           "url": "https://n.news.naver.com/mnews/article/053/0000062551?sid=102"
         },
         {
-          "keyword": "남성",
-          "headline": "노루 잡으려 엽총 ‘탕’…고추밭서 일하던 80대 남성 다리 맞았다",
-          "url": "https://n.news.naver.com/mnews/article/025/0003560200?sid=102"
+          "keyword": "흉기",
+          "headline": "대낮 편의점 주변서 흉기로 공포 유발 50대 역술인 징역 4개월",
+          "url": "https://n.news.naver.com/mnews/article/001/0016397769?sid=102"
         },
         {
           "keyword": "50대",
@@ -77,34 +77,39 @@
           "url": "https://n.news.naver.com/mnews/article/052/0002423235?sid=102"
         },
         {
-          "keyword": "2년",
-          "headline": "[결혼과 이혼] \"난 사실 돌싱이야\"…2년 사귀다 결혼 얘기 꺼냈더니",
-          "url": "https://n.news.naver.com/mnews/article/031/0001068997?sid=102"
-        },
-        {
-          "keyword": "60대",
-          "headline": "완주서 빗속 도로 건너다 차량 2대에 연이어 사고…60대 사망",
-          "url": "https://n.news.naver.com/mnews/article/055/0001397970?sid=102"
-        },
-        {
-          "keyword": "가족",
-          "headline": "경기도의료원, 희귀질환자·가족 150여명 초청…치료·돌봄 경험 공유",
-          "url": "https://n.news.naver.com/mnews/article/030/0003478268?sid=102"
-        },
-        {
-          "keyword": "무고",
-          "headline": "\"썸녀·전여친의 성범죄 무고…이 순서로 대응하세요\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0014275979?sid=102"
-        },
-        {
-          "keyword": "제주",
+          "keyword": "많은",
           "headline": "[날씨] 전국 대체로 흐림‥제주·남해안 많은 비",
           "url": "https://n.news.naver.com/mnews/article/214/0001531223?sid=102"
         },
         {
-          "keyword": "그날",
-          "headline": "대낮에 군부대에서 살인을?…내연 관계 군무원 잔혹하게 살해한 현역 장교 [오늘의 그날]",
-          "url": "https://n.news.naver.com/mnews/article/011/0004674773?sid=102"
+          "keyword": "아이",
+          "headline": "\"내연남의 아이도 OK\"…150억 처가 자산에 눈감은 철학과 교수",
+          "url": "https://n.news.naver.com/mnews/article/003/0014275976?sid=102"
+        },
+        {
+          "keyword": "강풍",
+          "headline": "제주, 강풍 동반 최대 200㎜ 이상 많은 비…한낮 23도",
+          "url": "https://n.news.naver.com/mnews/article/003/0014275314?sid=102"
+        },
+        {
+          "keyword": "날씨",
+          "headline": "[오늘의 날씨] 대구·경북(25일, 일)…가끔 비·해안 강풍",
+          "url": "https://n.news.naver.com/mnews/article/421/0009247814?sid=102"
+        },
+        {
+          "keyword": "이틀",
+          "headline": "이틀 만에 다시 나타난 '부캉이'…최종 목격지 2㎞ 떨어진 곳서 유영",
+          "url": "https://n.news.naver.com/mnews/article/448/0000646763?sid=102"
+        },
+        {
+          "keyword": "무죄",
+          "headline": "\"생활관 욕설도 표현의 자유\"…소대장 뒷담화 20대 '무죄'",
+          "url": "https://n.news.naver.com/mnews/article/629/0000545201?sid=102"
+        },
+        {
+          "keyword": "2년",
+          "headline": "[결혼과 이혼] \"난 사실 돌싱이야\"…2년 사귀다 결혼 얘기 꺼냈더니",
+          "url": "https://n.news.naver.com/mnews/article/031/0001068997?sid=102"
         }
       ]
     },
@@ -134,9 +139,29 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "25일",
+          "keyword": "10월",
           "headline": "[오늘의 운세] 10월 25일 띠별 운세",
           "url": "https://n.news.naver.com/mnews/article/015/0005346112?sid=103"
+        },
+        {
+          "keyword": "태풍",
+          "headline": "[날씨] 남해 먼바다 태풍 예비특보...비바람·풍랑 주의",
+          "url": "https://n.news.naver.com/mnews/article/052/0002423244?sid=103"
+        },
+        {
+          "keyword": "날씨",
+          "headline": "[오늘의 날씨] 남해안·제주 강한 비…수도권 일교차 15도 안팎",
+          "url": "https://n.news.naver.com/mnews/article/629/0000545200?sid=103"
+        },
+        {
+          "keyword": "영향",
+          "headline": "태풍 '참피' 간접 영향으로 제주·남부 중심 많은 비 예보",
+          "url": "https://n.news.naver.com/mnews/article/079/0004202235?sid=103"
+        },
+        {
+          "keyword": "많은",
+          "headline": "[365기도 ON] <298> 환난 가운데 많은 이들이 하나님을 찾게 해주소서",
+          "url": "https://n.news.naver.com/mnews/article/005/0001880608?sid=103"
         }
       ]
     },
@@ -145,39 +170,29 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "APTOPIX",
-          "headline": "APTOPIX Indonesia Haze",
-          "url": "https://n.news.naver.com/mnews/article/077/0007214101?sid=104"
-        },
-        {
-          "keyword": "Protest",
-          "headline": "Italy Protest",
-          "url": "https://n.news.naver.com/mnews/article/077/0007214112?sid=104"
-        },
-        {
           "keyword": "SOCCER",
           "headline": "ITALY SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010349980?sid=104"
+          "url": "https://n.news.naver.com/mnews/article/091/0010350266?sid=104"
         },
         {
-          "keyword": "France",
-          "headline": "France Protests",
-          "url": "https://n.news.naver.com/mnews/article/077/0007214116?sid=104"
+          "keyword": "지원",
+          "headline": "\"트럼프, 캐나다 관세 일부 철폐 추진…공화당 선거 지원 포석\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016397664?sid=104"
         },
         {
-          "keyword": "Protests",
-          "headline": "Albania Protests",
-          "url": "https://n.news.naver.com/mnews/article/077/0007214099?sid=104"
+          "keyword": "곳곳서",
+          "headline": "프랑스 전역서 41만명 시위…파리 등 곳곳서 충돌",
+          "url": "https://n.news.naver.com/mnews/article/003/0014275996?sid=104"
         },
         {
-          "keyword": "ITALY",
-          "headline": "ITALY PROTEST",
-          "url": "https://n.news.naver.com/mnews/article/091/0010349994?sid=104"
+          "keyword": "Soccer",
+          "headline": "Germany Bundesliga Soccer",
+          "url": "https://n.news.naver.com/mnews/article/077/0007214237?sid=104"
         },
         {
-          "keyword": "Italy",
-          "headline": "Italy Serie A Soccer",
-          "url": "https://n.news.naver.com/mnews/article/077/0007214108?sid=104"
+          "keyword": "Football",
+          "headline": "California SMU Football",
+          "url": "https://n.news.naver.com/mnews/article/077/0007214228?sid=104"
         }
       ]
     },
@@ -197,8 +212,8 @@
         },
         {
           "keyword": "스위스",
-          "headline": "롤드컵 스위스 스테이지 첫날 한국 4팀 전승…2라운드는 '집안싸움'",
-          "url": "https://n.news.naver.com/mnews/article/119/0003146533"
+          "headline": "LCK '롤드컵' 5연패 쾌조의 출발…스위스 1R 한중 희비 엇갈려",
+          "url": "https://n.news.naver.com/mnews/article/138/0002245877"
         }
       ]
     }
