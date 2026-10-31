@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01 02:59",
+  "updatedAt": "2026-11-01 06:00",
   "categories": [
     {
       "name": "경제",
@@ -7,48 +7,53 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "삼성 사장단, 샘 올트먼 만나 AI 미래 전략 논의",
-          "url": "https://n.news.naver.com/mnews/article/052/0002426633?sid=101"
+          "headline": "금융시장, 미 경제 둔화에 베팅…AI가 원흉(?)",
+          "url": "https://n.news.naver.com/mnews/article/014/0005597399?sid=101"
         },
         {
-          "keyword": "중간선거",
-          "headline": "[증시전망대] 반등했지만 못 걷어낸 AI 불안…美 중간선거에 쏠린 눈",
-          "url": "https://n.news.naver.com/mnews/article/029/0003056294?sid=101"
+          "keyword": "반도체",
+          "headline": "반도체 훈풍 무색한 내수…소매판매 5분기만에 감소",
+          "url": "https://n.news.naver.com/mnews/article/001/0016413535?sid=101"
         },
         {
-          "keyword": "지금",
+          "keyword": "최고",
+          "headline": "3분기 은행 중기 대출 등 연체율 '빨간불'…9년 반만에 최고",
+          "url": "https://n.news.naver.com/mnews/article/001/0016413530?sid=101"
+        },
+        {
+          "keyword": "은행",
+          "headline": "은행 부실채권 1년만에 1.3조 늘었다…8년6개월만에 최대",
+          "url": "https://n.news.naver.com/mnews/article/001/0016413531?sid=101"
+        },
+        {
+          "keyword": "하락",
           "headline": "이 대통령 \"지금은 견디는 중\"…집값 하락 전망 맞을까",
           "url": "https://n.news.naver.com/mnews/article/665/0000008467?sid=101"
         },
         {
-          "keyword": "집값",
-          "headline": "\"서울 부동산 분위기 달라졌다?\" 30% 늘어난 매물…수도권 집값 향방은",
-          "url": "https://n.news.naver.com/mnews/article/003/0014292349?sid=101"
+          "keyword": "서울",
+          "headline": "서울 앞지른 경기 상승률…규제·비규제 안가리고 오른다",
+          "url": "https://n.news.naver.com/mnews/article/029/0003056302?sid=101"
         },
         {
-          "keyword": "대통령",
-          "headline": "김동현, 압구정 100억 아파트 매입…李대통령도 활용한 '이 방법'",
-          "url": "https://n.news.naver.com/mnews/article/053/0000062741?sid=101"
+          "keyword": "종목",
+          "headline": "금감원 불법공매도 긴급점검…\"5개 안팎 종목 조사\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016413533?sid=101"
         },
         {
-          "keyword": "불안",
-          "headline": "홍지선 \"정비사업 지원\"...현장선 '이익 환수' 불안",
-          "url": "https://n.news.naver.com/mnews/article/052/0002426632?sid=101"
+          "keyword": "최대",
+          "headline": "단 20분 만에 9조원 털렸다…세계 최대 코인거래소 '발칵'",
+          "url": "https://n.news.naver.com/mnews/article/015/0005348651?sid=101"
         },
         {
-          "keyword": "비즈토크",
-          "headline": "[비즈토크<하>] 증권사도 코인거래소도 뚫렸다…금융권 해킹 공포 확산",
-          "url": "https://n.news.naver.com/mnews/article/629/0000547524?sid=101"
+          "keyword": "3분기",
+          "headline": "코인베이스, 3분기 깜짝 흑자…실적 뜯어보니 '코인 평가이익'",
+          "url": "https://n.news.naver.com/mnews/article/003/0014292368?sid=101"
         },
         {
-          "keyword": "해킹",
-          "headline": "기업 데이터 보관소도 해킹 사각지대…내부망 PHP 장비 96% 취약점 노출",
-          "url": "https://n.news.naver.com/mnews/article/081/0003694336?sid=101"
-        },
-        {
-          "keyword": "전략",
-          "headline": "\"딱 4개 ETF만 사라\"…10년간 1억→10억 불리는 투자 전략",
-          "url": "https://n.news.naver.com/mnews/article/003/0014292336?sid=101"
+          "keyword": "만에",
+          "headline": "연 4%대 예금 비중 2년 9개월 만에 최고…3%대 대출은 씨말라",
+          "url": "https://n.news.naver.com/mnews/article/001/0016413529?sid=101"
         }
       ]
     },
@@ -57,54 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "핼러윈",
-          "headline": "핼러윈 주말‥이태원·홍대 등 차량 통제",
-          "url": "https://n.news.naver.com/mnews/article/214/0001532519?sid=102"
+          "keyword": "서울",
+          "headline": "오늘 서울 도심 마라톤...광화문·올림픽 공원 등 통제",
+          "url": "https://n.news.naver.com/mnews/article/052/0002426680?sid=102"
         },
         {
-          "keyword": "여성",
-          "headline": "경찰, 천안 日여성 살해 동기 '성적 목적' 가능성도 수사(종합)",
-          "url": "https://n.news.naver.com/mnews/article/001/0016413469?sid=102"
+          "keyword": "형사사법개편",
+          "headline": "[형사사법개편 한달] ⑤ 손발 묶인 검사, 판사 통해 증거 보완나서",
+          "url": "https://n.news.naver.com/mnews/article/001/0016413544?sid=102"
         },
         {
-          "keyword": "천안",
-          "headline": "천안 숙박업소에서 불...객실 손님 등 30명 대피",
-          "url": "https://n.news.naver.com/mnews/article/052/0002426654?sid=102"
-        },
-        {
-          "keyword": "경찰",
-          "headline": "홍대서 '마약 사탕' 신고...경찰 \"오인 신고로 파악\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002426649?sid=102"
-        },
-        {
-          "keyword": "수사",
-          "headline": "사과에도 반발 지속...'필수의료 수사 지침' 균형 잡을까?",
-          "url": "https://n.news.naver.com/mnews/article/052/0002426658?sid=102"
-        },
-        {
-          "keyword": "때문",
-          "headline": "밀린 임금 때문에 출입기록 90회 조작한 전 병원 직원",
-          "url": "https://n.news.naver.com/mnews/article/629/0000547518?sid=102"
-        },
-        {
-          "keyword": "다시",
-          "headline": "디스크 치료 후 다시 아픈 이유?…의사 대답 '이것'",
-          "url": "https://n.news.naver.com/mnews/article/003/0014292354?sid=102"
-        },
-        {
-          "keyword": "이것",
-          "headline": "\"이것만 버려도 편해진다\"…전문가가 짚은 불행해지는 사람들의 특징",
-          "url": "https://n.news.naver.com/mnews/article/003/0014292348?sid=102"
+          "keyword": "날씨",
+          "headline": "오늘도 쌀쌀한 가을 날씨…대부분 지역 비",
+          "url": "https://n.news.naver.com/mnews/article/056/0012284893?sid=102"
         },
         {
           "keyword": "부산",
-          "headline": "뮤지컬 '해밀턴' 한국 첫 무대는 부산…12월17일 개막",
-          "url": "https://n.news.naver.com/mnews/article/003/0014292353?sid=102"
+          "headline": "[오늘의 주요일정]부산(11월1일 일요일)",
+          "url": "https://n.news.naver.com/mnews/article/003/0014292373?sid=102"
         },
         {
-          "keyword": "콘텐츠",
-          "headline": "[알림]뉴시스 콘텐츠 저작권 고지",
-          "url": "https://n.news.naver.com/mnews/article/003/0014292339?sid=102"
+          "keyword": "혼란",
+          "headline": "'핼러윈' 이태원·홍대에 16만 명 운집...큰 혼란 없어",
+          "url": "https://n.news.naver.com/mnews/article/052/0002426692?sid=102"
+        },
+        {
+          "keyword": "핼러윈",
+          "headline": "\"4년 전 아픔 기억하며\"...질서 속에 즐긴 핼러윈",
+          "url": "https://n.news.naver.com/mnews/article/052/0002426686?sid=102"
+        },
+        {
+          "keyword": "투표지",
+          "headline": "'올림픽공원 투표지' 정밀 분석...노태악 소환 언제쯤?",
+          "url": "https://n.news.naver.com/mnews/article/052/0002426687?sid=102"
+        },
+        {
+          "keyword": "인선",
+          "headline": "李대통령, 법무장관 인선 주목…靑 일부 참모 교체 가능성도",
+          "url": "https://n.news.naver.com/mnews/article/421/0009262335?sid=102"
+        },
+        {
+          "keyword": "하나",
+          "headline": "DB? DC? 기금형?…내 퇴직연금, 뭘 골라야 하나[Q&A]",
+          "url": "https://n.news.naver.com/mnews/article/079/0004205089?sid=102"
+        },
+        {
+          "keyword": "가을",
+          "headline": "서울 도심 곳곳 물드는 가을…167㎞ ‘단풍길 110선’ 선정",
+          "url": "https://n.news.naver.com/mnews/article/029/0003056297?sid=102"
         }
       ]
     },
@@ -119,23 +124,13 @@
         },
         {
           "keyword": "AI",
-          "headline": "나보다 똑똑한 AI, 의식이 있을까?…갈리는 과학자들",
-          "url": "https://n.news.naver.com/mnews/article/662/0000107388?sid=105"
+          "headline": "AI 보안 경쟁 축 '탐지→자동 대응'…시장 성장도 가속",
+          "url": "https://n.news.naver.com/mnews/article/030/0003480670?sid=105"
         },
         {
           "keyword": "반도체",
           "headline": "[박진우의 개미수다] ‘반도체 몰빵’ 괜찮을까…알파벳·인텔이 울린 경고음",
           "url": "https://n.news.naver.com/mnews/article/029/0003056291?sid=105"
-        },
-        {
-          "keyword": "삼성",
-          "headline": "미래의 키보드는 키가 달랑 13개?…샘 올트먼, 삼성에 들고 왔다",
-          "url": "https://n.news.naver.com/mnews/article/020/0003759129?sid=105"
-        },
-        {
-          "keyword": "미래",
-          "headline": "\"생각만으로 컴퓨터 조작한다\"…뇌·컴퓨터 잇는 BCI 기술의 미래",
-          "url": "https://n.news.naver.com/mnews/article/003/0014292233?sid=105"
         }
       ]
     },
@@ -150,18 +145,38 @@
         },
         {
           "keyword": "최고",
+          "headline": "온실가스 또 역대 최고...'초강력' 육불화황도 비상",
+          "url": "https://n.news.naver.com/mnews/article/052/0002426694?sid=103"
+        },
+        {
+          "keyword": "날씨",
+          "headline": "오늘 대체로 맑고 건조…내일 전국 가끔 비[날씨]",
+          "url": "https://n.news.naver.com/mnews/article/055/0001399564?sid=103"
+        },
+        {
+          "keyword": "전국",
+          "headline": "전국 곳곳 가을비에 쌀쌀…강원 산지엔 눈[오늘날씨]",
+          "url": "https://n.news.naver.com/mnews/article/003/0014292327?sid=103"
+        },
+        {
+          "keyword": "쌀쌀",
           "headline": "[오늘의 날씨] 11월 첫날 '쌀쌀' 전국 비…제주 최고 60㎜ 돌풍",
           "url": "https://n.news.naver.com/mnews/article/629/0000547515?sid=103"
+        },
+        {
+          "keyword": "홍대",
+          "headline": "'핼러윈' 홍대·이태원 16만 인파…새벽까지 시끌벅적(종합2보)",
+          "url": "https://n.news.naver.com/mnews/article/001/0016413508?sid=103"
+        },
+        {
+          "keyword": "극찬한",
+          "headline": "“푹 쪄서 얇게 썰어 먹어라” 최화정 극찬한 ‘살 안 찌는 고기’",
+          "url": "https://n.news.naver.com/mnews/article/346/0000118183?sid=103"
         },
         {
           "keyword": "운동",
           "headline": "“10kg 단숨에 빠진다”… 전문가 꼽은 ‘최고로 쉬운 운동’ 한 가지",
           "url": "https://n.news.naver.com/mnews/article/346/0000118180?sid=103"
-        },
-        {
-          "keyword": "제주",
-          "headline": "'아침 최저 3도' 쌀쌀·제주 최대 60㎜ 비…독감에 좋은 음식과 피해야 하는 음식 [오늘 날씨]",
-          "url": "https://n.news.naver.com/mnews/article/119/0003149708?sid=103"
         }
       ]
     },
@@ -170,39 +185,44 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "트럼프",
-          "headline": "\"개처럼 일한다\"는 트럼프, 10월에만 26차례 중간선거 유세",
-          "url": "https://n.news.naver.com/mnews/article/052/0002426655?sid=104"
+          "keyword": "APTOPIX",
+          "headline": "APTOPIX Cuba Daily Life",
+          "url": "https://n.news.naver.com/mnews/article/077/0007221692?sid=104"
         },
         {
-          "keyword": "국무",
-          "headline": "미 국무 “트럼프, 김정은과 대화 준비돼…아직 회담 일정 없어”",
-          "url": "https://n.news.naver.com/mnews/article/422/0000921583?sid=104"
+          "keyword": "Germany",
+          "headline": "Germany Protest",
+          "url": "https://n.news.naver.com/mnews/article/077/0007221688?sid=104"
         },
         {
-          "keyword": "PROTEST",
-          "headline": "epaselect FRANCE PROTEST",
-          "url": "https://n.news.naver.com/mnews/article/091/0010355418?sid=104"
+          "keyword": "Soccer",
+          "headline": "Germany Harry Kane Soccer",
+          "url": "https://n.news.naver.com/mnews/article/077/0007221703?sid=104"
         },
         {
-          "keyword": "우려",
-          "headline": "美 공격 재개 우려 속 카타르 대표단 다시 이란행…중재 노력 지속",
-          "url": "https://n.news.naver.com/mnews/article/366/0001201651?sid=104"
+          "keyword": "Football",
+          "headline": "Notre Dame Navy Football",
+          "url": "https://n.news.naver.com/mnews/article/077/0007221686?sid=104"
         },
         {
-          "keyword": "공격",
-          "headline": "\"미군기지 26곳 이란 공격에 수십억불 피해...레이더 우선 표적\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002426656?sid=104"
+          "keyword": "BRITAIN",
+          "headline": "BRITAIN SOCCER",
+          "url": "https://n.news.naver.com/mnews/article/091/0010355562?sid=104"
         },
         {
-          "keyword": "epaselect",
-          "headline": "epaselect USA VOTING ELECTIONS",
-          "url": "https://n.news.naver.com/mnews/article/091/0010355416?sid=104"
+          "keyword": "SOCCER",
+          "headline": "GERMANY SOCCER",
+          "url": "https://n.news.naver.com/mnews/article/091/0010355576?sid=104"
         },
         {
-          "keyword": "Election",
-          "headline": "Election 2026 Michigan",
-          "url": "https://n.news.naver.com/mnews/article/077/0007221591?sid=104"
+          "keyword": "Israel",
+          "headline": "Israel Elections",
+          "url": "https://n.news.naver.com/mnews/article/077/0007221684?sid=104"
+        },
+        {
+          "keyword": "Life",
+          "headline": "Iran Daily Life",
+          "url": "https://n.news.naver.com/mnews/article/077/0007221691?sid=104"
         }
       ]
     },
@@ -227,13 +247,13 @@
         },
         {
           "keyword": "엔씨",
-          "headline": "엔씨, 게임 스타트업 10년 후원…세계 무대로 잇는 '다리' 됐다",
-          "url": "https://n.news.naver.com/mnews/article/031/0001071026"
+          "headline": "이용자와 함께 만든다…신작 성과로 이어지는 엔씨의 열린 개발 문화",
+          "url": "https://n.news.naver.com/mnews/article/029/0003056248"
         },
         {
-          "keyword": "규모",
-          "headline": "엠게임, 20억원 규모 자사주 추가 취득…올해 총 60억원",
-          "url": "https://n.news.naver.com/mnews/article/031/0001070977"
+          "keyword": "자사주",
+          "headline": "엠게임, 올해 세 번째 자사주 취득…20억 규모 전량 소각",
+          "url": "https://n.news.naver.com/mnews/article/003/0014291232"
         }
       ]
     }
