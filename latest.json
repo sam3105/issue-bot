@@ -1,24 +1,44 @@
 {
-  "updatedAt": "2026-11-08 00:47",
+  "updatedAt": "2026-11-08 04:41",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
+          "keyword": "해킹",
+          "headline": "미래에셋증권도 해킹으로 인한 정보유출 발생",
+          "url": "https://n.news.naver.com/mnews/article/215/0001272019?sid=101"
+        },
+        {
+          "keyword": "아파트",
+          "headline": "국내 최대 아파트 생활 플랫폼 ‘아파트너’서 이용자 휴대폰 번호 유출",
+          "url": "https://n.news.naver.com/mnews/article/009/0005760261?sid=101"
+        },
+        {
+          "keyword": "변동성",
+          "headline": "변동성 증시에 질렸다면… \"美 과세 지방채 매력적\"",
+          "url": "https://n.news.naver.com/mnews/article/119/0003152480?sid=101"
+        },
+        {
           "keyword": "추진",
           "headline": "[올댓차이나] TSMC, 차세대 메모리 3D D램 생산 추진",
           "url": "https://n.news.naver.com/mnews/article/003/0014308175?sid=101"
         },
         {
-          "keyword": "장녀",
+          "keyword": "젠슨",
           "headline": "'젠슨 매직' 기대했는데…젠슨 황 장녀 방한 전격 취소",
           "url": "https://n.news.naver.com/mnews/article/422/0000923859?sid=101"
         },
         {
-          "keyword": "가격",
-          "headline": "“고객님, 원가 너무 올라서” 하며 가격 올리더니…재료값 떨어져도 그대로?",
-          "url": "https://n.news.naver.com/mnews/article/009/0005760303?sid=101"
+          "keyword": "국내",
+          "headline": "‘코리아 프리미엄’ ‘해외 역직구’ 없어지게… 국내 가격, 해외보다 부당하게 높으면 제재한다",
+          "url": "https://n.news.naver.com/mnews/article/022/0004173291?sid=101"
+        },
+        {
+          "keyword": "유출",
+          "headline": "미래에셋증권 해킹...고객 3800·임직원 3만5천명 정보 유출",
+          "url": "https://n.news.naver.com/mnews/article/310/0000141515?sid=101"
         }
       ]
     },
@@ -32,14 +52,24 @@
           "url": "https://n.news.naver.com/mnews/article/056/0012289431?sid=102"
         },
         {
-          "keyword": "추진",
-          "headline": "이상일 용인시장, 동천·남사·중앙동 찾아 교통망·생활환경 개선 추진",
-          "url": "https://n.news.naver.com/mnews/article/030/0003483199?sid=102"
+          "keyword": "서울",
+          "headline": "'입동 추위'에 서울에 첫 얼음‥주말 내내 '쌀쌀'",
+          "url": "https://n.news.naver.com/mnews/article/214/0001534115?sid=102"
         },
         {
-          "keyword": "3년간",
-          "headline": "\"동생이 낸다\" 거짓말하고…남편 몰래 장모 오피스텔 월세 3년간 낸 아내 [결혼과 이혼]",
-          "url": "https://n.news.naver.com/mnews/article/031/0001073116?sid=102"
+          "keyword": "화재",
+          "headline": "충남 태안 상업시설 화재‥22명 대피 소동",
+          "url": "https://n.news.naver.com/mnews/article/214/0001534156?sid=102"
+        },
+        {
+          "keyword": "사고",
+          "headline": "'중처법 1호 사고' 정도원 삼표 회장, 2심 내달 시작…1심 무죄",
+          "url": "https://n.news.naver.com/mnews/article/018/0006405495?sid=102"
+        },
+        {
+          "keyword": "외친",
+          "headline": "\"미 공군 박살 내자\" 외친 대진연 대학생들…집행유예에 항소",
+          "url": "https://n.news.naver.com/mnews/article/088/0001038940?sid=102"
         }
       ]
     },
@@ -54,11 +84,11 @@
         },
         {
           "keyword": "AI",
-          "headline": "AI 글라스 쓴 '조커' 호아킨 피닉스…젠틀몬스터, 티저 공개",
-          "url": "https://n.news.naver.com/mnews/article/030/0003483152?sid=105"
+          "headline": "크래프톤, K팝 AI 캐릭터 챗 ‘키프’ 론칭… AI 사업 본격화",
+          "url": "https://n.news.naver.com/mnews/article/109/0005636571?sid=105"
         },
         {
-          "keyword": "AO3",
+          "keyword": "팬픽",
           "headline": "'팬픽 성지' AO3 해킹에 멈춰…이용자 계정 유출 조사",
           "url": "https://n.news.naver.com/mnews/article/003/0014308176?sid=105"
         },
@@ -79,24 +109,24 @@
       "cls": "life",
       "items": [
         {
+          "keyword": "11월",
+          "headline": "[김동완의 오늘의 운세] 2026년 11월 8일",
+          "url": "https://n.news.naver.com/mnews/article/081/0003696830?sid=103"
+        },
+        {
           "keyword": "의사",
           "headline": "“약 없이 33kg 뺐다”… 인도 정신과 의사가 실천한 다이어트 비법",
           "url": "https://n.news.naver.com/mnews/article/346/0000118546?sid=103"
         },
         {
+          "keyword": "날씨",
+          "headline": "[날씨] 때 이른 추위 속 낮부터 중부 지방 중심 비",
+          "url": "https://n.news.naver.com/mnews/article/052/0002429763?sid=103"
+        },
+        {
           "keyword": "나왔다",
           "headline": "“이제 치과 안가도 되나?” 바르면 치아 ‘에나멜’ 재생되는 젤 나왔다",
           "url": "https://n.news.naver.com/mnews/article/016/0002720292?sid=103"
-        },
-        {
-          "keyword": "8일",
-          "headline": "[김동완의 오늘의 운세] 2026년 11월 8일",
-          "url": "https://n.news.naver.com/mnews/article/081/0003696830?sid=103"
-        },
-        {
-          "keyword": "추위",
-          "headline": "[오늘의 날씨] 전국 흐리고 비...당분간 추위 계속",
-          "url": "https://n.news.naver.com/mnews/article/629/0000549689?sid=103"
         }
       ]
     },
@@ -105,39 +135,54 @@
       "cls": "world",
       "items": [
         {
+          "keyword": "트럼프",
+          "headline": "트럼프 \"UFC 회장에게 백악관 대변인 제안…제발 맡아달라\"",
+          "url": "https://n.news.naver.com/mnews/article/014/0005600813?sid=104"
+        },
+        {
+          "keyword": "프랑스",
+          "headline": "프랑스 주말 시위 한 달째…학생·노조, 고물가에 공동 행진",
+          "url": "https://n.news.naver.com/mnews/article/003/0014308219?sid=104"
+        },
+        {
           "keyword": "SOCCER",
-          "headline": "SPAIN SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010362012?sid=104"
-        },
-        {
-          "keyword": "사망",
-          "headline": "폴란드 크라쿠프 시내서 총격…최소 5명 사망·10명 부상",
-          "url": "https://n.news.naver.com/mnews/article/421/0009276328?sid=104"
-        },
-        {
-          "keyword": "Soccer",
-          "headline": "Italy Serie A Soccer",
-          "url": "https://n.news.naver.com/mnews/article/077/0007230266?sid=104"
-        },
-        {
-          "keyword": "GERMANY",
-          "headline": "GERMANY SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010362010?sid=104"
+          "headline": "ITALY SOCCER",
+          "url": "https://n.news.naver.com/mnews/article/091/0010362132?sid=104"
         },
         {
           "keyword": "France",
-          "headline": "France Elections",
-          "url": "https://n.news.naver.com/mnews/article/077/0007230265?sid=104"
+          "headline": "France Protests",
+          "url": "https://n.news.naver.com/mnews/article/077/0007230354?sid=104"
         },
         {
-          "keyword": "트럼프",
-          "headline": "카타르 군주, 트럼프와 통화…“역내 긴장 완화 중재 노력”",
-          "url": "https://n.news.naver.com/mnews/article/011/0004679634?sid=104"
+          "keyword": "Protests",
+          "headline": "Albania Protests",
+          "url": "https://n.news.naver.com/mnews/article/077/0007230358?sid=104"
         },
         {
-          "keyword": "Italy",
-          "headline": "PHOTO KILL Italy Protests",
-          "url": "https://n.news.naver.com/mnews/article/077/0007230260?sid=104"
+          "keyword": "사우디",
+          "headline": "시리아군 사우디·예멘 파병설...\"일부 병력 이미 배치\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002429780?sid=104"
+        },
+        {
+          "keyword": "사망",
+          "headline": "후티 반군 \"사우디 공습, 예멘 수도 인근서 27명 사망\" 주장",
+          "url": "https://n.news.naver.com/mnews/article/055/0001401418?sid=104"
+        },
+        {
+          "keyword": "좌파",
+          "headline": "트럼프, '절친' UFC 회장에 백악관 대변인 제안…\"좌파에 맞서야\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009276333?sid=104"
+        },
+        {
+          "keyword": "난사",
+          "headline": "폴란드 크라쿠프 도심 총기 난사, 사망자 6명으로 늘어",
+          "url": "https://n.news.naver.com/mnews/article/014/0005600811?sid=104"
+        },
+        {
+          "keyword": "러시아",
+          "headline": "푸틴, 日담배회사 러시아 내 자산 추가 관리 명령",
+          "url": "https://n.news.naver.com/mnews/article/001/0016428390?sid=104"
         }
       ]
     },
