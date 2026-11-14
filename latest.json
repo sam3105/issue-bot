@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-11-14 11:22",
+  "updatedAt": "2026-11-14 18:07",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "결항",
-          "headline": "인천발 미국행 항공편 혼란...결항·운항재개·지연",
-          "url": "https://n.news.naver.com/mnews/article/052/0002432756?sid=101"
+          "keyword": "노란우산",
+          "headline": "'사장님 퇴직금' 노란우산 뚫렸나…\"개인정보유출 의심\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014322145?sid=101"
         },
         {
-          "keyword": "여파",
-          "headline": "美 전역 항공기 이륙 중단 여파…인천발 일부 항공편 결항 ‘비상’",
-          "url": "https://n.news.naver.com/mnews/article/366/0001204742?sid=101"
+          "keyword": "지연",
+          "headline": "미국행 항공편 혼란…출도착 50편 지연",
+          "url": "https://n.news.naver.com/mnews/article/056/0012293938?sid=101"
         },
         {
-          "keyword": "한국",
-          "headline": "한국 수출 '1조달러' 눈앞…중국 수입시장 6개월째 1위",
-          "url": "https://n.news.naver.com/mnews/article/050/0000113238?sid=101"
+          "keyword": "3분기",
+          "headline": "더본코리아, 3분기 영업손실 37억원…적자 폭 축소",
+          "url": "https://n.news.naver.com/mnews/article/448/0000651027?sid=101"
         },
         {
-          "keyword": "엔비디아",
-          "headline": "‘젠슨황 스캔들’에 급락한 엔비디아…서학개미, 1000억 사들였다",
-          "url": "https://n.news.naver.com/mnews/article/021/0002832746?sid=101"
-        },
-        {
-          "keyword": "18일",
-          "headline": "트럼프 18일 방중, 미·중·러 회담 이뤄지나…\"北 접촉은 없어\"",
-          "url": "https://n.news.naver.com/mnews/article/005/0001885070?sid=101"
-        },
-        {
-          "keyword": "삼성전자",
-          "headline": "삼성전자, 美 데이터센터 냉각업체 모딘 인수 협상",
-          "url": "https://n.news.naver.com/mnews/article/011/0004682147?sid=101"
+          "keyword": "이름",
+          "headline": "“내 이름·주소도 새나갔나”…‘192만명 가입’ 노란우산, 유출 의심",
+          "url": "https://n.news.naver.com/mnews/article/009/0005763666?sid=101"
         },
         {
           "keyword": "투자",
-          "headline": "[EU있는경제]英 핀테크 투자 가뭄에도…그리핀, 몸값 1400억 돌파",
-          "url": "https://n.news.naver.com/mnews/article/018/0006409813?sid=101"
+          "headline": "AI가 끌어올린 韓美 성장률… 빅테크 투자 꺾이면",
+          "url": "https://n.news.naver.com/mnews/article/366/0001204757?sid=101"
         },
         {
-          "keyword": "이상",
-          "headline": "전월세 5% 이상 올려도 될까…세입자 권리에도 조건 있다[똑똑한 부동산]",
-          "url": "https://n.news.naver.com/mnews/article/018/0006409807?sid=101"
+          "keyword": "퇴직금",
+          "headline": "'모두의 창업' 이어 '사장님 퇴직금' 노란우산도 개인정보 뚫렸다",
+          "url": "https://n.news.naver.com/mnews/article/243/0000105680?sid=101"
         },
         {
-          "keyword": "달러",
-          "headline": "국제유가 상승에 달러 강세…달러인덱스 19개월 만에 최고",
-          "url": "https://n.news.naver.com/mnews/article/011/0004682148?sid=101"
+          "keyword": "AI",
+          "headline": "빚내서 AI 투자하는 빅테크? AI 투자 붐의 청구서",
+          "url": "https://n.news.naver.com/mnews/article/008/0005441087?sid=101"
         },
         {
-          "keyword": "현대차",
-          "headline": "고려아연 경영권 분쟁 뒤흔든 현대차 유증…항소심서 영풍 판결 뒤집혔다",
-          "url": "https://n.news.naver.com/mnews/article/050/0000113227?sid=101"
+          "keyword": "증시",
+          "headline": "與 \"국힘, 코리아 디스카운트\" vs 野 \"한가한 낙관론\"…'李 증시' 충돌",
+          "url": "https://n.news.naver.com/mnews/article/421/0009289013?sid=101"
+        },
+        {
+          "keyword": "전망",
+          "headline": "제주 관광객 내년 3월까지 3만8천명 감소 전망",
+          "url": "https://n.news.naver.com/mnews/article/661/0000086605?sid=101"
+        },
+        {
+          "keyword": "하락",
+          "headline": "[속보]기름값 26주 연속 하락",
+          "url": "https://n.news.naver.com/mnews/article/050/0000113248?sid=101"
         }
       ]
     },
@@ -62,54 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "20대",
-          "headline": "“장동혁 암살하겠다” 112에 문자 보낸 20대 입건",
-          "url": "https://n.news.naver.com/mnews/article/021/0002832741?sid=102"
+          "keyword": "남해",
+          "headline": "남해의 늦가을 정취",
+          "url": "https://n.news.naver.com/mnews/article/003/0014322235?sid=102"
         },
         {
-          "keyword": "결항",
-          "headline": "경인여대 – 인천 부평구 중소기업협, 산학협력 업무협약",
-          "url": "https://n.news.naver.com/mnews/article/029/0003059025?sid=102"
+          "keyword": "AI",
+          "headline": "가디언 \"트럼프, 지난해 AI 칩 규제 풀기 전 엔비디아 주식 매수\"",
+          "url": "https://n.news.naver.com/mnews/article/057/0001978214?sid=102"
         },
         {
-          "keyword": "의혹",
-          "headline": "박상용 검사 '이화영 허위진술 회유 의혹' 사건, 공수처 이첩",
-          "url": "https://n.news.naver.com/mnews/article/277/0005842567?sid=102"
+          "keyword": "환경미화원",
+          "headline": "음주 뺑소니에 환경미화원 사망…운전자 자택서 검거(종합)",
+          "url": "https://n.news.naver.com/mnews/article/001/0016441927?sid=102"
         },
         {
-          "keyword": "장혜선",
-          "headline": "[장혜선 칼럼] 복대와 김치",
-          "url": "https://n.news.naver.com/mnews/article/215/0001272756?sid=102"
+          "keyword": "70대",
+          "headline": "주민 대피 돕다 쓰러진 70대 경비원 끝내 숨져…의사자 지정 추진",
+          "url": "https://n.news.naver.com/mnews/article/015/0005353842?sid=102"
         },
         {
-          "keyword": "배우",
-          "headline": "배우 고경표 '음주 교통사고'…면허 취소 수준",
-          "url": "https://n.news.naver.com/mnews/article/437/0000520713?sid=102"
+          "keyword": "음주운전",
+          "headline": "‘만취 운전’ 고경표…3년전 “음주운전 안돼” 홍보대사였다",
+          "url": "https://n.news.naver.com/mnews/article/029/0003059042?sid=102"
         },
         {
-          "keyword": "일부",
-          "headline": "울산 성남동 일부 지역 5시간 단수…누수 원인 조사",
-          "url": "https://n.news.naver.com/mnews/article/421/0009288873?sid=102"
+          "keyword": "사고",
+          "headline": "민둥산 등산객 숨지고 아파트서 불…강원 사고 속출(종합)",
+          "url": "https://n.news.naver.com/mnews/article/421/0009289102?sid=102"
         },
         {
-          "keyword": "여성",
-          "headline": "제천 술집서 신고받고 출동한 경찰관 폭행 30대 여성 입건",
-          "url": "https://n.news.naver.com/mnews/article/421/0009288864?sid=102"
+          "keyword": "아파트",
+          "headline": "광주 아파트 방화 14명 사상 50대 영장 심사",
+          "url": "https://n.news.naver.com/mnews/article/052/0002432857?sid=102"
         },
         {
-          "keyword": "취소",
-          "headline": "[속보] 인천 출발 미국행 항공편 오전 결항 취소…정상화 단계",
-          "url": "https://n.news.naver.com/mnews/article/448/0000650988?sid=102"
+          "keyword": "가을비",
+          "headline": "가을비와 붉은 단풍",
+          "url": "https://n.news.naver.com/mnews/article/003/0014322234?sid=102"
         },
         {
-          "keyword": "지역",
-          "headline": "신정훈 민주당 의원, 세 번째 '불금민생투어'…\"지역 문제, 현장에서 찾겠다\"",
-          "url": "https://n.news.naver.com/mnews/article/629/0000551893?sid=102"
+          "keyword": "단풍",
+          "headline": "붉게 물든 단풍",
+          "url": "https://n.news.naver.com/mnews/article/003/0014322229?sid=102"
         },
         {
-          "keyword": "울산",
-          "headline": "김영길 울산 중구청장, 선거법 위반 혐의 송치",
-          "url": "https://n.news.naver.com/mnews/article/421/0009288866?sid=102"
+          "keyword": "물든",
+          "headline": "들녘에 물든 가을",
+          "url": "https://n.news.naver.com/mnews/article/003/0014322250?sid=102"
         }
       ]
     },
@@ -118,54 +118,54 @@
       "cls": "tech",
       "items": [
         {
-          "keyword": "AI",
-          "headline": "“AI가 AI와 거래한다”…센드버드가 그리는 미래",
-          "url": "https://n.news.naver.com/mnews/article/243/0000105668?sid=105"
-        },
-        {
-          "keyword": "엔비디아",
-          "headline": "배경훈 부총리 \"젠슨 황 사임, 그러나 엔비디아 협력은 계속\"",
-          "url": "https://n.news.naver.com/mnews/article/008/0005440960?sid=105"
-        },
-        {
-          "keyword": "젠슨",
-          "headline": "젠슨 황 퇴진에 670조원 AI 금융구상 이탈 움직임",
-          "url": "https://n.news.naver.com/mnews/article/030/0003485528?sid=105"
+          "keyword": "MS",
+          "headline": "과기정통부, MS 서비스 장애 피해 대응 나서",
+          "url": "https://n.news.naver.com/mnews/article/011/0004682190?sid=105"
         },
         {
           "keyword": "장애",
-          "headline": "美 전역 항공기 이륙 중단…관제통신 장애에 항공대란",
-          "url": "https://n.news.naver.com/mnews/article/030/0003485534?sid=105"
+          "headline": "MS 대규모 장애 이틀째…정부, 비상대응반 구성",
+          "url": "https://n.news.naver.com/mnews/article/119/0003155131?sid=105"
         },
         {
-          "keyword": "월드",
-          "headline": "2027 LoL 월드 챔피언십, 한일 공동개최…서울서 결승",
-          "url": "https://n.news.naver.com/mnews/article/001/0016441642?sid=105"
+          "keyword": "SWC",
+          "headline": "[SWC] 미주 2위 '제자스', '사피'에 설욕하고 결승행!",
+          "url": "https://n.news.naver.com/mnews/article/347/0000196599?sid=105"
+        },
+        {
+          "keyword": "타스",
+          "headline": "‘SWC2026’ 월드 파이널 결승은 ‘타스’ vs ‘제자스’",
+          "url": "https://n.news.naver.com/mnews/article/009/0005763702?sid=105"
+        },
+        {
+          "keyword": "제자스",
+          "headline": "[SWC] 북미 2위 '제자스', 초반 전략으로 유럽 1위 꺾고 4강행!",
+          "url": "https://n.news.naver.com/mnews/article/347/0000196596?sid=105"
+        },
+        {
+          "keyword": "AI",
+          "headline": "젠슨황 두둔하는 실리콘밸리…AI 금융구상 '흔들'",
+          "url": "https://n.news.naver.com/mnews/article/422/0000926156?sid=105"
+        },
+        {
+          "keyword": "유출",
+          "headline": "[속보] 가입자 192만 '노란우산'도 개인정보 유출 가능성",
+          "url": "https://n.news.naver.com/mnews/article/006/0000138755?sid=105"
         },
         {
           "keyword": "세계",
-          "headline": "MS 접속 장애 전 세계 확산… 서버 재가동에도 복구 난항",
-          "url": "https://n.news.naver.com/mnews/article/469/0000965475?sid=105"
+          "headline": "타이타닉보다 큰 여객선, 세계 최대 인공어초로 '변신'",
+          "url": "https://n.news.naver.com/mnews/article/584/0000040156?sid=105"
         },
         {
-          "keyword": "MS",
-          "headline": "日 금융권선 팩스, 美 기업은 실적 발표 연기…MS 아웃룩 장애 하루 넘겨",
-          "url": "https://n.news.naver.com/mnews/article/003/0014321891?sid=105"
+          "keyword": "SWC2026",
+          "headline": "‘서너머즈워’의 세계 최강은 누구?…‘SWC2026’ 월드 파이널 개막",
+          "url": "https://n.news.naver.com/mnews/article/009/0005763655?sid=105"
         },
         {
-          "keyword": "로이터",
-          "headline": "로이터 \"'엔비디아칩 의존' 中 AI프로젝트 규모 4조6천억 이상\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016441717?sid=105"
-        },
-        {
-          "keyword": "오픈AI",
-          "headline": "오픈AI, AI 에이전트용 '챗GPT 월렛' 공개…카드 3사와 맞손",
-          "url": "https://n.news.naver.com/mnews/article/001/0016441668?sid=105"
-        },
-        {
-          "keyword": "회수",
-          "headline": "[영상]‘스타십’ 1단 로켓 지상 회수 불발…바다에 착수",
-          "url": "https://n.news.naver.com/mnews/article/032/0003482614?sid=105"
+          "keyword": "젠슨",
+          "headline": "젠슨 황 사임 후폭풍…엔비디아 시총 4조달러 붕괴",
+          "url": "https://n.news.naver.com/mnews/article/417/0001164313?sid=105"
         }
       ]
     },
@@ -174,54 +174,54 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "주말",
-          "headline": "주말 전국에 가을비…다음 주 '수능한파' 기승",
-          "url": "https://n.news.naver.com/mnews/article/422/0000926104?sid=103"
-        },
-        {
           "keyword": "전국",
-          "headline": "[오늘날씨] 전국에 '가을비'…늦은 밤부터 그쳐",
-          "url": "https://n.news.naver.com/mnews/article/119/0003155095?sid=103"
+          "headline": "[날씨] 오늘 전국 대부분 비…추위는 주춤",
+          "url": "https://n.news.naver.com/mnews/article/448/0000651017?sid=103"
         },
         {
-          "keyword": "대구",
-          "headline": "창작뮤지컬 '빨래' 11월 25일~28일 대구 공연",
-          "url": "https://n.news.naver.com/mnews/article/657/0000057465?sid=103"
+          "keyword": "날씨",
+          "headline": "[뉴스5 날씨] 밤사이 비 그쳐…내일은 맑고 온화해요",
+          "url": "https://n.news.naver.com/mnews/article/056/0012293959?sid=103"
         },
         {
-          "keyword": "추위",
-          "headline": "[뉴스초점] 전국 대부분 가을비…수능일 영하권 추위",
-          "url": "https://n.news.naver.com/mnews/article/422/0000926106?sid=103"
+          "keyword": "가을비",
+          "headline": "가을비 내리더니 기온 뚝…수능 당일 영하권 추위 온다",
+          "url": "https://n.news.naver.com/mnews/article/015/0005353833?sid=103"
         },
         {
-          "keyword": "음주운전",
-          "headline": "고경표 소속사 \"음주운전 사고 깊이 반성...책임 다할 것\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002432742?sid=103"
+          "keyword": "고경표",
+          "headline": "'음주운전' 고경표, 출연 예능에도 '불똥'",
+          "url": "https://n.news.naver.com/mnews/article/448/0000651025?sid=103"
         },
         {
-          "keyword": "15년",
-          "headline": "15년 전, 이 사람의 손끝에서 시의 얼굴이 바뀌었다",
-          "url": "https://n.news.naver.com/mnews/article/469/0000965531?sid=103"
+          "keyword": "임신",
+          "headline": "배우 주진모, 아빠 된다…'11살 연하' 의사 아내 임신",
+          "url": "https://n.news.naver.com/mnews/article/215/0001272776?sid=103"
         },
         {
-          "keyword": "맞아",
-          "headline": "세계 당뇨병의 날을 맞아…당뇨병 위험 낮추는 5가지",
-          "url": "https://n.news.naver.com/mnews/article/296/0000107313?sid=103"
+          "keyword": "이것",
+          "headline": "“컵 씻을 때 ‘이것’ 한 방울”… 물 비린내 싹 잡아줍니다",
+          "url": "https://n.news.naver.com/mnews/article/346/0000118887?sid=103"
         },
         {
-          "keyword": "부른",
-          "headline": "AI가 작곡하고 부른 노래가 사상 처음 ‘멜론 톱 100’ 1위 찍었다",
-          "url": "https://n.news.naver.com/mnews/article/032/0003482578?sid=103"
+          "keyword": "내일날씨",
+          "headline": "[내일날씨] 전국 흐리다가 오전부터 맑아져…낮 최고 20도",
+          "url": "https://n.news.naver.com/mnews/article/119/0003155143?sid=103"
         },
         {
-          "keyword": "다시",
-          "headline": "[날씨] 주말 전국 가을비 속 포근...다음 주 다시 추워져",
-          "url": "https://n.news.naver.com/mnews/article/422/0000926098?sid=103"
+          "keyword": "맑아져",
+          "headline": "일요일 전국 흐리다 차차 맑아져…강원 동해안 밤부터 빗방울",
+          "url": "https://n.news.naver.com/mnews/article/654/0000211241?sid=103"
         },
         {
-          "keyword": "수능",
-          "headline": "[백투더투데이] 원스어펀어타임 인 대구-수능 치는 날",
-          "url": "https://n.news.naver.com/mnews/article/657/0000057462?sid=103"
+          "keyword": "만에",
+          "headline": "주진모·민혜연 부부, 결혼 7년 만에 부모 된다…\"임신 초기\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016441858?sid=103"
+        },
+        {
+          "keyword": "아빠",
+          "headline": "11세 연하 의사 아내 임신…결혼 7년만에 아빠 되는 주진모",
+          "url": "https://n.news.naver.com/mnews/article/009/0005763658?sid=103"
         }
       ]
     },
@@ -230,54 +230,34 @@
       "cls": "world",
       "items": [
         {
-          "keyword": "중단",
-          "headline": "미 공항 이륙 중단 사태...원인과 전망은?",
-          "url": "https://n.news.naver.com/mnews/article/052/0002432748?sid=104"
-        },
-        {
-          "keyword": "엔비디아",
-          "headline": "\"젠슨 황 복귀 요구\" 엔비디아 임원 서한은 '가짜'",
-          "url": "https://n.news.naver.com/mnews/article/057/0001978178?sid=104"
-        },
-        {
-          "keyword": "항공기",
-          "headline": "美 항공기 ‘올스톱’ 여파에…인천발 미국행도 결항",
-          "url": "https://n.news.naver.com/mnews/article/018/0006409812?sid=104"
-        },
-        {
-          "keyword": "김정",
-          "headline": "백악관 \"中 선전서 19일 미중러 정상 회담…김정은 안 만나\"",
-          "url": "https://n.news.naver.com/mnews/article/469/0000965541?sid=104"
-        },
-        {
-          "keyword": "항공편",
-          "headline": "항공편 운항 재개 기다리는 승객들",
-          "url": "https://n.news.naver.com/mnews/article/421/0009288867?sid=104"
-        },
-        {
-          "keyword": "미국",
-          "headline": "미국 전역 이륙 중단에 인천 출발 일부 항공편도 결항",
-          "url": "https://n.news.naver.com/mnews/article/079/0004209783?sid=104"
-        },
-        {
-          "keyword": "3자",
-          "headline": "백악관 \"中 선전 APEC서 미중러 3자 회담…김정은 안 만나\"",
-          "url": "https://n.news.naver.com/mnews/article/008/0005441059?sid=104"
-        },
-        {
           "keyword": "트럼프",
-          "headline": "美, 19일 미중러 정상회담 발표…\"트럼프-김정은 회담예정 없어\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0016441722?sid=104"
+          "headline": "\"트럼프, AI칩 수출통제 풀며 엔비디아 주식 구입\"",
+          "url": "https://n.news.naver.com/mnews/article/052/0002432861?sid=104"
         },
         {
-          "keyword": "자막뉴스",
-          "headline": "버스는 뒤집혀 숲길에 처박혔다...인도 고속도로서 대형 참사 [자막뉴스]",
-          "url": "https://n.news.naver.com/mnews/article/052/0002432757?sid=104"
+          "keyword": "증세",
+          "headline": "\"日 증세 부담에 5년간 방위비 70→60조엔으로 증액폭 억제\"",
+          "url": "https://n.news.naver.com/mnews/article/374/0000543681?sid=104"
         },
         {
-          "keyword": "Nationwide",
-          "headline": "Trump Nationwide Groundstop",
-          "url": "https://n.news.naver.com/mnews/article/077/0007237696?sid=104"
+          "keyword": "우크라",
+          "headline": "러시아서 잇단 폭탄 테러…군장교·친러 우크라 인사 사상",
+          "url": "https://n.news.naver.com/mnews/article/001/0016441926?sid=104"
+        },
+        {
+          "keyword": "AI",
+          "headline": "[속보] “트럼프, AI 반도체 규제 완화 전 엔비디아 주식 매입”",
+          "url": "https://n.news.naver.com/mnews/article/658/0000161224?sid=104"
+        },
+        {
+          "keyword": "호르무즈",
+          "headline": "지난달 최대였던 호르무즈 해협 선박 공격…이달도 최소 14건",
+          "url": "https://n.news.naver.com/mnews/article/011/0004682192?sid=104"
+        },
+        {
+          "keyword": "정상회담",
+          "headline": "미중, APEC 양자 정상회담 앞두고 무역위원회 첫 회의 개최",
+          "url": "https://n.news.naver.com/mnews/article/056/0012293965?sid=104"
         }
       ]
     },
@@ -287,43 +267,13 @@
       "items": [
         {
           "keyword": "롤드컵",
-          "headline": "2027 롤드컵 결승전, 창동 서울아레나 개최 확정",
-          "url": "https://n.news.naver.com/mnews/article/001/0016441609"
-        },
-        {
-          "keyword": "세계",
-          "headline": "세계의 이목이 쏠린다, 수원시 '2027 롤드컵 본선' 유치",
-          "url": "https://n.news.naver.com/mnews/article/018/0006409768"
+          "headline": "2027 롤드컵, 나고야 거쳐 서울에서 결승",
+          "url": "https://n.news.naver.com/mnews/article/422/0000926110"
         },
         {
           "keyword": "게임",
-          "headline": "GDC, 연간 보고서 발표…해고·AI 우려 속 '게임 개발 의지' 이어져",
-          "url": "https://n.news.naver.com/mnews/article/347/0000196580"
-        },
-        {
-          "keyword": "크래프톤",
-          "headline": "배틀그라운드 만들던 크래프톤, 이젠 로봇 두뇌 만든다",
-          "url": "https://n.news.naver.com/mnews/article/243/0000105661"
-        },
-        {
-          "keyword": "2027년",
-          "headline": "2027년 '롤드컵' 韓日 공동 개최…결승 무대는 서울 아레나",
-          "url": "https://n.news.naver.com/mnews/article/138/0002248538"
-        },
-        {
-          "keyword": "붉은사막",
-          "headline": "'붉은사막' 개발한 펄어비스, 2027년 겨울 인턴십 모집…정규직 전환 기회 제공",
-          "url": "https://n.news.naver.com/mnews/article/076/0004466491"
-        },
-        {
-          "keyword": "AI",
-          "headline": "덕질 함께하는 K팝 AI…크래프톤 '키프' [잇:써봐]",
-          "url": "https://n.news.naver.com/mnews/article/018/0006409730"
-        },
-        {
-          "keyword": "매출",
-          "headline": "엠게임, 3Q 매출 208억 원-영익 27억 원 기록",
-          "url": "https://n.news.naver.com/mnews/article/347/0000196581"
+          "headline": "[게임위드인] 시장에 쏟아지는 웹툰 게임…자체 IP 육성은 실종",
+          "url": "https://n.news.naver.com/mnews/article/001/0016441772"
         }
       ]
     }
