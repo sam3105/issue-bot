@@ -1,19 +1,59 @@
 {
-  "updatedAt": "2026-11-22 00:18",
+  "updatedAt": "2026-11-22 05:56",
   "categories": [
     {
       "name": "경제",
       "cls": "eco",
       "items": [
         {
-          "keyword": "비즈토크",
-          "headline": "[비즈토크<하>] 한한령 마침표 찍을까…유통가 '기대 반 우려 반'",
-          "url": "https://n.news.naver.com/mnews/article/629/0000554290?sid=101"
+          "keyword": "금리",
+          "headline": "나스닥 올해 상승분 반납…미 연준 \"금리 더 올려야\"",
+          "url": "https://n.news.naver.com/mnews/article/665/0000008618?sid=101"
         },
         {
-          "keyword": "일반열차",
-          "headline": "오늘 첫차부터 경부선 일반열차 모두 운행재개",
-          "url": "https://n.news.naver.com/mnews/article/056/0012298715?sid=101"
+          "keyword": "서울",
+          "headline": "내달 강남권 첫 재초환 부담금…서울 52개 단지 1억1천만원씩",
+          "url": "https://n.news.naver.com/mnews/article/001/0016455986?sid=101"
+        },
+        {
+          "keyword": "한은",
+          "headline": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016455975?sid=101"
+        },
+        {
+          "keyword": "전망",
+          "headline": "한은 올해 성장 눈높이 3%대 후반 전망…\"내년 더 올릴 수도\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0016455976?sid=101"
+        },
+        {
+          "keyword": "붕괴",
+          "headline": "잠실 '엘리트'도 집값 하락 본격화…30억 붕괴 초읽기",
+          "url": "https://n.news.naver.com/mnews/article/003/0014337589?sid=101"
+        },
+        {
+          "keyword": "수원",
+          "headline": "\"대전 1억·대구 6천\"…과천·광명·수원도 억대 부담금 예고",
+          "url": "https://n.news.naver.com/mnews/article/001/0016455987?sid=101"
+        },
+        {
+          "keyword": "시장",
+          "headline": "디지털자산 시장 전면 규율…기본법 정부안 이번 주 공개",
+          "url": "https://n.news.naver.com/mnews/article/001/0016455983?sid=101"
+        },
+        {
+          "keyword": "공개",
+          "headline": "MBC ‘전참시’ ITZY 채령, 일상 속 간식 공개…메디슨벨 ‘한입샐러드 젤리’ 눈길",
+          "url": "https://n.news.naver.com/mnews/article/243/0000106006?sid=101"
+        },
+        {
+          "keyword": "이달",
+          "headline": "우대금리 축소 이달까지 자체점검…10년 고정금리 논의 곧 착수",
+          "url": "https://n.news.naver.com/mnews/article/001/0016455981?sid=101"
+        },
+        {
+          "keyword": "웨이모",
+          "headline": "'원가·데이터' 테슬라 vs '운영 노하우' 웨이모…로보택시 승자는",
+          "url": "https://n.news.naver.com/mnews/article/003/0014337557?sid=101"
         }
       ]
     },
@@ -22,39 +62,54 @@
       "cls": "society",
       "items": [
         {
-          "keyword": "추위",
-          "headline": "오늘도 추위 이어져…수도권·강원 등 건조특보",
-          "url": "https://n.news.naver.com/mnews/article/056/0012298716?sid=102"
+          "keyword": "22일",
+          "headline": "[오늘의 주요일정] 부산·경남(22일, 일)",
+          "url": "https://n.news.naver.com/mnews/article/421/0009302923?sid=102"
         },
         {
-          "keyword": "강원",
-          "headline": "강원 평창서 공기총 사격 연습 중 60대 행인 맞아 숨져",
-          "url": "https://n.news.naver.com/mnews/article/052/0002436158?sid=102"
+          "keyword": "부산",
+          "headline": "[오늘의 주요일정]부산(11월22일 일요일)",
+          "url": "https://n.news.naver.com/mnews/article/003/0014337594?sid=102"
         },
         {
-          "keyword": "사건",
-          "headline": "공소청 사건 속속 넘어오는데…갈길 먼 중수청 인력 확보",
-          "url": "https://n.news.naver.com/mnews/article/629/0000554280?sid=102"
+          "keyword": "사업",
+          "headline": "전북, 서해안·내륙 잇는 도로 8개 사업 추진…53㎞ 정비",
+          "url": "https://n.news.naver.com/mnews/article/022/0004177035?sid=102"
         },
         {
-          "keyword": "남편",
-          "headline": "“밥 달랬더니 빵을 줘?” 아내에게 아령 내던진 남편 집행유예",
-          "url": "https://n.news.naver.com/mnews/article/020/0003764148?sid=102"
+          "keyword": "내륙",
+          "headline": "[오늘의 날씨] 강원(22일, 일)…아침 -11도, 영동·내륙 '불조심'",
+          "url": "https://n.news.naver.com/mnews/article/421/0009302924?sid=102"
         },
         {
-          "keyword": "내건",
-          "headline": "\"GTA6 하지 말고 학교 오세요\"…학생 붙잡으려 상품권 내건 교장",
-          "url": "https://n.news.naver.com/mnews/article/015/0005356360?sid=102"
+          "keyword": "경찰",
+          "headline": "\"나쁜 놈을 왜 도와요?\"…경찰·소년범이었던 두 사람의 답",
+          "url": "https://n.news.naver.com/mnews/article/079/0004212382?sid=102"
         },
         {
-          "keyword": "숨져",
-          "headline": "보령 앞바다서 조업 중 30대 인도네시아 선원 양망기에 끼여 숨져",
-          "url": "https://n.news.naver.com/mnews/article/014/0005607681?sid=102"
+          "keyword": "일요일",
+          "headline": "인천, 일요일 아침 영하5도 안팎…강풍에 체감온도↓",
+          "url": "https://n.news.naver.com/mnews/article/003/0014337596?sid=102"
         },
         {
-          "keyword": "60대",
-          "headline": "서산 상가 중식당서 가스폭발 추정 화재…60대 부부 화상·48분 만에 진화",
-          "url": "https://n.news.naver.com/mnews/article/014/0005607680?sid=102"
+          "keyword": "주요일정",
+          "headline": "[오늘의 주요일정]인천·김포·부천(11월22일 일요일)",
+          "url": "https://n.news.naver.com/mnews/article/003/0014337593?sid=102"
+        },
+        {
+          "keyword": "추진",
+          "headline": "與, 조희대 탄핵 추진 절차는…탄핵안 국회 통과 시 직무정지",
+          "url": "https://n.news.naver.com/mnews/article/001/0016455980?sid=102"
+        },
+        {
+          "keyword": "리트",
+          "headline": "세무사·리트·수능 등 잇단 ‘AI 커닝’… 법적 처벌 수위는? [이슈+]",
+          "url": "https://n.news.naver.com/mnews/article/022/0004177042?sid=102"
+        },
+        {
+          "keyword": "경북",
+          "headline": "폐자원이 에너지로…경북도, 5315억 규모 바이오가스화 사업 확대",
+          "url": "https://n.news.naver.com/mnews/article/022/0004177033?sid=102"
         }
       ]
     },
@@ -64,18 +119,8 @@
       "items": [
         {
           "keyword": "AI",
-          "headline": "AI 시대 인간의 판단·책임 논한다…'AI 인사이트 페스티벌'",
-          "url": "https://n.news.naver.com/mnews/article/001/0016455752?sid=105"
-        },
-        {
-          "keyword": "반도체",
-          "headline": "中 연계 해커, 일본·대만 반도체 공급망 노린다",
-          "url": "https://n.news.naver.com/mnews/article/011/0004684672?sid=105"
-        },
-        {
-          "keyword": "삼성",
-          "headline": "“삼성·하이닉스 내년에도 웃는다”…무디스가 전망한 AI 반도체 호황",
-          "url": "https://n.news.naver.com/mnews/article/016/0002726606?sid=105"
+          "headline": "[어바웃 C] LGU+ 홍범식 유임…AI 성과 속 신뢰 회복은 과제",
+          "url": "https://n.news.naver.com/mnews/article/293/0000093627?sid=105"
         },
         {
           "keyword": "무디스",
@@ -83,14 +128,14 @@
           "url": "https://n.news.naver.com/mnews/article/215/0001273483?sid=105"
         },
         {
+          "keyword": "삼성",
+          "headline": "“삼성·하이닉스 내년에도 웃는다”…무디스가 전망한 AI 반도체 호황",
+          "url": "https://n.news.naver.com/mnews/article/016/0002726606?sid=105"
+        },
+        {
           "keyword": "부정행위",
           "headline": "국가자격시험 중 무작위 전화 걸자 벨소리…부정행위 6건 적발",
           "url": "https://n.news.naver.com/mnews/article/001/0016455943?sid=105"
-        },
-        {
-          "keyword": "인수",
-          "headline": "\"손정의, SK하이닉스 1조 달러에 인수 노렸다\"",
-          "url": "https://n.news.naver.com/mnews/article/092/0002446328?sid=105"
         }
       ]
     },
@@ -99,24 +144,54 @@
       "cls": "life",
       "items": [
         {
-          "keyword": "날씨",
-          "headline": "추위 절정, 낮에도 체감 영하권...서해안 눈 오늘까지[날씨]",
-          "url": "https://n.news.naver.com/mnews/article/052/0002436023?sid=103"
+          "keyword": "컬렉션",
+          "headline": "아랍 문자가 현대미술로…바레인 왕족의 컬렉션",
+          "url": "https://n.news.naver.com/mnews/article/003/0014337574?sid=103"
         },
         {
-          "keyword": "소설",
-          "headline": "[오늘의 날씨] 첫눈 내린다는 '소설' 강추위…서울 영하 4도",
-          "url": "https://n.news.naver.com/mnews/article/629/0000554284?sid=103"
-        },
-        {
-          "keyword": "음식",
-          "headline": "‘-11kg’ 홍현희, 맛있는데 체중 감량 돕는 ‘이 음식’… 혈당 안정 탁월?",
-          "url": "https://n.news.naver.com/mnews/article/296/0000107637?sid=103"
+          "keyword": "Book",
+          "headline": "생중계 꺼달라고해도 무시하는 유튜버…팝송 틀면 참교육 됩니다 [Book]",
+          "url": "https://n.news.naver.com/mnews/article/009/0005767074?sid=103"
         },
         {
           "keyword": "11월",
           "headline": "[오늘의 운세] 11월 22일 띠별 운세",
           "url": "https://n.news.naver.com/mnews/article/015/0005356631?sid=103"
+        },
+        {
+          "keyword": "재미",
+          "headline": "[돈+Cars] 운전 재미는 그대로, 공간은 더 넓게…미니 쿠퍼 5도어",
+          "url": "https://n.news.naver.com/mnews/article/029/0003060348?sid=103"
+        },
+        {
+          "keyword": "영하",
+          "headline": "[오늘의 날씨] 첫눈 내린다는 '소설' 강추위…서울 영하 4도",
+          "url": "https://n.news.naver.com/mnews/article/629/0000554284?sid=103"
+        },
+        {
+          "keyword": "소설",
+          "headline": "오늘 절기 '소설' 아침까지 한파...미끄럼 사고 유의",
+          "url": "https://n.news.naver.com/mnews/article/052/0002436222?sid=103"
+        },
+        {
+          "keyword": "됩니다",
+          "headline": "“우유에 ‘이 가루’ 한 스푼 넣어 보세요”… 보약 안 부러운 영양식 됩니다",
+          "url": "https://n.news.naver.com/mnews/article/346/0000119256?sid=103"
+        },
+        {
+          "keyword": "AI",
+          "headline": "AI 시대, 생각에도 정리·정돈이 필요하다",
+          "url": "https://n.news.naver.com/mnews/article/022/0004177036?sid=103"
+        },
+        {
+          "keyword": "있는",
+          "headline": "바레인 사르(Saar)에 있는 'RAK 아트 컬렉션",
+          "url": "https://n.news.naver.com/mnews/article/003/0014337582?sid=103"
+        },
+        {
+          "keyword": "주말",
+          "headline": "주말에 10시간 자도 피곤한 이유…‘마법의 통장’은 없다",
+          "url": "https://n.news.naver.com/mnews/article/022/0004177029?sid=103"
         }
       ]
     },
@@ -125,39 +200,29 @@
       "cls": "world",
       "items": [
         {
+          "keyword": "Soccer",
+          "headline": "Italy Serie A Soccer",
+          "url": "https://n.news.naver.com/mnews/article/077/0007245787?sid=104"
+        },
+        {
           "keyword": "SOCCER",
           "headline": "ITALY SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010374910?sid=104"
+          "url": "https://n.news.naver.com/mnews/article/091/0010375280?sid=104"
         },
         {
-          "keyword": "전투기",
-          "headline": "이란 \"미 F-16 전투기 공격해 비상착륙‥MQ-1 드론은 격추\"",
-          "url": "https://n.news.naver.com/mnews/article/214/0001537170?sid=104"
+          "keyword": "Italy",
+          "headline": "Italy ATP Finals Tennis",
+          "url": "https://n.news.naver.com/mnews/article/077/0007245791?sid=104"
         },
         {
-          "keyword": "공격",
-          "headline": "\"이란군, 미 F-16 전투기를 공격\"...\"미 중부사령부, 그런 사실 없다\"",
-          "url": "https://n.news.naver.com/mnews/article/052/0002436221?sid=104"
+          "keyword": "발생",
+          "headline": "바레인 \"이란이 민간 산업시설 공격해 피해 발생…사상자 없어\"",
+          "url": "https://n.news.naver.com/mnews/article/421/0009302947?sid=104"
         },
         {
-          "keyword": "SPAIN",
-          "headline": "SPAIN SOCCER",
-          "url": "https://n.news.naver.com/mnews/article/091/0010374926?sid=104"
-        },
-        {
-          "keyword": "PROTEST",
-          "headline": "SPAIN EDUCATION PROTEST",
-          "url": "https://n.news.naver.com/mnews/article/091/0010374923?sid=104"
-        },
-        {
-          "keyword": "Rugby",
-          "headline": "Scotland Japan Rugby",
-          "url": "https://n.news.naver.com/mnews/article/077/0007245519?sid=104"
-        },
-        {
-          "keyword": "미국",
-          "headline": "이란 “페르시아만 상공서 미국 F-16 전투기 공격…MQ-1 드론 격추” 주장",
-          "url": "https://n.news.naver.com/mnews/article/056/0012298717?sid=104"
+          "keyword": "이란",
+          "headline": "바레인 산업시설 이란 공격에 화재 피해…\"혁명수비대 미군기지 2곳 공습\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0014337600?sid=104"
         }
       ]
     },
@@ -166,14 +231,14 @@
       "cls": "game",
       "items": [
         {
-          "keyword": "게임",
-          "headline": "게임사 못지않은 존재감…뤼튼이 선보인 AI 엔터테인먼트",
-          "url": "https://n.news.naver.com/mnews/article/092/0002446312"
-        },
-        {
           "keyword": "지스타",
           "headline": "초겨울 추위에도 밤샘 대기…게임 열기 뜨거운 지스타 2026",
           "url": "https://n.news.naver.com/mnews/article/001/0016455669"
+        },
+        {
+          "keyword": "게임",
+          "headline": "게임사 못지않은 존재감…뤼튼이 선보인 AI 엔터테인먼트",
+          "url": "https://n.news.naver.com/mnews/article/092/0002446312"
         },
         {
           "keyword": "크래프톤",
